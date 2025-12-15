@@ -4,6 +4,25 @@
    الأبيض: #FFFFFF 
 */
 
+/* =======================================
+   ميزة تدوير الخلفية كل 20 ثانية
+   ======================================= */
+@keyframes background-slide {
+    /* الصورة الأولى (0s - 20s) */
+    0%, 33.33% { 
+        background-image: url('https://i.postimg.cc/wvw2fZKb/pexels-symeon-ekizoglou-1107605-2880801.jpg'); 
+    } 
+    /* انتقال إلى الصورة الثانية (20s - 40s) */
+    33.34%, 66.66% { 
+        background-image: url('https://i.postimg.cc/5NC5L601/pexels-rpnickson-2531237.jpg'); 
+    } 
+    /* انتقال إلى الصورة الثالثة (40s - 60s) */
+    66.67%, 100% { 
+        background-image: url('https://i.postimg.cc/4NVLZ8pd/pexels-asadphoto-1320684.jpg'); 
+    } 
+}
+
+
 body {
     font-family: 'Arial', sans-serif;
     color: #333;
@@ -13,9 +32,11 @@ body {
     text-align: right;
     padding-bottom: 60px;
     
-    /* خلفية متجاوبة وثابتة */
-    background: url('https://i.postimg.cc/wvw2fZKb/pexels-symeon-ekizoglou-1107605-2880801.jpg') no-repeat center center fixed;
+    /* تطبيق الخلفية المتحركة */
     background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    animation: background-slide 60s infinite ease-in-out; /* 3 صور * 20 ثانية = 60 ثانية للدورة الكاملة */
 }
 
 header {
@@ -32,9 +53,9 @@ header {
 }
 
 .logo {
-    width: 120px; /* حجم الشعار */
+    width: 120px; 
     height: auto;
-    filter: drop-shadow(0 0 5px rgba(0, 0, 0, 0.5)); /* ظل خفيف لتحسين الرؤية */
+    filter: drop-shadow(0 0 5px rgba(0, 0, 0, 0.5)); 
 }
 
 header h1 {
@@ -71,7 +92,10 @@ label {
     color: #007BFF; /* أزرق */
 }
 
-select, button {
+/* الشفافية المطبقة على حقول الاختيار */
+select {
+    /* جعل الخلفية شفافة قليلاً (85% عتامة) */
+    background-color: rgba(255, 255, 255, 0.85); 
     width: 100%;
     padding: 12px;
     margin-bottom: 10px;
@@ -79,10 +103,26 @@ select, button {
     border-radius: 6px;
     box-sizing: border-box;
     font-size: 1em;
+    transition: background-color 0.3s;
+}
+
+select:focus {
+    /* عند التركيز، نجعل الخلفية بيضاء تمامًا للوضوح */
+    background-color: rgba(255, 255, 255, 1); 
+    border-color: #007BFF;
+    outline: none;
 }
 
 button {
-    background-color: #FF8C00; /* برتقالي */
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 10px;
+    border: 1px solid #FF8C00;
+    border-radius: 6px;
+    box-sizing: border-box;
+    font-size: 1em;
+    
+    background-color: #FF8C00; /* برتقالي (بدون شفافية ليكون CTA واضح) */
     color: white;
     cursor: pointer;
     font-weight: bold;
@@ -99,19 +139,19 @@ button:disabled {
     cursor: not-allowed;
 }
 
-/* تنسيقات عرض الخطة */
+/* تنسيقات عرض الخطة (باقية كما هي) */
 .country-plan {
     border: 2px solid #007BFF;
     border-radius: 8px;
     padding: 20px;
     margin-top: 25px;
-    background-color: #f0f8ff; /* أزرق فاتح جداً */
+    background-color: #f0f8ff; 
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
 }
 
 .country-plan h2 {
     color: #007BFF;
-    border-bottom: 3px solid #FF8C00; /* برتقالي تحت العنوان */
+    border-bottom: 3px solid #FF8C00; 
     padding-bottom: 10px;
     margin-bottom: 20px;
     font-size: 1.8em;
@@ -135,7 +175,7 @@ button:disabled {
 }
 
 .city-details h3 {
-    color: #FF8C00; /* برتقالي */
+    color: #FF8C00; 
     margin-top: 0;
     border-bottom: 1px dashed #ccc;
     padding-bottom: 8px;
@@ -154,7 +194,7 @@ button:disabled {
     background-color: #f8f9fa;
     padding: 5px 10px;
     border-radius: 3px;
-    border-right: 3px solid #007BFF; /* أزرق */
+    border-right: 3px solid #007BFF; 
 }
 
 footer {
