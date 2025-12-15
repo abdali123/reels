@@ -12,30 +12,45 @@
 <body>
 
     <header>
-        <div class="logo-container">
-            <img src="https://i.postimg.cc/JhktdB9P/Whats-App-Image-2025-12-15-at-16-17-15-removebg-preview.png" alt="شعار Planno" class="logo">
+        <div class="header-content-container">
+            
+            <div class="logo-and-titles">
+                <div class="logo-container">
+                    <img src="https://i.postimg.cc/JhktdB9P/Whats-App-Image-2025-12-15-at-16-17-15-removebg-preview.png" alt="شعار Planno" class="logo">
+                </div>
+                <div class="titles-container">
+                    <h1 data-translate-key="header_h1">Planno - مُنشئ خطط السفر الذكي</h1>
+                    <p data-translate-key="header_p">اختر وجهتك ولغتك لإنشاء خطة سفر مخصصة وعالمية.</p>
+                </div>
+            </div>
+
+            <div class="language-controls">
+                <button id="language-toggle-btn" aria-expanded="false" title="تغيير اللغة">
+                    <i class="fas fa-globe"></i>
+                    <span id="current-language-name">العربية</span> 
+                </button>
+                
+                <div id="language-dropdown" class="language-dropdown-menu hidden">
+                    <select id="language-select">
+                        <option value="ar" data-lang-name="العربية" selected>العربية</option>
+                        <option value="en" data-lang-name="English">الإنجليزية</option>
+                        <option value="fr" data-lang-name="Français">الفرنسية</option>
+                        <option value="es" data-lang-name="Español">الإسبانية</option>
+                        <option value="it" data-lang-name="Italiano">الإيطالية</option>
+                        <option value="pt" data-lang-name="Português">البرتغالية</option>
+                        <option value="de" data-lang-name="Deutsch">الألمانية</option>
+                        <option value="ru" data-lang-name="Русский">الروسية</option>
+                        <option value="ko" data-lang-name="한국어">الكورية</option>
+                        <option value="ja" data-lang-name="日本語">اليابانية</option>
+                        <option value="zh" data-lang-name="中文">الصينية</option>
+                    </select>
+                </div>
+            </div>
         </div>
-        <h1 data-translate-key="header_h1">Planno - مُنشئ خطط السفر الذكي</h1>
-        <p data-translate-key="header_p">اختر وجهتك ولغتك لإنشاء خطة سفر مخصصة وعالمية.</p>
     </header>
 
     <main>
         <section class="controls">
-            <label for="language-select" data-translate-key="label_lang"><i class="fas fa-language"></i> اختر اللغة:</label>
-            <select id="language-select">
-                <option value="ar" selected>العربية</option>
-                <option value="en">الإنجليزية</option>
-                <option value="fr">الفرنسية</option>
-                <option value="es">الإسبانية</option>
-                <option value="it">الإيطالية</option>
-                <option value="pt">البرتغالية</option>
-                <option value="de">الألمانية</option>
-                <option value="ru">الروسية</option>
-                <option value="ko">الكورية</option>
-                <option value="ja">اليابانية</option>
-                <option value="zh">الصينية</option>
-            </select>
-
             <label for="country-select" data-translate-key="label_country"><i class="fas fa-city"></i> اختر الدولة أو المنطقة:</label>
             <select id="country-select" disabled>
                 <option value="">-- يرجى اختيار اللغة أولاً --</option>
