@@ -1,48 +1,66 @@
+/* الألوان المستخدمة: 
+   الأزرق: #007BFF (أساسي)
+   البرتقالي: #FF8C00 (للتأكيد/الأزرار)
+   الأبيض: #FFFFFF 
+*/
+
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f4f4f9;
     color: #333;
     margin: 0;
     padding: 0;
     direction: rtl; 
     text-align: right;
     padding-bottom: 60px;
+    
+    /* خلفية متجاوبة وثابتة */
+    background: url('https://i.postimg.cc/wvw2fZKb/pexels-symeon-ekizoglou-1107605-2880801.jpg') no-repeat center center fixed;
+    background-size: cover;
 }
 
 header {
-    background-color: #007bff;
+    /* تطبيق تدرج لوني أزرق مع شفافية */
+    background-color: rgba(0, 123, 255, 0.9); 
     color: white;
-    padding: 30px 20px;
+    padding: 20px;
     text-align: center;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+.logo-container {
+    margin-bottom: 10px;
+}
+
+.logo {
+    width: 120px; /* حجم الشعار */
+    height: auto;
+    filter: drop-shadow(0 0 5px rgba(0, 0, 0, 0.5)); /* ظل خفيف لتحسين الرؤية */
 }
 
 header h1 {
     margin: 0;
-    font-size: 2.2em;
+    font-size: 2em;
 }
 
 header p {
     margin-top: 5px;
-    font-size: 1.1em;
+    font-size: 1em;
     opacity: 0.9;
 }
 
 main {
-    padding: 20px;
+    padding: 10px;
     max-width: 1000px;
     margin: 30px auto;
-    background-color: white;
-    border-radius: 10px;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);
 }
 
 .controls, .plan-output {
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     padding: 20px;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    background-color: #f9f9f9;
+    border-radius: 10px;
+    /* خلفية بيضاء مع بعض الشفافية لدمجها مع الخلفية الكبيرة */
+    background-color: rgba(255, 255, 255, 0.95); 
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
 }
 
 label {
@@ -50,7 +68,7 @@ label {
     margin-top: 15px;
     margin-bottom: 8px;
     font-weight: bold;
-    color: #007bff;
+    color: #007BFF; /* أزرق */
 }
 
 select, button {
@@ -64,7 +82,7 @@ select, button {
 }
 
 button {
-    background-color: #28a745;
+    background-color: #FF8C00; /* برتقالي */
     color: white;
     cursor: pointer;
     font-weight: bold;
@@ -73,7 +91,7 @@ button {
 }
 
 button:hover:not(:disabled) {
-    background-color: #218838;
+    background-color: #e57d00; /* برتقالي أغمق عند التحويم */
 }
 
 button:disabled {
@@ -81,26 +99,19 @@ button:disabled {
     cursor: not-allowed;
 }
 
-#travel-plan-content {
-    min-height: 100px;
-    padding: 0; 
-    background-color: #ffffff;
-    border-radius: 4px;
-}
-
 /* تنسيقات عرض الخطة */
 .country-plan {
-    border: 2px solid #007bff;
+    border: 2px solid #007BFF;
     border-radius: 8px;
     padding: 20px;
     margin-top: 25px;
-    background-color: #e6f7ff;
+    background-color: #f0f8ff; /* أزرق فاتح جداً */
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
 }
 
 .country-plan h2 {
-    color: #007bff;
-    border-bottom: 3px solid #007bff;
+    color: #007BFF;
+    border-bottom: 3px solid #FF8C00; /* برتقالي تحت العنوان */
     padding-bottom: 10px;
     margin-bottom: 20px;
     font-size: 1.8em;
@@ -110,7 +121,7 @@ button:disabled {
     font-style: italic;
     color: #495057;
     margin-bottom: 15px;
-    border-right: 3px solid #007bff;
+    border-right: 3px solid #007BFF;
     padding-right: 10px;
 }
 
@@ -124,17 +135,11 @@ button:disabled {
 }
 
 .city-details h3 {
-    color: #28a745;
+    color: #FF8C00; /* برتقالي */
     margin-top: 0;
     border-bottom: 1px dashed #ccc;
     padding-bottom: 8px;
     font-size: 1.4em;
-}
-
-.city-details p {
-    margin-top: 10px;
-    font-weight: bold;
-    color: #495057;
 }
 
 .city-details ul {
@@ -149,7 +154,7 @@ button:disabled {
     background-color: #f8f9fa;
     padding: 5px 10px;
     border-radius: 3px;
-    border-right: 3px solid #28a745;
+    border-right: 3px solid #007BFF; /* أزرق */
 }
 
 footer {
@@ -161,4 +166,31 @@ footer {
     bottom: 0;
     width: 100%;
     box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* =======================================
+   تصميم متجاوب (Responsive Design)
+   ======================================= */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 1.5em;
+    }
+
+    .logo {
+        width: 90px;
+    }
+
+    main {
+        margin: 10px auto;
+        padding: 5px;
+    }
+
+    .controls, .plan-output {
+        padding: 15px;
+    }
+
+    select, button {
+        padding: 10px;
+        font-size: 0.9em;
+    }
 }
