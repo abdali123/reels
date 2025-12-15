@@ -1,0 +1,706 @@
+[
+  {
+    "País": "Irak",
+    "Ciudad": "Bagdad",
+    "Atracciones": "Sitios históricos, Palacios y museos, Mezquita de Ketchaoua, Puentes antiguos, Plaza de la Liberación",
+    "Actividades": "Visita al Museo Nacional de Irak, Exploración de los principales mercados y mezquitas",
+    "Gastronomía": "Masgouf (pescado de río a la parrilla), Dolma (verduras rellenas), Ouzi (cordero relleno entero), Tashreeb (estofado de invierno), Kebab iraquí, Timman Bagilla (arroz con habas)",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Irak",
+    "Ciudad": "Basora",
+    "Atracciones": "Shatt Al-Arab, Ciudad Vieja, Mercados Históricos, Palacio de Basora",
+    "Actividades": "Paseos en barco por Shatt Al-Arab, Exploración de los mercados de dátiles",
+    "Gastronomía": "Masgouf, Dolma, Ouzi, Matbakh (pescado con arroz)",
+    "Espacios Verdes": "Shatt Al-Arab"
+  },
+  {
+    "País": "Irak",
+    "Ciudad": "Nínive (Mosul)",
+    "Atracciones": "Ruinas de la antigua ciudad de Nínive, Restos de Ashur, Sitios arqueológicos",
+    "Actividades": "Visita a sitios arqueológicos, Exploración de la historia antigua (Tierra de Ashur)",
+    "Gastronomía": "Masgouf, Dolma, Ouzi, Kibbeh",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Irak",
+    "Ciudad": "Erbil",
+    "Atracciones": "Ciudadela de Erbil (Patrimonio de la Humanidad), Minarete de Muzafiriya, Mercado Viejo",
+    "Actividades": "Visita a la ciudadela histórica, Compras en el mercado antiguo",
+    "Gastronomía": "Masgouf, Dolma, Ouzi",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Irak",
+    "Ciudad": "Náyaf",
+    "Atracciones": "Santuario del Imam Alí, Bahr al-Najaf, Ciudad Vieja",
+    "Actividades": "Turismo religioso (visita a santuarios sagrados), Paseo por la ciudad vieja",
+    "Gastronomía": "Masgouf, Dolma, Ouzi",
+    "Espacios Verdes": "Bahr al-Najaf"
+  },
+  {
+    "País": "Irak",
+    "Ciudad": "Dhi Qar",
+    "Atracciones": "Antigua ciudad de Ur (Zigurat), Sitios sumerios",
+    "Actividades": "Visita a sitios de la antigua civilización, Exploración de la cuna de los sumerios",
+    "Gastronomía": "Masgouf, Dolma, Ouzi",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Irak",
+    "Ciudad": "Kirkuk",
+    "Atracciones": "Ciudadela de Kirkuk, Ciudad Vieja",
+    "Actividades": "Visita a la ciudadela histórica",
+    "Gastronomía": "Masgouf, Dolma, Ouzi",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Irak",
+    "Ciudad": "Babilonia",
+    "Atracciones": "Ruinas de la antigua ciudad de Babilonia, León de Babilonia, Puerta de Ishtar",
+    "Actividades": "Visita a sitios babilónicos",
+    "Gastronomía": "Masgouf, Dolma, Ouzi",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Irak",
+    "Ciudad": "Karbala",
+    "Atracciones": "Santuario del Imam Hussein, Santuarios Sagrados",
+    "Actividades": "Turismo religioso y visitas a santuarios",
+    "Gastronomía": "Masgouf, Dolma, Ouzi",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Irak",
+    "Ciudad": "Samarra",
+    "Atracciones": "Minarete de Samarra, Mezquitas antiguas",
+    "Actividades": "Visita a sitios arqueológicos islámicos",
+    "Gastronomía": "Masgouf, Dolma, Ouzi",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Vaticano",
+    "Ciudad": "Ciudad del Vaticano",
+    "Atracciones": "Basílica de San Pedro, Plaza de San Pedro, Museos Vaticanos, Capilla Sixtina, Palacio Apostólico, Tumbas Papales, Jardines Vaticanos, Obelisco",
+    "Actividades": "Visita a los Museos Vaticanos (acceso preferente), Recorrido por la Capilla Sixtina, Subida a la Cúpula, Visita a las Tumbas Papales",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Jardines Vaticanos"
+  },
+  {
+    "País": "Filipinas",
+    "Ciudad": "Manila",
+    "Atracciones": "Intramuros (Ciudad Amurallada), Catedral de Manila, Parque Rizal, Museo Ayala, Centro Comercial Mall of Asia",
+    "Actividades": "Exploración del histórico Intramuros, Compras en el Mall of Asia, Visita a museos de arte, Turismo de negocios",
+    "Gastronomía": "Adobo (plato de carne o pollo con salsa de soja y vinagre), Nasi Goreng, Satay, Gado-gado (ensalada), Laar (carne marinada)",
+    "Espacios Verdes": "Parque Rizal"
+  },
+  {
+    "País": "Filipinas",
+    "Ciudad": "Cebú",
+    "Atracciones": "Templo Taoísta, Jardines Mágicos, Museos Históricos, Playas Costeras",
+    "Actividades": "Buceo y snorkel, Exploración de islas cercanas (Mactai y Panglao), Turismo de ciudad costera",
+    "Gastronomía": "Adobo, Nasi Goreng, Satay, Gado-gado",
+    "Espacios Verdes": "Jardines Mágicos, Playas Costeras"
+  },
+  {
+    "País": "Filipinas",
+    "Ciudad": "Palawan",
+    "Atracciones": "Lago Kayangan, Bahía Honda (islas y buceo), Selvas tropicales, Playas de arena blanca",
+    "Actividades": "Buceo y natación, Salto a islas (Bahía Honda), Exploración de selvas tropicales",
+    "Gastronomía": "Adobo, Nasi Goreng, Satay, Gado-gado",
+    "Espacios Verdes": "Selvas tropicales, Playas de arena blanca, Lago Kayangan"
+  },
+  {
+    "País": "Filipinas",
+    "Ciudad": "Boracay",
+    "Atracciones": "Playa Blanca (arena blanca brillante), Playa Yapak (Playa de Conchas Puka), Aguas turquesas claras",
+    "Actividades": "Relajación y disfrute de paisajes impresionantes, Natación y buceo, Actividades en la playa",
+    "Gastronomía": "Adobo, Nasi Goreng, Satay, Gado-gado",
+    "Espacios Verdes": "Playa Blanca, Playa Yapak"
+  },
+  {
+    "País": "Filipinas",
+    "Ciudad": "Davao",
+    "Atracciones": "Monte Apo (pico más alto), Parque del Águila Filipina, Playas Costeras",
+    "Actividades": "Escalada de montañas, Observación de águilas filipinas, Exploración de la naturaleza",
+    "Gastronomía": "Adobo, Nasi Goreng, Satay, Gado-gado",
+    "Espacios Verdes": "Monte Apo, Parque del Águila Filipina"
+  },
+  {
+    "País": "Filipinas",
+    "Ciudad": "Iloilo",
+    "Atracciones": "Ciudad Vieja, Iglesias Históricas, Playas",
+    "Actividades": "Exploración de arquitectura antigua, Turismo religioso",
+    "Gastronomía": "Adobo, Nasi Goreng, Satay, Gado-gado",
+    "Espacios Verdes": "Playas"
+  },
+  {
+    "País": "Filipinas",
+    "Ciudad": "Bacolod",
+    "Atracciones": "Volcán Kanlaon, Parques Nacionales",
+    "Actividades": "Exploración de volcanes, Turismo de aventura",
+    "Gastronomía": "Adobo, Nasi Goreng, Satay, Gado-gado",
+    "Espacios Verdes": "Parques Nacionales"
+  },
+  {
+    "País": "Filipinas",
+    "Ciudad": "Puerto Princesa",
+    "Atracciones": "Bahía Honda, Vías navegables",
+    "Actividades": "Salto a islas, Buceo",
+    "Gastronomía": "Adobo, Nasi Goreng, Satay, Gado-gado",
+    "Espacios Verdes": "Bahía Honda, Vías navegables"
+  },
+  {
+    "País": "Filipinas",
+    "Ciudad": "Cagayán de Oro",
+    "Atracciones": "Río Cagayán (rafting), Aventuras Acuáticas",
+    "Actividades": "Rafting en aguas blancas",
+    "Gastronomía": "Adobo, Nasi Goreng, Satay, Gado-gado",
+    "Espacios Verdes": "Río Cagayán"
+  },
+  {
+    "País": "Filipinas",
+    "Ciudad": "Zamboanga",
+    "Atracciones": "Fuerte Pilar (fuerte español), Islas cercanas",
+    "Actividades": "Visita a fuertes históricos",
+    "Gastronomía": "Adobo, Nasi Goreng, Satay, Gado-gado",
+    "Espacios Verdes": "Islas cercanas"
+  },
+  {
+    "País": "Palestina",
+    "Ciudad": "Jerusalén",
+    "Atracciones": "Mezquita de Al-Aqsa, Cúpula de la Roca, Iglesia del Santo Sepulcro, Muros de la Ciudad Vieja",
+    "Actividades": "Turismo religioso, Exploración de la Ciudad Vieja",
+    "Gastronomía": "Maqluba (arroz con carne y verduras), Mansaf palestino, Fattoush, Knafeh nabulsi",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Palestina",
+    "Ciudad": "Nablus",
+    "Atracciones": "Ciudad Vieja, Monte Gerizim, Mezquitas e Iglesias Históricas",
+    "Actividades": "Visita a fábricas de knafeh (famosas por ello), Paseo por el Mercado Viejo",
+    "Gastronomía": "Knafeh nabulsi, Maqluba, Mansaf palestino",
+    "Espacios Verdes": "Monte Gerizim"
+  },
+  {
+    "País": "Palestina",
+    "Ciudad": "Hebrón",
+    "Atracciones": "Mezquita de Ibrahim, Ciudad Vieja",
+    "Actividades": "Turismo religioso, Visita al Santuario",
+    "Gastronomía": "Maqluba, Qidra de Hebrón",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Palestina",
+    "Ciudad": "Belén",
+    "Atracciones": "Iglesia de la Natividad (nacimiento de Cristo), Ciudad Vieja",
+    "Actividades": "Turismo religioso, Visita a la Iglesia",
+    "Gastronomía": "Maqluba, Qidra de Hebrón",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Palestina",
+    "Ciudad": "Jericó",
+    "Atracciones": "Monasterio de Quruntul, Tell Sultan, Palacio de Hisham",
+    "Actividades": "Visita a sitios arqueológicos, Exploración de la ciudad más antigua del mundo",
+    "Gastronomía": "Maqluba, Qidra de Hebrón",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Palestina",
+    "Ciudad": "Gaza",
+    "Atracciones": "Puerto de Gaza, Playas de Gaza, Sitios Históricos (limitados)",
+    "Actividades": "Turismo de playa (limitado)",
+    "Gastronomía": "Maqluba, Qidra de Hebrón",
+    "Espacios Verdes": "Playas de Gaza"
+  },
+  {
+    "País": "Venezuela",
+    "Ciudad": "Caracas",
+    "Atracciones": "(Ciudades principales), Hoteles y Restaurantes",
+    "Actividades": "Visita a centros urbanos, Turismo de negocios",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Venezuela",
+    "Ciudad": "Maracaibo",
+    "Atracciones": "Puente General Rafael Urdaneta, Lago de Maracaibo",
+    "Actividades": "Visita al lago, Exploración de la ciudad urbana",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Lago de Maracaibo"
+  },
+  {
+    "País": "Venezuela",
+    "Ciudad": "Valencia",
+    "Atracciones": "Catedral de Valencia, Plaza Bolívar, Parques",
+    "Actividades": "Paseos por los parques",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Parques, Plaza Bolívar"
+  },
+  {
+    "País": "Venezuela",
+    "Ciudad": "Margarita",
+    "Atracciones": "Playas de Isla de Margarita, Fuertes Históricos, Pueblos de pescadores",
+    "Actividades": "Turismo de playa y entretenimiento",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Playas de Isla de Margarita"
+  },
+  {
+    "País": "Finlandia",
+    "Ciudad": "Helsinki",
+    "Atracciones": "Catedral de Helsinki, Plaza del Senado, Fortaleza de Suomenlinna (Patrimonio de la Humanidad)",
+    "Actividades": "Visita a la fortaleza marítima, Paseo por el puerto",
+    "Gastronomía": "Karjalanpiirakka (pastel de arroz), Lohikeitto (sopa de pescado), Borscht",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Finlandia",
+    "Ciudad": "Turku",
+    "Atracciones": "Castillo de Turku, Catedral de Turku, Plaza del Mercado",
+    "Actividades": "Visita al castillo y catedral históricos",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Finlandia",
+    "Ciudad": "Porvoo",
+    "Atracciones": "Pueblo Histórico, Río Porvoonjoki",
+    "Actividades": "Recorrido por el pueblo histórico, Visita a la tienda de chocolates",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Río Porvoonjoki"
+  },
+  {
+    "País": "Finlandia",
+    "Ciudad": "Tampere",
+    "Atracciones": "Catedral de Tampere, Lagos Näsijärvi y Pyhäjärvi",
+    "Actividades": "Visita a zonas del interior",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Lagos Näsijärvi y Pyhäjärvi"
+  },
+  {
+    "País": "Finlandia",
+    "Ciudad": "Oulu",
+    "Atracciones": "Castillo de Oulu, Plaza del Mercado",
+    "Actividades": "Exploración de la ciudad del norte",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Chipre",
+    "Ciudad": "Nicosia",
+    "Atracciones": "Ciudad Vieja, Puerta de Famagusta, Museo de Chipre",
+    "Actividades": "Visita a la ciudad dividida, Exploración de monumentos históricos y culturales",
+    "Gastronomía": "Moussaka (berenjena y carne), Shish Kebab, Makaronia tou Fournou (plato de pasta), Sefali (pescado a la parrilla), Bulgur (ensalada)",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Chipre",
+    "Ciudad": "Limasol",
+    "Atracciones": "Castillo de Limasol, Frente marítimo, Museos",
+    "Actividades": "Turismo de playa y puerto, Paseo por el frente marítimo",
+    "Gastronomía": "Moussaka, Shish Kebab, Sefali",
+    "Espacios Verdes": "Frente marítimo"
+  },
+  {
+    "País": "Chipre",
+    "Ciudad": "Lárnaca",
+    "Atracciones": "Lago Salado de Lárnaca, Playa Finikoudes",
+    "Actividades": "Buceo en pecios, Visita al lago salado",
+    "Gastronomía": "Moussaka, Shish Kebab, Sefali",
+    "Espacios Verdes": "Lago Salado de Lárnaca, Playa Finikoudes"
+  },
+  {
+    "País": "Chipre",
+    "Ciudad": "Pafos",
+    "Atracciones": "Castillo de Pafos, Puerto de Pafos",
+    "Actividades": "Visita al castillo y puerto",
+    "Gastronomía": "Moussaka, Shish Kebab, Sefali",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Chipre",
+    "Ciudad": "Polis",
+    "Atracciones": "Playa de Polis, Península de Akamas",
+    "Actividades": "Turismo de naturaleza y playas tranquilas",
+    "Gastronomía": "Moussaka, Shish Kebab, Sefali",
+    "Espacios Verdes": "Playa de Polis, Península de Akamas"
+  },
+  {
+    "País": "Chipre",
+    "Ciudad": "Lefka",
+    "Atracciones": "Pueblos Históricos, Artesanías",
+    "Actividades": "Exploración de pueblos, Compra de artesanías",
+    "Gastronomía": "Moussaka, Shish Kebab, Sefali",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Kazajistán",
+    "Ciudad": "Astaná",
+    "Atracciones": "Torre Bayterek, Palacio de la Paz y la Reconciliación, Mezquita Nur-Astaná",
+    "Actividades": "Visita a edificios modernos y camas",
+    "Gastronomía": "Beshbarmak (carne hervida y fideos), Kazy (embutido de carne de caballo)",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Kazajistán",
+    "Ciudad": "Almatý",
+    "Atracciones": "Teleférico Kok Tobe, Museo Central de Kazajistán, Parque Panfilov",
+    "Actividades": "Visita al Museo de Instrumentos Musicales, Paseo por el parque",
+    "Gastronomía": "Beshbarmak, Kazy",
+    "Espacios Verdes": "Parque Panfilov"
+  },
+  {
+    "País": "Kazajistán",
+    "Ciudad": "Karagandá",
+    "Atracciones": "Museo de Ecología, Colinas de Karagandá",
+    "Actividades": "Visita al museo",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Colinas de Karagandá"
+  },
+  {
+    "País": "Kazajistán",
+    "Ciudad": "Shymkent",
+    "Atracciones": "Ruinas de la antigua ciudad de Sauran, Santuarios de Sayram, famoso letrero SHYMKENT, Cinema Bar Club, Bazar Aina",
+    "Actividades": "Exploración de las ruinas del antiguo Sauran, Visita al Bazar Aina, Visita a santuarios",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Kazajistán",
+    "Ciudad": "Turkestán",
+    "Atracciones": "Mezquita Hazret Sultan, Mausoleo de Khoja Ahmed Yasawi (Patrimonio de la Humanidad), Ruinas de ciudades antiguas",
+    "Actividades": "Visita a santuarios y mezquitas",
+    "Gastronomía": "Beshbarmak, Kazy",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Kazajistán",
+    "Ciudad": "Baikonur",
+    "Atracciones": "Cosmódromo de Baikonur",
+    "Actividades": "Observación de lanzamientos de cohetes (si está disponible)",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Kazajistán",
+    "Ciudad": "Balkhash",
+    "Atracciones": "Lago Balkhash, Centros Costeros",
+    "Actividades": "Turismo de playa y aguas",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Lago Balkhash"
+  },
+  {
+    "País": "Kazajistán",
+    "Ciudad": "Oral",
+    "Atracciones": "Río Ural (Río Yaik), Museo del Oro",
+    "Actividades": "Exploración de la capital, Visita a museos de arte",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Río Ural (Río Yaik)"
+  },
+  {
+    "País": "Kazajistán",
+    "Ciudad": "Atyrau",
+    "Atracciones": "Río Ural (Río Yaik), Centros Costeros (cerca del Mar Caspio)",
+    "Actividades": "Exploración de zonas costeras",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Río Ural (Río Yaik), Centros Costeros"
+  },
+  {
+    "País": "Croacia",
+    "Ciudad": "Zagreb",
+    "Atracciones": "Ciudad Alta (histórica), Torre Lotrščak, Catedral de Zagreb, Parque Maksimir",
+    "Actividades": "Exploración de la Ciudad Alta",
+    "Gastronomía": "Štrukli (pasteles rellenos), Zagorski puran s mlincima (pavo)",
+    "Espacios Verdes": "Parque Maksimir"
+  },
+  {
+    "País": "Croacia",
+    "Ciudad": "Split",
+    "Atracciones": "Palacio de Diocleciano (Patrimonio de la Humanidad), Paseo Marítimo Riva",
+    "Actividades": "Visita al Palacio Romano, Paseo por el Paseo Marítimo Riva",
+    "Gastronomía": "Pašticada (estofado de ternera), Risotto (marisco), Krustule (pasteles)",
+    "Espacios Verdes": "Paseo Marítimo Riva"
+  },
+  {
+    "País": "Croacia",
+    "Ciudad": "Dubrovnik",
+    "Atracciones": "Murallas de la Ciudad Vieja (Patrimonio de la Humanidad), Calle Stradun, Monte Srđ",
+    "Actividades": "Paseo por las murallas, Viaje en teleférico al Monte Srđ",
+    "Gastronomía": "Pašticada, Risotto, Krustule",
+    "Espacios Verdes": "Monte Srđ"
+  },
+  {
+    "País": "Croacia",
+    "Ciudad": "Zadar",
+    "Atracciones": "El Saludo al Sol (Salutación al Sol), Órgano del Mar, Ciudad Vieja",
+    "Actividades": "Exploración de la ciudad histórica",
+    "Gastronomía": "Pljeskavica, Burek, Ćevapi",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Croacia",
+    "Ciudad": "Pula",
+    "Atracciones": "Arena Romana de Pula, Templo de Augusto",
+    "Actividades": "Visita a ruinas romanas",
+    "Gastronomía": "Pljeskavica, Burek, Ćevapi",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Camboya",
+    "Ciudad": "Nom Pen",
+    "Atracciones": "Palacio Real, Wat Phnom, Museo Nacional, Campos de la Muerte",
+    "Actividades": "Visita al palacio, Visita a los Campos de la Muerte para conocer la historia",
+    "Gastronomía": "Amok (curry de pescado), Nom Banh Chok (fideos camboyanos), Lok Lak (ternera)",
+    "Espacios Verdes": "Wat Phnom"
+  },
+  {
+    "País": "Camboya",
+    "Ciudad": "Siem Riep",
+    "Atracciones": "Angkor Wat (Patrimonio de la Humanidad), Templos de Angkor",
+    "Actividades": "Exploración de los templos de Angkor",
+    "Gastronomía": "Amok, Nom Banh Chok, Lok Lak",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Camboya",
+    "Ciudad": "Battambang",
+    "Atracciones": "Arquitectura Colonial Francesa, Río Battambang",
+    "Actividades": "Exploración de arquitectura colonial",
+    "Gastronomía": "Amok, Nom Banh Chok, Lok Lak",
+    "Espacios Verdes": "Río Battambang"
+  },
+  {
+    "País": "Camboya",
+    "Ciudad": "Kampong Cham",
+    "Atracciones": "Zonas fluviales (Río Mekong)",
+    "Actividades": "Paseos por el río, Exploración de pueblos rurales",
+    "Gastronomía": "Amok, Nom Banh Chok, Lok Lak",
+    "Espacios Verdes": "Zonas fluviales (Río Mekong)"
+  },
+  {
+    "País": "Camboya",
+    "Ciudad": "Poipet",
+    "Atracciones": "Frontera Tailandesa (turismo fronterizo)",
+    "Actividades": "Recorrido por la zona fronteriza",
+    "Gastronomía": "Amok, Nom Banh Chok, Lok Lak",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Canadá",
+    "Ciudad": "Toronto",
+    "Atracciones": "Torre CN, Museo Real de Ontario, Salón de la Fama del Hockey",
+    "Actividades": "Visita a la Torre CN, Exploración de museos y galerías de arte",
+    "Gastronomía": "Poutine (patatas con queso y gravy), Butter Tart, Gastronomía multicultural",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Canadá",
+    "Ciudad": "Vancouver",
+    "Atracciones": "Parque Stanley, Puente Colgante de Capilano",
+    "Actividades": "Visita al Parque Stanley, Ciclismo en el Puente Capilano",
+    "Gastronomía": "Poutine, Butter Tart, Marisco",
+    "Espacios Verdes": "Parque Stanley"
+  },
+  {
+    "País": "Canadá",
+    "Ciudad": "Montreal",
+    "Atracciones": "Vieux-Montréal, Basílica de Notre-Dame, Vieux-Port, Mont Royal",
+    "Actividades": "Exploración del patrimonio francés, Asistencia a festivales",
+    "Gastronomía": "Poutine, Carne ahumada (la más famosa)",
+    "Espacios Verdes": "Mont Royal"
+  },
+  {
+    "País": "Canadá",
+    "Ciudad": "Quebec",
+    "Atracciones": "Château Frontenac, Llanuras de Abraham, Vieux-Québec (amurallado)",
+    "Actividades": "Visita a la Ciudad Vieja",
+    "Gastronomía": "Poutine, Butter Tart, Azúcar sobre nieve (Tire sur la neige)",
+    "Espacios Verdes": "Llanuras de Abraham"
+  },
+  {
+    "País": "Canadá",
+    "Ciudad": "Calgary",
+    "Atracciones": "Torre de Calgary, Equitación, Parque Nacional Banff (cerca)",
+    "Actividades": "Visita al Calgary Stampede",
+    "Gastronomía": "Poutine, Butter Tart, Carne de res",
+    "Espacios Verdes": "Parque Nacional Banff (cerca)"
+  },
+  {
+    "País": "Canadá",
+    "Ciudad": "Ottawa",
+    "Atracciones": "Edificios del Parlamento, Canal Rideau, Museo Nacional",
+    "Actividades": "Visita al Edificio del Parlamento",
+    "Gastronomía": "Poutine, Butter Tart",
+    "Espacios Verdes": "Canal Rideau"
+  },
+  {
+    "País": "Canadá",
+    "Ciudad": "Edmonton",
+    "Atracciones": "West Edmonton Mall, Museos",
+    "Actividades": "Compras, Visita a museos",
+    "Gastronomía": "Poutine, Butter Tart",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Canadá",
+    "Ciudad": "Halifax",
+    "Atracciones": "Frente marítimo, Fortaleza Histórica",
+    "Actividades": "Exploración del patrimonio marítimo, Visita al Museo Marítimo",
+    "Gastronomía": "Poutine, Butter Tart, Marisco",
+    "Espacios Verdes": "Frente marítimo"
+  },
+  {
+    "País": "Canadá",
+    "Ciudad": "Winnipeg",
+    "Atracciones": "Museo Canadiense de los Derechos Humanos, Monumento de los Derechos Humanos, Sitio Histórico Nacional The Forks",
+    "Actividades": "Visita a museos nacionales",
+    "Gastronomía": "Poutine, Butter Tart",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Canadá",
+    "Ciudad": "Victoria",
+    "Atracciones": "Edificios del Parlamento, Jardines Butchart, Hotel Histórico Fairmont Empress",
+    "Actividades": "Visita a jardines históricos",
+    "Gastronomía": "Poutine, Butter Tart, Marisco",
+    "Espacios Verdes": "Jardines Butchart"
+  },
+  {
+    "País": "Congo",
+    "Ciudad": "Brazzaville",
+    "Atracciones": "Río Congo, Bosques",
+    "Actividades": "Turismo fluvial y forestal",
+    "Gastronomía": "Rosoli, Sontiane, Congolais",
+    "Espacios Verdes": "Bosques, Río Congo"
+  },
+  {
+    "País": "Congo",
+    "Ciudad": "Pointe-Noire",
+    "Atracciones": "Playas de Pointe-Noire, Bosques",
+    "Actividades": "Turismo de playa, Exploración de bosques",
+    "Gastronomía": "Rosoli, Sontiane, Congolais",
+    "Espacios Verdes": "Playas, Bosques"
+  },
+  {
+    "País": "Congo",
+    "Ciudad": "Owando",
+    "Atracciones": "Parque Nacional Odzala (Gorilas)",
+    "Actividades": "Safaris para observar gorilas",
+    "Gastronomía": "Rosoli, Sontiane, Congolais",
+    "Espacios Verdes": "Parque Nacional Odzala"
+  },
+  {
+    "País": "Congo",
+    "Ciudad": "Ouesso",
+    "Atracciones": "Regiones Interiores",
+    "Actividades": "Ecoturismo",
+    "Gastronomía": "Rosoli, Sontiane, Congolais",
+    "Espacios Verdes": "Regiones Interiores"
+  },
+  {
+    "País": "República Democrática del Congo",
+    "Ciudad": "Kinsasa",
+    "Atracciones": "Río Congo, Bosques",
+    "Actividades": "Turismo fluvial y forestal",
+    "Gastronomía": "Ponzu, Plátano, Pan agrio",
+    "Espacios Verdes": "Río Congo, Bosques"
+  },
+  {
+    "País": "Corea del Sur",
+    "Ciudad": "Seúl",
+    "Atracciones": "Palacio Gyeongbokgung, Torre N Seúl, Distrito de Gangnam, Pueblo de Bukchon",
+    "Actividades": "Exploración de la historia real, Compras en Gangnam, Cultura moderna (K-Pop), Visita a museos interactivos",
+    "Gastronomía": "Kimchi (col fermentada), Bulgogi (ternera marinada a la parrilla), Bibimbap (arroz mezclado con verduras), Japchae (fideos)",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Corea del Sur",
+    "Ciudad": "Busan",
+    "Atracciones": "Playa de Haeundae, Templo Beomeosa, Mercado de pescado de Jagalchi",
+    "Actividades": "Turismo de playa, Visita a templos",
+    "Gastronomía": "Kimchi, Bulgogi, Bibimbap",
+    "Espacios Verdes": "Playa de Haeundae"
+  },
+  {
+    "País": "Corea del Sur",
+    "Ciudad": "Incheon",
+    "Atracciones": "Puente de Incheon, Barrio Chino",
+    "Actividades": "Exploración del Barrio Chino",
+    "Gastronomía": "Kimchi, Bulgogi, Bibimbap",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Corea del Sur",
+    "Ciudad": "Daejeon",
+    "Atracciones": "Museo de Historia de Daejeon, Monte Gyeryongsan",
+    "Actividades": "Visita al museo",
+    "Gastronomía": "Kimchi, Bulgogi, Bibimbap",
+    "Espacios Verdes": "Monte Gyeryongsan"
+  },
+  {
+    "País": "Corea del Sur",
+    "Ciudad": "Suwon",
+    "Atracciones": "Fortaleza de Hwaseong (Patrimonio de la Humanidad)",
+    "Actividades": "Visita a la fortaleza amurallada histórica",
+    "Gastronomía": "Kimchi, Bulgogi, Bibimbap",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Corea del Sur",
+    "Ciudad": "Ulsan",
+    "Atracciones": "Palacio de Ulsan (cerca de la ciudad), Playas de Ulsan",
+    "Actividades": "Visita al palacio real",
+    "Gastronomía": "Kimchi, Bulgogi, Bibimbap",
+    "Espacios Verdes": "Playas de Ulsan"
+  },
+  {
+    "País": "Corea del Sur",
+    "Ciudad": "Cheonan",
+    "Atracciones": "Salón de la Independencia, Zonas Históricas",
+    "Actividades": "Visita a zonas históricas",
+    "Gastronomía": "Kimchi, Bulgogi, Bibimbap",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Costa Rica",
+    "Ciudad": "San José",
+    "Atracciones": "Teatro Nacional, Museo del Oro",
+    "Actividades": "Exploración de la capital, Visita a museos de arte",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Costa Rica",
+    "Ciudad": "Naranja",
+    "Atracciones": "Plantaciones de café, Zonas de montaña",
+    "Actividades": "Recorrido por plantaciones de café",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Plantaciones de café, Zonas de montaña"
+  },
+  {
+    "País": "Costa Rica",
+    "Ciudad": "Limón",
+    "Atracciones": "Playas del Mar Caribe, Parques Naturales",
+    "Actividades": "Turismo de playa",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Playas del Mar Caribe, Parques Naturales"
+  },
+  {
+    "País": "Costa Rica",
+    "Ciudad": "Tamarindo",
+    "Atracciones": "Playas del Océano Pacífico, Zonas de surf",
+    "Actividades": "Surf, Turismo de playa tranquila",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Playas del Océano Pacífico"
+  },
+  {
+    "País": "Costa Rica",
+    "Ciudad": "Tortuguero",
+    "Atracciones": "Canales de Tortuguero, Parque Nacional Tortuguero",
+    "Actividades": "Observación de tortugas (estacional), Paseos en barco",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Canales de Tortuguero, Parque Nacional Tortuguero"
+  }
+]

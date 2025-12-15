@@ -1,0 +1,933 @@
+[
+  {
+    "Land": "Aserbaidschan",
+    "Städte": [
+      {
+        "Stadt": "Baku",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Die Altstadt (Icherisheher), Jungfrauenturm, Palast der Schirwanschahs, Flammentürme, Heydar Aliyev Zentrum, Brunnenplatz, Mini-Venedig, Teppichmuseum.",
+        "Lokale_Küche": "Plov, Aserbaidschanischer Kebab, Dushbara.",
+        "Grünflächen_und_Landschaften": "Baku Boulevard Nationalpark, Javanshir Park, Dynamo Park, Küstenansichten des Kaspischen Meeres."
+      },
+      {
+        "Stadt": "Ganja",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Nizami Ganjavi Bezirk, Historische Moscheen, Mausoleen.",
+        "Lokale_Küche": "Plov, Kebab, Dushbara.",
+        "Grünflächen_und_Landschaften": "Schöne Gärten (wie in der Datei erwähnt), Ganjachay Fluss und die umliegenden grünen ländlichen Gebiete."
+      },
+      {
+        "Stadt": "Sheki",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Palast der Sheki Khans, Lokaler Handwerksmarkt, Theater.",
+        "Lokale_Küche": "Besondere Sheki Speisen, Plov.",
+        "Grünflächen_und_Landschaften": "Kleiner Kaukasus, Sheki Wälder und grüne ländliche Natur."
+      },
+      {
+        "Stadt": "Gabala",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "(Die Altstadt, Gabala Moschee).",
+        "Lokale_Küche": "Plov, Kebab.",
+        "Grünflächen_und_Landschaften": "Nordkaukasus, beeindruckende Landschaften, Nohur See."
+      },
+      {
+        "Stadt": "Quba",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Bergige Gebiete, Die Juma Moschee.",
+        "Lokale_Küche": "Plov, Kebab.",
+        "Grünflächen_und_Landschaften": "Bergige Gebiete, natürliche Gärten, Rote Kasaba Wälder und Gudyalchay Fluss."
+      },
+      {
+        "Stadt": "Lankaran",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Lankaran Historische Festung, Leuchtturm.",
+        "Lokale_Küche": "Plov, Kebab.",
+        "Grünflächen_und_Landschaften": "Küstengebiete des Kaspischen Meeres, nahegelegener Hirkan Nationalpark."
+      },
+      {
+        "Stadt": "Sumqayit",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Wichtige Industrieanlagen, Uhrenturm.",
+        "Lokale_Küche": "Plov, Kebab.",
+        "Grünflächen_und_Landschaften": "Strände von Sumqayit am Kaspischen Meer, Fakhri Asadov Platz (ein zentraler Park)."
+      },
+      {
+        "Stadt": "Mingachevir",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Antike und historische Sehenswürdigkeiten, Der Wasserspeicher.",
+        "Lokale_Küche": "Plov, Kebab.",
+        "Grünflächen_und_Landschaften": "Kura Fluss, Mingachevir Meer (der Wasserspeicher) und Grünflächen entlang der Flussufer."
+      },
+      {
+        "Stadt": "Khankendi",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Historische Stätten in der Gegend, Moschee.",
+        "Lokale_Küche": "Plov, Kebab.",
+        "Grünflächen_und_Landschaften": "Umgebende Täler und Berge (besonders das Dashaltin Gebiet), bergige Landschaften."
+      },
+      {
+        "Stadt": "Gazakh",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Gebäude und architektonische Sehenswürdigkeiten in der Region.",
+        "Lokale_Küche": "Plov, Kebab.",
+        "Grünflächen_und_Landschaften": "Kura Fluss, die weiten Ebenen von Gazakh und fruchtbare ländliche Gebiete."
+      }
+    ]
+  },
+  {
+    "Land": "Armenien",
+    "Städte": [
+      {
+        "Stadt": "Yerevan",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Republikplatz, Cascade Komplex, Matenadaran (Das Museum für antike Manuskripte), Armenische Oper, Blaue Moschee, Yerevan Brandy Company, Nordallee, Geschichtsmuseum von Armenien.",
+        "Lokale_Küche": "Harissa, Khorovats (Grill), Lavash Brot, Dolma, Manti.",
+        "Grünflächen_und_Landschaften": "Liebespark, Siegespark, weite Plätze und Aussicht auf den Berg Ararat."
+      },
+      {
+        "Stadt": "Gyumri",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Historische Gebäude und Rustaveli Straße.",
+        "Lokale_Küche": "Harissa, Khorovats, Lavash Brot.",
+        "Grünflächen_und_Landschaften": "Öffentliche Parks und Landschaften der umliegenden Ebenen und Hochländer."
+      },
+      {
+        "Stadt": "Echmiadzin",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Echmiadzin Kathedrale, Zvartnots Kathedrale.",
+        "Lokale_Küche": "Harissa, Khorovats, Lavash Brot.",
+        "Grünflächen_und_Landschaften": "Grünflächen und Plätze um die religiösen Sehenswürdigkeiten, grüne Wiesen."
+      },
+      {
+        "Stadt": "Sevan",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Sevanavank Klosterkomplex.",
+        "Lokale_Küche": "Flussfisch, Khorovats.",
+        "Grünflächen_und_Landschaften": "Sevan See (der größte See), seine Sandstrände und klares Wasser."
+      },
+      {
+        "Stadt": "Jermuk",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Antike Steingebäude.",
+        "Lokale_Küche": "Harissa, Khorovats.",
+        "Grünflächen_und_Landschaften": "Seine Lage zwischen dem Sangesur Gebirge, beeindruckende Landschaften und natürliche Höhlenbereiche."
+      },
+      {
+        "Stadt": "Kapan",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Historische Sehenswürdigkeiten.",
+        "Lokale_Küche": "Harissa, Khorovats.",
+        "Grünflächen_und_Landschaften": "Sangesur Gebirge und grüne Gebiete, beeindruckende Natur, Voghji Fluss."
+      },
+      {
+        "Stadt": "Odzun",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Historische und kulturelle Sehenswürdigkeiten, Odzun Kirche.",
+        "Lokale_Küche": "Harissa, Khorovats.",
+        "Grünflächen_und_Landschaften": "Täler und Berge und ruhige ländliche Dörfer mit Natur."
+      },
+      {
+        "Stadt": "Dilijan",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Dilijan Museum.",
+        "Lokale_Küche": "Harissa, Khorovats.",
+        "Grünflächen_und_Landschaften": "Dilijan Nationalpark (beeindruckende Natur), bekannt als die 'Schweiz Armeniens'."
+      },
+      {
+        "Stadt": "Ararat",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Ararat Brandy Fabrik, Ararat Museum.",
+        "Lokale_Küche": "Harissa, Khorovats.",
+        "Grünflächen_und_Landschaften": "Panoramablick auf den Berg Ararat (sichtbar aus der Gegend) und die Ebenen."
+      },
+      {
+        "Stadt": "Aghavnavank",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "(Historisches Dorf).",
+        "Lokale_Küche": "Jingyalov hats.",
+        "Grünflächen_und_Landschaften": "Lastiver Park (ein ruhiger Park) und Wälder und Hänge."
+      }
+    ]
+  },
+  {
+    "Land": "Australien",
+    "Städte": [
+      {
+        "Stadt": "Sydney",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Sydney Opernhaus, Hafenbrücke, The Rocks Viertel, Cadmans Cottage.",
+        "Lokale_Küche": "Fleischpasteten, Gegrillte Steaks, Hähnchen Parmigiana, Kängurufleisch, Kürbissuppe.",
+        "Grünflächen_und_Landschaften": "Bondi und Manly Strände, Königlicher Botanischer Garten, Hyde Park."
+      },
+      {
+        "Stadt": "Melbourne",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "National Gallery of Victoria, Queen Victoria Market, Wandgemälde und Straßenkunst.",
+        "Lokale_Küche": "Fleischpasteten, Hähnchen Parmigiana, Lamingtons.",
+        "Grünflächen_und_Landschaften": "Fitzroy Gärten, Königlicher Botanischer Garten, Yarra Fluss."
+      },
+      {
+        "Stadt": "Gold Coast",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Sea World, Movie World.",
+        "Lokale_Küche": "Fleischpasteten, Gegrillte Steaks.",
+        "Grünflächen_und_Landschaften": "Surfstrände, nahegelegener Springbrook Nationalpark und Wasserfallberge."
+      },
+      {
+        "Stadt": "Brisbane",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Kunstgalerien, South Bank Parklands.",
+        "Lokale_Küche": "Kürbissuppe.",
+        "Grünflächen_und_Landschaften": "Queensland Nationalpark, Brisbane Fluss und Botanische Gärten von Brisbane."
+      },
+      {
+        "Stadt": "Newcastle",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Historische Architektur.",
+        "Lokale_Küche": "Fleischpasteten.",
+        "Grünflächen_und_Landschaften": "Surfspots, umliegende Berge und Farmen, Blackbutt Reserve."
+      },
+      {
+        "Stadt": "Perth",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Glockenturm.",
+        "Lokale_Küche": "Gegrillter und gebratener Fisch.",
+        "Grünflächen_und_Landschaften": "Kings Park, Swan Fluss, beeindruckende Strände und Jarrah Wälder."
+      },
+      {
+        "Stadt": "Adelaide",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Süaustralisches Museum.",
+        "Lokale_Küche": "Fleischpasteten.",
+        "Grünflächen_und_Landschaften": "Barossa Valley Weinregion, Adelaide Hügel und Strände der Fleurieu Halbinsel."
+      },
+      {
+        "Stadt": "Hobart",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Touristische und historische Stätten in Tasmanien.",
+        "Lokale_Küche": "Suchen Sie nach lokalen Gerichten",
+        "Grünflächen_und_Landschaften": "Beeindruckende Naturgebiete und das Besteigen des Mount Wellington...."
+      }
+    ]
+  },
+  {
+    "Land": "Afghanistan",
+    "Städte": [
+      {
+        "Stadt": "Kabul",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Darul Aman Palast, Blaue Moschee (Khawaja Abdullah Ansari), Nationalmuseum, Baburs Gärten.",
+        "Lokale_Küche": "Qabili Palau, Afghanischer Kebab, Ashak, Bolani, Qorma.",
+        "Grünflächen_und_Landschaften": "Baburs Gärten (mit seinen Gärten), Hindu Kush Berge (um die Stadt), Shahr-e Ara Park."
+      },
+      {
+        "Stadt": "Kandahar",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Grab von Ahmad Shah Durrani, Schrein des Umhangs, Chehel Zina, Mausoleum von Mirwais Hotak.",
+        "Lokale_Küche": "Qabili Palau, Afghanischer Kebab.",
+        "Grünflächen_und_Landschaften": "Erforschung von Weinbergen und Safranfarmen, Arghandab Fluss und fruchtbare Ebenen."
+      },
+      {
+        "Stadt": "Herat",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Freitagsmoschee, Mausoleum von Khwaja Abdullah Ansari, Überreste alter Moscheen und Schulen.",
+        "Lokale_Küche": "Qabili Palau, Afghanischer Kebab.",
+        "Grünflächen_und_Landschaften": "Hari Fluss, umliegende grüne Täler und landwirtschaftliche Gebiete."
+      },
+      {
+        "Stadt": "Bamyan",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Bamyan Tal, antike buddhistische Tempel (einschließlich des Ortes der zerstörten Buddha-Statuen).",
+        "Lokale_Küche": "Qabili Palau.",
+        "Grünflächen_und_Landschaften": "Bamyan Tal und seine natürliche Schönheit, antike buddhistische Tempel (in bergigen Landschaften)."
+      },
+      {
+        "Stadt": "Badghis",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Shah Mashhad.",
+        "Lokale_Küche": "Qabili Palau, Afghanischer Kebab.",
+        "Grünflächen_und_Landschaften": "Ländliche Gebiete und umliegende bergige Ebenen, fruchtbare Landschaften."
+      }
+    ]
+  },
+  {
+    "Land": "Albanien",
+    "Städte": [
+      {
+        "Stadt": "Tirana",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Skanderbeg Platz, Nationalmuseum für Geschichte, Uhrenturm, Dajti Berg.",
+        "Lokale_Küche": "Byrek (Kuchen), Tavë kosi (gebackenes Lamm mit Joghurt).",
+        "Grünflächen_und_Landschaften": "Großer Park von Tirana, Ufer des Erzen Flusses."
+      },
+      {
+        "Stadt": "Berat",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Berat Burg, die Altstadt.",
+        "Lokale_Küche": "Byrek, Tavë kosi.",
+        "Grünflächen_und_Landschaften": "Ausblicke über den Osum Fluss und den Berg Tomorr."
+      },
+      {
+        "Stadt": "Vlorë",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Vlorë Burg, Vlorë Museum, Muradie Moschee, die Altstadt.",
+        "Lokale_Küche": "Byrek, Tavë kosi.",
+        "Grünflächen_und_Landschaften": "Strände der Adria, Llogara Pass und Karaburun-Sazan Nationalpark."
+      },
+      {
+        "Stadt": "Durrës",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Durrës Amphitheater, Durrës Burg.",
+        "Lokale_Küche": "Meeresfrüchte, Byrek.",
+        "Grünflächen_und_Landschaften": "Durrës Strand und Durrës Küstenwälder."
+      },
+      {
+        "Stadt": "Shkodër",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Rozafa Burg.",
+        "Lokale_Küche": "Byrek, Tavë kosi.",
+        "Grünflächen_und_Landschaften": "Shkodër See (der größte See in Südeuropa), die Albanischen Alpen."
+      },
+      {
+        "Stadt": "Korçë",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "(Ein wichtiges kulturelles und historisches Zentrum).",
+        "Lokale_Küche": "Byrek, Tavë kosi.",
+        "Grünflächen_und_Landschaften": "Korçë Öffentlicher Park und nahegelegener Drenova Nationalpark."
+      },
+      {
+        "Stadt": "Durrës",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Durrës Amphitheater, Durrës Burg.",
+        "Lokale_Küche": "Meeresfrüchte, Byrek.",
+        "Grünflächen_und_Landschaften": "Durrës Strand und Durrës Küstenwälder."
+      },
+      {
+        "Stadt": "Sarandë",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Lëkurësi Burg.",
+        "Lokale_Küche": "Byrek, Tavë kosi.",
+        "Grünflächen_und_Landschaften": "Küstendörfer und umgebende Berglandschaften und Strände des Ionischen Meeres."
+      }
+    ]
+  },
+  {
+    "Land": "Deutschland",
+    "Städte": [
+      {
+        "Stadt": "Heidelberg",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Heidelberg Schloss, Die Alte Brücke, Hauptstraße.",
+        "Lokale_Küche": "Spätzle, Rouladen.",
+        "Grünflächen_und_Landschaften": "Philosophenweg, die Wälder um das Heidelberg Schloss, Neckar Fluss."
+      },
+      {
+        "Stadt": "Dresden",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Barocke architektonische Sehenswürdigkeiten (Zwinger), historische Gebäude.",
+        "Lokale_Küche": "Würste, Rouladen.",
+        "Grünflächen_und_Landschaften": "Sächsische Schweiz Nationalpark (in der Nähe) und die Gärten entlang der Elbe."
+      },
+      {
+        "Stadt": "Freiburg",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Freiburger Münster Kathedrale, Schwabentor, Schlossberg (ein Hügel mit Aussicht).",
+        "Lokale_Küche": "Kartoffelpuffer.",
+        "Grünflächen_und_Landschaften": "Das umliegende Schwarzwald (Schwarzwald) und der Schlossberg Hügel."
+      },
+      {
+        "Stadt": "Bonn",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Beethoven Haus, Bonner Münster.",
+        "Lokale_Küche": "Schnitzel, Würste.",
+        "Grünflächen_und_Landschaften": "Rheinaue Park und die Ufer des Rheins."
+      },
+      {
+        "Stadt": "Wiesbaden",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Kurhaus, Nerobergbahn, Wilhelmstraße.",
+        "Lokale_Küche": "Würste, Schnitzel.",
+        "Grünflächen_und_Landschaften": "Kurpark, der Neroberg Hügel und römische Quellen."
+      }
+    ]
+  },
+  {
+    "Land": "Angola",
+    "Städte": [
+      {
+        "Stadt": "Luanda",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Dr. António Agostinho Neto Mausoleum, Kirche von Nossa Senhora dos Remédios, Nationalmuseum der Sklaverei, Nationalmuseum für Anthropologie.",
+        "Lokale_Küche": "Muamba de Galinha, Funge de Bombó, Quizaca, Caruru, Mufete.",
+        "Grünflächen_und_Landschaften": "Luanda Bucht, Mussulo Insel (Strände), Kissama Nationalpark (in der Nähe)."
+      },
+      {
+        "Stadt": "M'banza-Kongo",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Historische Stätten (ein UNESCO-Weltkulturerbe).",
+        "Lokale_Küche": "Muamba de Galinha, Funge de Bombó.",
+        "Grünflächen_und_Landschaften": "Umgebende Gebiete und Regenwälder, unberührte Natur."
+      },
+      {
+        "Stadt": "Malanje",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Historische Sehenswürdigkeiten.",
+        "Lokale_Küche": "Muamba de Galinha, Funge de Bombó.",
+        "Grünflächen_und_Landschaften": "Kalandula Wasserfälle, Lucala Fluss, Milando Naturreservat."
+      },
+      {
+        "Stadt": "Benguela",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Nationalmuseum für Anthropologie, die historische Stadt.",
+        "Lokale_Küche": "Meeresfrüchte.",
+        "Grünflächen_und_Landschaften": "Sandstrände und Ausblicke auf den Atlantischen Ozean."
+      },
+      {
+        "Stadt": "Lobito",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Kulturelle und historische Sehenswürdigkeiten, der Seehafen.",
+        "Lokale_Küche": "Muamba de Galinha, Funge de Bombó.",
+        "Grünflächen_und_Landschaften": "Küstennatur um den Hafen und nahegelegene Berge."
+      }
+    ]
+  },
+  {
+    "Land": "Uruguay",
+    "Städte": [
+      {
+        "Stadt": "Montevideo",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Platz der Unabhängigkeit, Salvo Palast, Mercado del Puerto, Solís Theater.",
+        "Lokale_Küche": "Asado (Grill), Chivito (Steak-Sandwich), Pastel de Carne.",
+        "Grünflächen_und_Landschaften": "Rambla de Montevideo (die Küstenpromenade), Parque Batlle y Ordóñez."
+      },
+      {
+        "Stadt": "Punta del Este",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Hafen von Punta del Este, La Mano (die berühmte Skulptur), Isla de Lobos (für Seelöwen).",
+        "Lokale_Küche": "Asado, Chivito.",
+        "Grünflächen_und_Landschaften": "Strände und luxuriöse Resorts am Atlantischen Ozean."
+      },
+      {
+        "Stadt": "Piriápolis",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Pan de Azúcar Hügel, Villa Argentina Burg.",
+        "Lokale_Küche": "Asado, Chivito.",
+        "Grünflächen_und_Landschaften": "Ein berühmtes Seebad, Hügel und Landschaften, einschließlich San Antonio Hügel."
+      },
+      {
+        "Stadt": "Salto",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "(Ein landwirtschaftliches Zentrum).",
+        "Lokale_Küche": "Asado, Chivito.",
+        "Grünflächen_und_Landschaften": "Arapey Thermalquellen, Daymán Thermalquellen, Uruguay Fluss."
+      },
+      {
+        "Stadt": "La Paloma",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Leuchtturm von La Paloma.",
+        "Lokale_Küche": "Asado, Chivito.",
+        "Grünflächen_und_Landschaften": "Ein Strand und Badeort am Atlantik und nahegelegener Rocha See."
+      },
+      {
+        "Stadt": "Punta del Diablo",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "(Ein kleines Fischerdorf).",
+        "Lokale_Küche": "Asado, Chivito.",
+        "Grünflächen_und_Landschaften": "Schöne Sandstrände und die umgebende unberührte Natur."
+      }
+    ]
+  },
+  {
+    "Land": "Usbekistan",
+    "Städte": [
+      {
+        "Stadt": "Tashkent",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Amir Timur Platz, Khast Imam Komplex, Barak-Khan Madrasa.",
+        "Lokale_Küche": "Plov, Shashlik (Kebab), Samsa.",
+        "Grünflächen_und_Landschaften": "Wasserkanäle, Babur Park und städtische Grünflächen."
+      },
+      {
+        "Stadt": "Samarkand",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Registan Platz, Gur-e-Amir Mausoleum, Bibi-Khanym Moschee.",
+        "Lokale_Küche": "Plov, Shashlik, Samsa.",
+        "Grünflächen_und_Landschaften": "Registan Platz (eine archäologische Stätte), die grünen Vororte von Samarkand."
+      },
+      {
+        "Stadt": "Bukhara",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Poi-Kalyan Komplex, Samaniden Mausoleum, die Altstadt von Bukhara.",
+        "Lokale_Küche": "Plov, Shashlik, Samsa.",
+        "Grünflächen_und_Landschaften": "Lyab-i Hauz (ein Wasserbecken und Gartenbereich)."
+      },
+      {
+        "Stadt": "Khorezm",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Itchan Kala Festung in Khiva (in der Nähe), Mausoleen und Moscheen.",
+        "Lokale_Küche": "Plov, Shashlik, Samsa.",
+        "Grünflächen_und_Landschaften": "Landwirtschaftliche Gebiete um den Amu Darya Fluss."
+      },
+      {
+        "Stadt": "Namangan",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "(Eine wichtige Stadt mit historischen Sehenswürdigkeiten und Denkmälern).",
+        "Lokale_Küche": "Plov, Shashlik, Manti.",
+        "Grünflächen_und_Landschaften": "Fruchtbare landwirtschaftliche Gebiete und Nähe zum Syr Darya Fluss."
+      },
+      {
+        "Stadt": "Andijan",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "(Eine wichtige Stadt mit historischen Sehenswürdigkeiten und Denkmälern).",
+        "Lokale_Küche": "Plov, Shashlik, Samsa.",
+        "Grünflächen_und_Landschaften": "Fruchtbare Täler und landwirtschaftliche Gebiete im Fergana Tal."
+      }
+    ]
+  },
+  {
+    "Land": "Ukraine",
+    "Städte": [
+      {
+        "Stadt": "Kyiv",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Kiewer Höhlenkloster, Sophienkathedrale, Maidan Nezalezhnosti (Unabhängigkeitsplatz), Goldenes Tor, Nationalmuseum der Geschichte der Ukraine.",
+        "Lokale_Küche": "Borschtsch (Rote-Bete-Suppe), Varenyky (Taschen), Kotleta (Frikadelle), Holubtsi (Kohlrouladen), Pyrohy (gebackenes Fleischpastetchen).",
+        "Grünflächen_und_Landschaften": "Nationaler Botanischer Garten, die Ufer des Dnjepr Flusses."
+      },
+      {
+        "Stadt": "Kharkiv",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Freiheitsplatz, Gorki Park, Verkündigungskathedrale, Museum der Schönen Künste.",
+        "Lokale_Küche": "Borschtsch, Varenyky.",
+        "Grünflächen_und_Landschaften": "Gorki Park (Zentral), die umliegenden Wälder."
+      },
+      {
+        "Stadt": "Odesa",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Nationale Oper und Balletttheater Odesa, Potemkin-Treppe, Deribasivska Straße.",
+        "Lokale_Küche": "Salata (Salat mit Gemüse und Hackfleisch), Bliny (Pfannkuchen).",
+        "Grünflächen_und_Landschaften": "Küstentourismus am Schwarzen Meer, Arkadia Strand."
+      },
+      {
+        "Stadt": "Lviv",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Rynok Platz, Lwiwer Oper, Hohe Burg Hügel.",
+        "Lokale_Küche": "Borschtsch, Kaffee.",
+        "Grünflächen_und_Landschaften": "Hohe Burg Park, städtische Parks."
+      },
+      {
+        "Stadt": "Dnipro",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Die Uferpromenade, Weltraummuseum, Klosterinsel.",
+        "Lokale_Küche": "Borschtsch.",
+        "Grünflächen_und_Landschaften": "Die Uferpromenade am Dnjepr Fluss, Stadtparks."
+      },
+      {
+        "Stadt": "Donetsk",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Puschkin Park, Lenin Platz, Regionales Museum.",
+        "Lokale_Küche": "Borschtsch.",
+        "Grünflächen_und_Landschaften": "Puschkin Park, die östlichen Ebenen."
+      },
+      {
+        "Stadt": "Sevastopol",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Halbinsel Krim, Panorama der Verteidigung von Sewastopol, Chersonesos.",
+        "Lokale_Küche": "Borschtsch, Meeresfrüchte.",
+        "Grünflächen_und_Landschaften": "Halbinsel Krim (Berg Ai-Petri), maritimer Tourismus."
+      },
+      {
+        "Stadt": "Zaporizhzhia",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Chortyza Insel, Museum der Saporoscher Kosaken, Strand von Saporischschja.",
+        "Lokale_Küche": "Borschtsch.",
+        "Grünflächen_und_Landschaften": "Chortyza Insel (die größte Flussinsel), Dnjepr Fluss."
+      },
+      {
+        "Stadt": "Mykolaiv",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Mykolaiv Astronomisches Observatorium, Uferpromenade von Mykolaiv, Schiffbaumuseum.",
+        "Lokale_Küche": "Borschtsch.",
+        "Grünflächen_und_Landschaften": "Das Astronomische Observatorium (umgebende Grünflächen), Ebenen des Schwarzen Meeres."
+      },
+      {
+        "Stadt": "Korosten",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Prinzessin Olga Bäder Park, Steinmuseum.",
+        "Lokale_Küche": "Borschtsch, Deruny (Kartoffelpuffer).",
+        "Grünflächen_und_Landschaften": "Prinzessin Olga Bäder Park, ländliche Gebiete."
+      }
+    ]
+  },
+  {
+    "Land": "Eritrea",
+    "Städte": [
+      {
+        "Stadt": "Asmara",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "St. Josephs Kathedrale, Opernhaus, Kino Impero.",
+        "Lokale_Küche": "Zigni (Eintopf), Injera (Sauerteigfladenbrot), Tsebhi (gebratenes Fleisch).",
+        "Grünflächen_und_Landschaften": "Schöne Gärten und Grünflächen, das Eritreische Hochland."
+      },
+      {
+        "Stadt": "Massawa",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Historischer Hafen von Massawa, Hanafi Moschee, Dahlak Inseln.",
+        "Lokale_Küche": "Zigni, Injera, Meeresfrüchte.",
+        "Grünflächen_und_Landschaften": "Strände des Roten Meeres, Grüne Insel (Sheikh Saeed)."
+      },
+      {
+        "Stadt": "Keren",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Kamelmarkt, Festung Bizen, Mariam De'Arit Kloster.",
+        "Lokale_Küche": "Zigni, Injera.",
+        "Grünflächen_und_Landschaften": "Umgebende Granitberge, bezaubernde Landschaften."
+      },
+      {
+        "Stadt": "Dekemhare",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Italienische Kolonialarchitektur, Katholische Kirche.",
+        "Lokale_Küche": "Zigni, Injera.",
+        "Grünflächen_und_Landschaften": "Ländliche italienische Architektur, umliegende Ebenen."
+      },
+      {
+        "Stadt": "Adi Quala",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Archäologische Stätten, Adi Quala Museum, nahegelegenes Matara.",
+        "Lokale_Küche": "Zigni, Injera.",
+        "Grünflächen_und_Landschaften": "Archäologische Stätten im Hochland, Berglandschaften."
+      },
+      {
+        "Stadt": "Teseney",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Teseney Fluss, Grenzstadt, Freiluftmarkt.",
+        "Lokale_Küche": "Zigni, Injera.",
+        "Grünflächen_und_Landschaften": "Teseney Fluss, die westlichen Grünflächen."
+      },
+      {
+        "Stadt": "Qond'a",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Küstendörfer, Strände des Roten Meeres, Landschaften.",
+        "Lokale_Küche": "Zigni, Injera, Fisch.",
+        "Grünflächen_und_Landschaften": "Küstendörfer, Strände des Roten Meeres."
+      },
+      {
+        "Stadt": "Agordat",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Hauptmarkt, alte Militärstätten.",
+        "Lokale_Küche": "Zigni, Injera.",
+        "Grünflächen_und_Landschaften": "Ebenengebiete, dichte Bäume an Flussufern."
+      },
+      {
+        "Stadt": "Mendefera",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Antike archäologische Stätten (nahegelegenes Matara), Hügel.",
+        "Lokale_Küche": "Zigni, Injera.",
+        "Grünflächen_und_Landschaften": "Antike Stätten (Matara), Hochland-Landwirtschaftsgebiete."
+      },
+      {
+        "Stadt": "Barentu",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Bergbaustadt, weite Ebenengebiete.",
+        "Lokale_Küche": "Zigni, Injera.",
+        "Grünflächen_und_Landschaften": "Ebenennatur, Flüsse und Weidegebiete."
+      }
+    ]
+  },
+  {
+    "Land": "Spanien",
+    "Städte": [
+      {
+        "Stadt": "Madrid",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Königlicher Palast, Prado Museum, Plaza Mayor.",
+        "Lokale_Küche": "Paella, Tapas, Gazpacho, Churros.",
+        "Grünflächen_und_Landschaften": "Retiro Park, Königlicher Botanischer Garten, Casa de Campo Park."
+      },
+      {
+        "Stadt": "Barcelona",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Sagrada Família, Gotisches Viertel, La Rambla.",
+        "Lokale_Küche": "Fideuà, Pan Tomate, Crema Catalana.",
+        "Grünflächen_und_Landschaften": "Park Güell, Montserrat Berg, Strände des Mittelmeers."
+      },
+      {
+        "Stadt": "Seville",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Königlicher Alcázar von Sevilla, Sevilla Kathedrale, Plaza de España.",
+        "Lokale_Küche": "Valencianische Paella, Salmorejo.",
+        "Grünflächen_und_Landschaften": "Die Gärten des Alcázar, María Luisa Park."
+      },
+      {
+        "Stadt": "Valencia",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Stadt der Künste und Wissenschaften, Zentralmarkt, Valencia Kathedrale.",
+        "Lokale_Küche": "Paella (das Original), Fabada, Horchata.",
+        "Grünflächen_und_Landschaften": "Stadt der Künste und Wissenschaften (Wasseransichten), Turia Garten."
+      },
+      {
+        "Stadt": "Malaga",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Alcazaba, Gibralfaro Burg, Picasso Museum.",
+        "Lokale_Küche": "Pescaíto Frito (gebratener Fisch), Boquerones (Sardellen).",
+        "Grünflächen_und_Landschaften": "Strände der Costa del Sol, Alcazaba (mit Blick)."
+      },
+      {
+        "Stadt": "Córdoba",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Die Moschee-Kathedrale (Mezquita), das jüdische Viertel, Viana Palast.",
+        "Lokale_Küche": "Salmorejo, Flamenquín.",
+        "Grünflächen_und_Landschaften": "Alcázar Gärten, die Höfe der Moschee-Kathedrale."
+      },
+      {
+        "Stadt": "Granada",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Alhambra, Generalife, Albaicín Viertel.",
+        "Lokale_Küche": "Patatas a lo Pobre, Rabo de Toro.",
+        "Grünflächen_und_Landschaften": "Alhambra und Generalife (Wasser- und Landgärten)."
+      },
+      {
+        "Stadt": "Bilbao",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Guggenheim Museum, Casco Viejo (Altstadt), Zubizuri Brücke.",
+        "Lokale_Küche": "Pintxos, Bacalao (Kabeljau).",
+        "Grünflächen_und_Landschaften": "Küstenklippen, Doña Casilda Iturrizar Park."
+      },
+      {
+        "Stadt": "Alicante",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Santa Bárbara Burg, Postiguet Strand, MARQ Museum.",
+        "Lokale_Küche": "Arroz a Banda, Turrón (Nougat).",
+        "Grünflächen_und_Landschaften": "Strände der Costa Blanca, Benacantil Hügel (mit Blick)."
+      },
+      {
+        "Stadt": "Las Palmas",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Berg Teide (auf Teneriffa), Las Canteras Strand, Vegueta.",
+        "Lokale_Küche": "Papas Arrugadas, Mojo (Sauce).",
+        "Grünflächen_und_Landschaften": "Berg Teide, Las Canteras Strand."
+      },
+      {
+        "Stadt": "Marbella",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Puerto Banús, Playa de la Fontanilla, die Altstadt.",
+        "Lokale_Küche": "Paella, Tapas, Meeresfrüchte.",
+        "Grünflächen_und_Landschaften": "Der baumbestandene Paseo Marítimo, luxuriöse Sandstrände."
+      },
+      {
+        "Stadt": "Toledo",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Toledo Kathedrale, die Synagoge von Santa María la Blanca, Alcántara Brücke.",
+        "Lokale_Küche": "Carcamusa (Eintopf), Mazapán (Marzipan).",
+        "Grünflächen_und_Landschaften": "Ufer des Tajo Flusses, umliegende ländliche Gebiete."
+      }
+    ]
+  },
+  {
+    "Land": "Estland",
+    "Städte": [
+      {
+        "Stadt": "Tallinn",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Die Altstadt (ein Weltkulturerbe), Alexander-Newski-Kathedrale, St. Olafs Kirche.",
+        "Lokale_Küche": "Verivorst (Blutwurst), Leib (Roggenbrot).",
+        "Grünflächen_und_Landschaften": "Kadriorg Park, die Küstenklippen (Pakri)."
+      },
+      {
+        "Stadt": "Tartu",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Universität Tartu, die Brücke der Küsse, Kunstmuseum.",
+        "Lokale_Küche": "Verivorst, Leib.",
+        "Grünflächen_und_Landschaften": "Botanischer Garten Tartu, Flusslandschaften."
+      },
+      {
+        "Stadt": "Pärnu",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Strände von Pärnu, seine Kurorte, Pärnu Park.",
+        "Lokale_Küche": "Verivorst, Leib.",
+        "Grünflächen_und_Landschaften": "Sandstrand von Pärnu, Kurorte in der Nähe von Wäldern."
+      },
+      {
+        "Stadt": "Narva",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Narva Burg (Hermann), das Kunstmuseum, Grenzgebiete.",
+        "Lokale_Küche": "Verivorst, Leib.",
+        "Grünflächen_und_Landschaften": "Narva Burg (Flussansichten), grüne Grenzgebiete."
+      },
+      {
+        "Stadt": "Kohtla-Järve",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Kohtla-Järve Ölschiefer Museum, Geschäftsviertel.",
+        "Lokale_Küche": "Verivorst, Leib.",
+        "Grünflächen_und_Landschaften": "Industriegebiete (Ölschiefer) und umliegende Wälder."
+      }
+    ]
+  },
+  {
+    "Land": "Eswatini",
+    "Städte": [
+      {
+        "Stadt": "Mbabane",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Parlamentsgebäude, Mbabane Markt.",
+        "Lokale_Küche": "Sishwala, Incwancwa.",
+        "Grünflächen_und_Landschaften": "Ezulwini Tal (in der Nähe), grüne Hügellandschaften."
+      },
+      {
+        "Stadt": "Manzini",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Der Palast des Königs, Nationalmuseum, Königlicher Hlane Park.",
+        "Lokale_Küche": "Sishwala, Incwancwa.",
+        "Grünflächen_und_Landschaften": "Hlane Royal Nationalpark, bergige Hochländer."
+      },
+      {
+        "Stadt": "Big Bend",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Zuckerrohrplantagen, Swasiland Fluss, Big Bend Brücke.",
+        "Lokale_Küche": "Sishwala, Incwancwa.",
+        "Grünflächen_und_Landschaften": "Zuckerrohrplantagen, Swasiland Fluss (Wasseransichten)."
+      },
+      {
+        "Stadt": "Siteki",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Industriekomplex, Handelszentrum.",
+        "Lokale_Küche": "Sishwala, Incwancwa.",
+        "Grünflächen_und_Landschaften": "Industriegebiet, ländliche Natur."
+      }
+    ]
+  },
+  {
+    "Land": "Indonesien",
+    "Städte": [
+      {
+        "Stadt": "Jakarta",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Nationaldenkmal (Monas), die Altstadt (Kota Tua), Jakarta Museum.",
+        "Lokale_Küche": "Nasi Goreng, Satay, Gado-gado.",
+        "Grünflächen_und_Landschaften": "Taman Mini Indonesia Indah Park, Ancol Dreamland."
+      },
+      {
+        "Stadt": "Surabaya",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Heldenmonument, Cheng Ho Moschee, Maritimes Museum.",
+        "Lokale_Küche": "Nasi Goreng, Satay, Rujak Cingur.",
+        "Grünflächen_und_Landschaften": "Bungkul Park, die grüne Natur von Ostjava."
+      },
+      {
+        "Stadt": "Medan",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Große Moschee von Medan, Maimun Palast, nahegelegener Tobasee.",
+        "Lokale_Küche": "Nasi Goreng, Satay, Soto Medan.",
+        "Grünflächen_und_Landschaften": "Berg Sibayak (aktiver Vulkan), Taman Bundo."
+      },
+      {
+        "Stadt": "Makassar",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Fort Rotterdam, Losari Strand, Spermonde Inseln.",
+        "Lokale_Küche": "Nasi Goreng, Satay, Coto Makassar (Rindfleischsuppe).",
+        "Grünflächen_und_Landschaften": "Fort Rotterdam (Meeresansichten), Küstennatur."
+      }
+    ]
+  },
+  {
+    "Land": "Italien",
+    "Städte": [
+      {
+        "Stadt": "Rom",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Das Kolosseum, Römisches Forum, Vatikanstadt, Trevi Brunnen.",
+        "Lokale_Küche": "Pasta Carbonara, Spaghetti Cacio e Pepe, Pizza Romana.",
+        "Grünflächen_und_Landschaften": "Villa Borghese Gärten, Terrazza del Pincio Gärten."
+      },
+      {
+        "Stadt": "Mailand",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Mailänder Dom (Duomo), Galleria Vittorio Emanuele II, La Scala Theater.",
+        "Lokale_Küche": "Risotto alla Milanese, Cotoletta (Kalbsschnitzel).",
+        "Grünflächen_und_Landschaften": "Sempione Park, Navigli Kanäle."
+      },
+      {
+        "Stadt": "Neapel",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Historisches Zentrum von Neapel, Königlicher Palast von Capodimonte, nahegelegenes Pompeji.",
+        "Lokale_Küche": "Neapolitanische Pizza, Sfogliatella (Gebäck).",
+        "Grünflächen_und_Landschaften": "Berg Vesuv (mit Blick auf die Stadt), Amalfiküste."
+      },
+      {
+        "Stadt": "Bologna",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Piazza Maggiore, Die Zwei Türme, Neptunbrunnen.",
+        "Lokale_Küche": "Bologneser Soße (Ragù), Tortellini.",
+        "Grünflächen_und_Landschaften": "Margherita Gärten (städtische Parks), die grüne Po-Ebene."
+      }
+    ]
+  },
+  {
+    "Land": "Argentinien",
+    "Städte": [
+      {
+        "Stadt": "Buenos Aires",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Plaza de Mayo, La Boca (das bunte Viertel), Eva Peróns Grab (im Recoleta Friedhof).",
+        "Lokale_Küche": "Asado, Empanadas, Alfajores (Süßigkeiten).",
+        "Grünflächen_und_Landschaften": "Parques de Palermo (Palermo Wälder), Ökologisches Reservat."
+      },
+      {
+        "Stadt": "Mendoza",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Plaza Independencia, Nationalmuseum für Geschichte.",
+        "Lokale_Küche": "Asado, Empanadas, Malbec Wein.",
+        "Grünflächen_und_Landschaften": "General San Martín Park, Mendozas Weinberge."
+      },
+      {
+        "Stadt": "San Carlos de Bariloche",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Das Stadtzentrum (europäische Architektur).",
+        "Lokale_Küche": "Asado, Empanadas, Patagonische Schokolade.",
+        "Grünflächen_und_Landschaften": "Nahuel Huapi See, die Anden."
+      },
+      {
+        "Stadt": "Salta",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Museum für Hochgebirgsarchäologie, Salta Kathedrale, San Bernardo Hügel.",
+        "Lokale_Küche": "Asado, Empanadas, Tamales.",
+        "Grünflächen_und_Landschaften": "Die nördlichen Anden, Lerma Tal."
+      },
+      {
+        "Stadt": "Neuquén",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Neuquén Museum, Neuquén Fluss, Centenario Park.",
+        "Lokale_Küche": "Asado, Empanadas.",
+        "Grünflächen_und_Landschaften": "Neuquén Fluss, nördliche patagonische Natur."
+      }
+    ]
+  },
+  {
+    "Land": "Jordanien",
+    "Städte": [
+      {
+        "Stadt": "Amman",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Römisches Amphitheater, Jabal al-Qal'a (Burg Hügel), Das Jordan Museum, Rainbow Straße.",
+        "Lokale_Küche": "Mansaf, Maqluba, Knafeh.",
+        "Grünflächen_und_Landschaften": "Hussein Park, Ammans bergige Vororte mit Aussicht."
+      },
+      {
+        "Stadt": "Petra",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Die Schatzkammer (Al-Khazneh), Das Kloster (Ad-Deir), Der Siq.",
+        "Lokale_Küche": "Mansaf, Zarb (unterirdischer Grill).",
+        "Grünflächen_und_Landschaften": "Wadi Musa (felsige Natur und Schnitzereien)."
+      },
+      {
+        "Stadt": "Aqaba",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Aqaba Mamluk Burg, Aqaba Archäologisches Museum, Aqaba Souk.",
+        "Lokale_Küche": "Meeresfrüchte, Sayadieh (Fischgericht), Mansaf.",
+        "Grünflächen_und_Landschaften": "Das Rote Meer (Strände und tauchende Korallenriffe)."
+      },
+      {
+        "Stadt": "Wadi Rum",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Sand- und Felsberge, antike Inschriften, Beduinenzelte.",
+        "Lokale_Küche": "Zarb, Mansaf.",
+        "Grünflächen_und_Landschaften": "Sanddünen, Sandsteinberge."
+      }
+    ]
+  },
+  {
+    "Land": "VAE",
+    "Städte": [
+      {
+        "Stadt": "Dubai",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Burj Khalifa, Burj Al Arab, The Dubai Mall, Global Village, Dubai Creek (Altstadt).",
+        "Lokale_Küche": "Harees, Majboos, Luqaimat.",
+        "Grünflächen_und_Landschaften": "Dubai Miracle Garden, Jumeirah Strände, Al Qudra Seen (in der Nähe)."
+      },
+      {
+        "Stadt": "Abu Dhabi",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Scheich Zayed Große Moschee, Louvre Abu Dhabi, Emirates Palace.",
+        "Lokale_Küche": "Harees, Majboos, Luqaimat.",
+        "Grünflächen_und_Landschaften": "Abu Dhabi Corniche, Capital Gardens, Yas Island (Grünflächen), Jebel Hafeet."
+      },
+      {
+        "Stadt": "Umm Al Quwain",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Dreamland Aqua Park, Al Sinniyah Insel, die Altstadt.",
+        "Lokale_Küche": "Harees, Majboos, Luqaimat.",
+        "Grünflächen_und_Landschaften": "Strände von Umm Al Quwain, Mangrovengebiete."
+      }
+    ]
+  },
+  {
+    "Land": "Ecuador",
+    "Städte": [
+      {
+        "Stadt": "Quito",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Die Altstadt (ein Weltkulturerbe), Mitad del Mundo (das Monument der Mitte der Welt), Pichincha Vulkan.",
+        "Lokale_Küche": "Ceviche, Locro de Papa (Kartoffelsuppe), Fritada.",
+        "Grünflächen_und_Landschaften": "Metropolitan Park, umgebende Anden, Quitos Tal."
+      },
+      {
+        "Stadt": "Guayaquil",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Malecón 2000 (Uferpromenade), Las Peñas Viertel, Parque de las Iguanas (Leguanenpark).",
+        "Lokale_Küche": "Ceviche, Locro de Papa, Arroz con Pollo.",
+        "Grünflächen_und_Landschaften": "Ecuadors Park, Küstengebiete."
+      },
+      {
+        "Stadt": "Tena",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Amazonischer Park, Misahuallí Fluss, Amazonas Regenwälder.",
+        "Lokale_Küche": "Ceviche, Locro de Papa.",
+        "Grünflächen_und_Landschaften": "Amazonische Parks (Regenwälder), Misahuallí Fluss."
+      }
+    ]
+  },
+  {
+    "Land": "Irland",
+    "Städte": [
+      {
+        "Stadt": "Dublin",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Dublin Castle, Trinity College (Bibliothek), St. Patrick's Kathedrale.",
+        "Lokale_Küche": "Irischer Eintopf, Colcannon (Kartoffelpüree), Soda Brot.",
+        "Grünflächen_und_Landschaften": "St Stephen's Green, Powerscourt Gärten (in der Nähe)."
+      },
+      {
+        "Stadt": "Cork",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Der Englische Markt, St. Fin Barre's Kathedrale, Cork City Gaol.",
+        "Lokale_Küche": "Irischer Eintopf, Colcannon.",
+        "Grünflächen_und_Landschaften": "Fitzgerald Park, River Lee, Küstengebiete."
+      },
+      {
+        "Stadt": "Galway",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Spanischer Bogen, Eyre Square, nahegelegenes Dunguaire Castle.",
+        "Lokale_Küche": "Irischer Eintopf, Colcannon.",
+        "Grünflächen_und_Landschaften": "Central Park, Galway Bay und die Natur des County Clare."
+      },
+      {
+        "Stadt": "Athlone",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Athlone Castle, St. Peter und Paul's Kirche, die Alte Brücke.",
+        "Lokale_Küche": "Irischer Eintopf, Colcannon.",
+        "Grünflächen_und_Landschaften": "Lough Ree, Athlone Castle (Flussansichten)."
+      }
+    ]
+  },
+  {
+    "Land": "Island",
+    "Städte": [
+      {
+        "Stadt": "Reykjavík",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Hallgrímskirkja Kirche, Perlan, der Alte Hafen, das Blaue Lagune (in der Nähe).",
+        "Lokale_Küche": "Hangikjöt (geräuchertes Lamm), Skyr (Joghurt), frischer Fisch.",
+        "Grünflächen_und_Landschaften": "Geothermische Parks, städtische Gärten, Küstenszenerie."
+      },
+      {
+        "Stadt": "Seyðisfjörður",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Bunte Architektur, Kunstmuseum, Gufufoss Wasserfall.",
+        "Lokale_Küche": "Hangikjöt, Skyr.",
+        "Grünflächen_und_Landschaften": "Die Nordlichter (Nachtansichten), die Ostfjorde."
+      }
+    ]
+  },
+  {
+    "Land": "Äthiopien",
+    "Städte": [
+      {
+        "Stadt": "Addis Abeba",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Nationalmuseum, Heilige Dreifaltigkeitskathedrale, Menelik II Palast.",
+        "Lokale_Küche": "Injera (Sauerteigfladenbrot), Wat (Eintopf), Tibs (gebratenes Fleisch), Doro Wat (Hühnereintopf).",
+        "Grünflächen_und_Landschaften": "Unity Park, Berg Entoto (mit Aussicht)."
+      },
+      {
+        "Stadt": "Lalibela",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Felsenkirchen von Lalibela (ein Weltkulturerbe), Bete Giyorgis (Kirche des Heiligen Georg).",
+        "Lokale_Küche": "Injera, Wat, Tibs.",
+        "Grünflächen_und_Landschaften": "Die Felsformationen um die Kirchen, das Hochland."
+      },
+      {
+        "Stadt": "Axum",
+        "Historische_und_Architektonische_Sehenswürdigkeiten": "Obelisken (Stelen), der Stele Park, Palast der Königin von Saba.",
+        "Lokale_Küche": "Injera, Wat.",
+        "Grünflächen_und_Landschaften": "Weite archäologische Stätten und bergige Landschaften."
+      }
+    ]
+  }
+]

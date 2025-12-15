@@ -1,0 +1,1042 @@
+[
+  {
+    "Pays": "Turquie",
+    "Ville": "Istanbul",
+    "Attractions": "Visiter Sainte-Sophie et la Mosquée Bleue, faire une croisière sur le Bosphore, faire du shopping au Grand Bazar.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Kebab grillé, Baklava, Dolma, Manti, Kunafa, Thé turc",
+    "Espaces naturels": "Pamukkale (Château de coton), Lac Uzungöl, Mont Ararat, Vallée d'Ihlara, Chutes de Manavgat"
+  },
+  {
+    "Pays": "Turquie",
+    "Ville": "Cappadoce",
+    "Attractions": "Vol en montgolfière à l'aube, explorer les villes souterraines, séjourner dans un hôtel troglodytique.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Kebab grillé, Baklava, Dolma, Manti, Kunafa, Thé turc",
+    "Espaces naturels": "Pamukkale (Château de coton), Lac Uzungöl, Mont Ararat, Vallée d'Ihlara, Chutes de Manavgat"
+  },
+  {
+    "Pays": "Turquie",
+    "Ville": "Antalya",
+    "Attractions": "Se détendre sur les plages de Konyaaltı, visiter la vieille ville (Kaleiçi), les chutes d'eau de Düden.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Kebab grillé, Baklava, Dolma, Manti, Kunafa, Thé turc",
+    "Espaces naturels": "Pamukkale (Château de coton), Lac Uzungöl, Mont Ararat, Vallée d'Ihlara, Chutes de Manavgat"
+  },
+  {
+    "Pays": "Turquie",
+    "Ville": "Izmir",
+    "Attractions": "Flâner dans le marché de Kemeraltı, la tour de l'Horloge, et visiter la ancienne ville d'Éphèse à proximité.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Kebab grillé, Baklava, Dolma, Manti, Kunafa, Thé turc",
+    "Espaces naturels": "Pamukkale (Château de coton), Lac Uzungöl, Mont Ararat, Vallée d'Ihlara, Chutes de Manavgat"
+  },
+  {
+    "Pays": "Turquie",
+    "Ville": "Bodrum",
+    "Attractions": "Visiter le château de Bodrum, la vie nocturne, faire de la voile sur des yachts de luxe.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Kebab grillé, Baklava, Dolma, Manti, Kunafa, Thé turc",
+    "Espaces naturels": "Pamukkale (Château de coton), Lac Uzungöl, Mont Ararat, Vallée d'Ihlara, Chutes de Manavgat"
+  },
+  {
+    "Pays": "Turquie",
+    "Ville": "Fethiye",
+    "Attractions": "Parapente au-dessus d'Ölüdeniz, la vallée des Papillons, randonnée sur le chemin de la Lycie.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Kebab grillé, Baklava, Dolma, Manti, Kunafa, Thé turc",
+    "Espaces naturels": "Pamukkale (Château de coton), Lac Uzungöl, Mont Ararat, Vallée d'Ihlara, Chutes de Manavgat"
+  },
+  {
+    "Pays": "Turquie",
+    "Ville": "Trabzon",
+    "Attractions": "Visiter le monastère de Sumela, le lac Uzungöl, les hauts plateaux de Sultan Murat.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Kebab grillé, Baklava, Dolma, Manti, Kunafa, Thé turc",
+    "Espaces naturels": "Pamukkale (Château de coton), Lac Uzungöl, Mont Ararat, Vallée d'Ihlara, Chutes de Manavgat"
+  },
+  {
+    "Pays": "Turquie",
+    "Ville": "Konya",
+    "Attractions": "Visiter le musée Mevlana, assister aux spectacles des derviches tourneurs.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Kebab grillé, Baklava, Dolma, Manti, Kunafa, Thé turc",
+    "Espaces naturels": "Pamukkale (Château de coton), Lac Uzungöl, Mont Ararat, Vallée d'Ihlara, Chutes de Manavgat"
+  },
+  {
+    "Pays": "Turquie",
+    "Ville": "Bursa",
+    "Attractions": "Prendre le téléphérique jusqu'au mont Uludağ, visiter la Grande Mosquée, les thermes.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Kebab grillé, Baklava, Dolma, Manti, Kunafa, Thé turc",
+    "Espaces naturels": "Pamukkale (Château de coton), Lac Uzungöl, Mont Ararat, Vallée d'Ihlara, Chutes de Manavgat"
+  },
+  {
+    "Pays": "Turquie",
+    "Ville": "Mardin",
+    "Attractions": "Se promener dans les anciennes rues pavées, visiter les monastères historiques.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Kebab grillé, Baklava, Dolma, Manti, Kunafa, Thé turc",
+    "Espaces naturels": "Pamukkale (Château de coton), Lac Uzungöl, Mont Ararat, Vallée d'Ihlara, Chutes de Manavgat"
+  },
+  {
+    "Pays": "Tunisie",
+    "Ville": "Tunis",
+    "Attractions": "Explorer la médina, le musée du Bardo, la mosquée Zitouna.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Couscous tunisien, Brik, Salade grillée, Lablabi, Makroud, Chakchouka",
+    "Espaces naturels": "Grand désert (Douz), Chott el-Jérid, Lac Ichkeul, Monts de Kroumirie, Oasis de Tozeur"
+  },
+  {
+    "Pays": "Tunisie",
+    "Ville": "Sidi Bou Saïd",
+    "Attractions": "Se promener entre les bâtiments blancs et bleus, boire le thé aux amandes, profiter de la vue sur la mer.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Couscous tunisien, Brik, Salade grillée, Lablabi, Makroud, Chakchouka",
+    "Espaces naturels": "Grand désert (Douz), Chott el-Jérid, Lac Ichkeul, Monts de Kroumirie, Oasis de Tozeur"
+  },
+  {
+    "Pays": "Tunisie",
+    "Ville": "Sousse",
+    "Attractions": "Visiter la Ribat, le musée archéologique, et se détendre dans la station de Port El Kantaoui.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Couscous tunisien, Brik, Salade grillée, Lablabi, Makroud, Chakchouka",
+    "Espaces naturels": "Grand désert (Douz), Chott el-Jérid, Lac Ichkeul, Monts de Kroumirie, Oasis de Tozeur"
+  },
+  {
+    "Pays": "Tunisie",
+    "Ville": "Hammamet",
+    "Attractions": "Se relaxer sur les plages de sable, visiter la Kasbah, le parc d'attractions.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Couscous tunisien, Brik, Salade grillée, Lablabi, Makroud, Chakchouka",
+    "Espaces naturels": "Grand désert (Douz), Chott el-Jérid, Lac Ichkeul, Monts de Kroumirie, Oasis de Tozeur"
+  },
+  {
+    "Pays": "Tunisie",
+    "Ville": "Djerba",
+    "Attractions": "Visiter le Ghriba (la synagogue), le musée Guellala, et profiter des plages calmes.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Couscous tunisien, Brik, Salade grillée, Lablabi, Makroud, Chakchouka",
+    "Espaces naturels": "Grand désert (Douz), Chott el-Jérid, Lac Ichkeul, Monts de Kroumirie, Oasis de Tozeur"
+  },
+  {
+    "Pays": "Tunisie",
+    "Ville": "Kairouan",
+    "Attractions": "Visiter la Grande Mosquée de Sidi Okba, le bassin des Aghlabites, déguster les makrouds.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Couscous tunisien, Brik, Salade grillée, Lablabi, Makroud, Chakchouka",
+    "Espaces naturels": "Grand désert (Douz), Chott el-Jérid, Lac Ichkeul, Monts de Kroumirie, Oasis de Tozeur"
+  },
+  {
+    "Pays": "Tunisie",
+    "Ville": "Tozeur",
+    "Attractions": "Safaris dans le désert, visiter les oasis de Chebika et Tamerza, sites de tournage de Star Wars.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Couscous tunisien, Brik, Salade grillée, Lablabi, Makroud, Chakchouka",
+    "Espaces naturels": "Grand désert (Douz), Chott el-Jérid, Lac Ichkeul, Monts de Kroumirie, Oasis de Tozeur"
+  },
+  {
+    "Pays": "Tunisie",
+    "Ville": "Tabarka",
+    "Attractions": "Plongée et observation des coraux, festival de Jazz, la forteresse génoise.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Couscous tunisien, Brik, Salade grillée, Lablabi, Makroud, Chakchouka",
+    "Espaces naturels": "Grand désert (Douz), Chott el-Jérid, Lac Ichkeul, Monts de Kroumirie, Oasis de Tozeur"
+  },
+  {
+    "Pays": "Tunisie",
+    "Ville": "Bizerte",
+    "Attractions": "Visiter le vieux port, la Kasbah, et la plage de Sidi Brahim.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Couscous tunisien, Brik, Salade grillée, Lablabi, Makroud, Chakchouka",
+    "Espaces naturels": "Grand désert (Douz), Chott el-Jérid, Lac Ichkeul, Monts de Kroumirie, Oasis de Tozeur"
+  },
+  {
+    "Pays": "Tunisie",
+    "Ville": "Monastir",
+    "Attractions": "Visiter la ribat de Monastir, le mausolée de Habib Bourguiba, et la marina.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Couscous tunisien, Brik, Salade grillée, Lablabi, Makroud, Chakchouka",
+    "Espaces naturels": "Grand désert (Douz), Chott el-Jérid, Lac Ichkeul, Monts de Kroumirie, Oasis de Tozeur"
+  },
+  {
+    "Pays": "Russie",
+    "Ville": "Moscou",
+    "Attractions": "Place Rouge, le Kremlin, cathédrale Saint-Basile, le métro de Moscou somptueux.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Bortsch (soupe), Pelmeni (raviolis), Blinis (crêpes), Salade Olivier, Bœuf Stroganov",
+    "Espaces naturels": "Lac Baïkal, Volcans du Kamtchatka, montagnes de l'Altaï, Colonnes de pierres de Lena, forêt de Taïga"
+  },
+  {
+    "Pays": "Russie",
+    "Ville": "Saint-Pétersbourg",
+    "Attractions": "Musée de l'Ermitage, Palais d'Hiver, église du Sauveur-sur-le-Sang-Versé, Palais de Peterhof.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Bortsch (soupe), Pelmeni (raviolis), Blinis (crêpes), Salade Olivier, Bœuf Stroganov",
+    "Espaces naturels": "Lac Baïkal, Volcans du Kamtchatka, montagnes de l'Altaï, Colonnes de pierres de Lena, forêt de Taïga"
+  },
+  {
+    "Pays": "Russie",
+    "Ville": "Kazan",
+    "Attractions": "Kremlin de Kazan, mosquée Qol Sharif, découvrir le mélange des cultures tatare et russe.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Bortsch (soupe), Pelmeni (raviolis), Blinis (crêpes), Salade Olivier, Bœuf Stroganov",
+    "Espaces naturels": "Lac Baïkal, Volcans du Kamtchatka, montagnes de l'Altaï, Colonnes de pierres de Lena, forêt de Taïga"
+  },
+  {
+    "Pays": "Russie",
+    "Ville": "Sotchi",
+    "Attractions": "Stations balnéaires, ski sur les montagnes olympiques, le parc olympique.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Bortsch (soupe), Pelmeni (raviolis), Blinis (crêpes), Salade Olivier, Bœuf Stroganov",
+    "Espaces naturels": "Lac Baïkal, Volcans du Kamtchatka, montagnes de l'Altaï, Colonnes de pierres de Lena, forêt de Taïga"
+  },
+  {
+    "Pays": "Russie",
+    "Ville": "Irkoutsk",
+    "Attractions": "Porte d'entrée du lac Baïkal, explorer l'architecture traditionnelle en bois.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Bortsch (soupe), Pelmeni (raviolis), Blinis (crêpes), Salade Olivier, Bœuf Stroganov",
+    "Espaces naturels": "Lac Baïkal, Volcans du Kamtchatka, montagnes de l'Altaï, Colonnes de pierres de Lena, forêt de Taïga"
+  },
+  {
+    "Pays": "Russie",
+    "Ville": "Vladimir",
+    "Attractions": "Visiter la cathédrale de la Dormition, la Porte d'Or (fait partie de l'Anneau d'Or).",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Bortsch (soupe), Pelmeni (raviolis), Blinis (crêpes), Salade Olivier, Bœuf Stroganov",
+    "Espaces naturels": "Lac Baïkal, Volcans du Kamtchatka, montagnes de l'Altaï, Colonnes de pierres de Lena, forêt de Taïga"
+  },
+  {
+    "Pays": "Russie",
+    "Ville": "Nijni Novgorod",
+    "Attractions": "Prendre le téléphérique au-dessus de la Volga, visiter le Kremlin, le grand escalier.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Bortsch (soupe), Pelmeni (raviolis), Blinis (crêpes), Salade Olivier, Bœuf Stroganov",
+    "Espaces naturels": "Lac Baïkal, Volcans du Kamtchatka, montagnes de l'Altaï, Colonnes de pierres de Lena, forêt de Taïga"
+  },
+  {
+    "Pays": "Russie",
+    "Ville": "Iekaterinbourg",
+    "Attractions": "Visiter l'église sur le Sang, le monument marquant la frontière entre l'Asie et l'Europe.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Bortsch (soupe), Pelmeni (raviolis), Blinis (crêpes), Salade Olivier, Bœuf Stroganov",
+    "Espaces naturels": "Lac Baïkal, Volcans du Kamtchatka, montagnes de l'Altaï, Colonnes de pierres de Lena, forêt de Taïga"
+  },
+  {
+    "Pays": "Russie",
+    "Ville": "Kaliningrad",
+    "Attractions": "Cathédrale de Königsberg, musée de l'Ambre, le village des pêcheurs.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Bortsch (soupe), Pelmeni (raviolis), Blinis (crêpes), Salade Olivier, Bœuf Stroganov",
+    "Espaces naturels": "Lac Baïkal, Volcans du Kamtchatka, montagnes de l'Altaï, Colonnes de pierres de Lena, forêt de Taïga"
+  },
+  {
+    "Pays": "Russie",
+    "Ville": "Vladivostok",
+    "Attractions": "Le pont russe, le port maritime, la forteresse militaire, terminus du transsibérien.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Bortsch (soupe), Pelmeni (raviolis), Blinis (crêpes), Salade Olivier, Bœuf Stroganov",
+    "Espaces naturels": "Lac Baïkal, Volcans du Kamtchatka, montagnes de l'Altaï, Colonnes de pierres de Lena, forêt de Taïga"
+  },
+  {
+    "Pays": "Taïwan",
+    "Ville": "Taipei",
+    "Attractions": "Monter sur Taipei 101, le marché de nuit de Shilin, le musée national du Palais.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Soupe de nouilles au bœuf, Thé aux perles (Bubble tea), Poulet frit taïwanais, Omelette aux huîtres, Gâteau à l'ananas",
+    "Espaces naturels": "Parc national de Taroko, Lac Sun Moon, Mont Alishan, Paysages de Guilin, Parc national de Yushan"
+  },
+  {
+    "Pays": "Taïwan",
+    "Ville": "Kaohsiung",
+    "Attractions": "Lac Lotus et ses dragons, Centre d'art Pier-2, Île de Cijin.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Soupe de nouilles au bœuf, Thé aux perles (Bubble tea), Poulet frit taïwanais, Omelette aux huîtres, Gâteau à l'ananas",
+    "Espaces naturels": "Parc national de Taroko, Lac Sun Moon, Mont Alishan, Paysages de Guilin, Parc national de Yushan"
+  },
+  {
+    "Pays": "Taïwan",
+    "Ville": "Tainan",
+    "Attractions": "Visiter les temples anciens, le fort de Zeelandia, déguster la cuisine de rue traditionnelle.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Soupe de nouilles au bœuf, Thé aux perles (Bubble tea), Poulet frit taïwanais, Omelette aux huîtres, Gâteau à l'ananas",
+    "Espaces naturels": "Parc national de Taroko, Lac Sun Moon, Mont Alishan, Paysages de Guilin, Parc national de Yushan"
+  },
+  {
+    "Pays": "Taïwan",
+    "Ville": "Taichung",
+    "Attractions": "Le village arc-en-ciel, le marché de Fengjia, l'Opéra national.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Soupe de nouilles au bœuf, Thé aux perles (Bubble tea), Poulet frit taïwanais, Omelette aux huîtres, Gâteau à l'ananas",
+    "Espaces naturels": "Parc national de Taroko, Lac Sun Moon, Mont Alishan, Paysages de Guilin, Parc national de Yushan"
+  },
+  {
+    "Pays": "Taïwan",
+    "Ville": "Hualien",
+    "Attractions": "Porte des gorges de Taroko, plage de Qixingtan, marché de Dongdamen.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Soupe de nouilles au bœuf, Thé aux perles (Bubble tea), Poulet frit taïwanais, Omelette aux huîtres, Gâteau à l'ananas",
+    "Espaces naturels": "Parc national de Taroko, Lac Sun Moon, Mont Alishan, Paysages de Guilin, Parc national de Yushan"
+  },
+  {
+    "Pays": "Taïwan",
+    "Ville": "Jiufen",
+    "Attractions": "Se promener dans les anciennes ruelles éclairées par des lanternes, déguster le thé traditionnel.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Soupe de nouilles au bœuf, Thé aux perles (Bubble tea), Poulet frit taïwanais, Omelette aux huîtres, Gâteau à l'ananas",
+    "Espaces naturels": "Parc national de Taroko, Lac Sun Moon, Mont Alishan, Paysages de Guilin, Parc national de Yushan"
+  },
+  {
+    "Pays": "Taïwan",
+    "Ville": "Pingtung",
+    "Attractions": "Profiter des plages du parc national de Kenting, le phare, les sports nautiques.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Soupe de nouilles au bœuf, Thé aux perles (Bubble tea), Poulet frit taïwanais, Omelette aux huîtres, Gâteau à l'ananas",
+    "Espaces naturels": "Parc national de Taroko, Lac Sun Moon, Mont Alishan, Paysages de Guilin, Parc national de Yushan"
+  },
+  {
+    "Pays": "Taïwan",
+    "Ville": "Nantou",
+    "Attractions": "Croisière sur le lac Sun Moon, visiter la ferme de Cingjing.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Soupe de nouilles au bœuf, Thé aux perles (Bubble tea), Poulet frit taïwanais, Omelette aux huîtres, Gâteau à l'ananas",
+    "Espaces naturels": "Parc national de Taroko, Lac Sun Moon, Mont Alishan, Paysages de Guilin, Parc national de Yushan"
+  },
+  {
+    "Pays": "Taïwan",
+    "Ville": "Yilan",
+    "Attractions": "Se détendre dans les sources chaudes de Jiaoxi, le marché de Luodong.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Soupe de nouilles au bœuf, Thé aux perles (Bubble tea), Poulet frit taïwanais, Omelette aux huîtres, Gâteau à l'ananas",
+    "Espaces naturels": "Parc national de Taroko, Lac Sun Moon, Mont Alishan, Paysages de Guilin, Parc national de Yushan"
+  },
+  {
+    "Pays": "Taïwan",
+    "Ville": "Chiayi",
+    "Attractions": "Prendre le train historique de la forêt d'Alishan, le village de Hinoki.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Soupe de nouilles au bœuf, Thé aux perles (Bubble tea), Poulet frit taïwanais, Omelette aux huîtres, Gâteau à l'ananas",
+    "Espaces naturels": "Parc national de Taroko, Lac Sun Moon, Mont Alishan, Paysages de Guilin, Parc national de Yushan"
+  },
+  {
+    "Pays": "Chili",
+    "Ville": "Santiago",
+    "Attractions": "Colline San Cristóbal, palais de la Moneda, le quartier bohème de Bellavista.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Empanadas, Pastel de choclo, Curanto, Completo (hot-dog), Pisco sour",
+    "Espaces naturels": "Torres del Paine, Désert d'Atacama, Grottes de marbre, Île de Pâques, Lac Todos los Santos"
+  },
+  {
+    "Pays": "Chili",
+    "Ville": "Valparaíso",
+    "Attractions": "Rider les ascenseurs anciens, admirer les graffitis colorés, la maison de Pablo Neruda.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Empanadas, Pastel de choclo, Curanto, Completo (hot-dog), Pisco sour",
+    "Espaces naturels": "Torres del Paine, Désert d'Atacama, Grottes de marbre, Île de Pâques, Lac Todos los Santos"
+  },
+  {
+    "Pays": "Chili",
+    "Ville": "San Pedro de Atacama",
+    "Attractions": "Vallée de la Lune, geysers del Tatio, observation des étoiles dans le désert.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Empanadas, Pastel de choclo, Curanto, Completo (hot-dog), Pisco sour",
+    "Espaces naturels": "Torres del Paine, Désert d'Atacama, Grottes de marbre, Île de Pâques, Lac Todos los Santos"
+  },
+  {
+    "Pays": "Chili",
+    "Ville": "Pucón",
+    "Attractions": "Escalade du volcan Villarrica, se détendre dans les sources chaudes.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Empanadas, Pastel de choclo, Curanto, Completo (hot-dog), Pisco sour",
+    "Espaces naturels": "Torres del Paine, Désert d'Atacama, Grottes de marbre, Île de Pâques, Lac Todos los Santos"
+  },
+  {
+    "Pays": "Chili",
+    "Ville": "Puerto Natales",
+    "Attractions": "Point de départ du parc Torres del Paine, grotte du Milodón.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Empanadas, Pastel de choclo, Curanto, Completo (hot-dog), Pisco sour",
+    "Espaces naturels": "Torres del Paine, Désert d'Atacama, Grottes de marbre, Île de Pâques, Lac Todos los Santos"
+  },
+  {
+    "Pays": "Chili",
+    "Ville": "Viña del Mar",
+    "Attractions": "Profiter des plages, la horloge de fleurs, le festival de la chanson.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Empanadas, Pastel de choclo, Curanto, Completo (hot-dog), Pisco sour",
+    "Espaces naturels": "Torres del Paine, Désert d'Atacama, Grottes de marbre, Île de Pâques, Lac Todos los Santos"
+  },
+  {
+    "Pays": "Chili",
+    "Ville": "Punta Arenas",
+    "Attractions": "Observer les manchots sur l'île Magdalena, la zone franche.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Empanadas, Pastel de choclo, Curanto, Completo (hot-dog), Pisco sour",
+    "Espaces naturels": "Torres del Paine, Désert d'Atacama, Grottes de marbre, Île de Pâques, Lac Todos los Santos"
+  },
+  {
+    "Pays": "Chili",
+    "Ville": "Arica",
+    "Attractions": "Colline El Morro, visiter la vallée d'Azapa, les plages chaudes.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Empanadas, Pastel de choclo, Curanto, Completo (hot-dog), Pisco sour",
+    "Espaces naturels": "Torres del Paine, Désert d'Atacama, Grottes de marbre, Île de Pâques, Lac Todos los Santos"
+  },
+  {
+    "Pays": "Chili",
+    "Ville": "La Serena",
+    "Attractions": "Le phare historique, visiter les observatoires astronomiques dans la vallée de l'Elqui.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Empanadas, Pastel de choclo, Curanto, Completo (hot-dog), Pisco sour",
+    "Espaces naturels": "Torres del Paine, Désert d'Atacama, Grottes de marbre, Île de Pâques, Lac Todos los Santos"
+  },
+  {
+    "Pays": "Chili",
+    "Ville": "Castro (Chiloé)",
+    "Attractions": "Voir les maisons colorées sur pilotis (palafitos), les églises en bois.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Empanadas, Pastel de choclo, Curanto, Completo (hot-dog), Pisco sour",
+    "Espaces naturels": "Torres del Paine, Désert d'Atacama, Grottes de marbre, Île de Pâques, Lac Todos los Santos"
+  },
+  {
+    "Pays": "Tanzanie",
+    "Ville": "Dar es Salaam",
+    "Attractions": "Explorer le centre-ville, visiter les marchés Kariakoo, le musée du village.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Ugali, Ndizi ka Nyama (bananes plantain avec de la viande), Samoussa, Michika (manioc cuit), Pilau",
+    "Espaces naturels": "Serengeti, Kilimandjaro, Zanzibar, Cratère du Ngorongoro, Parc national de Tarangire"
+  },
+  {
+    "Pays": "Tanzanie",
+    "Ville": "Zanzibar",
+    "Attractions": "Se promener dans Stone Town (UNESCO), les plages de Nungwi, une plantation d'épices.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Ugali, Ndizi ka Nyama (bananes plantain avec de la viande), Samoussa, Michika (manioc cuit), Pilau",
+    "Espaces naturels": "Serengeti, Kilimandjaro, Zanzibar, Cratère du Ngorongoro, Parc national de Tarangire"
+  },
+  {
+    "Pays": "Tanzanie",
+    "Ville": "Arusha",
+    "Attractions": "Porte d'entrée des safaris dans le nord, musée de la déclaration d'Arusha, mont Meru.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Ugali, Ndizi ka Nyama (bananes plantain avec de la viande), Samoussa, Michika (manioc cuit), Pilau",
+    "Espaces naturels": "Serengeti, Kilimandjaro, Zanzibar, Cratère du Ngorongoro, Parc national de Tarangire"
+  },
+  {
+    "Pays": "Tanzanie",
+    "Ville": "Mwanza",
+    "Attractions": "Tour du lac Victoria, zone des rochers de Bismarck, le marché central.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Ugali, Ndizi ka Nyama (bananes plantain avec de la viande), Samoussa, Michika (manioc cuit), Pilau",
+    "Espaces naturels": "Serengeti, Kilimandjaro, Zanzibar, Cratère du Ngorongoro, Parc national de Tarangire"
+  },
+  {
+    "Pays": "Tanzanie",
+    "Ville": "Dodoma",
+    "Attractions": "Les bâtiments du gouvernement, la résidence du président, le musée régional de Dodoma.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Ugali, Ndizi ka Nyama (bananes plantain avec de la viande), Samoussa, Michika (manioc cuit), Pilau",
+    "Espaces naturels": "Serengeti, Kilimandjaro, Zanzibar, Cratère du Ngorongoro, Parc national de Tarangire"
+  },
+  {
+    "Pays": "Tanzanie",
+    "Ville": "Musoma",
+    "Attractions": "Explorer les plages du lac Victoria, les collines et les formations rocheuses.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Ugali, Ndizi ka Nyama (bananes plantain avec de la viande), Samoussa, Michika (manioc cuit), Pilau",
+    "Espaces naturels": "Serengeti, Kilimandjaro, Zanzibar, Cratère du Ngorongoro, Parc national de Tarangire"
+  },
+  {
+    "Pays": "Tanzanie",
+    "Ville": "Tabora",
+    "Attractions": "Découvrir l'histoire de la traite des esclaves, le musée de Kolo, le puits de Kawira.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Ugali, Ndizi ka Nyama (bananes plantain avec de la viande), Samoussa, Michika (manioc cuit), Pilau",
+    "Espaces naturels": "Serengeti, Kilimandjaro, Zanzibar, Cratère du Ngorongoro, Parc national de Tarangire"
+  },
+  {
+    "Pays": "Tanzanie",
+    "Ville": "Kigoma",
+    "Attractions": "Plages du lac Tanganyika, parc national de Gombe Stream (chimpanzés).",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Ugali, Ndizi ka Nyama (bananes plantain avec de la viande), Samoussa, Michika (manioc cuit), Pilau",
+    "Espaces naturels": "Serengeti, Kilimandjaro, Zanzibar, Cratère du Ngorongoro, Parc national de Tarangire"
+  },
+  {
+    "Pays": "Tanzanie",
+    "Ville": "Mbeya",
+    "Attractions": "Colline de Mbeya (vue panoramique), visiter les fermes, forêts de Rungwe.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Ugali, Ndizi ka Nyama (bananes plantain avec de la viande), Samoussa, Michika (manioc cuit), Pilau",
+    "Espaces naturels": "Serengeti, Kilimandjaro, Zanzibar, Cratère du Ngorongoro, Parc national de Tarangire"
+  },
+  {
+    "Pays": "Tanzanie",
+    "Ville": "Mont Kilimandjaro",
+    "Attractions": "Gravir le plus haut sommet d'Afrique, explorer les forêts tropicales environnantes.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Ugali, Ndizi ka Nyama (bananes plantain avec de la viande), Samoussa, Michika (manioc cuit), Pilau",
+    "Espaces naturels": "Serengeti, Kilimandjaro, Zanzibar, Cratère du Ngorongoro, Parc national de Tarangire"
+  },
+  {
+    "Pays": "République Tchèque",
+    "Ville": "Prague",
+    "Attractions": "Pont Charles, château de Prague, l'horloge astronomique, la vieille ville.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Goulasch, Trdelník (pâtisserie), Svíčková, Schnitzel, Knedlíky tchèques",
+    "Espaces naturels": "Suisse bohémienne, Rochers d'Adršpach, Grottes de Moravie, Forêt de Šumava, Lac Lipno"
+  },
+  {
+    "Pays": "République Tchèque",
+    "Ville": "Český Krumlov",
+    "Attractions": "Se promener dans la vieille ville (UNESCO), le château, faire du bateau sur la rivière.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Goulasch, Trdelník (pâtisserie), Svíčková, Schnitzel, Knedlíky tchèques",
+    "Espaces naturels": "Suisse bohémienne, Rochers d'Adršpach, Grottes de Moravie, Forêt de Šumava, Lac Lipno"
+  },
+  {
+    "Pays": "République Tchèque",
+    "Ville": "Brno",
+    "Attractions": "Villa Tugendhat, château de Špilberk, cathédrale Saints-Pierre-et-Paul.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Goulasch, Trdelník (pâtisserie), Svíčková, Schnitzel, Knedlíky tchèques",
+    "Espaces naturels": "Suisse bohémienne, Rochers d'Adršpach, Grottes de Moravie, Forêt de Šumava, Lac Lipno"
+  },
+  {
+    "Pays": "République Tchèque",
+    "Ville": "Karlovy Vary",
+    "Attractions": "Les sources thermales curatives, se promener dans les colonnades, déguster les gaufrettes.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Goulasch, Trdelník (pâtisserie), Svíčková, Schnitzel, Knedlíky tchèques",
+    "Espaces naturels": "Suisse bohémienne, Rochers d'Adršpach, Grottes de Moravie, Forêt de Šumava, Lac Lipno"
+  },
+  {
+    "Pays": "République Tchèque",
+    "Ville": "Plzeň",
+    "Attractions": "Visiter les brasseries historiques, la Grande Synagogue, la place de la République.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Goulasch, Trdelník (pâtisserie), Svíčková, Schnitzel, Knedlíky tchèques",
+    "Espaces naturels": "Suisse bohémienne, Rochers d'Adršpach, Grottes de Moravie, Forêt de Šumava, Lac Lipno"
+  },
+  {
+    "Pays": "République Tchèque",
+    "Ville": "Olomouc",
+    "Attractions": "Colonne de la Sainte Trinité, les fontaines baroques, déguster le fromage d'Olomouc.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Goulasch, Trdelník (pâtisserie), Svíčková, Schnitzel, Knedlíky tchèques",
+    "Espaces naturels": "Suisse bohémienne, Rochers d'Adršpach, Grottes de Moravie, Forêt de Šumava, Lac Lipno"
+  },
+  {
+    "Pays": "République Tchèque",
+    "Ville": "Kutná Hora",
+    "Attractions": "L'église des ossements (Sedlec), la cathédrale Sainte-Barbe.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Goulasch, Trdelník (pâtisserie), Svíčková, Schnitzel, Knedlíky tchèques",
+    "Espaces naturels": "Suisse bohémienne, Rochers d'Adršpach, Grottes de Moravie, Forêt de Šumava, Lac Lipno"
+  },
+  {
+    "Pays": "République Tchèque",
+    "Ville": "Telč",
+    "Attractions": "La place de la ville de style Renaissance, le château, les étangs environnants.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Goulasch, Trdelník (pâtisserie), Svíčková, Schnitzel, Knedlíky tchèques",
+    "Espaces naturels": "Suisse bohémienne, Rochers d'Adršpach, Grottes de Moravie, Forêt de Šumava, Lac Lipno"
+  },
+  {
+    "Pays": "République Tchèque",
+    "Ville": "Liberec",
+    "Attractions": "Tour Ještěd, le zoo, le centre scientifique iQLANDIA.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Goulasch, Trdelník (pâtisserie), Svíčková, Schnitzel, Knedlíky tchèques",
+    "Espaces naturels": "Suisse bohémienne, Rochers d'Adršpach, Grottes de Moravie, Forêt de Šumava, Lac Lipno"
+  },
+  {
+    "Pays": "République Tchèque",
+    "Ville": "Ostrava",
+    "Attractions": "Zone de Dolní Vítkovice (patrimoine industriel), la rue Stodolní pour la vie nocturne.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Goulasch, Trdelník (pâtisserie), Svíčková, Schnitzel, Knedlíky tchèques",
+    "Espaces naturels": "Suisse bohémienne, Rochers d'Adršpach, Grottes de Moravie, Forêt de Šumava, Lac Lipno"
+  },
+  {
+    "Pays": "Sri Lanka",
+    "Ville": "Colombo",
+    "Attractions": "Visiter le temple Gangarama, shopping dans les centres commerciaux et le Colombo City Centre, le quartier de Fort.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Riz au curry, Kottu roti, Hoppers (crêpes aux œufs), Pol sambol, Watalappam (dessert)",
+    "Espaces naturels": "Sigiriya (jardins d'eau), Hautes terres d'Ella, Parc national de Yala, Plaines de Horton, Parc national d'Udawalawe"
+  },
+  {
+    "Pays": "Sri Lanka",
+    "Ville": "Kandy",
+    "Attractions": "Temple de la Dent sacrée, lac Kandy, les jardins botaniques royaux.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Riz au curry, Kottu roti, Hoppers (crêpes aux œufs), Pol sambol, Watalappam (dessert)",
+    "Espaces naturels": "Sigiriya (jardins d'eau), Hautes terres d'Ella, Parc national de Yala, Plaines de Horton, Parc national d'Udawalawe"
+  },
+  {
+    "Pays": "Sri Lanka",
+    "Ville": "Galle",
+    "Attractions": "La forteresse néerlandaise de Galle (UNESCO), le phare, le musée maritime national.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Riz au curry, Kottu roti, Hoppers (crêpes aux œufs), Pol sambol, Watalappam (dessert)",
+    "Espaces naturels": "Sigiriya (jardins d'eau), Hautes terres d'Ella, Parc national de Yala, Plaines de Horton, Parc national d'Udawalawe"
+  },
+  {
+    "Pays": "Sri Lanka",
+    "Ville": "Nuwara Eliya",
+    "Attractions": "Les plantations de thé vertes, le lac Gregory, le vieux bureau de poste.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Riz au curry, Kottu roti, Hoppers (crêpes aux œufs), Pol sambol, Watalappam (dessert)",
+    "Espaces naturels": "Sigiriya (jardins d'eau), Hautes terres d'Ella, Parc national de Yala, Plaines de Horton, Parc national d'Udawalawe"
+  },
+  {
+    "Pays": "Sri Lanka",
+    "Ville": "Ella",
+    "Attractions": "Pont des Neuf Archs, le rocher d'Ella, un voyage en train dans les hautes terres.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Riz au curry, Kottu roti, Hoppers (crêpes aux œufs), Pol sambol, Watalappam (dessert)",
+    "Espaces naturels": "Sigiriya (jardins d'eau), Hautes terres d'Ella, Parc national de Yala, Plaines de Horton, Parc national d'Udawalawe"
+  },
+  {
+    "Pays": "Sri Lanka",
+    "Ville": "Anuradhapura",
+    "Attractions": "La ville sainte ancienne (UNESCO), les temples de Dambulla, l'arbre Bodhi.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Riz au curry, Kottu roti, Hoppers (crêpes aux œufs), Pol sambol, Watalappam (dessert)",
+    "Espaces naturels": "Sigiriya (jardins d'eau), Hautes terres d'Ella, Parc national de Yala, Plaines de Horton, Parc national d'Udawalawe"
+  },
+  {
+    "Pays": "Sri Lanka",
+    "Ville": "Polonnaruwa",
+    "Attractions": "La ville ancienne du deuxième royaume (UNESCO), le musée de Polonnaruwa.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Riz au curry, Kottu roti, Hoppers (crêpes aux œufs), Pol sambol, Watalappam (dessert)",
+    "Espaces naturels": "Sigiriya (jardins d'eau), Hautes terres d'Ella, Parc national de Yala, Plaines de Horton, Parc national d'Udawalawe"
+  },
+  {
+    "Pays": "Sri Lanka",
+    "Ville": "Trincomalee",
+    "Attractions": "Temple de Koneswaram, plage d'Uppuveli, parc national de Pigeon Island.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Riz au curry, Kottu roti, Hoppers (crêpes aux œufs), Pol sambol, Watalappam (dessert)",
+    "Espaces naturels": "Sigiriya (jardins d'eau), Hautes terres d'Ella, Parc national de Yala, Plaines de Horton, Parc national d'Udawalawe"
+  },
+  {
+    "Pays": "Sri Lanka",
+    "Ville": "Mirissa",
+    "Attractions": "Plage de Mirissa, observation des baleines et des dauphins, pêche sur pilotis.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Riz au curry, Kottu roti, Hoppers (crêpes aux œufs), Pol sambol, Watalappam (dessert)",
+    "Espaces naturels": "Sigiriya (jardins d'eau), Hautes terres d'Ella, Parc national de Yala, Plaines de Horton, Parc national d'Udawalawe"
+  },
+  {
+    "Pays": "Sri Lanka",
+    "Ville": "Jaffna",
+    "Attractions": "Bibliothèque de Jaffna, forteresse néerlandaise de Jaffna, plage de Casuarina.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Riz au curry, Kottu roti, Hoppers (crêpes aux œufs), Pol sambol, Watalappam (dessert)",
+    "Espaces naturels": "Sigiriya (jardins d'eau), Hautes terres d'Ella, Parc national de Yala, Plaines de Horton, Parc national d'Udawalawe"
+  },
+  {
+    "Pays": "Maldives",
+    "Ville": "Malé",
+    "Attractions": "Grande mosquée du vendredi, le musée national, le marché aux poissons local.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Mas huni, Garudhiya (soupe de poisson), Bis keemiya, Boshiami masunu, Gâteau à la noix de coco",
+    "Espaces naturels": "Récifs coralliens, baie de Hanifaru, plages lumineuses, Bancs de sable, Pointe aux requins"
+  },
+  {
+    "Pays": "Maldives",
+    "Ville": "Maafushi",
+    "Attractions": "Sports nautiques, plongée, excursions pour voir les dauphins à prix raisonnable.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Mas huni, Garudhiya (soupe de poisson), Bis keemiya, Boshiami masunu, Gâteau à la noix de coco",
+    "Espaces naturels": "Récifs coralliens, baie de Hanifaru, plages lumineuses, Bancs de sable, Pointe aux requins"
+  },
+  {
+    "Pays": "Maldives",
+    "Ville": "Hulhumalé",
+    "Attractions": "La plage publique, le parc central, la proximité de l'aéroport.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Mas huni, Garudhiya (soupe de poisson), Bis keemiya, Boshiami masunu, Gâteau à la noix de coco",
+    "Espaces naturels": "Récifs coralliens, baie de Hanifaru, plages lumineuses, Bancs de sable, Pointe aux requins"
+  },
+  {
+    "Pays": "Maldives",
+    "Ville": "Île d'Addu",
+    "Attractions": "Faire du vélo, plongée sur des épaves, le parc naturel.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Mas huni, Garudhiya (soupe de poisson), Bis keemiya, Boshiami masunu, Gâteau à la noix de coco",
+    "Espaces naturels": "Récifs coralliens, baie de Hanifaru, plages lumineuses, Bancs de sable, Pointe aux requins"
+  },
+  {
+    "Pays": "Maldives",
+    "Ville": "Vaavu",
+    "Attractions": "Se détendre dans des stations de luxe, plongée sous-marine.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Mas huni, Garudhiya (soupe de poisson), Bis keemiya, Boshiami masunu, Gâteau à la noix de coco",
+    "Espaces naturels": "Récifs coralliens, baie de Hanifaru, plages lumineuses, Bancs de sable, Pointe aux requins"
+  },
+  {
+    "Pays": "Maldives",
+    "Ville": "Dhigurah",
+    "Attractions": "Nager avec les requins-baleines, les longues plages.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Mas huni, Garudhiya (soupe de poisson), Bis keemiya, Boshiami masunu, Gâteau à la noix de coco",
+    "Espaces naturels": "Récifs coralliens, baie de Hanifaru, plages lumineuses, Bancs de sable, Pointe aux requins"
+  },
+  {
+    "Pays": "Maldives",
+    "Ville": "Thoddoo",
+    "Attractions": "Visiter les plantations de fruits, les plages réservées aux touristes.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Mas huni, Garudhiya (soupe de poisson), Bis keemiya, Boshiami masunu, Gâteau à la noix de coco",
+    "Espaces naturels": "Récifs coralliens, baie de Hanifaru, plages lumineuses, Bancs de sable, Pointe aux requins"
+  },
+  {
+    "Pays": "Maldives",
+    "Ville": "Ukulhas",
+    "Attractions": "Tourisme écologique propre, pêche.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Mas huni, Garudhiya (soupe de poisson), Bis keemiya, Boshiami masunu, Gâteau à la noix de coco",
+    "Espaces naturels": "Récifs coralliens, baie de Hanifaru, plages lumineuses, Bancs de sable, Pointe aux requins"
+  },
+  {
+    "Pays": "Maldives",
+    "Ville": "Rasdhoo",
+    "Attractions": "Sites de plongée avec le requin-marteau, pique-niques sur les bancs de sable.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Mas huni, Garudhiya (soupe de poisson), Bis keemiya, Boshiami masunu, Gâteau à la noix de coco",
+    "Espaces naturels": "Récifs coralliens, baie de Hanifaru, plages lumineuses, Bancs de sable, Pointe aux requins"
+  },
+  {
+    "Pays": "Maldives",
+    "Ville": "Fehendhoo",
+    "Attractions": "Expérimenter la vie locale, plongée de nuit.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Mas huni, Garudhiya (soupe de poisson), Bis keemiya, Boshiami masunu, Gâteau à la noix de coco",
+    "Espaces naturels": "Récifs coralliens, baie de Hanifaru, plages lumineuses, Bancs de sable, Pointe aux requins"
+  },
+  {
+    "Pays": "Roumanie",
+    "Ville": "Bucarest",
+    "Attractions": "Palais du Parlement (deuxième plus grand bâtiment administratif du monde), la vieille ville, l'Athénée roumain.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Mămăligă (bouillie de maïs), Sarmale (chou farci), Mici (saucisses grillées), Cozonac (pain sucré), Soupe à la crème",
+    "Espaces naturels": "Delta du Danube, Monts des Carpates, Route Transfăgărășan, Parc national de Retezat, Grotte de Scărișoara"
+  },
+  {
+    "Pays": "Roumanie",
+    "Ville": "Brașov",
+    "Attractions": "Église Noire (Biserica Neagră), la place du Conseil, mont Tâmpa.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Mămăligă (bouillie de maïs), Sarmale (chou farci), Mici (saucisses grillées), Cozonac (pain sucré), Soupe à la crème",
+    "Espaces naturels": "Delta du Danube, Monts des Carpates, Route Transfăgărășan, Parc national de Retezat, Grotte de Scărișoara"
+  },
+  {
+    "Pays": "Roumanie",
+    "Ville": "Sibiu",
+    "Attractions": "Grande Place (Piața Mare), le Pont des Mensonges, le musée national complex ASTRA.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Mămăligă (bouillie de maïs), Sarmale (chou farci), Mici (saucisses grillées), Cozonac (pain sucré), Soupe à la crème",
+    "Espaces naturels": "Delta du Danube, Monts des Carpates, Route Transfăgărășan, Parc national de Retezat, Grotte de Scărișoara"
+  },
+  {
+    "Pays": "Roumanie",
+    "Ville": "Timișoara",
+    "Attractions": "Cathédrale métropolitaine, la place de la Victoire, le village national de Banat.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Mămăligă (bouillie de maïs), Sarmale (chou farci), Mici (saucisses grillées), Cozonac (pain sucré), Soupe à la crème",
+    "Espaces naturels": "Delta du Danube, Monts des Carpates, Route Transfăgărășan, Parc national de Retezat, Grotte de Scărișoara"
+  },
+  {
+    "Pays": "Roumanie",
+    "Ville": "Cluj-Napoca",
+    "Attractions": "Place de l'Union, église Saint-Michel, le jardin botanique Alexandru Borza.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Mămăligă (bouillie de maïs), Sarmale (chou farci), Mici (saucisses grillées), Cozonac (pain sucré), Soupe à la crème",
+    "Espaces naturels": "Delta du Danube, Monts des Carpates, Route Transfăgărășan, Parc national de Retezat, Grotte de Scărișoara"
+  },
+  {
+    "Pays": "Roumanie",
+    "Ville": "Sighișoara",
+    "Attractions": "Tour de l'Horloge, maison de Dracula, la ville fortifiée (UNESCO).",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Mămăligă (bouillie de maïs), Sarmale (chou farci), Mici (saucisses grillées), Cozonac (pain sucré), Soupe à la crème",
+    "Espaces naturels": "Delta du Danube, Monts des Carpates, Route Transfăgărășan, Parc national de Retezat, Grotte de Scărișoara"
+  },
+  {
+    "Pays": "Roumanie",
+    "Ville": "Constanța",
+    "Attractions": "Casino de Constanța, la Grande Mosquée, les plages de la mer Noire.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Mămăligă (bouillie de maïs), Sarmale (chou farci), Mici (saucisses grillées), Cozonac (pain sucré), Soupe à la crème",
+    "Espaces naturels": "Delta du Danube, Monts des Carpates, Route Transfăgărășan, Parc national de Retezat, Grotte de Scărișoara"
+  },
+  {
+    "Pays": "Roumanie",
+    "Ville": "Iași",
+    "Attractions": "Palais de la Culture, cathédrale métropolitaine, université Alexandru Ioan Cuza.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Mămăligă (bouillie de maïs), Sarmale (chou farci), Mici (saucisses grillées), Cozonac (pain sucré), Soupe à la crème",
+    "Espaces naturels": "Delta du Danube, Monts des Carpates, Route Transfăgărășan, Parc national de Retezat, Grotte de Scărișoara"
+  },
+  {
+    "Pays": "Roumanie",
+    "Ville": "Oradea",
+    "Attractions": "Place de l'Union, théâtre d'État, musée Țării Crișurilor.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Mămăligă (bouillie de maïs), Sarmale (chou farci), Mici (saucisses grillées), Cozonac (pain sucré), Soupe à la crème",
+    "Espaces naturels": "Delta du Danube, Monts des Carpates, Route Transfăgărășan, Parc national de Retezat, Grotte de Scărișoara"
+  },
+  {
+    "Pays": "Roumanie",
+    "Ville": "Brașov",
+    "Attractions": "Château de Bran (château de Dracula), église Saint-Georges, route de Poiana Brașov.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Mămăligă (bouillie de maïs), Sarmale (chou farci), Mici (saucisses grillées), Cozonac (pain sucré), Soupe à la crème",
+    "Espaces naturels": "Delta du Danube, Monts des Carpates, Route Transfăgărășan, Parc national de Retezat, Grotte de Scărișoara"
+  },
+  {
+    "Pays": "Géorgie",
+    "Ville": "Tbilissi",
+    "Attractions": "Forteresse de Narikala, les bains soufrés, avenue Roustavéli, le pont de la Paix.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Khachapouri, Khinkali, Chakhokhbili, Tchourtchkhela, Salade d'aubergines",
+    "Espaces naturels": "Montagnes du Caucase, Lac de Ritsa, Vallée de Martvili, Parc de Borjomi, Mont Shkhara"
+  },
+  {
+    "Pays": "Géorgie",
+    "Ville": "Batoumi",
+    "Attractions": "Jardin botanique de Batoumi, statue d'Ali et Nino, la tour de l'Alphabet, le boulevard.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Khachapouri, Khinkali, Chakhokhbili, Tchourtchkhela, Salade d'aubergines",
+    "Espaces naturels": "Montagnes du Caucase, Lac de Ritsa, Vallée de Martvili, Parc de Borjomi, Mont Shkhara"
+  },
+  {
+    "Pays": "Géorgie",
+    "Ville": "Koutaïssi",
+    "Attractions": "Grotte de Prométhée, cathédrale de Bagrati, vallée d'Okați.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Khachapouri, Khinkali, Chakhokhbili, Tchourtchkhela, Salade d'aubergines",
+    "Espaces naturels": "Montagnes du Caucase, Lac de Ritsa, Vallée de Martvili, Parc de Borjomi, Mont Shkhara"
+  },
+  {
+    "Pays": "Géorgie",
+    "Ville": "Mtskheta",
+    "Attractions": "Monastère de Jvari, cathédrale de Svetitskhoveli (l'ancienne capitale).",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Khachapouri, Khinkali, Chakhokhbili, Tchourtchkhela, Salade d'aubergines",
+    "Espaces naturels": "Montagnes du Caucase, Lac de Ritsa, Vallée de Martvili, Parc de Borjomi, Mont Shkhara"
+  },
+  {
+    "Pays": "Géorgie",
+    "Ville": "Goudaouri",
+    "Attractions": "Ski, parapente, paysages de montagne.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Khachapouri, Khinkali, Chakhokhbili, Tchourtchkhela, Salade d'aubergines",
+    "Espaces naturels": "Montagnes du Caucase, Lac de Ritsa, Vallée de Martvili, Parc de Borjomi, Mont Shkhara"
+  },
+  {
+    "Pays": "Géorgie",
+    "Ville": "Signaghi",
+    "Attractions": "La ville de l'amour, dégustation de vin, le mur historique.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Khachapouri, Khinkali, Chakhokhbili, Tchourtchkhela, Salade d'aubergines",
+    "Espaces naturels": "Montagnes du Caucase, Lac de Ritsa, Vallée de Martvili, Parc de Borjomi, Mont Shkhara"
+  },
+  {
+    "Pays": "Géorgie",
+    "Ville": "Borjomi",
+    "Attractions": "Sources d'eau minérale, le parc central.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Khachapouri, Khinkali, Chakhokhbili, Tchourtchkhela, Salade d'aubergines",
+    "Espaces naturels": "Montagnes du Caucase, Lac de Ritsa, Vallée de Martvili, Parc de Borjomi, Mont Shkhara"
+  },
+  {
+    "Pays": "Géorgie",
+    "Ville": "Stepantsminda",
+    "Attractions": "Église de la Trinité de Gergeti, mont Kazbek.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Khachapouri, Khinkali, Chakhokhbili, Tchourtchkhela, Salade d'aubergines",
+    "Espaces naturels": "Montagnes du Caucase, Lac de Ritsa, Vallée de Martvili, Parc de Borjomi, Mont Shkhara"
+  },
+  {
+    "Pays": "Géorgie",
+    "Ville": "Gori",
+    "Attractions": "Musée Staline, la ville troglodytique d'Uplistsikhé.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Khachapouri, Khinkali, Chakhokhbili, Tchourtchkhela, Salade d'aubergines",
+    "Espaces naturels": "Montagnes du Caucase, Lac de Ritsa, Vallée de Martvili, Parc de Borjomi, Mont Shkhara"
+  },
+  {
+    "Pays": "Géorgie",
+    "Ville": "Telavi",
+    "Attractions": "Château de Batonis, vignobles.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Khachapouri, Khinkali, Chakhokhbili, Tchourtchkhela, Salade d'aubergines",
+    "Espaces naturels": "Montagnes du Caucase, Lac de Ritsa, Vallée de Martvili, Parc de Borjomi, Mont Shkhara"
+  },
+  {
+    "Pays": "Jamaïque",
+    "Ville": "Kingston",
+    "Attractions": "Musée Bob Marley, Devon House, les montagnes Blue.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Poulet jerk, Ackee et poisson salé, Patty (pâté de viande), Soupe (pepper pot), Rhum",
+    "Espaces naturels": "Montagnes Blue, chutes de la rivière Dunn, Blue Lagoon, Grottes de Cockpit Country, Seven Mile Beach"
+  },
+  {
+    "Pays": "Jamaïque",
+    "Ville": "Montego Bay",
+    "Attractions": "Plage Doctor's Cave, plongée sous-marine, Rose Hall Great House.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Poulet jerk, Ackee et poisson salé, Patty (pâté de viande), Soupe (pepper pot), Rhum",
+    "Espaces naturels": "Montagnes Blue, chutes de la rivière Dunn, Blue Lagoon, Grottes de Cockpit Country, Seven Mile Beach"
+  },
+  {
+    "Pays": "Jamaïque",
+    "Ville": "Negril",
+    "Attractions": "Plage des Sept Milles, saut des falaises de Rick.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Poulet jerk, Ackee et poisson salé, Patty (pâté de viande), Soupe (pepper pot), Rhum",
+    "Espaces naturels": "Montagnes Blue, chutes de la rivière Dunn, Blue Lagoon, Grottes de Cockpit Country, Seven Mile Beach"
+  },
+  {
+    "Pays": "Jamaïque",
+    "Ville": "Ocho Rios",
+    "Attractions": "Chutes de la rivière Dunn, nager avec les dauphins.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Poulet jerk, Ackee et poisson salé, Patty (pâté de viande), Soupe (pepper pot), Rhum",
+    "Espaces naturels": "Montagnes Blue, chutes de la rivière Dunn, Blue Lagoon, Grottes de Cockpit Country, Seven Mile Beach"
+  },
+  {
+    "Pays": "Jamaïque",
+    "Ville": "Port Antonio",
+    "Attractions": "Blue Lagoon, plage Frenchman's Cove, excursions en bateau sur la rivière Rio Grande.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Poulet jerk, Ackee et poisson salé, Patty (pâté de viande), Soupe (pepper pot), Rhum",
+    "Espaces naturels": "Montagnes Blue, chutes de la rivière Dunn, Blue Lagoon, Grottes de Cockpit Country, Seven Mile Beach"
+  },
+  {
+    "Pays": "Jamaïque",
+    "Ville": "Mandeville",
+    "Attractions": "Musée de Manchester, les collines vertes, plantations de café.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Poulet jerk, Ackee et poisson salé, Patty (pâté de viande), Soupe (pepper pot), Rhum",
+    "Espaces naturels": "Montagnes Blue, chutes de la rivière Dunn, Blue Lagoon, Grottes de Cockpit Country, Seven Mile Beach"
+  },
+  {
+    "Pays": "Jamaïque",
+    "Ville": "Spanish Town",
+    "Attractions": "La vieille cathédrale, la place du Patrimoine, les ruines de la Old King's House.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Poulet jerk, Ackee et poisson salé, Patty (pâté de viande), Soupe (pepper pot), Rhum",
+    "Espaces naturels": "Montagnes Blue, chutes de la rivière Dunn, Blue Lagoon, Grottes de Cockpit Country, Seven Mile Beach"
+  },
+  {
+    "Pays": "Jamaïque",
+    "Ville": "Black River",
+    "Attractions": "Excursions en bateau sur la rivière pour voir les crocodiles, Alligator Hole.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Poulet jerk, Ackee et poisson salé, Patty (pâté de viande), Soupe (pepper pot), Rhum",
+    "Espaces naturels": "Montagnes Blue, chutes de la rivière Dunn, Blue Lagoon, Grottes de Cockpit Country, Seven Mile Beach"
+  },
+  {
+    "Pays": "Jamaïque",
+    "Ville": "Ocho Rios",
+    "Attractions": "Explorer les plages tranquilles, visiter les plantations de canne à sucre.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Poulet jerk, Ackee et poisson salé, Patty (pâté de viande), Soupe (pepper pot), Rhum",
+    "Espaces naturels": "Montagnes Blue, chutes de la rivière Dunn, Blue Lagoon, Grottes de Cockpit Country, Seven Mile Beach"
+  },
+  {
+    "Pays": "Jamaïque",
+    "Ville": "Falmouth",
+    "Attractions": "Le port historique, les bâtiments georgiens, la plage Burwood.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Poulet jerk, Ackee et poisson salé, Patty (pâté de viande), Soupe (pepper pot), Rhum",
+    "Espaces naturels": "Montagnes Blue, chutes de la rivière Dunn, Blue Lagoon, Grottes de Cockpit Country, Seven Mile Beach"
+  },
+  {
+    "Pays": "Mali",
+    "Ville": "Bamako",
+    "Attractions": "Musée national, Grande Mosquée, marché central de Bamako, pont du Roi Fahd.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Riz à la sauce arachide (Tiguadèguèna), Fufu, To, Couscous",
+    "Espaces naturels": "Fleuve Niger, Monts Hombori, Parc national de Boucle du Baoulé, Savane"
+  },
+  {
+    "Pays": "Mali",
+    "Ville": "Djenné",
+    "Attractions": "La Grande Mosquée (le plus grand bâtiment en banco du monde), la vieille ville (UNESCO).",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Riz à la sauce arachide (Tiguadèguèna), Fufu, To, Couscous",
+    "Espaces naturels": "Fleuve Niger, Monts Hombori, Parc national de Boucle du Baoulé, Savane"
+  },
+  {
+    "Pays": "Mali",
+    "Ville": "Tombouctou",
+    "Attractions": "Mosquées Sankoré et Djingareyber, les bibliothèques historiques, musée de Tombouctou.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Riz à la sauce arachide (Tiguadèguèna), Fufu, To, Couscous",
+    "Espaces naturels": "Fleuve Niger, Monts Hombori, Parc national de Boucle du Baoulé, Savane"
+  },
+  {
+    "Pays": "Mali",
+    "Ville": "Mopti",
+    "Attractions": "La Grande Mosquée, le port fluvial de Mopti, visiter les villages de pêcheurs sur le fleuve.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Riz à la sauce arachide (Tiguadèguèna), Fufu, To, Couscous",
+    "Espaces naturels": "Fleuve Niger, Monts Hombori, Parc national de Boucle du Baoulé, Savane"
+  },
+  {
+    "Pays": "Mali",
+    "Ville": "Sikasso",
+    "Attractions": "Site de Farako (la ville fortifiée), chutes de Sikasso, musée de Sikasso.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Riz à la sauce arachide (Tiguadèguèna), Fufu, To, Couscous",
+    "Espaces naturels": "Fleuve Niger, Monts Hombori, Parc national de Boucle du Baoulé, Savane"
+  },
+  {
+    "Pays": "Mali",
+    "Ville": "Gao",
+    "Attractions": "Tombeau des Askia (UNESCO), marché de Gao, fleuve Niger.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Riz à la sauce arachide (Tiguadèguèna), Fufu, To, Couscous",
+    "Espaces naturels": "Fleuve Niger, Monts Hombori, Parc national de Boucle du Baoulé, Savane"
+  },
+  {
+    "Pays": "Mali",
+    "Ville": "Kidal",
+    "Attractions": "Explorer les régions touarègues, le grand désert, visiter les villages nomades.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Riz à la sauce arachide (Tiguadèguèna), Fufu, To, Couscous",
+    "Espaces naturels": "Fleuve Niger, Monts Hombori, Parc national de Boucle du Baoulé, Savane"
+  },
+  {
+    "Pays": "Mali",
+    "Ville": "Kayes",
+    "Attractions": "Chutes de Félou, parc national de Bafing, pont de Kayes.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Riz à la sauce arachide (Tiguadèguèna), Fufu, To, Couscous",
+    "Espaces naturels": "Fleuve Niger, Monts Hombori, Parc national de Boucle du Baoulé, Savane"
+  },
+  {
+    "Pays": "Mali",
+    "Ville": "Ségou",
+    "Attractions": "La Grande Mosquée de style soudanais, les marchés locaux.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Riz à la sauce arachide (Tiguadèguèna), Fufu, To, Couscous",
+    "Espaces naturels": "Fleuve Niger, Monts Hombori, Parc national de Boucle du Baoulé, Savane"
+  },
+  {
+    "Pays": "Mali",
+    "Ville": "Djenné",
+    "Attractions": "Le village historique, l'artisanat, les marchés hebdomadaires.",
+    "Activités": "Faire des visites culturelles et touristiques, et des expériences de shopping local.",
+    "Cuisine": "Riz à la sauce arachide (Tiguadèguèna), Fufu, To, Couscous",
+    "Espaces naturels": "Fleuve Niger, Monts Hombori, Parc national de Boucle du Baoulé, Savane"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "País": "Azerbaiyán",
+    "Ciudad": "Bakú",
+    "Atracciones": "Ciudad Vieja (Icherisheher), Torre de la Doncella, Palacio de los Shirvanshah, Torres de la Llama, Centro Heydar Aliyev, Plaza de las Fuentes, Pequeña Venecia, Museo de la Alfombra.",
+    "Actividades": "Explorar contrastes arquitectónicos, tours históricos por la Ciudad Vieja, pasear por la Plaza de las Fuentes.",
+    "Gastronomía": "Plov (plato de arroz con carne), kebab azerbaiyano, Dushbara (sopa de albóndigas).",
+    "Espacios Verdes": "Parque Highland, Bulevar de Bakú, Parque Central."
+  },
+  {
+    "País": "Azerbaiyán",
+    "Ciudad": "Ganyá",
+    "Atracciones": "Distrito de Nizami Ganjavi, mezquitas históricas, santuarios, hermosos jardines.",
+    "Actividades": "Visitar sitios culturales e históricos, explorar hitos arquitectónicos.",
+    "Gastronomía": "Plov, kebab, dushbara.",
+    "Espacios Verdes": "Khan Baghi (Jardín del Khan), Parque Heydar Aliyev."
+  },
+  {
+    "País": "Azerbaiyán",
+    "Ciudad": "Shaki",
+    "Atracciones": "Palacio de los Janes de Shaki, mercado local de artesanías, teatro (para música y danza tradicionales).",
+    "Actividades": "Sumergirse en la vida rural, visitar el mercado de Shaki para comprar alfombras.",
+    "Gastronomía": "Distintiva gastronomía de Shaki, Plov.",
+    "Espacios Verdes": "Jardines del Palacio del Khan, Bosques Nacionales de Shaki."
+  },
+  {
+    "País": "Uzbekistán",
+    "Ciudad": "Bujará",
+    "Atracciones": "Minarete Kalyan, Fortaleza de Ark, Mausoleo Samánida, Bazares cubiertos (para artesanías y alfombras), madrasas antiguas, Mausoleo Samánida, Mezquita Bolo Hauz.",
+    "Actividades": "Descubrir la arquitectura islámica antigua, pasear por los bazares taki.",
+    "Gastronomía": "Plov, shashlik, manti, samsa.",
+    "Espacios Verdes": "Parque Samánida, Lyab-i Hauz."
+  },
+  {
+    "País": "Uzbekistán",
+    "Ciudad": "Taskent",
+    "Atracciones": "Plaza de la Independencia, Metro de Taskent (decorado con paneles de mosaico), mercado tradicional de Chorsu, Museo Nacional de Historia de Uzbekistán, Parque 'Alisher Navoi'.",
+    "Actividades": "Visitar museos y espaciosos parques, compras en el Mercado de Chorsu.",
+    "Gastronomía": "Plov, shashlik, manti, laghman.",
+    "Espacios Verdes": "Parque Nacional Alisher Navoi, Jardín Japonés, Jardín Botánico de Taskent."
+  },
+  {
+    "País": "Uzbekistán",
+    "Ciudad": "Corasmia (Jiva)",
+    "Atracciones": "Murallas de la ciudad vieja, palacios y fortalezas, torres (para observación), mercados antiguos.",
+    "Actividades": "Explorar palacios y fortalezas, contemplar oasis, visitar mercados antiguos.",
+    "Gastronomía": "Plov, shashlik, laghman.",
+    "Espacios Verdes": "Parque interior de Ichan-Qala, Parque de Cultura y Recreación de Jiva."
+  },
+  {
+    "País": "Uzbekistán",
+    "Ciudad": "Shahrisabz",
+    "Atracciones": "Palacio Ak-Saray (lugar de nacimiento de Tamerlán), jardines históricos, hermosos mosaicos.",
+    "Actividades": "Visitar jardines históricos, contemplar la arquitectura timúrida.",
+    "Gastronomía": "Plov, shashlik, samsa.",
+    "Espacios Verdes": "Jardines de la Plaza de Tamerlán, Reserva Geológica de Kitab."
+  },
+  {
+    "País": "Uzbekistán",
+    "Ciudad": "Namangán",
+    "Atracciones": "(Una ciudad importante con monumentos y puntos de referencia históricos).",
+    "Actividades": "Explorar minaretes y madrasas, visitar el jardín de flores.",
+    "Gastronomía": "Plov de Namangán, shashlik, frutas del Valle de Ferganá.",
+    "Espacios Verdes": "Parque Zahiriddin Babur, Parque Afsana."
+  }
+]

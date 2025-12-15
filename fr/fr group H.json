@@ -1,0 +1,1098 @@
+{
+  "Données": [
+    {
+      "Pays": "Gabon",
+      "Villes": [
+        {
+          "Ville Principale": "Libreville",
+          "Monuments Historiques et Architecturaux Remarquables": "L'église Saint-Michel avec ses colonnes en bois sculpté, le palais présidentiel de style moderne.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Se promener le long de la corniche océanique tranquille, visiter le Musée gabonais des Arts et Traditions, faire du shopping dans le marché animé de Mont-Bouët.",
+          "Espaces Verts et Paysages": "Le petit parc Bonsuang dans la ville, les plages isolées de la ville.",
+          "Plats Locaux Célèbres": "Nyembwe (poulet en sauce de noix de palme) avec des plantains cuits, poisson grillé frais sur la plage."
+        },
+        {
+          "Ville Principale": "Port-Gentil",
+          "Monuments Historiques et Architecturaux Remarquables": "Cathédrale Saint-Louis, le centre ville colonial.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Profiter de la plage de L'Escale, excursions d'observation des dauphins, pêche dans l'océan Atlantique.",
+          "Espaces Verts et Paysages": "Forêts de mangroves autour de la ville, la baie d'Ogooué.",
+          "Plats Locaux Célèbres": "Huîtres fraîches et carpe assaisonnée, gâteaux de manioc frits."
+        },
+        {
+          "Ville Principale": "Franceville",
+          "Monuments Historiques et Architecturaux Remarquables": "Anciens bâtiments gouvernementaux, le marché central local.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter la statue d'Omar Bongo, explorer les hauts plateaux de la région du Haut-Ogooué, randonnée sur les sentiers forestiers.",
+          "Espaces Verts et Paysages": "Le parc Monda avec ses vues dégagées, les collines verdoyantes environnantes.",
+          "Plats Locaux Célèbres": "Viande fumée (surtout du gibier) avec sauce aux graines de citrouille."
+        },
+        {
+          "Ville Principale": "Oyem",
+          "Monuments Historiques et Architecturaux Remarquables": "Petites églises traditionnelles, maisons en bois rustiques.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Expérimenter la culture Fang locale, visiter le marché de produits agricoles frais.",
+          "Espaces Verts et Paysages": "Zones forestières près des frontières du Cameroun et de la Guinée équatoriale.",
+          "Plats Locaux Célèbres": "Arachides cuites avec du riz, bananes grillées sucrées."
+        },
+        {
+          "Ville Principale": "Lambaréné",
+          "Monuments Historiques et Architecturaux Remarquables": "Hôpital Albert Schweitzer (un site médical historique important), maisons au bord de la rivière.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visite historique de l'hôpital Albert Schweitzer, excursions en bateau sur le lac Ogooué.",
+          "Espaces Verts et Paysages": "Le système de lacs interconnectés autour de la ville, le jardin botanique de l'hôpital.",
+          "Plats Locaux Célèbres": "Tilapia de rivière, ragoût de légumes Odika."
+        },
+        {
+          "Ville Principale": "Moanda",
+          "Monuments Historiques et Architecturaux Remarquables": "Restes d'anciennes mines (tourisme industriel).",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter le complexe minier de manganèse, explorer les collines et villages environnants.",
+          "Espaces Verts et Paysages": "Savane de collines herbeuses.",
+          "Plats Locaux Célèbres": "Ragoût de légumes africains avec du poulet, manioc bouilli."
+        },
+        {
+          "Ville Principale": "Tchibanga",
+          "Monuments Historiques et Architecturaux Remarquables": "Bâtiments traditionnels de la tribu Bunu.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter les grottes d'Ibinda, randonnée dans la savane.",
+          "Espaces Verts et Paysages": "Grottes d'Ibinda, forêt de savane.",
+          "Plats Locaux Célèbres": "Plat Mokabi (feuilles de banane farcies), purée de bananes."
+        },
+        {
+          "Ville Principale": "Makokou",
+          "Monuments Historiques et Architecturaux Remarquables": "Pont Makokou.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Point de départ du parc national d'Ivindo, excursions en bateau sur la rivière.",
+          "Espaces Verts et Paysages": "Rivière Ivindo, forêts tropicales environnantes.",
+          "Plats Locaux Célèbres": "Poisson de rivière assaisonné, fruits frais de la forêt."
+        },
+        {
+          "Ville Principale": "Koulamoutou",
+          "Monuments Historiques et Architecturaux Remarquables": "Marché de Koulamoutou.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter les cascades de Boundolo à proximité, randonnée dans les forêts de montagne.",
+          "Espaces Verts et Paysages": "Cascades de Boundolo, vallées de Monda.",
+          "Plats Locaux Célèbres": "Kebondo (plat de viande et haricots), riz avec légumes."
+        },
+        {
+          "Ville Principale": "Gamba",
+          "Monuments Historiques et Architecturaux Remarquables": "Station de recherche de Gamba.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Écotourisme pour voir les éléphants sur la plage, se détendre sur les côtes tranquilles.",
+          "Espaces Verts et Paysages": "Parc national de Loango (très proche), lac Gamba.",
+          "Plats Locaux Célèbres": "Fruits de mer grillés, poulet enterré dans le sable."
+        }
+      ]
+    },
+    {
+      "Pays": "Madagascar",
+      "Villes": [
+        {
+          "Ville Principale": "Antananarivo",
+          "Monuments Historiques et Architecturaux Remarquables": "Palais Rova (complexe de palais royaux), Avenue de l'Indépendance.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Explorer le Palais de la Reine (Rova), visiter le marché Zoma, se promener autour du lac Anosy.",
+          "Espaces Verts et Paysages": "Parc des Lémuriens (à courte distance), Zoo de Tsimbazaza.",
+          "Plats Locaux Célèbres": "Romazava (ragoût de viande et légumes dans un bouillon), Ravitoto (ragoût de feuilles de manioc avec de la viande)."
+        },
+        {
+          "Ville Principale": "Nosy Be",
+          "Monuments Historiques et Architecturaux Remarquables": "Mont Passot (point le plus élevé), le phare Des Sasques.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Plongée et snorkeling dans l'archipel de Mitsio, pêche dans l'océan Indien, visiter les plages d'Amatovaka.",
+          "Espaces Verts et Paysages": "Plage Bemokoandro, Parc National de Lokobe.",
+          "Plats Locaux Célèbres": "Curry de fruits de mer à la noix de coco, ananas frais."
+        },
+        {
+          "Ville Principale": "Antsirabe",
+          "Monuments Historiques et Architecturaux Remarquables": "Cathédrale Notre-Dame de La Salette, la gare coloniale.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Faire du pousse-pousse traditionnel, visiter les lacs volcaniques (Lac Andraikiba), ateliers d'artisanat.",
+          "Espaces Verts et Paysages": "Lac Andraikiba, les collines d'Antsirabe.",
+          "Plats Locaux Célèbres": "Koba (gâteau de riz et d'arachides sucré), gâteau à la banane."
+        },
+        {
+          "Ville Principale": "Morondava",
+          "Monuments Historiques et Architecturaux Remarquables": "Marchés traditionnels dans la ville.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter l'Allée des Baobabs au coucher du soleil, se détendre sur la plage Baobab.",
+          "Espaces Verts et Paysages": "La célèbre Allée des Baobabs.",
+          "Plats Locaux Célèbres": "Plat de crevettes célèbre de Morondava, Sarimalona (viande braisée)."
+        },
+        {
+          "Ville Principale": "Toliara",
+          "Monuments Historiques et Architecturaux Remarquables": "Le Musée Ethnologique.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter l'Arboretum d'Antsokay, explorer les récifs coralliens dans la baie de Saint-Augustin.",
+          "Espaces Verts et Paysages": "Parc Reniala (plantes), plage d'Ifaty.",
+          "Plats Locaux Célèbres": "Poisson séché avec du riz, soupe de poisson."
+        },
+        {
+          "Ville Principale": "Fianarantsoa",
+          "Monuments Historiques et Architecturaux Remarquables": "Vieille ville de Fianarantsoa.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Voyage en train à travers la forêt tropicale, visiter les vignobles dans le sud.",
+          "Espaces Verts et Paysages": "Vues de la campagne montagneuse, jardins de la ville.",
+          "Plats Locaux Célèbres": "Vin local Temoro, crêpes malgaches."
+        },
+        {
+          "Ville Principale": "Mahajanga",
+          "Monuments Historiques et Architecturaux Remarquables": "Mosquée de Mahajanga, le Baobab Cyclone.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Profiter de la plage d'Amborovy, visiter le grand baobab au centre-ville.",
+          "Espaces Verts et Paysages": "Plage d'Amborovy, rivière Betsiboka.",
+          "Plats Locaux Célèbres": "Masikita (brochettes de viande), fruits de mer."
+        },
+        {
+          "Ville Principale": "Diego Suarez",
+          "Monuments Historiques et Architecturaux Remarquables": "Phare de Diego Suarez.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter les baies de Diego, profiter de la beauté de la plage Ramena.",
+          "Espaces Verts et Paysages": "Les trois baies de Diego Suarez, montagne Pain de Sucre.",
+          "Plats Locaux Célèbres": "Grosses crevettes grillées, soupe de poisson à la noix de coco."
+        },
+        {
+          "Ville Principale": "Île Sainte-Marie",
+          "Monuments Historiques et Architecturaux Remarquables": "Cimetière de pirates historique.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Observation des baleines (juillet-septembre), plongée dans les épaves de pirates.",
+          "Espaces Verts et Paysages": "Plages de sable blanc, les forêts de l'île.",
+          "Plats Locaux Célèbres": "Poisson avec délicieuse sauce à la vanille, fruit frais de litchi."
+        },
+        {
+          "Ville Principale": "Fort Dauphin",
+          "Monuments Historiques et Architecturaux Remarquables": "Le vieux fort.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Surf sur les plages voisines, visiter le lac Lanano.",
+          "Espaces Verts et Paysages": "Lac Lanano, montagnes Anosy.",
+          "Plats Locaux Célèbres": "Langouste (homard), mangue fraîche."
+        }
+      ]
+    },
+    {
+      "Pays": "Maroc",
+      "Villes": [
+        {
+          "Ville Principale": "Marrakech",
+          "Monuments Historiques et Architecturaux Remarquables": "Place Jemaa el-Fnaa, Palais Bahia, Médersa Ben Youssef.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Se promener dans la place Jemaa el-Fnaa la nuit, visiter le jardin Majorelle, marchander dans les souks de la vieille ville.",
+          "Espaces Verts et Paysages": "Jardin Majorelle (le jardin bleu), Jardins de la Ménara, oliveraie.",
+          "Plats Locaux Célèbres": "Tanjia Marrakchi mijotée lentement dans un four traditionnel, tajine avec légumes et agneau."
+        },
+        {
+          "Ville Principale": "Casablanca",
+          "Monuments Historiques et Architecturaux Remarquables": "Mosquée Hassan II (plus haut minaret du monde), Cathédrale Sacré-Cœur.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter la Mosquée Hassan II (l'icône de la ville), se promener le long de la corniche d'Ain Diab, explorer le quartier des Habous.",
+          "Espaces Verts et Paysages": "Corniche d'Ain Diab, Parc de la Ligue Arabe.",
+          "Plats Locaux Célèbres": "Couscous marocain traditionnel, plats de fruits de mer sur la corniche."
+        },
+        {
+          "Ville Principale": "Fes",
+          "Monuments Historiques et Architecturaux Remarquables": "Université Al-Qarawiyyin, tanneries traditionnelles (Chouara), porte Bab Boujloud.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Se promener dans le labyrinthe de la vieille ville (Fes el-Bali), observer les tanneries traditionnelles, visiter l'Université Al-Qarawiyyin.",
+          "Espaces Verts et Paysages": "Jardins Andalous, vues panoramiques de Borj Fes Nord.",
+          "Plats Locaux Célèbres": "Bastilla (tourte aux amandes et au poulet), Khlii (viande conservée et séchée)."
+        },
+        {
+          "Ville Principale": "Chefchaouen",
+          "Monuments Historiques et Architecturaux Remarquables": "Place Outa el Hammam, la Kasbah (vieux fort).",
+          "Activités et Expériences Touristiques les Plus Importantes": "Photographier les ruelles bleues enchanteresses, faire du shopping d'artisanat en laine, randonnée jusqu'aux cascades d'Akchour.",
+          "Espaces Verts et Paysages": "Cascades d'Akchour, Parc National de Talassemtane.",
+          "Plats Locaux Célèbres": "Fromage de chèvre frais local, Besara (soupe de fèves)."
+        },
+        {
+          "Ville Principale": "Tangier",
+          "Monuments Historiques et Architecturaux Remarquables": "Kasbah de Tanger, Grand Théâtre.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter les Grottes d'Hercule, observer la rencontre de la Méditerranée et de l'Atlantique au Cap Spartel, se promener dans la Kasbah.",
+          "Espaces Verts et Paysages": "Grottes d'Hercule, Cap Spartel.",
+          "Plats Locaux Célèbres": "Soupe de poisson de style nordique, Paella (influence espagnole)."
+        },
+        {
+          "Ville Principale": "Rabat",
+          "Monuments Historiques et Architecturaux Remarquables": "Tour Hassan, Kasbah des Oudaias, Mausolée de Mohammed V.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter la Tour Hassan et le Mausolée, se promener dans la Kasbah bleue et blanche des Oudaias, explorer les ruines de Chellah.",
+          "Espaces Verts et Paysages": "Jardin Zoologique National, Les Jardins Exotiques de Bouknadel.",
+          "Plats Locaux Célèbres": "Rfissa (un plat populaire avec du poulet et des lentilles), diverses pâtisseries marocaines."
+        },
+        {
+          "Ville Principale": "Agadir",
+          "Monuments Historiques et Architecturaux Remarquables": "Kasbah Agadir Oufella (vue panoramique), Souk El Had.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Profiter de la grande plage d'Agadir, visiter la Kasbah Agadir Oufella, faire du shopping au Souk El Had.",
+          "Espaces Verts et Paysages": "Plage d'Agadir, Vallée des Oiseaux.",
+          "Plats Locaux Célèbres": "Plats de poisson grillé frais, huile Amlou (amandes, miel et argan)."
+        },
+        {
+          "Ville Principale": "Essaouira",
+          "Monuments Historiques et Architecturaux Remarquables": "Remparts d'Essaouira, le vieux port d'Essaouira.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Se promener dans la médina et le port, regarder le coucher du soleil depuis les remparts, faire du surf.",
+          "Espaces Verts et Paysages": "Plage d'Essaouira, îles Mogador.",
+          "Plats Locaux Célèbres": "Sardines grillées dans le port, plats à l'huile d'argan."
+        },
+        {
+          "Ville Principale": "Meknes",
+          "Monuments Historiques et Architecturaux Remarquables": "Bab Mansour (la porte monumentale), Mausolée de Moulay Ismail.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter Bab Mansour, explorer le bassin Sahrij Swani, faire une excursion d'une journée aux ruines romaines de Volubilis.",
+          "Espaces Verts et Paysages": "Bassin Sahrij Swani, jardins de Meknes.",
+          "Plats Locaux Célèbres": "Tajine aux olives confites et au citron, olives de Meknes."
+        },
+        {
+          "Ville Principale": "Ouarzazate",
+          "Monuments Historiques et Architecturaux Remarquables": "Kasbah Taourirt, Studios de Cinéma (Hollywood de l'Afrique).",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter les studios de cinéma, explorer la Kasbah Taourirt, un voyage à la Kasbah Aït Benhaddou (site UNESCO).",
+          "Espaces Verts et Paysages": "Oasis à proximité de la vallée du Draa, vues du Haut Atlas.",
+          "Plats Locaux Célèbres": "Pain traditionnel Tannour, barbecue d'agneau."
+        }
+      ]
+    },
+    {
+      "Pays": "Brésil",
+      "Villes": [
+        {
+          "Ville Principale": "Rio de Janeiro",
+          "Monuments Historiques et Architecturaux Remarquables": "Statue du Christ Rédempteur, Pain de Sucre, le quartier de Lapa (architecture coloniale).",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter le Christ Rédempteur, prendre le téléphérique jusqu'au Pain de Sucre, se détendre sur la plage de Copacabana.",
+          "Espaces Verts et Paysages": "Plages de Copacabana et Ipanema, Parc National de Tijuca (une forêt tropicale dans la ville).",
+          "Plats Locaux Célèbres": "Feijoada (ragoût de haricots noirs), la boisson classique Caipirinha."
+        },
+        {
+          "Ville Principale": "São Paulo",
+          "Monuments Historiques et Architecturaux Remarquables": "Bâtiment Panoramique de São Paulo, Cathédrale de São Paulo.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter le musée d'art (MASP), se promener sur l'Avenue Paulista, assister à un spectacle au Théâtre Municipal.",
+          "Espaces Verts et Paysages": "Parc Ibirapuera, Jardins Botaniques.",
+          "Plats Locaux Célèbres": "Pizza brésilienne (croûte épaisse), le sandwich géant de mortadelle au marché local."
+        },
+        {
+          "Ville Principale": "Salvador",
+          "Monuments Historiques et Architecturaux Remarquables": "Le quartier historique coloré de Pelourinho (site UNESCO), Ascenseur Lacerda.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Explorer le quartier historique coloré de Pelourinho, regarder des spectacles de capoeira, prendre l'ascenseur Lacerda.",
+          "Espaces Verts et Paysages": "Plages de Porto da Barra, Lac Atrassão.",
+          "Plats Locaux Célèbres": "Acarajé (gâteau de haricots frit), Moqueca (ragoût de poisson à la noix de coco)."
+        },
+        {
+          "Ville Principale": "Foz do Iguaçu",
+          "Monuments Historiques et Architecturaux Remarquables": "Barrage d'Itaipu (l'un des plus grands barrages du monde).",
+          "Activités et Expériences Touristiques les Plus Importantes": "Explorer les chutes d'Iguaçu du côté brésilien, visiter le Parc des Oiseaux (Parque das Aves).",
+          "Espaces Verts et Paysages": "Parc National d'Iguaçu, le Parc des Oiseaux.",
+          "Plats Locaux Célèbres": "Poisson Dourado grillé, Churrasco (barbecue)."
+        },
+        {
+          "Ville Principale": "Manaus",
+          "Monuments Historiques et Architecturaux Remarquables": "Théâtre Amazonas, Marché Adolfo Lisboa.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Excursions en bateau dans la forêt amazonienne, assister à la Rencontre des Eaux (rivières Negro et Solimões), visiter le Théâtre Amazonas.",
+          "Espaces Verts et Paysages": "La Rencontre des Eaux, réserves amazoniennes à proximité.",
+          "Plats Locaux Célèbres": "Poisson Tambaqui grillé, soupe Tacacá (crevettes avec manioc)."
+        },
+        {
+          "Ville Principale": "Brasília",
+          "Monuments Historiques et Architecturaux Remarquables": "Cathédrale de Brasília, bâtiment du Congrès National.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter la cathédrale futuriste de Brasília, se promener autour de la Place des Trois Pouvoirs, visiter le pont Juscelino Kubitschek.",
+          "Espaces Verts et Paysages": "Lac Paranoá, Parc National de Brasília.",
+          "Plats Locaux Célèbres": "Barbecue (Churrasco), plats du Centre-Ouest."
+        },
+        {
+          "Ville Principale": "Recife",
+          "Monuments Historiques et Architecturaux Remarquables": "Ville historique d'Olinda (près de Recife), Centro Cultural Cais do Sertão.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Explorer la vieille ville (Recife Antigo), profiter de la plage Boa Viagem, visiter des ateliers d'artisanat.",
+          "Espaces Verts et Paysages": "Plage Boa Viagem, rivière Capibaribe.",
+          "Plats Locaux Célèbres": "Bolo de Rolo (gâteau local), poisson fruits de mer."
+        },
+        {
+          "Ville Principale": "Florianópolis",
+          "Monuments Historiques et Architecturaux Remarquables": "Pont Hercílio Luz.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Surf sur la plage Praia Mole, sandboard à Joaquina.",
+          "Espaces Verts et Paysages": "Lagune Lagoa da Conceição, plage Campeche.",
+          "Plats Locaux Célèbres": "Huîtres fraîches (le plat principal), mangue fraîche."
+        },
+        {
+          "Ville Principale": "Gramado",
+          "Monuments Historiques et Architecturaux Remarquables": "Église São Pedro.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter Snowland, se promener autour du lac Negro, déguster des chocolats artisanaux.",
+          "Espaces Verts et Paysages": "Lac Negro, Mini Mundo.",
+          "Plats Locaux Célèbres": "Fondue (influence suisse), chocolat chaud."
+        },
+        {
+          "Ville Principale": "Fortaleza",
+          "Monuments Historiques et Architecturaux Remarquables": "Théâtre José de Alencar, Forteresse de Nossa Senhora da Assunção.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Profiter de la plage Futuro, visiter le Centre Culturel Dragão do Mar, faire du shopping d'artisanat.",
+          "Espaces Verts et Paysages": "Plage Futuro, plage Iracema.",
+          "Plats Locaux Célèbres": "Homard grillé, Baião de Dois (riz et haricots)."
+        }
+      ]
+    },
+    {
+      "Pays": "Bulgarie",
+      "Villes": [
+        {
+          "Ville Principale": "Sofia",
+          "Monuments Historiques et Architecturaux Remarquables": "Cathédrale Saint-Alexandre-Nevski, Rotonde Saint-Georges (la plus ancienne), Mosquée Banya Bashi.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter la Cathédrale Saint-Alexandre-Nevski, prendre le téléphérique jusqu'au mont Vitosha, faire du shopping dans la rue Vitosha.",
+          "Espaces Verts et Paysages": "Mont Vitosha (facilement accessible), Parc Borisova Gradina.",
+          "Plats Locaux Célèbres": "Salade Shopska (concombre, tomate, fromage bulgare), Banitsa (pâtisserie salée)."
+        },
+        {
+          "Ville Principale": "Plovdiv",
+          "Monuments Historiques et Architecturaux Remarquables": "Théâtre Romain Antique, la Vieille Ville, Mosquée Dzhumaya.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter le Théâtre Romain Antique, se promener dans le quartier artistique Kapana, explorer la Vieille Ville.",
+          "Espaces Verts et Paysages": "Les Sept Collines (y compris les collines de la ville), rivière Maritsa.",
+          "Plats Locaux Célèbres": "Tarator (soupe froide au yaourt), Kavarma (ragoût de viande dans un pot en argile)."
+        },
+        {
+          "Ville Principale": "Varna",
+          "Monuments Historiques et Architecturaux Remarquables": "Musée Archéologique de Varna (l'or le plus ancien du monde), Cathédrale de la Dormition de la Mère de Dieu.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Se détendre sur la plage, visiter le Musée Archéologique, se promener dans le Jardin de la Mer.",
+          "Espaces Verts et Paysages": "Le Jardin de la Mer, plages de la Mer Noire.",
+          "Plats Locaux Célèbres": "Tilapia de la Mer Noire, moules à l'ail."
+        },
+        {
+          "Ville Principale": "Burgas",
+          "Monuments Historiques et Architecturaux Remarquables": "Jardin de la Mer de Burgas, Église Saint Saints.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter le Festival de Sable (en été), se promener dans le Jardin de la Mer, visiter le lac Atanasovsko pour l'observation des oiseaux.",
+          "Espaces Verts et Paysages": "Lac Atanasovsko, le Jardin de la Mer.",
+          "Plats Locaux Célèbres": "Tsatsa (petit poisson frit), plats de fruits de mer."
+        },
+        {
+          "Ville Principale": "Veliko Tarnovo",
+          "Monuments Historiques et Architecturaux Remarquables": "Forteresse Tsarevets, rue Samovodska Charshia.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter la Forteresse Tsarevets, se promener dans la rue des artisans, regarder le spectacle 'Son et Lumière' la nuit.",
+          "Espaces Verts et Paysages": "Rivière Yantra, vues des montagnes environnantes.",
+          "Plats Locaux Célèbres": "Ragoût de porc et pommes de terre, pain traditionnel Patatnik."
+        },
+        {
+          "Ville Principale": "Nesebar",
+          "Monuments Historiques et Architecturaux Remarquables": "Églises byzantines anciennes, les anciens murs de la forteresse.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Se promener dans la vieille péninsule (site UNESCO), visiter les anciennes églises byzantines.",
+          "Espaces Verts et Paysages": "Plage Sunny à proximité, la Mer Noire.",
+          "Plats Locaux Célèbres": "Fruits de mer frais, vin blanc local."
+        },
+        {
+          "Ville Principale": "Bansko",
+          "Monuments Historiques et Architecturaux Remarquables": "Église Sainte-Trinité, place Velio Tarnovo.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Ski (en hiver), randonnée dans les montagnes Pirin (en été).",
+          "Espaces Verts et Paysages": "Parc National des Montagnes Pirin, lac Bansko.",
+          "Plats Locaux Célèbres": "Kapama (ragoût traditionnel mijoté lentement), Chomlek (ragoût de viande dans un pot)."
+        },
+        {
+          "Ville Principale": "Sozopol",
+          "Monuments Historiques et Architecturaux Remarquables": "Maisons en bois historiques, le vieux port.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Explorer la vieille ville en bois, se détendre sur des plages tranquilles.",
+          "Espaces Verts et Paysages": "Plages de Sozopol, île Saint Ivan.",
+          "Plats Locaux Célèbres": "Confiture de figues (spécialité régionale), poisson grillé."
+        },
+        {
+          "Ville Principale": "Ruse",
+          "Monuments Historiques et Architecturaux Remarquables": "Place de la Liberté, le bâtiment New Age.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Se promener le long du Danube, explorer l'architecture baroque autrichienne.",
+          "Espaces Verts et Paysages": "Danube, Parc Svoboda.",
+          "Plats Locaux Célèbres": "Soupe de poisson du Danube, plats de porc."
+        },
+        {
+          "Ville Principale": "Kazanlak",
+          "Monuments Historiques et Architecturaux Remarquables": "Tombe Thrace (site UNESCO), Musée de la Rose.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter le Musée de la Rose, explorer les tombes thraces, assister au Festival de la Rose (mai-juin).",
+          "Espaces Verts et Paysages": "La Vallée des Roses, les montagnes des Balkans.",
+          "Plats Locaux Célèbres": "Confiture de rose, liqueur de rose."
+        }
+      ]
+    },
+    {
+      "Pays": "Bosnie-Herzégovine",
+      "Villes": [
+        {
+          "Ville Principale": "Sarajevo",
+          "Monuments Historiques et Architecturaux Remarquables": "Marché ottoman Baščaršija, Pont Latin, Mosquée Gazi Husrev-beg.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Se promener dans le marché ottoman Baščaršija, visiter le Pont Latin, prendre le téléphérique jusqu'à la montagne Trebević.",
+          "Espaces Verts et Paysages": "Montagne Trebević (accessible par téléphérique), la rivière, parc Vrelo Bosne.",
+          "Plats Locaux Célèbres": "Ćevapi bosniaque dans du pain somun, Burek (pâtisserie fourrée à la viande ou au fromage)."
+        },
+        {
+          "Ville Principale": "Mostar",
+          "Monuments Historiques et Architecturaux Remarquables": "Le Vieux Pont (Stari Most), vieilles maisons ottomanes.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Regarder les plongeurs depuis le Vieux Pont (Stari Most), explorer le vieux bazar, visiter le Musée de la Guerre.",
+          "Espaces Verts et Paysages": "La rivière émeraude Neretva, jardins au bord de la rivière.",
+          "Plats Locaux Célèbres": "Dolma (légumes farcis), Tufahija (dessert traditionnel à la citrouille)."
+        },
+        {
+          "Ville Principale": "Banja Luka",
+          "Monuments Historiques et Architecturaux Remarquables": "Forteresse Kastel, Mosquée Ferhadija.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter la Forteresse Kastel, rafting sur la rivière Vrbas, visiter la Mosquée Ferhadija.",
+          "Espaces Verts et Paysages": "Rivière Vrbas, jardins de Banja Luka.",
+          "Plats Locaux Célèbres": "Ćevapi de Banja Luka, fromage Trappista local."
+        },
+        {
+          "Ville Principale": "Blagaj",
+          "Monuments Historiques et Architecturaux Remarquables": "Le monastère derviche sculpté dans la roche.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter le monastère derviche, voir la source de la rivière Buna.",
+          "Espaces Verts et Paysages": "La source de la rivière Buna, les falaises environnantes.",
+          "Plats Locaux Célèbres": "Truite fraîche, rôti de veau."
+        },
+        {
+          "Ville Principale": "Trebinje",
+          "Monuments Historiques et Architecturaux Remarquables": "Pont Arslanagić, la Vieille Ville.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Se promener sur le pont Arslanagić, visiter le monastère Hercegovačka Gračanica, déguster le vin local.",
+          "Espaces Verts et Paysages": "Rivière Trebišnjica, église Gračanica (vue panoramique).",
+          "Plats Locaux Célèbres": "Fromage dans l'huile, pršut (jambon cru)."
+        },
+        {
+          "Ville Principale": "Jajce",
+          "Monuments Historiques et Architecturaux Remarquables": "La Forteresse Royale, Cathédrale Saint-Luc.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Voir la grande cascade au centre-ville, visiter la Forteresse Royale, explorer les moulins à eau.",
+          "Espaces Verts et Paysages": "Cascade de Jajce, lac Pliva, moulins à eau.",
+          "Plats Locaux Célèbres": "Zeljanica (tourte au fromage), ćevapi."
+        },
+        {
+          "Ville Principale": "Travnik",
+          "Monuments Historiques et Architecturaux Remarquables": "La forteresse colorée de Travnik, la mosquée colorée.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter la forteresse colorée de Travnik, explorer la mosquée colorée, visiter la maison d'Ivo Andrić.",
+          "Espaces Verts et Paysages": "Rivière Lašva, montagnes environnantes.",
+          "Plats Locaux Célèbres": "Fromage Vlašić, ćevapi de Travnik."
+        },
+        {
+          "Ville Principale": "Konjic",
+          "Monuments Historiques et Architecturaux Remarquables": "Abri nucléaire de Tito (Ark D-0).",
+          "Activités et Expériences Touristiques les Plus Importantes": "Prendre des photos au pont ottoman, visiter l'abri nucléaire de Tito.",
+          "Espaces Verts et Paysages": "Rivière Neretva, montagnes accidentées.",
+          "Plats Locaux Célèbres": "Poisson de rivière grillé, bouillie de farine de maïs (bura)."
+        },
+        {
+          "Ville Principale": "Višegrad",
+          "Monuments Historiques et Architecturaux Remarquables": "Pont Mehmed Paša Sokolović (UNESCO), Andrićgrad.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Se promener sur le pont Mehmed Paša Sokolović (pont Drina), visiter Andrićgrad.",
+          "Espaces Verts et Paysages": "Rivière Drina, paysages environnants.",
+          "Plats Locaux Célèbres": "Poisson de la rivière Drina, plats de viande."
+        },
+        {
+          "Ville Principale": "Bihać",
+          "Monuments Historiques et Architecturaux Remarquables": "Tour Kapetanova, Mosquée Fethija.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Rafting sur la rivière Una, visiter les cascades Štrbački Buk à proximité.",
+          "Espaces Verts et Paysages": "Rivière Una, Parc National Una, cascades Štrbački Buk.",
+          "Plats Locaux Célèbres": "Plat Mokapi (feuilles de banane farcies), purée de bananes."
+        }
+      ]
+    },
+    {
+      "Pays": "Portugal",
+      "Villes": [
+        {
+          "Ville Principale": "Lisbon",
+          "Monuments Historiques et Architecturaux Remarquables": "Tour de Belém, Monastère des Hiéronymites, Praça do Comércio.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Prendre le Tram 28, visiter la Tour de Belém, écouter la musique Fado dans le quartier Alfama.",
+          "Espaces Verts et Paysages": "Parc Édouard VII, fleuve Tage, vues panoramiques des collines.",
+          "Plats Locaux Célèbres": "Pastel de nata (tarte à la crème), Bacalhau (morue salée) dans diverses préparations."
+        },
+        {
+          "Ville Principale": "Porto",
+          "Monuments Historiques et Architecturaux Remarquables": "Pont Dom Luís I, Librairie Lello, Gare São Bento (carreaux azulejo).",
+          "Activités et Expériences Touristiques les Plus Importantes": "Déguster le vin de Porto à Vila Nova de Gaia, traverser le pont Dom Luís I à pied, visiter la Librairie Lello.",
+          "Espaces Verts et Paysages": "Fleuve Douro, Jardins du Palais de Cristal.",
+          "Plats Locaux Célèbres": "Francesinha (sandwich recouvert de fromage et de sauce), Tripas (plat traditionnel)."
+        },
+        {
+          "Ville Principale": "Sintra",
+          "Monuments Historiques et Architecturaux Remarquables": "Palais National de Pena, Quinta da Regaleira, le Château des Maures.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter le palais coloré de Pena, explorer la mystérieuse Quinta da Regaleira, l'ancien Château des Maures.",
+          "Espaces Verts et Paysages": "Montagnes de Sintra, jardins de la Quinta da Regaleira.",
+          "Plats Locaux Célèbres": "Travesseiros (pâtisseries aux amandes), Queijadas (gâteaux au fromage)."
+        },
+        {
+          "Ville Principale": "Faro",
+          "Monuments Historiques et Architecturaux Remarquables": "Église do Carmo (Chapelle des Os), la vieille porte de Faro.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Explorer la vieille ville fortifiée, faire une excursion en bateau dans le Parc Naturel de Ria Formosa.",
+          "Espaces Verts et Paysages": "Parc Naturel de Ria Formosa, plage de Faro.",
+          "Plats Locaux Célèbres": "Cataplana (ragoût de fruits de mer), sardines grillées."
+        },
+        {
+          "Ville Principale": "Lagos",
+          "Monuments Historiques et Architecturaux Remarquables": "Forteresse Ponta da Bandeira, l'ancien marché aux esclaves.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Excursions en bateau pour explorer les grottes de Ponta da Piedade, se détendre sur la plage Dona Ana.",
+          "Espaces Verts et Paysages": "Falaises de Ponta da Piedade, plage Dona Ana.",
+          "Plats Locaux Célèbres": "Dom Rodrigo (bonbons au jaune d'œuf sucré), fruits de mer."
+        },
+        {
+          "Ville Principale": "Coimbra",
+          "Monuments Historiques et Architecturaux Remarquables": "Ancienne Université de Coimbra et sa Bibliothèque Joanina, Monastère Sainte-Croix.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter l'Ancienne Université de Coimbra et sa Bibliothèque Joanina, écouter le Fado de Coimbra.",
+          "Espaces Verts et Paysages": "Fleuve Mondego, le Jardin Botanique.",
+          "Plats Locaux Célèbres": "Poulet en sauce, Pudim Abade de Priscos."
+        },
+        {
+          "Ville Principale": "Évora",
+          "Monuments Historiques et Architecturaux Remarquables": "Temple Romain de Diane, Chapelle des Os (Capela dos Ossos).",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter le Temple Romain de Diane, explorer la Chapelle des Os.",
+          "Espaces Verts et Paysages": "Plaines environnantes de l'Alentejo, vignobles.",
+          "Plats Locaux Célèbres": "Açorda (soupe au pain), porc ibérique noir."
+        },
+        {
+          "Ville Principale": "Aveiro",
+          "Monuments Historiques et Architecturaux Remarquables": "Musée d'Aveiro.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Naviguer sur les bateaux colorés Moliceiro (la Venise du Portugal), visiter la plage rayée (Costa Nova).",
+          "Espaces Verts et Paysages": "Les canaux de la ville, plage Costa Nova.",
+          "Plats Locaux Célèbres": "Ovos Moles (bonbons à l'œuf tendre), fruits de mer."
+        },
+        {
+          "Ville Principale": "Braga",
+          "Monuments Historiques et Architecturaux Remarquables": "Sanctuaire Bom Jesus do Monte, Cathédrale de Braga (Sé).",
+          "Activités et Expériences Touristiques les Plus Importantes": "Monter les escaliers du sanctuaire Bom Jesus, visiter la Cathédrale de Braga.",
+          "Espaces Verts et Paysages": "Jardins Sainte-Barbara, les collines de Braga.",
+          "Plats Locaux Célèbres": "Poulet en sauce, Pudim Abade de Priscos."
+        },
+        {
+          "Ville Principale": "Cascais",
+          "Monuments Historiques et Architecturaux Remarquables": "Citadelle de Cascais, Musée Conde de Castro.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Se promener dans la marina, voir les falaises Boca do Inferno, déguster des chocolats artisanaux.",
+          "Espaces Verts et Paysages": "Boca do Inferno, plage Guincho.",
+          "Plats Locaux Célèbres": "Barbecues, fruits de mer."
+        }
+      ]
+    },
+    {
+      "Pays": "Paraguay",
+      "Villes": [
+        {
+          "Ville Principale": "Asunción",
+          "Monuments Historiques et Architecturaux Remarquables": "Palacio de los López (Palais Présidentiel), Panteón de los Héroes, Musée National.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter le Palacio de los López, se promener dans le Panteón de los Héroes, se promener le long du front de mer.",
+          "Espaces Verts et Paysages": "Le front de mer d'Asunción sur le fleuve Paraguay, le Jardin Botanique et Zoo.",
+          "Plats Locaux Célèbres": "Sopa Paraguaya (pain de maïs salé), Chipa (pain de manioc et fromage)."
+        },
+        {
+          "Ville Principale": "Ciudad del Este",
+          "Monuments Historiques et Architecturaux Remarquables": "Barrage d'Itaipu (un projet d'ingénierie massif).",
+          "Activités et Expériences Touristiques les Plus Importantes": "Shopping (commerce frontalier), visiter la centrale hydroélectrique du barrage d'Itaipu, voir les cascades Monday.",
+          "Espaces Verts et Paysages": "Cascades Monday, fleuve Paraná.",
+          "Plats Locaux Célèbres": "Pica-pau (viande hachée et frite), Tereré (thé au maté froid)."
+        },
+        {
+          "Ville Principale": "Encarnación",
+          "Monuments Historiques et Architecturaux Remarquables": "Ruines jésuites de Trinidad (près d'Encarnación).",
+          "Activités et Expériences Touristiques les Plus Importantes": "Se promener le long du front de mer du fleuve Paraná, profiter des plages fluviales, visiter les ruines jésuites à proximité.",
+          "Espaces Verts et Paysages": "Front de mer du fleuve Paraná, plages fluviales.",
+          "Plats Locaux Célèbres": "Mbeju (crêpe à l'amidon et au fromage), crêpes fourrées."
+        },
+        {
+          "Ville Principale": "Villarrica",
+          "Monuments Historiques et Architecturaux Remarquables": "La Cathédrale, Musée Manuel Ortiz.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Explorer la campagne et les plantations de yerba mate, faire des promenades en anciennes calèches rurales.",
+          "Espaces Verts et Paysages": "Les collines de la région, champs agricoles.",
+          "Plats Locaux Célèbres": "Vorái (plat local de poulet), Butifarra (bœuf)."
+        },
+        {
+          "Ville Principale": "Concepción",
+          "Monuments Historiques et Architecturaux Remarquables": "L'église principale, le vieux port.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter le vieux port, excursions en bateau sur le fleuve Paraguay, explorer les bâtiments coloniaux.",
+          "Espaces Verts et Paysages": "Fleuve Paraguay, parcs au bord de la rivière.",
+          "Plats Locaux Célèbres": "Poisson de rivière grillé, soupe de poisson."
+        },
+        {
+          "Ville Principale": "Areguá",
+          "Monuments Historiques et Architecturaux Remarquables": "Église San Lorenzo.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter le lac Ypacaraí (vues panoramiques), le marché de poterie et d'artisanat.",
+          "Espaces Verts et Paysages": "Lac Ypacaraí, parc Cerro Kõi.",
+          "Plats Locaux Célèbres": "Fraises et crème (saisonnières), plat Chipa."
+        },
+        {
+          "Ville Principale": "Caacupé",
+          "Monuments Historiques et Architecturaux Remarquables": "Basilique de Notre-Dame des Miracles.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Monter les collines environnantes, visiter la cathédrale (un site de pèlerinage).",
+          "Espaces Verts et Paysages": "Collines Cerro Caacupé, fermes de la campagne.",
+          "Plats Locaux Célèbres": "Bonbons traditionnels, gâteaux de maïs."
+        },
+        {
+          "Ville Principale": "San Bernardino",
+          "Monuments Historiques et Architecturaux Remarquables": "Vieilles villas d'été.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Profiter des sports nautiques sur le lac Ypacaraí, passer du temps dans la station d'été.",
+          "Espaces Verts et Paysages": "Lac Ypacaraí.",
+          "Plats Locaux Célèbres": "Barbecues, cuisine internationale."
+        },
+        {
+          "Ville Principale": "Filadelfia",
+          "Monuments Historiques et Architecturaux Remarquables": "Musée des colonies mennonites.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter le musée des colonies mennonites, explorer les plaines du Chaco.",
+          "Espaces Verts et Paysages": "La région sèche du Chaco.",
+          "Plats Locaux Célèbres": "Fromages et produits laitiers mennonites, viandes fumées."
+        },
+        {
+          "Ville Principale": "Yaguarón",
+          "Monuments Historiques et Architecturaux Remarquables": "Église de Yaguarón (un chef-d'œuvre en bois).",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter l'ancienne église franciscaine, monter la colline Yaguarón.",
+          "Espaces Verts et Paysages": "Colline Yaguarón.",
+          "Plats Locaux Célèbres": "Plat Caracú (escargot), plats ruraux."
+        }
+      ]
+    },
+    {
+      "Pays": "Biélorussie",
+      "Villes": [
+        {
+          "Ville Principale": "Minsk",
+          "Monuments Historiques et Architecturaux Remarquables": "Bibliothèque Nationale (architecture en forme de diamant), Place de la Victoire, Cathédrale du Saint-Esprit.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter l'Île des Larmes et la rivière Svislach, explorer la longue Avenue de l'Indépendance, visiter la Bibliothèque Nationale.",
+          "Espaces Verts et Paysages": "Parc Gorky, rivière Svislach, Île des Larmes.",
+          "Plats Locaux Célèbres": "Dranki (crêpes de pommes de terre), soupe Bortsch biélorusse."
+        },
+        {
+          "Ville Principale": "Brest",
+          "Monuments Historiques et Architecturaux Remarquables": "Forteresse de Brest, rue piétonne Sovetskaya.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter la Forteresse de Brest, se promener dans la rue éclairée par des lanternes la nuit, visiter le Musée Archéologique.",
+          "Espaces Verts et Paysages": "Rivière Bug, Parc National de Brest.",
+          "Plats Locaux Célèbres": "Poulet mariné style biélorusse, la boisson populaire Kvass."
+        },
+        {
+          "Ville Principale": "Grodno",
+          "Monuments Historiques et Architecturaux Remarquables": "Les Vieux et Nouveaux Châteaux, Église Kalozha.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter les Vieux et Nouveaux Châteaux, explorer les églises historiques, se promener le long de la rivière Neman.",
+          "Espaces Verts et Paysages": "Rivière Neman, Parc Gilibert.",
+          "Plats Locaux Célèbres": "Raviolis à la viande (pelmeni), pommes de terre avec de la viande."
+        },
+        {
+          "Ville Principale": "Vitebsk",
+          "Monuments Historiques et Architecturaux Remarquables": "Musée Marc Chagall (le célèbre peintre), l'Amphithéâtre d'Été.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter le Musée Marc Chagall, assister au festival d'arts Slavianski Bazaar.",
+          "Espaces Verts et Paysages": "Rivière Dvina, Parc Vitebsk.",
+          "Plats Locaux Célèbres": "Salade de hareng (Selyodka) avec légumes, plat de riz et champignons."
+        },
+        {
+          "Ville Principale": "Gomel",
+          "Monuments Historiques et Architecturaux Remarquables": "Palais Rumyantsev-Paskevich (musée et parc), Cathédrale Saint-Pierre-et-Paul.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter le Palais Rumyantsev-Paskevich, se promener le long de la rivière Sozh.",
+          "Espaces Verts et Paysages": "Rivière Sozh, le Parc du Palais.",
+          "Plats Locaux Célèbres": "Tourtes fourrées (pirozhki), porc mariné."
+        },
+        {
+          "Ville Principale": "Mogilev",
+          "Monuments Historiques et Architecturaux Remarquables": "Hôtel de Ville de Mogilev.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter le vieil Hôtel de Ville, explorer la Place des Étoiles, se promener dans le zoo.",
+          "Espaces Verts et Paysages": "Rivière Dniepr, Parc Mogilev.",
+          "Plats Locaux Célèbres": "Porc rôti avec pommes de terre, plats simples."
+        },
+        {
+          "Ville Principale": "Nesvizh",
+          "Monuments Historiques et Architecturaux Remarquables": "Château de Nesvizh (site UNESCO), Église Corpus Christi.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter le Château de Nesvizh, explorer les jardins et le palais environnants.",
+          "Espaces Verts et Paysages": "Les vastes jardins du palais, lac Nesvizh.",
+          "Plats Locaux Célèbres": "Plats nobles médiévaux, boissons au miel."
+        },
+        {
+          "Ville Principale": "Mir",
+          "Monuments Historiques et Architecturaux Remarquables": "Complexe du Château de Mir (site UNESCO).",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter le château historique de Mir, explorer le village traditionnel environnant.",
+          "Espaces Verts et Paysages": "Lac près du Château de Mir.",
+          "Plats Locaux Célèbres": "Chachlik (brochette), bonbons au miel."
+        },
+        {
+          "Ville Principale": "Polotsk",
+          "Monuments Historiques et Architecturaux Remarquables": "Cathédrale Sainte-Sophie, Pierre Boris.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter la Cathédrale Sainte-Sophie, visiter le centre géographique de l'Europe.",
+          "Espaces Verts et Paysages": "Rivière Dvina, anciens jardins.",
+          "Plats Locaux Célèbres": "Pain noir biélorusse, plats de poisson de rivière."
+        },
+        {
+          "Ville Principale": "Pinsk",
+          "Monuments Historiques et Architecturaux Remarquables": "Palais Butrimovich, Église Saint-Charles.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Croisières fluviales, explorer l'architecture baroque, visiter le Musée Régional.",
+          "Espaces Verts et Paysages": "Rivière Pripyat, la zone humide.",
+          "Plats Locaux Célèbres": "Poisson de rivière frit, soupe aux champignons."
+        }
+      ]
+    },
+    {
+      "Pays": "Trinité-et-Tobago",
+      "Villes": [
+        {
+          "Ville Principale": "Port of Spain",
+          "Monuments Historiques et Architecturaux Remarquables": "Les Magnifiques Sept (bâtiments coloniaux), la Red House (Parlement).",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter la Queen's Park Savannah, explorer le Musée National, assister au festival du Carnaval (saisonnier).",
+          "Espaces Verts et Paysages": "Queen's Park Savannah, Jardins Botaniques Royaux.",
+          "Plats Locaux Célèbres": "Doubles (pois chiches curry dans du pain), Roti (pain indien fourré)."
+        },
+        {
+          "Ville Principale": "Scarborough",
+          "Monuments Historiques et Architecturaux Remarquables": "Fort King George, Centre de Conférence de Tobago.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter le Fort King George, se promener dans les Jardins Botaniques, se promener sur le front de mer.",
+          "Espaces Verts et Paysages": "Plages de Scarborough, les Jardins Botaniques.",
+          "Plats Locaux Célèbres": "Crabe et boulettes, fruits de mer."
+        },
+        {
+          "Ville Principale": "San Fernando",
+          "Monuments Historiques et Architecturaux Remarquables": "Colline San Fernando.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Monter la colline San Fernando pour une vue panoramique, explorer le marché central.",
+          "Espaces Verts et Paysages": "Colline San Fernando.",
+          "Plats Locaux Célèbres": "Pelau (soupe de légumes), curry."
+        },
+        {
+          "Ville Principale": "Arima",
+          "Monuments Historiques et Architecturaux Remarquables": "Église Santa Rosa.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter le Centre de Nature Asa Wright, assister au Festival Santa Rosa en août.",
+          "Espaces Verts et Paysages": "Centre de Nature Asa Wright.",
+          "Plats Locaux Célèbres": "Viandes fumées, plats de lapin."
+        },
+        {
+          "Ville Principale": "Chaguanas",
+          "Monuments Historiques et Architecturaux Remarquables": "Temple Hindou de Waterloo.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter le Temple de Waterloo, faire du shopping dans le marché animé de Chaguanas.",
+          "Espaces Verts et Paysages": "Plages de Waterloo.",
+          "Plats Locaux Célèbres": "Divers plats créoles indiens, curry de poulet."
+        },
+        {
+          "Ville Principale": "Maracas",
+          "Monuments Historiques et Architecturaux Remarquables": "Points de vue le long de la route côtière.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Se détendre sur la célèbre plage Maracas, essayer le sandwich 'Shark and Bake'.",
+          "Espaces Verts et Paysages": "Plage Maracas, forêts environnantes.",
+          "Plats Locaux Célèbres": "Bake and Shark, fruits de mer."
+        },
+        {
+          "Ville Principale": "Crown Point",
+          "Monuments Historiques et Architecturaux Remarquables": "Phare de Crown Point.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Profiter de la plage Pigeon Point (célèbre), snorkeling dans le Nylon Pool.",
+          "Espaces Verts et Paysages": "Plage Pigeon Point, le Nylon Pool.",
+          "Plats Locaux Célèbres": "Barbecues de fruits de mer, plats au curry."
+        },
+        {
+          "Ville Principale": "Charlotteville",
+          "Monuments Historiques et Architecturaux Remarquables": "Vieux village de pêcheurs.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Profiter de la tranquillité de la baie Pirate, excursions de snorkeling.",
+          "Espaces Verts et Paysages": "Baie Pirate.",
+          "Plats Locaux Célèbres": "Poisson fraîchement frit, fruits tropicaux."
+        },
+        {
+          "Ville Principale": "Boco",
+          "Monuments Historiques et Architecturaux Remarquables": "Anciennes plantations coloniales.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter le récif Buccoo, se promener dans la forêt protégée de Buccoo.",
+          "Espaces Verts et Paysages": "Récif Buccoo, baie Buccoo.",
+          "Plats Locaux Célèbres": "Boissons tropicales, poisson grillé."
+        },
+        {
+          "Ville Principale": "Toco",
+          "Monuments Historiques et Architecturaux Remarquables": "Phare de Toco.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter le vieux phare, observer les tortues marines sur les plages (saisonnier).",
+          "Espaces Verts et Paysages": "Plages de Toco.",
+          "Plats Locaux Célèbres": "Pain de fruit, plats de poulet."
+        }
+      ]
+    },
+    {
+      "Pays": "Timor-Leste",
+      "Villes": [
+        {
+          "Ville Principale": "Dili",
+          "Monuments Historiques et Architecturaux Remarquables": "Statue Cristo Rei, Musée de la Résistance, Palais du Gouvernement.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Monter la statue Cristo Rei, visiter le Musée de la Résistance, plongée dans les récifs coralliens à proximité.",
+          "Espaces Verts et Paysages": "Plage Areia Branca, la mer de Dili.",
+          "Plats Locaux Célèbres": "Ikan Pepes (poisson épicé dans des feuilles de banane), Batar Dan (plat de maïs)."
+        },
+        {
+          "Ville Principale": "Baucau",
+          "Monuments Historiques et Architecturaux Remarquables": "Anciens bâtiments coloniaux, Marché de Baucau.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter de vieux bâtiments portugais, nager dans la piscine naturelle (Piscina Natural).",
+          "Espaces Verts et Paysages": "La piscine naturelle, plage de Baucau.",
+          "Plats Locaux Célèbres": "Plats portugais-timorais, poisson grillé."
+        },
+        {
+          "Ville Principale": "Maubisse",
+          "Monuments Historiques et Architecturaux Remarquables": "Maisons traditionnelles (Lopo), Sanctuaire Maubisse.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Profiter des vues de montagne, visiter les jardins de fleurs, voir le sanctuaire traditionnel.",
+          "Espaces Verts et Paysages": "Montagnes et collines environnantes, jardins de la région.",
+          "Plats Locaux Célèbres": "Café local timorais, agneau."
+        },
+        {
+          "Ville Principale": "Lospalos",
+          "Monuments Historiques et Architecturaux Remarquables": "Maisons traditionnelles (Uma Lulik).",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter le lac Ira Lalaro, explorer les maisons traditionnelles (Lopo).",
+          "Espaces Verts et Paysages": "Lac Ira Lalaro, forêts de la région.",
+          "Plats Locaux Célèbres": "Viande de buffle cuite, poisson du lac."
+        },
+        {
+          "Ville Principale": "Viqueque",
+          "Monuments Historiques et Architecturaux Remarquables": "Le marché central.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Se détendre dans les sources chaudes, explorer les villages ruraux.",
+          "Espaces Verts et Paysages": "Sources chaudes, nature rurale.",
+          "Plats Locaux Célèbres": "Riz et légumes, porc."
+        },
+        {
+          "Ville Principale": "Maliana",
+          "Monuments Historiques et Architecturaux Remarquables": "Sites frontaliers avec l'Indonésie.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Se promener dans les marchés traditionnels, explorer les paysages frontaliers avec l'Indonésie.",
+          "Espaces Verts et Paysages": "Collines de Maliana, terres agricoles.",
+          "Plats Locaux Célèbres": "Tapai (manioc fermenté), poulet cuit."
+        },
+        {
+          "Ville Principale": "Atauro (Island)",
+          "Monuments Historiques et Architecturaux Remarquables": "Villages insulaires traditionnels.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Plongée et snorkeling dans les eaux à grande biodiversité, visiter des villages pour la fabrication de poupées.",
+          "Espaces Verts et Paysages": "Récifs coralliens, plages insulaires.",
+          "Plats Locaux Célèbres": "Poisson grillé frais, fruits de mer."
+        },
+        {
+          "Ville Principale": "Jaco (Island)",
+          "Monuments Historiques et Architecturaux Remarquables": "Une île sacrée pour les visites uniquement.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Plongée et snorkeling dans les eaux à grande biodiversité, observation des oiseaux.",
+          "Espaces Verts et Paysages": "Plages de sable blanc, eaux claires.",
+          "Plats Locaux Célèbres": "La nourriture doit être apportée (île inhabitée)."
+        },
+        {
+          "Ville Principale": "Balibo",
+          "Monuments Historiques et Architecturaux Remarquables": "Fort de Balibo, le Mémorial des Journalistes.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter le fort historique, visiter le Mémorial des Journalistes, dominer la côte.",
+          "Espaces Verts et Paysages": "Plage de Balibo.",
+          "Plats Locaux Célèbres": "Café et bananes frites."
+        },
+        {
+          "Ville Principale": "Liquiçá",
+          "Monuments Historiques et Architecturaux Remarquables": "Maisons coloniales, centre-ville.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Se détendre sur les plages de sable noir, explorer de vieux bâtiments coloniaux.",
+          "Espaces Verts et Paysages": "Plages de sable noir, l'océan.",
+          "Plats Locaux Célèbres": "Café et bananes frites."
+        }
+      ]
+    },
+    {
+      "Pays": "Tuvalu",
+      "Villes": [
+        {
+          "Ville Principale": "Funafuti",
+          "Monuments Historiques et Architecturaux Remarquables": "Bâtiment du Gouvernement (Vai Fenua), Aéroport International de Funafuti.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter la Zone de Conservation de Funafuti, jouer au football sur la piste d'atterrissage au crépuscule, visiter le bâtiment du gouvernement.",
+          "Espaces Verts et Paysages": "Zone de Conservation de Funafuti, le lagon.",
+          "Plats Locaux Célèbres": "Pulu Sami (pâte de taro à la noix de coco), thon frais."
+        },
+        {
+          "Ville Principale": "Vaitupu",
+          "Monuments Historiques et Architecturaux Remarquables": "Église Vaitupu.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Se détendre sur des plages tranquilles, visiter les écoles locales, expérimenter la vie villageoise.",
+          "Espaces Verts et Paysages": "Plages insulaires, petites forêts.",
+          "Plats Locaux Célèbres": "Pain de fruit frit, soupe à la noix de coco."
+        },
+        {
+          "Ville Principale": "Nanumanga",
+          "Monuments Historiques et Architecturaux Remarquables": "Grande église de Nanumanga, bâtiments historiques.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Voir les épaves d'avions de la Seconde Guerre mondiale, visiter la grande église.",
+          "Espaces Verts et Paysages": "Plage de Nanumanga, vestiges de la Seconde Guerre mondiale.",
+          "Plats Locaux Célèbres": "Crabe de cocotier, poisson cuit."
+        },
+        {
+          "Ville Principale": "Niutao",
+          "Monuments Historiques et Architecturaux Remarquables": "Centre du village.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Explorer la culture locale, apprendre l'artisanat traditionnel.",
+          "Espaces Verts et Paysages": "Le lagon, arbres.",
+          "Plats Locaux Célèbres": "Pouding Tuvalu, plats de taro."
+        },
+        {
+          "Ville Principale": "Nui",
+          "Monuments Historiques et Architecturaux Remarquables": "Centre du village.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Snorkeling autour des récifs coralliens, profiter d'une tranquillité complète.",
+          "Espaces Verts et Paysages": "Récifs coralliens, la mer.",
+          "Plats Locaux Célèbres": "Poisson salé et séché, plats à la noix de coco."
+        },
+        {
+          "Ville Principale": "Nukufetau",
+          "Monuments Historiques et Architecturaux Remarquables": "Petites traces historiques.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Se détendre sur le grand lagon, snorkeling.",
+          "Espaces Verts et Paysages": "Le lagon.",
+          "Plats Locaux Célèbres": "Lait de coco frais, poisson."
+        },
+        {
+          "Ville Principale": "Nukulaelae",
+          "Monuments Historiques et Architecturaux Remarquables": "Tefala (site religieux ancien).",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter le site ancien (Tefala), profiter de la nature.",
+          "Espaces Verts et Paysages": "Plages, nature.",
+          "Plats Locaux Célèbres": "Plats traditionnels de fruits de mer, fruits."
+        },
+        {
+          "Ville Principale": "Niulakita",
+          "Monuments Historiques et Architecturaux Remarquables": "Aucun monument architectural majeur.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Profiter d'un isolement complet, explorer l'île.",
+          "Espaces Verts et Paysages": "Plages vierges.",
+          "Plats Locaux Célèbres": "Plats traditionnels d'oiseaux de mer, fruits."
+        },
+        {
+          "Ville Principale": "Amatuku (Islet)",
+          "Monuments Historiques et Architecturaux Remarquables": "L'Institut de Formation Maritime.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter l'Institut Maritime, se détendre sur de petites plages.",
+          "Espaces Verts et Paysages": "Plages d'îlots.",
+          "Plats Locaux Célèbres": "Plats locaux de taro et poisson."
+        },
+        {
+          "Ville Principale": "Tepuka (Islet)",
+          "Monuments Historiques et Architecturaux Remarquables": "Aucun monument architectural majeur.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Excursions vers des îlots inhabités, observation des oiseaux.",
+          "Espaces Verts et Paysages": "Plages, la mer.",
+          "Plats Locaux Célèbres": "Barbecue de plage."
+        }
+      ]
+    },
+    {
+      "Pays": "Saint-Marin",
+      "Villes": [
+        {
+          "Ville Principale": "City of San Marino (Capital)",
+          "Monuments Historiques et Architecturaux Remarquables": "Les Trois Tours (Guaita, Cesta, Montale), Palazzo Pubblico (Palais du Gouvernement), Église San Antonio.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Explorer les trois forteresses, visiter les musées, se promener dans les rues de la vieille ville, acheter des timbres-poste commémoratifs, profiter des cafés et restaurants.",
+          "Espaces Verts et Paysages": "Parco Guido, parcs de la ville, Piazza San Marco, vues panoramiques des Alpes.",
+          "Plats Locaux Célèbres": "Pizza Napolitaine, Spaghetti, Pâtes, Lasagne, Escargots, Nudzli (nouilles locales avec de la viande), Torta Tre Monti (Gâteau des Trois Tours)."
+        },
+        {
+          "Ville Principale": "Borgo Maggiore",
+          "Monuments Historiques et Architecturaux Remarquables": "Église San Francesco, Église Santa Chiara, Teatro San Carlo.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter les églises historiques, se promener dans la vieille ville, faire du shopping dans les rues commerciales, profiter des paysages.",
+          "Espaces Verts et Paysages": "Parcs de la ville, vues des montagnes environnantes.",
+          "Plats Locaux Célèbres": "Spaghetti, Lasagne, pâtes locales, tartes locales."
+        },
+        {
+          "Ville Principale": "Serravalle",
+          "Monuments Historiques et Architecturaux Remarquables": "Église Santa Maria Assunta, Musée de Serravalle.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter le musée, se promener dans la ville, profiter des plages voisines à Rimini, Italie.",
+          "Espaces Verts et Paysages": "Parcs de la ville, vues côtières.",
+          "Plats Locaux Célèbres": "Fruits de mer frais, pâtes locales, plats de viande."
+        }
+      ]
+    },
+    {
+      "Pays": "Liechtenstein",
+      "Villes": [
+        {
+          "Ville Principale": "Vaduz (Capital)",
+          "Monuments Historiques et Architecturaux Remarquables": "Château de Vaduz (résidence du Prince), Cathédrale St. Florin, Kunstmuseum (Musée d'Art).",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter le Château (de l'extérieur), se promener dans la vieille ville, visiter le Musée d'Art, acheter des timbres-poste commémoratifs, randonner dans les Alpes.",
+          "Espaces Verts et Paysages": "Parcs de la ville, vues alpines, la vallée du Rhin.",
+          "Plats Locaux Célèbres": "Fondue au fromage, chocolat suisse, Rösti (plat de pommes de terre râpées et fromage), Käsknöpfle (couches de pommes de terre, viande et fromage), Knödel (boulettes)."
+        }
+      ]
+    },
+    {
+      "Pays": "Macédoine du Nord",
+      "Villes": [
+        {
+          "Ville Principale": "Skopje (Capital)",
+          "Monuments Historiques et Architecturaux Remarquables": "Forteresse Kale, Place du Maréchal Tito, Église Saint-Clément, Pont de Pierre, Musée National.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter la Forteresse, se promener dans la vieille ville (le Vieux Bazar), visiter le marché du Vieux Bazar, profiter de la vie nocturne animée.",
+          "Espaces Verts et Paysages": "Parcs de la ville, vues des montagnes Šar, rivière Vardar.",
+          "Plats Locaux Célèbres": "Ajvar (tartinade de poivrons rouges rôtis), Pastrmajlija (tourte locale), Kavapi (plat de viande hachée), Turšija (légumes marinés)."
+        },
+        {
+          "Ville Principale": "Ohrid",
+          "Monuments Historiques et Architecturaux Remarquables": "Lac Ohrid, Église Saint-Georges, Forteresse de Samuel, Église Sainte-Sophie (site UNESCO).",
+          "Activités et Expériences Touristiques les Plus Importantes": "Se détendre au bord du lac, visiter de vieilles églises et monastères, explorer la nature, se promener dans la vieille ville.",
+          "Espaces Verts et Paysages": "Lac Ohrid, parcs de la ville, montagnes environnantes.",
+          "Plats Locaux Célèbres": "Plats de poisson frais (surtout truite), soupe d'agneau, Turšija d'Ohrid (marinade locale)."
+        },
+        {
+          "Ville Principale": "Bitola",
+          "Monuments Historiques et Architecturaux Remarquables": "Cimetière Saint-Nicolas, Église Saint-Jean.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter le cimetière, se promener dans la ville, profiter de la nature montagneuse.",
+          "Espaces Verts et Paysages": "Parcs de la ville, vues des montagnes environnantes.",
+          "Plats Locaux Célèbres": "Plats de viande grillée, pain local, produits laitiers."
+        }
+      ]
+    },
+    {
+      "Pays": "Albanie",
+      "Villes": [
+        {
+          "Ville Principale": "Tirana (Capital)",
+          "Monuments Historiques et Architecturaux Remarquables": "Mosquée Et'hem Bey, Opéra, Musée National d'Histoire, Pyramide de Tirana, Place Skanderbeg.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter la Mosquée et le Palais, se promener dans la vieille ville, explorer le quartier Block (ancien parti communiste), profiter de la vie nocturne.",
+          "Espaces Verts et Paysages": "Grand Parc, le lac artificiel de Tirana.",
+          "Plats Locaux Célèbres": "Tavë Kosi (ragoût national avec aubergine et viande hachée), Byrek (tourtes salées avec diverses garnitures), Pita (pain plat), Raki (viande grillée)."
+        },
+        {
+          "Ville Principale": "Durres",
+          "Monuments Historiques et Architecturaux Remarquables": "Cathédrale Saint-Paul, Château Rozafa.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter la Cathédrale, se promener dans la ville, profiter des plages, visiter le Château Rozafa.",
+          "Espaces Verts et Paysages": "Plages de Durres, parcs de la ville.",
+          "Plats Locaux Célèbres": "Plats de poisson grillé, fruits de mer, Pita de Durres (pita locale)."
+        },
+        {
+          "Ville Principale": "Vlore",
+          "Monuments Historiques et Architecturaux Remarquables": "Mosquée de Vlore, Musée de Vlore.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter la Mosquée, se promener dans la ville, profiter de la nature.",
+          "Espaces Verts et Paysages": "Parcs de la ville, vues montagneuses.",
+          "Plats Locaux Célèbres": "Plats de viande grillée, pain local, fromage local."
+        }
+      ]
+    },
+    {
+      "Pays": "Croatie",
+      "Villes": [
+        {
+          "Ville Principale": "Zagreb (Capital)",
+          "Monuments Historiques et Architecturaux Remarquables": "Gornji Grad (Ville Haute), Cathédrale Saint-Étienne, Porte de Pierre, Marché Dolac.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter la vieille ville, se promener dans les rues, prendre le funiculaire, profiter de la vie nocturne.",
+          "Espaces Verts et Paysages": "Parcs de la ville, montagne Medvednica.",
+          "Plats Locaux Célèbres": "Pašticada (ragoût de bœuf mariné), Pžolice (moules frites), Ražnjići (viande grillée), Šopska Salata (version croate)."
+        },
+        {
+          "Ville Principale": "Split",
+          "Monuments Historiques et Architecturaux Remarquables": "Palais de Dioclétien (site UNESCO), Cathédrale Saint Domnius, Mausolée de Dioclétien.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter le Palais, se promener dans la ville, profiter des plages.",
+          "Espaces Verts et Paysages": "Plages de Split, parcs de la ville, colline Marjan.",
+          "Plats Locaux Célèbres": "Pašticada, Pžolice, Ražnjići, Pečenica (viande grillée au charbon)."
+        },
+        {
+          "Ville Principale": "Dubrovnik",
+          "Monuments Historiques et Architecturaux Remarquables": "Remparts de Dubrovnik, Cathédrale Saint Tryphon, rue Stradun.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Se promener sur les remparts, explorer la vieille ville, profiter de la nature.",
+          "Espaces Verts et Paysages": "Parcs de la ville, île Lokrum.",
+          "Plats Locaux Célèbres": "Pašticada, Pžolice, Ražnjići, fruits de mer frais."
+        }
+      ]
+    },
+    {
+      "Pays": "Serbie",
+      "Villes": [
+        {
+          "Ville Principale": "Belgrade (Capital)",
+          "Monuments Historiques et Architecturaux Remarquables": "Forteresse de Belgrade, Cathédrale Saint-Michel, Musée Nikola Tesla, Temple de Saint Sava.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter la Forteresse, se promener dans la ville, profiter de la vie nocturne.",
+          "Espaces Verts et Paysages": "Parcs de la ville, vues des rivières Sava et Danube.",
+          "Plats Locaux Célèbres": "Karađorđeva (steak), Šopska Salata, Sarma (rouleaux de chou), Gibanica (tourte au fromage et aux épinards)."
+        },
+        {
+          "Ville Principale": "Novi Sad",
+          "Monuments Historiques et Architecturaux Remarquables": "Forteresse Petrovaradin, Église Saint-Georges.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter la Forteresse, se promener dans la ville, profiter de la nature.",
+          "Espaces Verts et Paysages": "Parcs de la ville, vues montagneuses.",
+          "Plats Locaux Célèbres": "Karađorđeva, Šopska Salata, Sarma."
+        },
+        {
+          "Ville Principale": "Niš",
+          "Monuments Historiques et Architecturaux Remarquables": "Forteresse de Niš, Cathédrale Saint Tryphon.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter la Forteresse, se promener dans la ville, profiter de la nature.",
+          "Espaces Verts et Paysages": "Parcs de la ville, vues montagneuses.",
+          "Plats Locaux Célèbres": "Karađorđeva, Šopska Salata, Sarma."
+        }
+      ]
+    },
+    {
+      "Pays": "Monténégro",
+      "Villes": [
+        {
+          "Ville Principale": "Podgorica (Capital)",
+          "Monuments Historiques et Architecturaux Remarquables": "Pont du Millénaire, Palais de Podgorica, Église Saint-André.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter le Palais, se promener dans la ville, profiter de la vie nocturne.",
+          "Espaces Verts et Paysages": "Parcs de la ville, vues montagneuses.",
+          "Plats Locaux Célèbres": "Karađorđeva, Šopska Salata, Sarma."
+        },
+        {
+          "Ville Principale": "Kotor",
+          "Monuments Historiques et Architecturaux Remarquables": "Église Saint-Nicolas, Musée de Kotor.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter l'Église, se promener dans la ville, profiter de la nature.",
+          "Espaces Verts et Paysages": "Parcs de la ville, vues montagneuses.",
+          "Plats Locaux Célèbres": "Karađorđeva, Šopska Salata, Sarma."
+        },
+        {
+          "Ville Principale": "Nikšić",
+          "Monuments Historiques et Architecturaux Remarquables": "Musée de Nikšić, Église Saint-Étienne.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter le Musée, se promener dans la ville, profiter de la nature.",
+          "Espaces Verts et Paysages": "Parcs de la ville, vues montagneuses.",
+          "Plats Locaux Célèbres": "Karađorđeva, Šopska Salata, Sarma."
+        }
+      ]
+    },
+    {
+      "Pays": "Kosovo",
+      "Villes": [
+        {
+          "Ville Principale": "Pristina (Capital)",
+          "Monuments Historiques et Architecturaux Remarquables": "Cathédrale Mère Teresa, Musée du Kosovo.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter la Cathédrale, se promener dans la ville, profiter de la vie nocturne.",
+          "Espaces Verts et Paysages": "Parcs de la ville, vues montagneuses.",
+          "Plats Locaux Célèbres": "Karađorđeva, Šopska Salata, Sarma."
+        },
+        {
+          "Ville Principale": "Prizren",
+          "Monuments Historiques et Architecturaux Remarquables": "Église Saint-Nicolas, Musée de Prizren.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter l'Église, se promener dans la ville, profiter de la nature.",
+          "Espaces Verts et Paysages": "Parcs de la ville, vues montagneuses.",
+          "Plats Locaux Célèbres": "Karađorđeva, Šopska Salata, Sarma."
+        },
+        {
+          "Ville Principale": "Pristina",
+          "Monuments Historiques et Architecturaux Remarquables": "Cathédrale Mère Teresa, Musée du Kosovo.",
+          "Activités et Expériences Touristiques les Plus Importantes": "Visiter la Cathédrale, se promener dans la ville, profiter de la vie nocturne.",
+          "Espaces Verts et Paysages": "Parcs de la ville, vues montagneuses.",
+          "Plats Locaux Célèbres": "Karađorđeva, Šopska Salata, Sarma."
+        }
+      ]
+    }
+  ]
+}

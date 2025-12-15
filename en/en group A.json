@@ -1,0 +1,933 @@
+[
+  {
+    "Country": "Azerbaijan",
+    "Cities": [
+      {
+        "City": "Baku",
+        "Historical_and_Architectural_Landmarks": "The Old City (Icherisheher), Maiden Tower, Shirvanshahs' Palace, Flame Towers, Heydar Aliyev Center, Fountain Square, Mini Venice, Carpet Museum.",
+        "Local_Cuisine": "Plov, Azerbaijani Kebab, Dushbara.",
+        "Green_Spaces_and_Landscapes": "Baku Boulevard National Park, Javanshir Park, Dynamo Park, Coastal views of the Caspian Sea."
+      },
+      {
+        "City": "Ganja",
+        "Historical_and_Architectural_Landmarks": "Nizami Ganjavi district, Historical mosques, Mausoleums.",
+        "Local_Cuisine": "Plov, Kebab, Dushbara.",
+        "Green_Spaces_and_Landscapes": "Beautiful gardens (as mentioned in the file), Ganjachay River, and the surrounding green rural areas."
+      },
+      {
+        "City": "Sheki",
+        "Historical_and_Architectural_Landmarks": "Sheki Khans' Palace, Local craft market, Theater.",
+        "Local_Cuisine": "Distinctive Sheki food, Plov.",
+        "Green_Spaces_and_Landscapes": "Lesser Caucasus Mountains, Sheki forests, and green rural nature."
+      },
+      {
+        "City": "Gabala",
+        "Historical_and_Architectural_Landmarks": "(The Old City, Gabala Mosque).",
+        "Local_Cuisine": "Plov, Kebab.",
+        "Green_Spaces_and_Landscapes": "North Caucasus Mountains, stunning landscapes, Nohur Lake."
+      },
+      {
+        "City": "Quba",
+        "Historical_and_Architectural_Landmarks": "Mountainous areas, The Juma Mosque.",
+        "Local_Cuisine": "Plov, Kebab.",
+        "Green_Spaces_and_Landscapes": "Mountainous areas, natural gardens, Red Kasaba forests and Gudyalchay River."
+      },
+      {
+        "City": "Lankaran",
+        "Historical_and_Architectural_Landmarks": "Lankaran Historical Fortress, Lighthouse.",
+        "Local_Cuisine": "Plov, Kebab.",
+        "Green_Spaces_and_Landscapes": "Coastal areas of the Caspian Sea, nearby Hirkan National Park."
+      },
+      {
+        "City": "Sumqayit",
+        "Historical_and_Architectural_Landmarks": "Major industrial buildings, Clock Tower.",
+        "Local_Cuisine": "Plov, Kebab.",
+        "Green_Spaces_and_Landscapes": "Sumqayit beaches on the Caspian Sea, Fakhri Asadov Square (a central park)."
+      },
+      {
+        "City": "Mingachevir",
+        "Historical_and_Architectural_Landmarks": "Ancient and historical landmarks, The Water Reservoir.",
+        "Local_Cuisine": "Plov, Kebab.",
+        "Green_Spaces_and_Landscapes": "Kura River, Mingachevir Sea (the water reservoir), and green spaces along the riverbanks."
+      },
+      {
+        "City": "Khankendi",
+        "Historical_and_Architectural_Landmarks": "Historical sites in the area, Mosque.",
+        "Local_Cuisine": "Plov, Kebab.",
+        "Green_Spaces_and_Landscapes": "Surrounding valleys and mountains (especially the Dashaltin area), mountainous landscapes."
+      },
+      {
+        "City": "Gazakh",
+        "Historical_and_Architectural_Landmarks": "Buildings and architectural landmarks in the region.",
+        "Local_Cuisine": "Plov, Kebab.",
+        "Green_Spaces_and_Landscapes": "Kura River, the vast plains of Gazakh, and fertile rural areas."
+      }
+    ]
+  },
+  {
+    "Country": "Armenia",
+    "Cities": [
+      {
+        "City": "Yerevan",
+        "Historical_and_Architectural_Landmarks": "Republic Square, Cascade Complex, Matenadaran (The Museum of Ancient Manuscripts), Armenian Opera Theater, Blue Mosque, Yerevan Brandy Company, Northern Avenue, History Museum of Armenia.",
+        "Local_Cuisine": "Harissa, Khorovats (barbecue), Lavash bread, Dolma, Manti.",
+        "Green_Spaces_and_Landscapes": "Lovers' Park, Victory Park, vast squares, and views of Mount Ararat."
+      },
+      {
+        "City": "Gyumri",
+        "Historical_and_Architectural_Landmarks": "Historical buildings and Rustaveli Street.",
+        "Local_Cuisine": "Harissa, Khorovats, Lavash bread.",
+        "Green_Spaces_and_Landscapes": "Public parks and landscapes of the surrounding plains and highlands."
+      },
+      {
+        "City": "Echmiadzin",
+        "Historical_and_Architectural_Landmarks": "Echmiadzin Cathedral, Zvartnots Cathedral.",
+        "Local_Cuisine": "Harissa, Khorovats, Lavash bread.",
+        "Green_Spaces_and_Landscapes": "Green spaces and squares surrounding the religious landmarks, green meadows."
+      },
+      {
+        "City": "Sevan",
+        "Historical_and_Architectural_Landmarks": "Sevanavank Monastery Complex.",
+        "Local_Cuisine": "River fish, Khorovats.",
+        "Green_Spaces_and_Landscapes": "Lake Sevan (the largest lake), its sandy beaches, and clear waters."
+      },
+      {
+        "City": "Jermuk",
+        "Historical_and_Architectural_Landmarks": "Ancient stone buildings.",
+        "Local_Cuisine": "Harissa, Khorovats.",
+        "Green_Spaces_and_Landscapes": "Its location between the Zangezur Mountains, stunning landscapes, and natural cave areas."
+      },
+      {
+        "City": "Kapan",
+        "Historical_and_Architectural_Landmarks": "Historical landmarks.",
+        "Local_Cuisine": "Harissa, Khorovats.",
+        "Green_Spaces_and_Landscapes": "Zangezur Mountains and green areas, stunning nature, Voghji River."
+      },
+      {
+        "City": "Odzun",
+        "Historical_and_Architectural_Landmarks": "Historical and cultural landmarks, Odzun Church.",
+        "Local_Cuisine": "Harissa, Khorovats.",
+        "Green_Spaces_and_Landscapes": "Valleys and mountains, and quiet rural villages with nature."
+      },
+      {
+        "City": "Dilijan",
+        "Historical_and_Architectural_Landmarks": "Dilijan Museum.",
+        "Local_Cuisine": "Harissa, Khorovats.",
+        "Green_Spaces_and_Landscapes": "Dilijan National Park (stunning nature), known as the 'Switzerland of Armenia'."
+      },
+      {
+        "City": "Ararat",
+        "Historical_and_Architectural_Landmarks": "Ararat Brandy Factory, Ararat Museum.",
+        "Local_Cuisine": "Harissa, Khorovats.",
+        "Green_Spaces_and_Landscapes": "Panoramic views of Mount Ararat (visible from the area), and the plains."
+      },
+      {
+        "City": "Aghavnavank",
+        "Historical_and_Architectural_Landmarks": "(Historical village).",
+        "Local_Cuisine": "Jingyalov hats.",
+        "Green_Spaces_and_Landscapes": "Lastiver Park (a quiet park), and forests and slopes."
+      }
+    ]
+  },
+  {
+    "Country": "Australia",
+    "Cities": [
+      {
+        "City": "Sydney",
+        "Historical_and_Architectural_Landmarks": "Sydney Opera House, Harbour Bridge, The Rocks district, Cadmans Cottage.",
+        "Local_Cuisine": "Meat Pies, Grilled Steaks, Chicken Parmigiana, Kangaroo meat, Pumpkin soup.",
+        "Green_Spaces_and_Landscapes": "Bondi and Manly beaches, Royal Botanic Garden, Hyde Park."
+      },
+      {
+        "City": "Melbourne",
+        "Historical_and_Architectural_Landmarks": "National Gallery of Victoria, Queen Victoria Market, Murals and street art.",
+        "Local_Cuisine": "Meat Pies, Chicken Parmigiana, Lamingtons.",
+        "Green_Spaces_and_Landscapes": "Fitzroy Gardens, Royal Botanic Gardens, Yarra River."
+      },
+      {
+        "City": "Gold Coast",
+        "Historical_and_Architectural_Landmarks": "Sea World, Movie World.",
+        "Local_Cuisine": "Meat Pies, Grilled Steaks.",
+        "Green_Spaces_and_Landscapes": "Surfing beaches, nearby Springbrook National Park, and Waterfall Mountains."
+      },
+      {
+        "City": "Brisbane",
+        "Historical_and_Architectural_Landmarks": "Art galleries, South Bank Parklands.",
+        "Local_Cuisine": "Pumpkin soup.",
+        "Green_Spaces_and_Landscapes": "Queensland National Park, Brisbane River, and Brisbane Botanic Gardens."
+      },
+      {
+        "City": "Newcastle",
+        "Historical_and_Architectural_Landmarks": "Historical architecture.",
+        "Local_Cuisine": "Meat Pies.",
+        "Green_Spaces_and_Landscapes": "Surfing spots, surrounding mountains and farms, Blackbutt Reserve."
+      },
+      {
+        "City": "Perth",
+        "Historical_and_Architectural_Landmarks": "Bell Tower.",
+        "Local_Cuisine": "Grilled and fried fish.",
+        "Green_Spaces_and_Landscapes": "Kings Park, Swan River, stunning beaches, and Jarrah forests."
+      },
+      {
+        "City": "Adelaide",
+        "Historical_and_Architectural_Landmarks": "South Australian Museum.",
+        "Local_Cuisine": "Meat Pies.",
+        "Green_Spaces_and_Landscapes": "Barossa Valley wine region, Adelaide Hills, and Fleurieu Peninsula beaches."
+      },
+      {
+        "City": "Hobart",
+        "Historical_and_Architectural_Landmarks": "Tourist and historical sites in Tasmania.",
+        "Local_Cuisine": "Look for local dishes",
+        "Green_Spaces_and_Landscapes": "Stunning natural areas, and climbing Mount Wellington...."
+      }
+    ]
+  },
+  {
+    "Country": "Afghanistan",
+    "Cities": [
+      {
+        "City": "Kabul",
+        "Historical_and_Architectural_Landmarks": "Darul Aman Palace, Blue Mosque (Khawaja Abdullah Ansari), National Museum, Babur's Gardens.",
+        "Local_Cuisine": "Qabili Palau, Afghan Kebab, Ashak, Bolani, Qorma.",
+        "Green_Spaces_and_Landscapes": "Babur's Gardens (with its gardens), Hindu Kush mountains (surrounding the city), Shahr-e Ara Park."
+      },
+      {
+        "City": "Kandahar",
+        "Historical_and_Architectural_Landmarks": "Tomb of Ahmad Shah Durrani, Shrine of the Cloak, Chehel Zina, Mausoleum of Mirwais Hotak.",
+        "Local_Cuisine": "Qabili Palau, Afghan Kebab.",
+        "Green_Spaces_and_Landscapes": "Exploring vineyards and saffron farms, Arghandab River, and fertile plains."
+      },
+      {
+        "City": "Herat",
+        "Historical_and_Architectural_Landmarks": "Friday Mosque, Mausoleum of Khwaja Abdullah Ansari, remains of old mosques and schools.",
+        "Local_Cuisine": "Qabili Palau, Afghan Kebab.",
+        "Green_Spaces_and_Landscapes": "Hari River, surrounding green valleys, and agricultural areas."
+      },
+      {
+        "City": "Bamyan",
+        "Historical_and_Architectural_Landmarks": "Bamyan Valley, ancient Buddhist temples (including the site of the destroyed Buddha statues).",
+        "Local_Cuisine": "Qabili Palau.",
+        "Green_Spaces_and_Landscapes": "Bamyan Valley and its natural beauty, ancient Buddhist temples (within mountainous landscapes)."
+      },
+      {
+        "City": "Badghis",
+        "Historical_and_Architectural_Landmarks": "Shah Mashhad.",
+        "Local_Cuisine": "Qabili Palau, Afghan Kebab.",
+        "Green_Spaces_and_Landscapes": "Rural areas and surrounding mountainous plains, fertile landscapes."
+      }
+    ]
+  },
+  {
+    "Country": "Albania",
+    "Cities": [
+      {
+        "City": "Tirana",
+        "Historical_and_Architectural_Landmarks": "Skanderbeg Square, National History Museum, Clock Tower, Dajti Mountain.",
+        "Local_Cuisine": "Byrek (pie), Tavë kosi (baked lamb with yogurt).",
+        "Green_Spaces_and_Landscapes": "Grand Park of Tirana, banks of the Erzen River."
+      },
+      {
+        "City": "Berat",
+        "Historical_and_Architectural_Landmarks": "Berat Castle, the Old Town.",
+        "Local_Cuisine": "Byrek, Tavë kosi.",
+        "Green_Spaces_and_Landscapes": "Views overlooking the Osum River, and Mount Tomorr."
+      },
+      {
+        "City": "Vlorë",
+        "Historical_and_Architectural_Landmarks": "Vlorë Castle, Vlorë Museum, Muradie Mosque, the Old Town.",
+        "Local_Cuisine": "Byrek, Tavë kosi.",
+        "Green_Spaces_and_Landscapes": "Beaches of the Adriatic Sea, Llogara Pass, and Karaburun-Sazan National Park."
+      },
+      {
+        "City": "Durrës",
+        "Historical_and_Architectural_Landmarks": "Durrës Amphitheatre, Durrës Castle.",
+        "Local_Cuisine": "Seafood, Byrek.",
+        "Green_Spaces_and_Landscapes": "Durrës Beach, and Durrës coastal forests."
+      },
+      {
+        "City": "Shkodër",
+        "Historical_and_Architectural_Landmarks": "Rozafa Castle.",
+        "Local_Cuisine": "Byrek, Tavë kosi.",
+        "Green_Spaces_and_Landscapes": "Lake Shkodër (the largest lake in Southern Europe), the Albanian Alps."
+      },
+      {
+        "City": "Korçë",
+        "Historical_and_Architectural_Landmarks": "(An important cultural and historical center).",
+        "Local_Cuisine": "Byrek, Tavë kosi.",
+        "Green_Spaces_and_Landscapes": "Korçë Public Park, and nearby Drenova National Park."
+      },
+      {
+        "City": "Durrës",
+        "Historical_and_Architectural_Landmarks": "Durrës Amphitheatre, Durrës Castle.",
+        "Local_Cuisine": "Seafood, Byrek.",
+        "Green_Spaces_and_Landscapes": "Durrës Beach, and Durrës coastal forests."
+      },
+      {
+        "City": "Sarandë",
+        "Historical_and_Architectural_Landmarks": "Lëkurësi Castle.",
+        "Local_Cuisine": "Byrek, Tavë kosi.",
+        "Green_Spaces_and_Landscapes": "Coastal villages and surrounding mountain scenery, and Ionian Sea beaches."
+      }
+    ]
+  },
+  {
+    "Country": "Germany",
+    "Cities": [
+      {
+        "City": "Heidelberg",
+        "Historical_and_Architectural_Landmarks": "Heidelberg Castle, The Old Bridge, Hauptstrasse.",
+        "Local_Cuisine": "Spätzle, Rouladen.",
+        "Green_Spaces_and_Landscapes": "Philosophers' Walk, the forests surrounding Heidelberg Castle, Neckar River."
+      },
+      {
+        "City": "Dresden",
+        "Historical_and_Architectural_Landmarks": "Baroque architectural landmarks (Zwinger), historical buildings.",
+        "Local_Cuisine": "Sausages, Rouladen.",
+        "Green_Spaces_and_Landscapes": "Saxon Switzerland National Park (nearby), and the gardens along the Elbe River."
+      },
+      {
+        "City": "Freiburg",
+        "Historical_and_Architectural_Landmarks": "Freiburg Minster Cathedral, Schwabentor, Schlossberg (a hill with views).",
+        "Local_Cuisine": "Potato pancakes.",
+        "Green_Spaces_and_Landscapes": "The surrounding Black Forest (Schwarzwald), and the Schlossberg hill."
+      },
+      {
+        "City": "Bonn",
+        "Historical_and_Architectural_Landmarks": "Beethoven House, Bonn Minster.",
+        "Local_Cuisine": "Schnitzel, Sausages.",
+        "Green_Spaces_and_Landscapes": "Rheinaue Park, and the banks of the Rhine River."
+      },
+      {
+        "City": "Wiesbaden",
+        "Historical_and_Architectural_Landmarks": "Kurhaus, Nerobergbahn, Wilhelmstrasse.",
+        "Local_Cuisine": "Sausages, Schnitzel.",
+        "Green_Spaces_and_Landscapes": "Kurpark, the Neroberg hill, and Roman springs."
+      }
+    ]
+  },
+  {
+    "Country": "Angola",
+    "Cities": [
+      {
+        "City": "Luanda",
+        "Historical_and_Architectural_Landmarks": "Dr. António Agostinho Neto Mausoleum, Church of Nossa Senhora dos Remédios, National Museum of Slavery, National Anthropology Museum.",
+        "Local_Cuisine": "Muamba de Galinha, Funge de Bombó, Quizaca, Caruru, Mufete.",
+        "Green_Spaces_and_Landscapes": "Luanda Bay, Mussulo Island (beaches), Kissama National Park (nearby)."
+      },
+      {
+        "City": "M'banza-Kongo",
+        "Historical_and_Architectural_Landmarks": "Historical sites (a UNESCO World Heritage site).",
+        "Local_Cuisine": "Muamba de Galinha, Funge de Bombó.",
+        "Green_Spaces_and_Landscapes": "Surrounding areas and rainforests, pristine nature."
+      },
+      {
+        "City": "Malanje",
+        "Historical_and_Architectural_Landmarks": "Historical landmarks.",
+        "Local_Cuisine": "Muamba de Galinha, Funge de Bombó.",
+        "Green_Spaces_and_Landscapes": "Kalandula Falls, Lucala River, Milando Natural Reserve."
+      },
+      {
+        "City": "Benguela",
+        "Historical_and_Architectural_Landmarks": "National Anthropology Museum, the historical city.",
+        "Local_Cuisine": "Seafood.",
+        "Green_Spaces_and_Landscapes": "Sandy beaches, and views of the Atlantic Ocean."
+      },
+      {
+        "City": "Lobito",
+        "Historical_and_Architectural_Landmarks": "Cultural and historical landmarks, the seaport.",
+        "Local_Cuisine": "Muamba de Galinha, Funge de Bombó.",
+        "Green_Spaces_and_Landscapes": "Coastal nature around the port, and nearby mountains."
+      }
+    ]
+  },
+  {
+    "Country": "Uruguay",
+    "Cities": [
+      {
+        "City": "Montevideo",
+        "Historical_and_Architectural_Landmarks": "Independence Square, Salvo Palace, Mercado del Puerto, Solís Theatre.",
+        "Local_Cuisine": "Asado (barbecue), Chivito (steak sandwich), Pastel de Carne.",
+        "Green_Spaces_and_Landscapes": "Rambla de Montevideo (the coastal promenade), Parque Batlle y Ordóñez."
+      },
+      {
+        "City": "Punta del Este",
+        "Historical_and_Architectural_Landmarks": "Punta del Este Port, La Mano (the famous sculpture), Isla de Lobos (for sea lions).",
+        "Local_Cuisine": "Asado, Chivito.",
+        "Green_Spaces_and_Landscapes": "Beaches and luxurious resorts on the Atlantic Ocean."
+      },
+      {
+        "City": "Piriápolis",
+        "Historical_and_Architectural_Landmarks": "Pan de Azúcar Hill, Villa Argentina castle.",
+        "Local_Cuisine": "Asado, Chivito.",
+        "Green_Spaces_and_Landscapes": "A famous seaside resort, hills and landscapes, including San Antonio Hill."
+      },
+      {
+        "City": "Salto",
+        "Historical_and_Architectural_Landmarks": "(An agricultural center).",
+        "Local_Cuisine": "Asado, Chivito.",
+        "Green_Spaces_and_Landscapes": "Arapey hot springs, Daymán hot springs, Uruguay River."
+      },
+      {
+        "City": "La Paloma",
+        "Historical_and_Architectural_Landmarks": "La Paloma Lighthouse.",
+        "Local_Cuisine": "Asado, Chivito.",
+        "Green_Spaces_and_Landscapes": "A beach and coastal resort on the Atlantic, and nearby Rocha Lake."
+      },
+      {
+        "City": "Punta del Diablo",
+        "Historical_and_Architectural_Landmarks": "(A small fishing village).",
+        "Local_Cuisine": "Asado, Chivito.",
+        "Green_Spaces_and_Landscapes": "Beautiful sandy beaches, and the surrounding pristine nature."
+      }
+    ]
+  },
+  {
+    "Country": "Uzbekistan",
+    "Cities": [
+      {
+        "City": "Tashkent",
+        "Historical_and_Architectural_Landmarks": "Amir Timur Square, Khast Imam Complex, Barak-Khan Madrasa.",
+        "Local_Cuisine": "Plov, Shashlik (kebab), Samsa.",
+        "Green_Spaces_and_Landscapes": "Water canals, Babur Park, and urban green spaces."
+      },
+      {
+        "City": "Samarkand",
+        "Historical_and_Architectural_Landmarks": "Registan Square, Gur-e-Amir Mausoleum, Bibi-Khanym Mosque.",
+        "Local_Cuisine": "Plov, Shashlik, Samsa.",
+        "Green_Spaces_and_Landscapes": "Registan Square (an archaeological site), the green suburbs of Samarkand."
+      },
+      {
+        "City": "Bukhara",
+        "Historical_and_Architectural_Landmarks": "Poi-Kalyan complex, Samanid Mausoleum, the Old City of Bukhara.",
+        "Local_Cuisine": "Plov, Shashlik, Samsa.",
+        "Green_Spaces_and_Landscapes": "Lyab-i Hauz (a water pool and garden area)."
+      },
+      {
+        "City": "Khorezm",
+        "Historical_and_Architectural_Landmarks": "Itchan Kala fortress in Khiva (nearby), mausoleums and mosques.",
+        "Local_Cuisine": "Plov, Shashlik, Samsa.",
+        "Green_Spaces_and_Landscapes": "Agricultural areas around the Amu Darya River."
+      },
+      {
+        "City": "Namangan",
+        "Historical_and_Architectural_Landmarks": "(A major city with historical landmarks and monuments).",
+        "Local_Cuisine": "Plov, Shashlik, Manti.",
+        "Green_Spaces_and_Landscapes": "Fertile agricultural areas, and proximity to the Syr Darya River."
+      },
+      {
+        "City": "Andijan",
+        "Historical_and_Architectural_Landmarks": "(A major city with historical landmarks and monuments).",
+        "Local_Cuisine": "Plov, Shashlik, Samsa.",
+        "Green_Spaces_and_Landscapes": "Fertile valleys and agricultural areas in the Fergana Valley."
+      }
+    ]
+  },
+  {
+    "Country": "Ukraine",
+    "Cities": [
+      {
+        "City": "Kyiv",
+        "Historical_and_Architectural_Landmarks": "Kyiv Pechersk Lavra, Saint Sophia's Cathedral, Maidan Nezalezhnosti (Independence Square), Golden Gate, National Museum of the History of Ukraine.",
+        "Local_Cuisine": "Borscht (beet soup), Varenyky (dumplings), Kotleta (patty), Holubtsi (cabbage rolls), Pyrohy (baked meat pie).",
+        "Green_Spaces_and_Landscapes": "National Botanical Gardens, the banks of the Dnieper River."
+      },
+      {
+        "City": "Kharkiv",
+        "Historical_and_Architectural_Landmarks": "Freedom Square, Gorky Park, Annunciation Cathedral, Museum of Fine Arts.",
+        "Local_Cuisine": "Borscht, Varenyky.",
+        "Green_Spaces_and_Landscapes": "Gorky Park (Central), the surrounding forests."
+      },
+      {
+        "City": "Odesa",
+        "Historical_and_Architectural_Landmarks": "Odesa National Opera and Ballet Theater, Potemkin Stairs, Deribasivska Street.",
+        "Local_Cuisine": "Salata (salad with vegetables and minced meat), Bliny (pancakes).",
+        "Green_Spaces_and_Landscapes": "Coastal tourism on the Black Sea, Arcadia Beach."
+      },
+      {
+        "City": "Lviv",
+        "Historical_and_Architectural_Landmarks": "Rynok Square, Lviv Opera House, High Castle Hill.",
+        "Local_Cuisine": "Borscht, Coffee.",
+        "Green_Spaces_and_Landscapes": "High Castle Park, urban parks."
+      },
+      {
+        "City": "Dnipro",
+        "Historical_and_Architectural_Landmarks": "The Embankment, Space Museum, Monastyrsky Island.",
+        "Local_Cuisine": "Borscht.",
+        "Green_Spaces_and_Landscapes": "The Embankment on the Dnieper River, city parks."
+      },
+      {
+        "City": "Donetsk",
+        "Historical_and_Architectural_Landmarks": "Pushkin Park, Lenin Square, Regional Museum.",
+        "Local_Cuisine": "Borscht.",
+        "Green_Spaces_and_Landscapes": "Pushkin Park, the eastern plains."
+      },
+      {
+        "City": "Sevastopol",
+        "Historical_and_Architectural_Landmarks": "Crimean Peninsula, Panorama of the Defense of Sevastopol, Chersonesus.",
+        "Local_Cuisine": "Borscht, Seafood.",
+        "Green_Spaces_and_Landscapes": "Crimean Peninsula (Mount Ay-Petri), maritime tourism."
+      },
+      {
+        "City": "Zaporizhzhia",
+        "Historical_and_Architectural_Landmarks": "Khortytsia Island, Museum of Zaporizhzhian Cossacks, Zaporizhzhia Beach.",
+        "Local_Cuisine": "Borscht.",
+        "Green_Spaces_and_Landscapes": "Khortytsia Island (the largest river island), Dnieper River."
+      },
+      {
+        "City": "Mykolaiv",
+        "Historical_and_Architectural_Landmarks": "Mykolaiv Astronomical Observatory, Mykolaiv Embankment, Shipbuilding Museum.",
+        "Local_Cuisine": "Borscht.",
+        "Green_Spaces_and_Landscapes": "The Astronomical Observatory (surrounding green areas), Black Sea plains."
+      },
+      {
+        "City": "Korosten",
+        "Historical_and_Architectural_Landmarks": "Princess Olga's Baths Park, Stone Museum.",
+        "Local_Cuisine": "Borscht, Deruny (potato pancakes).",
+        "Green_Spaces_and_Landscapes": "Princess Olga's Baths Park, rural areas."
+      }
+    ]
+  },
+  {
+    "Country": "Eritrea",
+    "Cities": [
+      {
+        "City": "Asmara",
+        "Historical_and_Architectural_Landmarks": "St. Joseph's Cathedral, Opera House, Cinema Impero.",
+        "Local_Cuisine": "Zigni (stew), Injera (sourdough flatbread), Tsebhi (fried meat).",
+        "Green_Spaces_and_Landscapes": "Beautiful gardens and green spaces, the Eritrean Highlands."
+      },
+      {
+        "City": "Massawa",
+        "Historical_and_Architectural_Landmarks": "Historical Port of Massawa, Hanafi Mosque, Dahlak Islands.",
+        "Local_Cuisine": "Zigni, Injera, Seafood.",
+        "Green_Spaces_and_Landscapes": "Red Sea beaches, Green Island (Sheikh Saeed)."
+      },
+      {
+        "City": "Keren",
+        "Historical_and_Architectural_Landmarks": "Camel Market, Fort Bizen, Mariam De'Arit Monastery.",
+        "Local_Cuisine": "Zigni, Injera.",
+        "Green_Spaces_and_Landscapes": "Surrounding granite mountains, enchanting landscapes."
+      },
+      {
+        "City": "Dekemhare",
+        "Historical_and_Architectural_Landmarks": "Italian colonial architecture, Catholic Church.",
+        "Local_Cuisine": "Zigni, Injera.",
+        "Green_Spaces_and_Landscapes": "Rural Italian architecture, surrounding plains."
+      },
+      {
+        "City": "Adi Quala",
+        "Historical_and_Architectural_Landmarks": "Archaeological sites, Adi Quala Museum, nearby Matara.",
+        "Local_Cuisine": "Zigni, Injera.",
+        "Green_Spaces_and_Landscapes": "Archaeological sites in the highlands, mountain scenery."
+      },
+      {
+        "City": "Teseney",
+        "Historical_and_Architectural_Landmarks": "Teseney River, border town, open-air market.",
+        "Local_Cuisine": "Zigni, Injera.",
+        "Green_Spaces_and_Landscapes": "Teseney River, the western green areas."
+      },
+      {
+        "City": "Qond'a",
+        "Historical_and_Architectural_Landmarks": "Coastal villages, Red Sea beaches, landscapes.",
+        "Local_Cuisine": "Zigni, Injera, Fish.",
+        "Green_Spaces_and_Landscapes": "Coastal villages, Red Sea beaches."
+      },
+      {
+        "City": "Agordat",
+        "Historical_and_Architectural_Landmarks": "Main market, old military sites.",
+        "Local_Cuisine": "Zigni, Injera.",
+        "Green_Spaces_and_Landscapes": "Plains areas, dense trees on riverbanks."
+      },
+      {
+        "City": "Mendefera",
+        "Historical_and_Architectural_Landmarks": "Ancient archaeological sites (nearby Matara), hills.",
+        "Local_Cuisine": "Zigni, Injera.",
+        "Green_Spaces_and_Landscapes": "Ancient sites (Matara), highland agricultural areas."
+      },
+      {
+        "City": "Barentu",
+        "Historical_and_Architectural_Landmarks": "Mining town, vast plains areas.",
+        "Local_Cuisine": "Zigni, Injera.",
+        "Green_Spaces_and_Landscapes": "Plains nature, rivers and grazing areas."
+      }
+    ]
+  },
+  {
+    "Country": "Spain",
+    "Cities": [
+      {
+        "City": "Madrid",
+        "Historical_and_Architectural_Landmarks": "Royal Palace, Prado Museum, Plaza Mayor.",
+        "Local_Cuisine": "Paella, Tapas, Gazpacho, Churros.",
+        "Green_Spaces_and_Landscapes": "Retiro Park, Royal Botanical Garden, Casa de Campo Park."
+      },
+      {
+        "City": "Barcelona",
+        "Historical_and_Architectural_Landmarks": "Sagrada Família, Gothic Quarter, La Rambla.",
+        "Local_Cuisine": "Fideuà, Pan Tomate, Crema Catalana.",
+        "Green_Spaces_and_Landscapes": "Park Güell, Montserrat mountain, Mediterranean Sea beaches."
+      },
+      {
+        "City": "Seville",
+        "Historical_and_Architectural_Landmarks": "Royal Alcázar of Seville, Seville Cathedral, Plaza de España.",
+        "Local_Cuisine": "Valencian Paella, Salmorejo.",
+        "Green_Spaces_and_Landscapes": "The gardens of the Alcázar, María Luisa Park."
+      },
+      {
+        "City": "Valencia",
+        "Historical_and_Architectural_Landmarks": "City of Arts and Sciences, Central Market, Valencia Cathedral.",
+        "Local_Cuisine": "Paella (the original), Fabada, Horchata.",
+        "Green_Spaces_and_Landscapes": "City of Arts and Sciences (water views), Turia Garden."
+      },
+      {
+        "City": "Malaga",
+        "Historical_and_Architectural_Landmarks": "Alcazaba, Gibralfaro Castle, Picasso Museum.",
+        "Local_Cuisine": "Pescaíto Frito (fried fish), Boquerones (anchovies).",
+        "Green_Spaces_and_Landscapes": "Costa del Sol beaches, Alcazaba (overlooking views)."
+      },
+      {
+        "City": "Córdoba",
+        "Historical_and_Architectural_Landmarks": "The Mosque-Cathedral (Mezquita), the Jewish Quarter, Viana Palace.",
+        "Local_Cuisine": "Salmorejo, Flamenquín.",
+        "Green_Spaces_and_Landscapes": "Alcázar gardens, the Courtyards of the Mosque-Cathedral."
+      },
+      {
+        "City": "Granada",
+        "Historical_and_Architectural_Landmarks": "Alhambra, Generalife, Albaicín district.",
+        "Local_Cuisine": "Patatas a lo Pobre, Rabo de Toro.",
+        "Green_Spaces_and_Landscapes": "Alhambra and Generalife (water and country gardens)."
+      },
+      {
+        "City": "Bilbao",
+        "Historical_and_Architectural_Landmarks": "Guggenheim Museum, Casco Viejo (Old Town), Zubizuri Bridge.",
+        "Local_Cuisine": "Pintxos, Bacalao (cod).",
+        "Green_Spaces_and_Landscapes": "Coastal cliffs, Doña Casilda Iturrizar Park."
+      },
+      {
+        "City": "Alicante",
+        "Historical_and_Architectural_Landmarks": "Santa Bárbara Castle, Postiguet Beach, MARQ Museum.",
+        "Local_Cuisine": "Arroz a Banda, Turrón (nougat).",
+        "Green_Spaces_and_Landscapes": "Costa Blanca beaches, Benacantil Hill (overlooking views)."
+      },
+      {
+        "City": "Las Palmas",
+        "Historical_and_Architectural_Landmarks": "Mount Teide (on Tenerife), Las Canteras Beach, Vegueta.",
+        "Local_Cuisine": "Papas Arrugadas, Mojo (sauce).",
+        "Green_Spaces_and_Landscapes": "Mount Teide, Las Canteras Beach."
+      },
+      {
+        "City": "Marbella",
+        "Historical_and_Architectural_Landmarks": "Puerto Banús, Playa de la Fontanilla, the Old Town.",
+        "Local_Cuisine": "Paella, Tapas, Seafood.",
+        "Green_Spaces_and_Landscapes": "The tree-lined Paseo Marítimo, luxurious sandy beaches."
+      },
+      {
+        "City": "Toledo",
+        "Historical_and_Architectural_Landmarks": "Toledo Cathedral, the Synagogue of Santa María la Blanca, Alcántara Bridge.",
+        "Local_Cuisine": "Carcamusa (stew), Mazapán (marzipan).",
+        "Green_Spaces_and_Landscapes": "Banks of the Tagus River, surrounding rural areas."
+      }
+    ]
+  },
+  {
+    "Country": "Estonia",
+    "Cities": [
+      {
+        "City": "Tallinn",
+        "Historical_and_Architectural_Landmarks": "The Old Town (a World Heritage site), Alexander Nevsky Cathedral, St. Olaf's Church.",
+        "Local_Cuisine": "Verivorst (blood sausage), Leib (rye bread).",
+        "Green_Spaces_and_Landscapes": "Kadriorg Park, the coastal cliffs (Pakri)."
+      },
+      {
+        "City": "Tartu",
+        "Historical_and_Architectural_Landmarks": "University of Tartu, the Bridge of Kisses, Art Museum.",
+        "Local_Cuisine": "Verivorst, Leib.",
+        "Green_Spaces_and_Landscapes": "Tartu Botanical Garden, river landscapes."
+      },
+      {
+        "City": "Pärnu",
+        "Historical_and_Architectural_Landmarks": "Pärnu beaches, its spa resorts, Pärnu Park.",
+        "Local_Cuisine": "Verivorst, Leib.",
+        "Green_Spaces_and_Landscapes": "Pärnu sandy beach, spa resorts near forests."
+      },
+      {
+        "City": "Narva",
+        "Historical_and_Architectural_Landmarks": "Narva Castle (Hermann), the Art Museum, border areas.",
+        "Local_Cuisine": "Verivorst, Leib.",
+        "Green_Spaces_and_Landscapes": "Narva Castle (river views), green border areas."
+      },
+      {
+        "City": "Kohtla-Järve",
+        "Historical_and_Architectural_Landmarks": "Kohtla-Järve Oil Shale Museum, business district.",
+        "Local_Cuisine": "Verivorst, Leib.",
+        "Green_Spaces_and_Landscapes": "Industrial areas (oil shale) and surrounding forests."
+      }
+    ]
+  },
+  {
+    "Country": "Eswatini",
+    "Cities": [
+      {
+        "City": "Mbabane",
+        "Historical_and_Architectural_Landmarks": "Parliament building, Mbabane Market.",
+        "Local_Cuisine": "Sishwala, Incwancwa.",
+        "Green_Spaces_and_Landscapes": "Ezulwini Valley (nearby), green hilly areas."
+      },
+      {
+        "City": "Manzini",
+        "Historical_and_Architectural_Landmarks": "The King's palace, National Museum, Royal Hlane Park.",
+        "Local_Cuisine": "Sishwala, Incwancwa.",
+        "Green_Spaces_and_Landscapes": "Hlane Royal National Park, mountainous highlands."
+      },
+      {
+        "City": "Big Bend",
+        "Historical_and_Architectural_Landmarks": "Sugar cane plantations, Swaziland River, Big Bend Bridge.",
+        "Local_Cuisine": "Sishwala, Incwancwa.",
+        "Green_Spaces_and_Landscapes": "Sugar cane plantations, Swaziland River (water views)."
+      },
+      {
+        "City": "Siteki",
+        "Historical_and_Architectural_Landmarks": "Industrial complex, trade center.",
+        "Local_Cuisine": "Sishwala, Incwancwa.",
+        "Green_Spaces_and_Landscapes": "Industrial area, rural nature."
+      }
+    ]
+  },
+  {
+    "Country": "Indonesia",
+    "Cities": [
+      {
+        "City": "Jakarta",
+        "Historical_and_Architectural_Landmarks": "National Monument (Monas), the Old Town (Kota Tua), Jakarta Museum.",
+        "Local_Cuisine": "Nasi Goreng, Satay, Gado-gado.",
+        "Green_Spaces_and_Landscapes": "Taman Mini Indonesia Indah park, Ancol Dreamland."
+      },
+      {
+        "City": "Surabaya",
+        "Historical_and_Architectural_Landmarks": "Heroes Monument, Cheng Ho Mosque, Maritime Museum.",
+        "Local_Cuisine": "Nasi Goreng, Satay, Rujak Cingur.",
+        "Green_Spaces_and_Landscapes": "Bungkul Park, the green nature of East Java."
+      },
+      {
+        "City": "Medan",
+        "Historical_and_Architectural_Landmarks": "Great Mosque of Medan, Maimun Palace, nearby Lake Toba.",
+        "Local_Cuisine": "Nasi Goreng, Satay, Soto Medan.",
+        "Green_Spaces_and_Landscapes": "Mount Sibayak (active volcano), Taman Bundo."
+      },
+      {
+        "City": "Makassar",
+        "Historical_and_Architectural_Landmarks": "Fort Rotterdam, Losari Beach, Spermonde Islands.",
+        "Local_Cuisine": "Nasi Goreng, Satay, Coto Makassar (beef soup).",
+        "Green_Spaces_and_Landscapes": "Fort Rotterdam (sea views), coastal nature."
+      }
+    ]
+  },
+  {
+    "Country": "Italy",
+    "Cities": [
+      {
+        "City": "Rome",
+        "Historical_and_Architectural_Landmarks": "The Colosseum, Roman Forum, Vatican City, Trevi Fountain.",
+        "Local_Cuisine": "Pasta Carbonara, Spaghetti Cacio e Pepe, Pizza Romana.",
+        "Green_Spaces_and_Landscapes": "Villa Borghese Gardens, Terrazza del Pincio gardens."
+      },
+      {
+        "City": "Milan",
+        "Historical_and_Architectural_Landmarks": "Milan Cathedral (Duomo), Galleria Vittorio Emanuele II, La Scala Theatre.",
+        "Local_Cuisine": "Risotto alla Milanese, Cotoletta (veal cutlet).",
+        "Green_Spaces_and_Landscapes": "Sempione Park, Navigli canals."
+      },
+      {
+        "City": "Naples",
+        "Historical_and_Architectural_Landmarks": "Historic Center of Naples, Royal Palace of Capodimonte, nearby Pompeii.",
+        "Local_Cuisine": "Neapolitan Pizza, Sfogliatella (pastry).",
+        "Green_Spaces_and_Landscapes": "Mount Vesuvius (overlooking the city), Amalfi Coast."
+      },
+      {
+        "City": "Bologna",
+        "Historical_and_Architectural_Landmarks": "Piazza Maggiore, The Two Towers, Neptune Fountain.",
+        "Local_Cuisine": "Bolognese sauce (Ragù), Tortellini.",
+        "Green_Spaces_and_Landscapes": "Margherita Gardens (urban parks), the green Po plains."
+      }
+    ]
+  },
+  {
+    "Country": "Argentina",
+    "Cities": [
+      {
+        "City": "Buenos Aires",
+        "Historical_and_Architectural_Landmarks": "Plaza de Mayo, La Boca (the colorful district), Eva Perón's tomb (in Recoleta Cemetery).",
+        "Local_Cuisine": "Asado, Empanadas, Alfajores (sweets).",
+        "Green_Spaces_and_Landscapes": "Parques de Palermo (Palermo Woods), Ecological Reserve."
+      },
+      {
+        "City": "Mendoza",
+        "Historical_and_Architectural_Landmarks": "Plaza Independencia, National Museum of History.",
+        "Local_Cuisine": "Asado, Empanadas, Malbec wine.",
+        "Green_Spaces_and_Landscapes": "General San Martín Park, Mendoza's vineyards."
+      },
+      {
+        "City": "San Carlos de Bariloche",
+        "Historical_and_Architectural_Landmarks": "The city center (European-style architecture).",
+        "Local_Cuisine": "Asado, Empanadas, Patagonian chocolate.",
+        "Green_Spaces_and_Landscapes": "Nahuel Huapi Lake, the Andes mountains."
+      },
+      {
+        "City": "Salta",
+        "Historical_and_Architectural_Landmarks": "Museum of High Altitude Archaeology, Salta Cathedral, San Bernardo Hill.",
+        "Local_Cuisine": "Asado, Empanadas, Tamales.",
+        "Green_Spaces_and_Landscapes": "The northern Andes mountains, Lerma Valley."
+      },
+      {
+        "City": "Neuquén",
+        "Historical_and_Architectural_Landmarks": "Neuquén Museum, Neuquén River, Centenario Park.",
+        "Local_Cuisine": "Asado, Empanadas.",
+        "Green_Spaces_and_Landscapes": "Neuquén River, northern Patagonian nature."
+      }
+    ]
+  },
+  {
+    "Country": "Jordan",
+    "Cities": [
+      {
+        "City": "Amman",
+        "Historical_and_Architectural_Landmarks": "Roman Amphitheatre, Jabal al-Qal'a (Citadel Hill), The Jordan Museum, Rainbow Street.",
+        "Local_Cuisine": "Mansaf, Maqluba, Knafeh.",
+        "Green_Spaces_and_Landscapes": "Hussein Park, Amman's mountainous suburbs with views."
+      },
+      {
+        "City": "Petra",
+        "Historical_and_Architectural_Landmarks": "The Treasury (Al-Khazneh), The Monastery (Ad-Deir), The Siq.",
+        "Local_Cuisine": "Mansaf, Zarb (underground barbecue).",
+        "Green_Spaces_and_Landscapes": "Wadi Musa (rocky nature and carvings)."
+      },
+      {
+        "City": "Aqaba",
+        "Historical_and_Architectural_Landmarks": "Aqaba Mamluk Castle, Aqaba Archaeological Museum, Aqaba Souk.",
+        "Local_Cuisine": "Seafood, Sayadieh (fish dish), Mansaf.",
+        "Green_Spaces_and_Landscapes": "The Red Sea (beaches and diving coral reefs)."
+      },
+      {
+        "City": "Wadi Rum",
+        "Historical_and_Architectural_Landmarks": "Sand and rock mountains, ancient inscriptions, Bedouin tents.",
+        "Local_Cuisine": "Zarb, Mansaf.",
+        "Green_Spaces_and_Landscapes": "Sand dunes, sandstone mountains."
+      }
+    ]
+  },
+  {
+    "Country": "UAE",
+    "Cities": [
+      {
+        "City": "Dubai",
+        "Historical_and_Architectural_Landmarks": "Burj Khalifa, Burj Al Arab, The Dubai Mall, Global Village, Dubai Creek (Old City).",
+        "Local_Cuisine": "Harees, Majboos, Luqaimat.",
+        "Green_Spaces_and_Landscapes": "Dubai Miracle Garden, Jumeirah beaches, Al Qudra Lakes (nearby)."
+      },
+      {
+        "City": "Abu Dhabi",
+        "Historical_and_Architectural_Landmarks": "Sheikh Zayed Grand Mosque, Louvre Abu Dhabi, Emirates Palace.",
+        "Local_Cuisine": "Harees, Majboos, Luqaimat.",
+        "Green_Spaces_and_Landscapes": "Abu Dhabi Corniche, Capital Gardens, Yas Island (green areas), Jebel Hafeet."
+      },
+      {
+        "City": "Umm Al Quwain",
+        "Historical_and_Architectural_Landmarks": "Dreamland Aqua Park, Al Sinniyah Island, the Old Town.",
+        "Local_Cuisine": "Harees, Majboos, Luqaimat.",
+        "Green_Spaces_and_Landscapes": "Umm Al Quwain beaches, mangrove areas."
+      }
+    ]
+  },
+  {
+    "Country": "Ecuador",
+    "Cities": [
+      {
+        "City": "Quito",
+        "Historical_and_Architectural_Landmarks": "The Old Town (a World Heritage site), Mitad del Mundo (the Middle of the World monument), Pichincha Volcano.",
+        "Local_Cuisine": "Ceviche, Locro de Papa (potato soup), Fritada.",
+        "Green_Spaces_and_Landscapes": "Metropolitan Park, surrounding Andes mountains, Quito's valley."
+      },
+      {
+        "City": "Guayaquil",
+        "Historical_and_Architectural_Landmarks": "Malecón 2000 (boardwalk), Las Peñas neighborhood, Parque de las Iguanas (Iguana Park).",
+        "Local_Cuisine": "Ceviche, Locro de Papa, Arroz con Pollo.",
+        "Green_Spaces_and_Landscapes": "Ecuador's Park, coastal areas."
+      },
+      {
+        "City": "Tena",
+        "Historical_and_Architectural_Landmarks": "Amazonian park, Misahuallí River, Amazon rainforests.",
+        "Local_Cuisine": "Ceviche, Locro de Papa.",
+        "Green_Spaces_and_Landscapes": "Amazonian parks (rainforests), Misahuallí River."
+      }
+    ]
+  },
+  {
+    "Country": "Ireland",
+    "Cities": [
+      {
+        "City": "Dublin",
+        "Historical_and_Architectural_Landmarks": "Dublin Castle, Trinity College (library), St. Patrick's Cathedral.",
+        "Local_Cuisine": "Irish Stew, Colcannon (mashed potatoes), Soda Bread.",
+        "Green_Spaces_and_Landscapes": "St Stephen's Green, Powerscourt Gardens (nearby)."
+      },
+      {
+        "City": "Cork",
+        "Historical_and_Architectural_Landmarks": "The English Market, St. Fin Barre's Cathedral, Cork City Gaol.",
+        "Local_Cuisine": "Irish Stew, Colcannon.",
+        "Green_Spaces_and_Landscapes": "Fitzgerald Park, River Lee, coastal areas."
+      },
+      {
+        "City": "Galway",
+        "Historical_and_Architectural_Landmarks": "Spanish Arch, Eyre Square, nearby Dunguaire Castle.",
+        "Local_Cuisine": "Irish Stew, Colcannon.",
+        "Green_Spaces_and_Landscapes": "Central Park, Galway Bay, and the nature of County Clare."
+      },
+      {
+        "City": "Athlone",
+        "Historical_and_Architectural_Landmarks": "Athlone Castle, St. Peter and Paul's Church, the Old Bridge.",
+        "Local_Cuisine": "Irish Stew, Colcannon.",
+        "Green_Spaces_and_Landscapes": "Lough Ree, Athlone Castle (river views)."
+      }
+    ]
+  },
+  {
+    "Country": "Iceland",
+    "Cities": [
+      {
+        "City": "Reykjavík",
+        "Historical_and_Architectural_Landmarks": "Hallgrímskirkja church, Perlan, the Old Harbour, the Blue Lagoon (nearby).",
+        "Local_Cuisine": "Hangikjöt (smoked lamb), Skyr (yogurt), fresh fish.",
+        "Green_Spaces_and_Landscapes": "Geothermal parks, urban gardens, coastal scenery."
+      },
+      {
+        "City": "Seyðisfjörður",
+        "Historical_and_Architectural_Landmarks": "Colorful architecture, art museum, Gufufoss waterfall.",
+        "Local_Cuisine": "Hangikjöt, Skyr.",
+        "Green_Spaces_and_Landscapes": "The Northern Lights (night views), the East Fjords."
+      }
+    ]
+  },
+  {
+    "Country": "Ethiopia",
+    "Cities": [
+      {
+        "City": "Addis Ababa",
+        "Historical_and_Architectural_Landmarks": "National Museum, Holy Trinity Cathedral, Menelik II's Palace.",
+        "Local_Cuisine": "Injera (sourdough flatbread), Wat (stew), Tibs (sautéed meat), Doro Wat (chicken stew).",
+        "Green_Spaces_and_Landscapes": "Unity Park, Mount Entoto (overlooking views)."
+      },
+      {
+        "City": "Lalibela",
+        "Historical_and_Architectural_Landmarks": "Rock-hewn churches of Lalibela (a World Heritage site), Bete Giyorgis (Church of St. George).",
+        "Local_Cuisine": "Injera, Wat, Tibs.",
+        "Green_Spaces_and_Landscapes": "The rock formations surrounding the churches, the highlands."
+      },
+      {
+        "City": "Axum",
+        "Historical_and_Architectural_Landmarks": "Obelisks (Stelae), the Stele Park, Queen of Sheba's Palace.",
+        "Local_Cuisine": "Injera, Wat.",
+        "Green_Spaces_and_Landscapes": "Vast archaeological sites, and mountainous landscapes."
+      }
+    ]
+  }
+]

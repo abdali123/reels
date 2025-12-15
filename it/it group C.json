@@ -1,0 +1,1042 @@
+[
+  {
+    "Paese": "Turchia",
+    "Città": "Istanbul",
+    "Attrazioni": "Visita di Santa Sofia e della Moschea Blu, una crociera sul Bosforo, shopping al Gran Bazar.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Kebab alla griglia, Baklava, Dolma, Manti, Kunafa, Tè turco",
+    "Spazi Naturali": "Pamukkale (Castello di Cotone), Lago Uzungöl, Monte Ararat, Valle di Ihlara, Cascate di Manavgat"
+  },
+  {
+    "Paese": "Turchia",
+    "Città": "Cappadocia",
+    "Attrazioni": "Volo in mongolfiera all'alba, esplorazione delle città sotterranee, soggiorno in un hotel di grotta.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Kebab alla griglia, Baklava, Dolma, Manti, Kunafa, Tè turco",
+    "Spazi Naturali": "Pamukkale (Castello di Cotone), Lago Uzungöl, Monte Ararat, Valle di Ihlara, Cascate di Manavgat"
+  },
+  {
+    "Paese": "Turchia",
+    "Città": "Antalya",
+    "Attrazioni": "Relax sulla spiaggia di Konyaaltı, visita della Città Vecchia (Kaleiçi), Cascate di Düden.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Kebab alla griglia, Baklava, Dolma, Manti, Kunafa, Tè turco",
+    "Spazi Naturali": "Pamukkale (Castello di Cotone), Lago Uzungöl, Monte Ararat, Valle di Ihlara, Cascate di Manavgat"
+  },
+  {
+    "Paese": "Turchia",
+    "Città": "Izmir",
+    "Attrazioni": "Passeggiata attraverso il Bazar di Kemeraltı, la Torre dell'Orologio, e visita della vicina città antica di Efeso.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Kebab alla griglia, Baklava, Dolma, Manti, Kunafa, Tè turco",
+    "Spazi Naturali": "Pamukkale (Castello di Cotone), Lago Uzungöl, Monte Ararat, Valle di Ihlara, Cascate di Manavgat"
+  },
+  {
+    "Paese": "Turchia",
+    "Città": "Bodrum",
+    "Attrazioni": "Visita del Castello di Bodrum, vita notturna, navigazione su yacht di lusso.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Kebab alla griglia, Baklava, Dolma, Manti, Kunafa, Tè turco",
+    "Spazi Naturali": "Pamukkale (Castello di Cotone), Lago Uzungöl, Monte Ararat, Valle di Ihlara, Cascate di Manavgat"
+  },
+  {
+    "Paese": "Turchia",
+    "Città": "Fethiye",
+    "Attrazioni": "Parapendio su Ölüdeniz, Valle delle Farfalle, escursione sul Sentiero Licio.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Kebab alla griglia, Baklava, Dolma, Manti, Kunafa, Tè turco",
+    "Spazi Naturali": "Pamukkale (Castello di Cotone), Lago Uzungöl, Monte Ararat, Valle di Ihlara, Cascate di Manavgat"
+  },
+  {
+    "Paese": "Turchia",
+    "Città": "Trabzon",
+    "Attrazioni": "Visita del Monastero di Sumela, Lago Uzungöl, Altopiano di Sultan Murat.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Kebab alla griglia, Baklava, Dolma, Manti, Kunafa, Tè turco",
+    "Spazi Naturali": "Pamukkale (Castello di Cotone), Lago Uzungöl, Monte Ararat, Valle di Ihlara, Cascate di Manavgat"
+  },
+  {
+    "Paese": "Turchia",
+    "Città": "Konya",
+    "Attrazioni": "Visita del Museo Mevlana, partecipazione alle cerimonie dei Dervishi Rotanti.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Kebab alla griglia, Baklava, Dolma, Manti, Kunafa, Tè turco",
+    "Spazi Naturali": "Pamukkale (Castello di Cotone), Lago Uzungöl, Monte Ararat, Valle di Ihlara, Cascate di Manavgat"
+  },
+  {
+    "Paese": "Turchia",
+    "Città": "Bursa",
+    "Attrazioni": "Passeggiata in funivia sulla montagna di Uludağ, visita della Grande Moschea, bagni termali.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Kebab alla griglia, Baklava, Dolma, Manti, Kunafa, Tè turco",
+    "Spazi Naturali": "Pamukkale (Castello di Cotone), Lago Uzungöl, Monte Ararat, Valle di Ihlara, Cascate di Manavgat"
+  },
+  {
+    "Paese": "Turchia",
+    "Città": "Mardin",
+    "Attrazioni": "Passeggiata tra antiche strade di pietra, visita di monasteri storici.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Kebab alla griglia, Baklava, Dolma, Manti, Kunafa, Tè turco",
+    "Spazi Naturali": "Pamukkale (Castello di Cotone), Lago Uzungöl, Monte Ararat, Valle di Ihlara, Cascate di Manavgat"
+  },
+  {
+    "Paese": "Tunisia",
+    "Città": "Tunisi (Capitale)",
+    "Attrazioni": "Esplorazione della Medina, Museo del Bardo, Moschea Zitouna.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Couscous tunisino, Brik, Salade Mechouia, Lablabi, Makroudh, Shakshuka",
+    "Spazi Naturali": "Deserto del Sahara (Douz), Chott el-Jerid, Lago Ichkeul, Montagne Kroumirie, Oasi di Tozeur"
+  },
+  {
+    "Paese": "Tunisia",
+    "Città": "Sidi Bou Said",
+    "Attrazioni": "Passeggiata tra gli edifici bianchi e blu, bere tè alle mandorle, godersi la vista sul mare.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Couscous tunisino, Brik, Salade Mechouia, Lablabi, Makroudh, Shakshuka",
+    "Spazi Naturali": "Deserto del Sahara (Douz), Chott el-Jerid, Lago Ichkeul, Montagne Kroumirie, Oasi di Tozeur"
+  },
+  {
+    "Paese": "Tunisia",
+    "Città": "Sousse",
+    "Attrazioni": "Visita del Ribat, del Museo Archeologico, e relax nella località turistica di Port El Kantaoui.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Couscous tunisino, Brik, Salade Mechouia, Lablabi, Makroudh, Shakshuka",
+    "Spazi Naturali": "Deserto del Sahara (Douz), Chott el-Jerid, Lago Ichkeul, Montagne Kroumirie, Oasi di Tozeur"
+  },
+  {
+    "Paese": "Tunisia",
+    "Città": "Hammamet",
+    "Attrazioni": "Divertimento sulle spiagge sabbiose, visita della Kasbah, e del parco divertimenti.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Couscous tunisino, Brik, Salade Mechouia, Lablabi, Makroudh, Shakshuka",
+    "Spazi Naturali": "Deserto del Sahara (Douz), Chott el-Jerid, Lago Ichkeul, Montagne Kroumirie, Oasi di Tozeur"
+  },
+  {
+    "Paese": "Tunisia",
+    "Città": "Djerba",
+    "Attrazioni": "Visita di Hara Kbira (il quartiere ebraico), il Museo Guellala, e godersi spiagge tranquille.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Couscous tunisino, Brik, Salade Mechouia, Lablabi, Makroudh, Shakshuka",
+    "Spazi Naturali": "Deserto del Sahara (Douz), Chott el-Jerid, Lago Ichkeul, Montagne Kroumirie, Oasi di Tozeur"
+  },
+  {
+    "Paese": "Tunisia",
+    "Città": "Kairouan",
+    "Attrazioni": "Visita della Grande Moschea di Uqba, le Vasche Aghlabidi, assaggio di Makroudh.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Couscous tunisino, Brik, Salade Mechouia, Lablabi, Makroudh, Shakshuka",
+    "Spazi Naturali": "Deserto del Sahara (Douz), Chott el-Jerid, Lago Ichkeul, Montagne Kroumirie, Oasi di Tozeur"
+  },
+  {
+    "Paese": "Tunisia",
+    "Città": "Tozeur",
+    "Attrazioni": "Safari nel deserto, visita delle oasi di Chebika e Tamerza, luoghi delle riprese di Star Wars.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Couscous tunisino, Brik, Salade Mechouia, Lablabi, Makroudh, Shakshuka",
+    "Spazi Naturali": "Deserto del Sahara (Douz), Chott el-Jerid, Lago Ichkeul, Montagne Kroumirie, Oasi di Tozeur"
+  },
+  {
+    "Paese": "Tunisia",
+    "Città": "Tabarka",
+    "Attrazioni": "Immersioni e osservazione delle barriere coralline, il Festival Jazz, il forte genovese.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Couscous tunisino, Brik, Salade Mechouia, Lablabi, Makroudh, Shakshuka",
+    "Spazi Naturali": "Deserto del Sahara (Douz), Chott el-Jerid, Lago Ichkeul, Montagne Kroumirie, Oasi di Tozeur"
+  },
+  {
+    "Paese": "Tunisia",
+    "Città": "Bizerte",
+    "Attrazioni": "Visita del vecchio porto, della Kasbah, e della Spiaggia di Sidi Salem.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Couscous tunisino, Brik, Salade Mechouia, Lablabi, Makroudh, Shakshuka",
+    "Spazi Naturali": "Deserto del Sahara (Douz), Chott el-Jerid, Lago Ichkeul, Montagne Kroumirie, Oasi di Tozeur"
+  },
+  {
+    "Paese": "Tunisia",
+    "Città": "Monastir",
+    "Attrazioni": "Visita del Ribat di Monastir, il Mausoleo di Habib Bourguiba, e la marina.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Couscous tunisino, Brik, Salade Mechouia, Lablabi, Makroudh, Shakshuka",
+    "Spazi Naturali": "Deserto del Sahara (Douz), Chott el-Jerid, Lago Ichkeul, Montagne Kroumirie, Oasi di Tozeur"
+  },
+  {
+    "Paese": "Russia",
+    "Città": "Mosca",
+    "Attrazioni": "Piazza Rossa, il Cremlino, Cattedrale di San Basilio, la lussuosa Metropolitana di Mosca.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Borscht (zuppa), Pelmeni (gnocchi), Blini (frittelle), Insalata Olivier, Manzo Stroganoff",
+    "Spazi Naturali": "Lago Baikal, vulcani della Kamchatka, Montagne Altai, Pilastri di pietra di Lena, Foreste della Taiga"
+  },
+  {
+    "Paese": "Russia",
+    "Città": "San Pietroburgo",
+    "Attrazioni": "Museo dell'Ermitage, Palazzo d'Inverno, Chiesa del Salvatore sul Sangue Versato, Palazzo di Peterhof.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Borscht (zuppa), Pelmeni (gnocchi), Blini (frittelle), Insalata Olivier, Manzo Stroganoff",
+    "Spazi Naturali": "Lago Baikal, vulcani della Kamchatka, Montagne Altai, Pilastri di pietra di Lena, Foreste della Taiga"
+  },
+  {
+    "Paese": "Russia",
+    "Città": "Kazan",
+    "Attrazioni": "Cremlino di Kazan, Moschea Kul Sharif, esperienza della fusione delle culture tatara e russa.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Borscht (zuppa), Pelmeni (gnocchi), Blini (frittelle), Insalata Olivier, Manzo Stroganoff",
+    "Spazi Naturali": "Lago Baikal, vulcani della Kamchatka, Montagne Altai, Pilastri di pietra di Lena, Foreste della Taiga"
+  },
+  {
+    "Paese": "Russia",
+    "Città": "Sochi",
+    "Attrazioni": "Località balneari, sci sulle Montagne Olimpiche, Parco Olimpico.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Borscht (zuppa), Pelmeni (gnocchi), Blini (frittelle), Insalata Olivier, Manzo Stroganoff",
+    "Spazi Naturali": "Lago Baikal, vulcani della Kamchatka, Montagne Altai, Pilastri di pietra di Lena, Foreste della Taiga"
+  },
+  {
+    "Paese": "Russia",
+    "Città": "Irkutsk",
+    "Attrazioni": "Portale verso il Lago Baikal, esplorazione dell'architettura tradizionale in legno.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Borscht (zuppa), Pelmeni (gnocchi), Blini (frittelle), Insalata Olivier, Manzo Stroganoff",
+    "Spazi Naturali": "Lago Baikal, vulcani della Kamchatka, Montagne Altai, Pilastri di pietra di Lena, Foreste della Taiga"
+  },
+  {
+    "Paese": "Russia",
+    "Città": "Vladimir",
+    "Attrazioni": "Visita della Cattedrale della Dormizione, la Porta d'Oro (parte dell'Anello d'Oro).",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Borscht (zuppa), Pelmeni (gnocchi), Blini (frittelle), Insalata Olivier, Manzo Stroganoff",
+    "Spazi Naturali": "Lago Baikal, vulcani della Kamchatka, Montagne Altai, Pilastri di pietra di Lena, Foreste della Taiga"
+  },
+  {
+    "Paese": "Russia",
+    "Città": "Nizhny Novgorod",
+    "Attrazioni": "Passeggiata in funivia sul Volga, visita del Cremlino, la Grande Scala.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Borscht (zuppa), Pelmeni (gnocchi), Blini (frittelle), Insalata Olivier, Manzo Stroganoff",
+    "Spazi Naturali": "Lago Baikal, vulcani della Kamchatka, Montagne Altai, Pilastri di pietra di Lena, Foreste della Taiga"
+  },
+  {
+    "Paese": "Russia",
+    "Città": "Ekaterinburg",
+    "Attrazioni": "Visita della Chiesa sul Sangue, il monumento al confine tra Asia ed Europa.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Borscht (zuppa), Pelmeni (gnocchi), Blini (frittelle), Insalata Olivier, Manzo Stroganoff",
+    "Spazi Naturali": "Lago Baikal, vulcani della Kamchatka, Montagne Altai, Pilastri di pietra di Lena, Foreste della Taiga"
+  },
+  {
+    "Paese": "Russia",
+    "Città": "Kaliningrad",
+    "Attrazioni": "Cattedrale di Königsberg, Museo dell'Ambra, il Villaggio dei Pescatori.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Borscht (zuppa), Pelmeni (gnocchi), Blini (frittelle), Insalata Olivier, Manzo Stroganoff",
+    "Spazi Naturali": "Lago Baikal, vulcani della Kamchatka, Montagne Altai, Pilastri di pietra di Lena, Foreste della Taiga"
+  },
+  {
+    "Paese": "Russia",
+    "Città": "Vladivostok",
+    "Attrazioni": "Il Ponte Russo, il porto marittimo, il forte militare, la fine della Ferrovia Transiberiana.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Borscht (zuppa), Pelmeni (gnocchi), Blini (frittelle), Insalata Olivier, Manzo Stroganoff",
+    "Spazi Naturali": "Lago Baikal, vulcani della Kamchatka, Montagne Altai, Pilastri di pietra di Lena, Foreste della Taiga"
+  },
+  {
+    "Paese": "Taiwan",
+    "Città": "Taipei",
+    "Attrazioni": "Salita su Taipei 101, Mercato Notturno di Shilin, il Museo Nazionale del Palazzo.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Zuppa di Manzo con Noodles, Bubble Tea (Boba), Pollo Fritto Taiwanese, Frittata di Ostriche, Torta all'Ananas",
+    "Spazi Naturali": "Parco Nazionale di Taroko, Lago Sole e Luna, Monte Alishan, Chiufen, Parco Nazionale di Yushan"
+  },
+  {
+    "Paese": "Taiwan",
+    "Città": "Kaohsiung",
+    "Attrazioni": "Lago del Loto e i suoi draghi, Centro d'Arte Pier-2, Isola di Cijin.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Zuppa di Manzo con Noodles, Bubble Tea (Boba), Pollo Fritto Taiwanese, Frittata di Ostriche, Torta all'Ananas",
+    "Spazi Naturali": "Parco Nazionale di Taroko, Lago Sole e Luna, Monte Alishan, Chiufen, Parco Nazionale di Yushan"
+  },
+  {
+    "Paese": "Taiwan",
+    "Città": "Tainan",
+    "Attrazioni": "Visita di antichi templi, Forte Zeelandia, assaggio di cibo di strada tradizionale.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Zuppa di Manzo con Noodles, Bubble Tea (Boba), Pollo Fritto Taiwanese, Frittata di Ostriche, Torta all'Ananas",
+    "Spazi Naturali": "Parco Nazionale di Taroko, Lago Sole e Luna, Monte Alishan, Chiufen, Parco Nazionale di Yushan"
+  },
+  {
+    "Paese": "Taiwan",
+    "Città": "Taichung",
+    "Attrazioni": "Villaggio Arcobaleno, Mercato Notturno di Fengjia, il Teatro Nazionale dell'Opera.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Zuppa di Manzo con Noodles, Bubble Tea (Boba), Pollo Fritto Taiwanese, Frittata di Ostriche, Torta all'Ananas",
+    "Spazi Naturali": "Parco Nazionale di Taroko, Lago Sole e Luna, Monte Alishan, Chiufen, Parco Nazionale di Yushan"
+  },
+  {
+    "Paese": "Taiwan",
+    "Città": "Hualien",
+    "Attrazioni": "Portale della Gola di Taroko, Spiaggia di Qixingtan, Mercato Notturno di Dongdamen.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Zuppa di Manzo con Noodles, Bubble Tea (Boba), Pollo Fritto Taiwanese, Frittata di Ostriche, Torta all'Ananas",
+    "Spazi Naturali": "Parco Nazionale di Taroko, Lago Sole e Luna, Monte Alishan, Chiufen, Parco Nazionale di Yushan"
+  },
+  {
+    "Paese": "Taiwan",
+    "Città": "Jiufen",
+    "Attrazioni": "Passeggiata tra antichi vicoli illuminati da lanterne, sorseggiare tè tradizionale.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Zuppa di Manzo con Noodles, Bubble Tea (Boba), Pollo Fritto Taiwanese, Frittata di Ostriche, Torta all'Ananas",
+    "Spazi Naturali": "Parco Nazionale di Taroko, Lago Sole e Luna, Monte Alishan, Chiufen, Parco Nazionale di Yushan"
+  },
+  {
+    "Paese": "Taiwan",
+    "Città": "Pingtung",
+    "Attrazioni": "Godersi le spiagge del Parco Nazionale di Kenting, il faro, sport acquatici.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Zuppa di Manzo con Noodles, Bubble Tea (Boba), Pollo Fritto Taiwanese, Frittata di Ostriche, Torta all'Ananas",
+    "Spazi Naturali": "Parco Nazionale di Taroko, Lago Sole e Luna, Monte Alishan, Chiufen, Parco Nazionale di Yushan"
+  },
+  {
+    "Paese": "Taiwan",
+    "Città": "Nantou",
+    "Attrazioni": "Gita in barca sul Lago Sole e Luna, visita della Fattoria di Cingjing.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Zuppa di Manzo con Noodles, Bubble Tea (Boba), Pollo Fritto Taiwanese, Frittata di Ostriche, Torta all'Ananas",
+    "Spazi Naturali": "Parco Nazionale di Taroko, Lago Sole e Luna, Monte Alishan, Chiufen, Parco Nazionale di Yushan"
+  },
+  {
+    "Paese": "Taiwan",
+    "Città": "Yilan",
+    "Attrazioni": "Relax nelle sorgenti termali di Jiaoxi, Mercato Notturno di Luodong.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Zuppa di Manzo con Noodles, Bubble Tea (Boba), Pollo Fritto Taiwanese, Frittata di Ostriche, Torta all'Ananas",
+    "Spazi Naturali": "Parco Nazionale di Taroko, Lago Sole e Luna, Monte Alishan, Chiufen, Parco Nazionale di Yushan"
+  },
+  {
+    "Paese": "Taiwan",
+    "Città": "Chiayi",
+    "Attrazioni": "Passeggiata sulla storica Ferrovia Forestale di Alishan, Villaggio Hinoki.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Zuppa di Manzo con Noodles, Bubble Tea (Boba), Pollo Fritto Taiwanese, Frittata di Ostriche, Torta all'Ananas",
+    "Spazi Naturali": "Parco Nazionale di Taroko, Lago Sole e Luna, Monte Alishan, Chiufen, Parco Nazionale di Yushan"
+  },
+  {
+    "Paese": "Cile",
+    "Città": "Santiago",
+    "Attrazioni": "Collina di San Cristóbal, Palacio de La Moneda, il quartiere bohémien di Bellavista.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Empanadas, Pastel de Choclo, Curanto, Completo (hot dog), Pisco Sour",
+    "Spazi Naturali": "Torres del Paine, Deserto di Atacama, Grotte di Marmo, Isola di Pasqua, Lago Todos los Santos"
+  },
+  {
+    "Paese": "Cile",
+    "Città": "Valparaíso",
+    "Attrazioni": "Passeggiata sugli ascensores storici (funicolari), vedere graffiti colorati, casa di Pablo Neruda.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Empanadas, Pastel de Choclo, Curanto, Completo (hot dog), Pisco Sour",
+    "Spazi Naturali": "Torres del Paine, Deserto di Atacama, Grotte di Marmo, Isola di Pasqua, Lago Todos los Santos"
+  },
+  {
+    "Paese": "Cile",
+    "Città": "San Pedro de Atacama",
+    "Attrazioni": "Valle della Luna, Geyser del Tatio, osservazione delle stelle nel deserto.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Empanadas, Pastel de Choclo, Curanto, Completo (hot dog), Pisco Sour",
+    "Spazi Naturali": "Torres del Paine, Deserto di Atacama, Grotte di Marmo, Isola di Pasqua, Lago Todos los Santos"
+  },
+  {
+    "Paese": "Cile",
+    "Città": "Pucón",
+    "Attrazioni": "Escursione sul Vulcano Villarrica, relax nelle sorgenti termali.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Empanadas, Pastel de Choclo, Curanto, Completo (hot dog), Pisco Sour",
+    "Spazi Naturali": "Torres del Paine, Deserto di Atacama, Grotte di Marmo, Isola di Pasqua, Lago Todos los Santos"
+  },
+  {
+    "Paese": "Cile",
+    "Città": "Puerto Natales",
+    "Attrazioni": "Portale del Parco Nazionale Torres del Paine, Cueva del Milodón.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Empanadas, Pastel de Choclo, Curanto, Completo (hot dog), Pisco Sour",
+    "Spazi Naturali": "Torres del Paine, Deserto di Atacama, Grotte di Marmo, Isola di Pasqua, Lago Todos los Santos"
+  },
+  {
+    "Paese": "Cile",
+    "Città": "Viña del Mar",
+    "Attrazioni": "Godersi le spiagge, l'Orologio Floreale, il Festival della Canzone.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Empanadas, Pastel de Choclo, Curanto, Completo (hot dog), Pisco Sour",
+    "Spazi Naturali": "Torres del Paine, Deserto di Atacama, Grotte di Marmo, Isola di Pasqua, Lago Todos los Santos"
+  },
+  {
+    "Paese": "Cile",
+    "Città": "Punta Arenas",
+    "Attrazioni": "Vedere i pinguini sull'Isola Magdalena, la Zona Franca (zona duty-free).",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Empanadas, Pastel de Choclo, Curanto, Completo (hot dog), Pisco Sour",
+    "Spazi Naturali": "Torres del Paine, Deserto di Atacama, Grotte di Marmo, Isola di Pasqua, Lago Todos los Santos"
+  },
+  {
+    "Paese": "Cile",
+    "Città": "Arica",
+    "Attrazioni": "Collina di El Morro, visita della Valle di Azapa, spiagge calde.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Empanadas, Pastel de Choclo, Curanto, Completo (hot dog), Pisco Sour",
+    "Spazi Naturali": "Torres del Paine, Deserto di Atacama, Grotte di Marmo, Isola di Pasqua, Lago Todos los Santos"
+  },
+  {
+    "Paese": "Cile",
+    "Città": "La Serena",
+    "Attrazioni": "Il faro storico, visita degli osservatori astronomici nella Valle di Elqui.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Empanadas, Pastel de Choclo, Curanto, Completo (hot dog), Pisco Sour",
+    "Spazi Naturali": "Torres del Paine, Deserto di Atacama, Grotte di Marmo, Isola di Pasqua, Lago Todos los Santos"
+  },
+  {
+    "Paese": "Cile",
+    "Città": "Castro (Chiloé)",
+    "Attrazioni": "Vedere i colorati palafitos (case su palafitte), le chiese in legno.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Empanadas, Pastel de Choclo, Curanto, Completo (hot dog), Pisco Sour",
+    "Spazi Naturali": "Torres del Paine, Deserto di Atacama, Grotte di Marmo, Isola di Pasqua, Lago Todos los Santos"
+  },
+  {
+    "Paese": "Tanzania",
+    "Città": "Dar es Salaam",
+    "Attrazioni": "Esplorazione dei centri cittadini, visita dei mercati di Kariakoo e Ilala, il Museo del Villaggio.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Ugali, Ndizi Ka Nyama (banane con carne), Samosa, Michika (cassava cotta), Pilau",
+    "Spazi Naturali": "Serengeti, Kilimanjaro, Zanzibar, Cratere di Ngorongoro, Parco Nazionale di Tarangire"
+  },
+  {
+    "Paese": "Tanzania",
+    "Città": "Zanzibar",
+    "Attrazioni": "Tour di Stone Town (UNESCO), spiagge di Nungwi, tour di una piantagione di spezie.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Ugali, Ndizi Ka Nyama (banane con carne), Samosa, Michika (cassava cotta), Pilau",
+    "Spazi Naturali": "Serengeti, Kilimanjaro, Zanzibar, Cratere di Ngorongoro, Parco Nazionale di Tarangire"
+  },
+  {
+    "Paese": "Tanzania",
+    "Città": "Arusha",
+    "Attrazioni": "Portale dei safari settentrionali, il Museo della Dichiarazione di Arusha, Monte Meru.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Ugali, Ndizi Ka Nyama (banane con carne), Samosa, Michika (cassava cotta), Pilau",
+    "Spazi Naturali": "Serengeti, Kilimanjaro, Zanzibar, Cratere di Ngorongoro, Parco Nazionale di Tarangire"
+  },
+  {
+    "Paese": "Tanzania",
+    "Città": "Mwanza",
+    "Attrazioni": "Tour del Lago Vittoria, area di Bismarck Rock, il mercato centrale.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Ugali, Ndizi Ka Nyama (banane con carne), Samosa, Michika (cassava cotta), Pilau",
+    "Spazi Naturali": "Serengeti, Kilimanjaro, Zanzibar, Cratere di Ngorongoro, Parco Nazionale di Tarangire"
+  },
+  {
+    "Paese": "Tanzania",
+    "Città": "Dodoma",
+    "Attrazioni": "Edifici governativi, la Casa dello Stato, il Museo Regionale di Dodoma.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Ugali, Ndizi Ka Nyama (banane con carne), Samosa, Michika (cassava cotta), Pilau",
+    "Spazi Naturali": "Serengeti, Kilimanjaro, Zanzibar, Cratere di Ngorongoro, Parco Nazionale di Tarangire"
+  },
+  {
+    "Paese": "Tanzania",
+    "Città": "Musoma",
+    "Attrazioni": "Esplorazione delle spiagge del Lago Vittoria, colline e affioramenti rocciosi.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Ugali, Ndizi Ka Nyama (banane con carne), Samosa, Michika (cassava cotta), Pilau",
+    "Spazi Naturali": "Serengeti, Kilimanjaro, Zanzibar, Cratere di Ngorongoro, Parco Nazionale di Tarangire"
+  },
+  {
+    "Paese": "Tanzania",
+    "Città": "Tabora",
+    "Attrazioni": "Imparare la storia del commercio degli schiavi, il Museo Koto, pozzo di Kwihara.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Ugali, Ndizi Ka Nyama (banane con carne), Samosa, Michika (cassava cotta), Pilau",
+    "Spazi Naturali": "Serengeti, Kilimanjaro, Zanzibar, Cratere di Ngorongoro, Parco Nazionale di Tarangire"
+  },
+  {
+    "Paese": "Tanzania",
+    "Città": "Kigoma",
+    "Attrazioni": "Spiagge del Lago Tanganica, Parco Nazionale di Gombe Stream (scimpanzé).",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Ugali, Ndizi Ka Nyama (banane con carne), Samosa, Michika (cassava cotta), Pilau",
+    "Spazi Naturali": "Serengeti, Kilimanjaro, Zanzibar, Cratere di Ngorongoro, Parco Nazionale di Tarangire"
+  },
+  {
+    "Paese": "Tanzania",
+    "Città": "Mbeya",
+    "Attrazioni": "Picco di Mbeya (vista panoramica), visita di fattorie, foreste di Rungwe.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Ugali, Ndizi Ka Nyama (banane con carne), Samosa, Michika (cassava cotta), Pilau",
+    "Spazi Naturali": "Serengeti, Kilimanjaro, Zanzibar, Cratere di Ngorongoro, Parco Nazionale di Tarangire"
+  },
+  {
+    "Paese": "Tanzania",
+    "Città": "Monte Kilimanjaro",
+    "Attrazioni": "Escursione sulla vetta più alta dell'Africa, esplorazione delle foreste pluviali circostanti.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Ugali, Ndizi Ka Nyama (banane con carne), Samosa, Michika (cassava cotta), Pilau",
+    "Spazi Naturali": "Serengeti, Kilimanjaro, Zanzibar, Cratere di Ngorongoro, Parco Nazionale di Tarangire"
+  },
+  {
+    "Paese": "Repubblica Ceca",
+    "Città": "Praga",
+    "Attrazioni": "Ponte Carlo, Castello di Praga, l'Orologio Astronomico, Piazza della Città Vecchia.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Goulash, Trdelník (pasticceria), Svíčková, Schnitzel, Gnocchi cechi",
+    "Spazi Naturali": "Svizzera Boema, Roccce di Adršpach, Grotte del Carso Moravo, Parco Nazionale di Šumava, Lago Lipno"
+  },
+  {
+    "Paese": "Repubblica Ceca",
+    "Città": "Český Krumlov",
+    "Attrazioni": "Passeggiata nella Città Vecchia (UNESCO), il castello, rafting sul fiume.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Goulash, Trdelník (pasticceria), Svíčková, Schnitzel, Gnocchi cechi",
+    "Spazi Naturali": "Svizzera Boema, Roccce di Adršpach, Grotte del Carso Moravo, Parco Nazionale di Šumava, Lago Lipno"
+  },
+  {
+    "Paese": "Repubblica Ceca",
+    "Città": "Brno",
+    "Attrazioni": "Villa Tugendhat, Castello di Špilberk, Cattedrale dei Santi Pietro e Paolo.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Goulash, Trdelník (pasticceria), Svíčková, Schnitzel, Gnocchi cechi",
+    "Spazi Naturali": "Svizzera Boema, Roccce di Adršpach, Grotte del Carso Moravo, Parco Nazionale di Šumava, Lago Lipno"
+  },
+  {
+    "Paese": "Repubblica Ceca",
+    "Città": "Karlovy Vary",
+    "Attrazioni": "Sorgenti termali, passeggiata tra i colonnati, assaggio delle cialde termali.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Goulash, Trdelník (pasticceria), Svíčková, Schnitzel, Gnocchi cechi",
+    "Spazi Naturali": "Svizzera Boema, Roccce di Adršpach, Grotte del Carso Moravo, Parco Nazionale di Šumava, Lago Lipno"
+  },
+  {
+    "Paese": "Repubblica Ceca",
+    "Città": "Plzeň",
+    "Attrazioni": "Visita di birrifici storici, la Grande Sinagoga, Piazza della Repubblica.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Goulash, Trdelník (pasticceria), Svíčková, Schnitzel, Gnocchi cechi",
+    "Spazi Naturali": "Svizzera Boema, Roccce di Adršpach, Grotte del Carso Moravo, Parco Nazionale di Šumava, Lago Lipno"
+  },
+  {
+    "Paese": "Repubblica Ceca",
+    "Città": "Olomouc",
+    "Attrazioni": "Colonna della Santa Trinità, fontane barocche, assaggio del formaggio Olomouc.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Goulash, Trdelník (pasticceria), Svíčková, Schnitzel, Gnocchi cechi",
+    "Spazi Naturali": "Svizzera Boema, Roccce di Adršpach, Grotte del Carso Moravo, Parco Nazionale di Šumava, Lago Lipno"
+  },
+  {
+    "Paese": "Repubblica Ceca",
+    "Città": "Kutná Hora",
+    "Attrazioni": "Ossario di Sedlec (Chiesa delle Ossa), Cattedrale di Santa Barbara.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Goulash, Trdelník (pasticceria), Svíčková, Schnitzel, Gnocchi cechi",
+    "Spazi Naturali": "Svizzera Boema, Roccce di Adršpach, Grotte del Carso Moravo, Parco Nazionale di Šumava, Lago Lipno"
+  },
+  {
+    "Paese": "Repubblica Ceca",
+    "Città": "Telč",
+    "Attrazioni": "Piazza della città in stile rinascimentale, il castello, stagni circostanti.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Goulash, Trdelník (pasticceria), Svíčková, Schnitzel, Gnocchi cechi",
+    "Spazi Naturali": "Svizzera Boema, Roccce di Adršpach, Grotte del Carso Moravo, Parco Nazionale di Šumava, Lago Lipno"
+  },
+  {
+    "Paese": "Repubblica Ceca",
+    "Città": "Liberec",
+    "Attrazioni": "Torre di Ještěd, lo zoo, Centro Scientifico Babylon.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Goulash, Trdelník (pasticceria), Svíčková, Schnitzel, Gnocchi cechi",
+    "Spazi Naturali": "Svizzera Boema, Roccce di Adršpach, Grotte del Carso Moravo, Parco Nazionale di Šumava, Lago Lipno"
+  },
+  {
+    "Paese": "Repubblica Ceca",
+    "Città": "Ostrava",
+    "Attrazioni": "Area di Dolní Vítkovice (patrimonio industriale), Via Stodolní per la vita notturna.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Goulash, Trdelník (pasticceria), Svíčková, Schnitzel, Gnocchi cechi",
+    "Spazi Naturali": "Svizzera Boema, Roccce di Adršpach, Grotte del Carso Moravo, Parco Nazionale di Šumava, Lago Lipno"
+  },
+  {
+    "Paese": "Sri Lanka",
+    "Città": "Colombo",
+    "Attrazioni": "Visita del Tempio Gangaramaya, shopping nei centri commerciali e al Colombo City Centre, il distretto commerciale di Fort.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Riso e Curry, Kottu Roti, Hoppers (frittelle di uova), Pol Sambol, Watalappam (dessert)",
+    "Spazi Naturali": "Sigiriya (giardini d'acqua), Altopiani di Ella, Parco Nazionale di Yala, Pianure di Horton, Parco Nazionale di Wilpattu"
+  },
+  {
+    "Paese": "Sri Lanka",
+    "Città": "Kandy",
+    "Attrazioni": "Tempio della Sacra Reliquia del Dente, Lago di Kandy, Giardini Botanici Reali.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Riso e Curry, Kottu Roti, Hoppers (frittelle di uova), Pol Sambol, Watalappam (dessert)",
+    "Spazi Naturali": "Sigiriya (giardini d'acqua), Altopiani di Ella, Parco Nazionale di Yala, Pianure di Horton, Parco Nazionale di Wilpattu"
+  },
+  {
+    "Paese": "Sri Lanka",
+    "Città": "Galle",
+    "Attrazioni": "Forte Olandese di Galle (UNESCO), il faro, il Museo Marittimo Nazionale.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Riso e Curry, Kottu Roti, Hoppers (frittelle di uova), Pol Sambol, Watalappam (dessert)",
+    "Spazi Naturali": "Sigiriya (giardini d'acqua), Altopiani di Ella, Parco Nazionale di Yala, Pianure di Horton, Parco Nazionale di Wilpattu"
+  },
+  {
+    "Paese": "Sri Lanka",
+    "Città": "Nuwara Eliya",
+    "Attrazioni": "Campi di tè verdi, Lago Gregory, l'ufficio postale antico.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Riso e Curry, Kottu Roti, Hoppers (frittelle di uova), Pol Sambol, Watalappam (dessert)",
+    "Spazi Naturali": "Sigiriya (giardini d'acqua), Altopiani di Ella, Parco Nazionale di Yala, Pianure di Horton, Parco Nazionale di Wilpattu"
+  },
+  {
+    "Paese": "Sri Lanka",
+    "Città": "Ella",
+    "Attrazioni": "Ponte dei Nove Archi, Roccia di Ella, viaggio in treno attraverso gli altipiani.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Riso e Curry, Kottu Roti, Hoppers (frittelle di uova), Pol Sambol, Watalappam (dessert)",
+    "Spazi Naturali": "Sigiriya (giardini d'acqua), Altopiani di Ella, Parco Nazionale di Yala, Pianure di Horton, Parco Nazionale di Wilpattu"
+  },
+  {
+    "Paese": "Sri Lanka",
+    "Città": "Anuradhapura",
+    "Attrazioni": "L'antica città sacra (UNESCO), templi di Dambulla, l'Albero della Bodhi.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Riso e Curry, Kottu Roti, Hoppers (frittelle di uova), Pol Sambol, Watalappam (dessert)",
+    "Spazi Naturali": "Sigiriya (giardini d'acqua), Altopiani di Ella, Parco Nazionale di Yala, Pianure di Horton, Parco Nazionale di Wilpattu"
+  },
+  {
+    "Paese": "Sri Lanka",
+    "Città": "Polonnaruwa",
+    "Attrazioni": "L'antica città del Secondo Regno (UNESCO), Museo di Polonnaruwa.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Riso e Curry, Kottu Roti, Hoppers (frittelle di uova), Pol Sambol, Watalappam (dessert)",
+    "Spazi Naturali": "Sigiriya (giardini d'acqua), Altopiani di Ella, Parco Nazionale di Yala, Pianure di Horton, Parco Nazionale di Wilpattu"
+  },
+  {
+    "Paese": "Sri Lanka",
+    "Città": "Trincomalee",
+    "Attrazioni": "Tempio di Koneswaram, Spiaggia di Uppuveli, Parco Nazionale dell'Isola dei Piccioni.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Riso e Curry, Kottu Roti, Hoppers (frittelle di uova), Pol Sambol, Watalappam (dessert)",
+    "Spazi Naturali": "Sigiriya (giardini d'acqua), Altopiani di Ella, Parco Nazionale di Yala, Pianure di Horton, Parco Nazionale di Wilpattu"
+  },
+  {
+    "Paese": "Sri Lanka",
+    "Città": "Mirissa",
+    "Attrazioni": "Spiaggia di Mirissa, avvistamento di balene e delfini, pesca su trampoli.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Riso e Curry, Kottu Roti, Hoppers (frittelle di uova), Pol Sambol, Watalappam (dessert)",
+    "Spazi Naturali": "Sigiriya (giardini d'acqua), Altopiani di Ella, Parco Nazionale di Yala, Pianure di Horton, Parco Nazionale di Wilpattu"
+  },
+  {
+    "Paese": "Sri Lanka",
+    "Città": "Jaffna",
+    "Attrazioni": "Biblioteca di Jaffna, Forte Olandese di Jaffna, Spiaggia di Casuarina.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Riso e Curry, Kottu Roti, Hoppers (frittelle di uova), Pol Sambol, Watalappam (dessert)",
+    "Spazi Naturali": "Sigiriya (giardini d'acqua), Altopiani di Ella, Parco Nazionale di Yala, Pianure di Horton, Parco Nazionale di Wilpattu"
+  },
+  {
+    "Paese": "Maldive",
+    "Città": "Malé",
+    "Attrazioni": "Hukuru Miskiy (Grande Moschea del Venerdì), il Museo Nazionale, il mercato del pesce locale.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Mas Huni, Garudhiya (zuppa di pesce), Bis Keemiya, Fihunu Mas Huni, Torta di Cocco",
+    "Spazi Naturali": "Barriere Coralline, Baia di Hanifaru, Spiagge Luminose, Banchi di Sabbia, Shark Point"
+  },
+  {
+    "Paese": "Maldive",
+    "Città": "Maafushi",
+    "Attrazioni": "Sport acquatici, immersioni, tour accessibili con i delfini.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Mas Huni, Garudhiya (zuppa di pesce), Bis Keemiya, Fihunu Mas Huni, Torta di Cocco",
+    "Spazi Naturali": "Barriere Coralline, Baia di Hanifaru, Spiagge Luminose, Banchi di Sabbia, Shark Point"
+  },
+  {
+    "Paese": "Maldive",
+    "Città": "Hulhumalé",
+    "Attrazioni": "Spiaggia pubblica, il parco centrale, vicinanza all'aeroporto.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Mas Huni, Garudhiya (zuppa di pesce), Bis Keemiya, Fihunu Mas Huni, Torta di Cocco",
+    "Spazi Naturali": "Barriere Coralline, Baia di Hanifaru, Spiagge Luminose, Banchi di Sabbia, Shark Point"
+  },
+  {
+    "Paese": "Maldive",
+    "Città": "Atollo di Addu",
+    "Attrazioni": "Ciclismo, immersioni in relitti, il parco naturale.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Mas Huni, Garudhiya (zuppa di pesce), Bis Keemiya, Fihunu Mas Huni, Torta di Cocco",
+    "Spazi Naturali": "Barriere Coralline, Baia di Hanifaru, Spiagge Luminose, Banchi di Sabbia, Shark Point"
+  },
+  {
+    "Paese": "Maldive",
+    "Città": "Fuvahmulah",
+    "Attrazioni": "Relax in resort di lusso, immersioni subacquee.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Mas Huni, Garudhiya (zuppa di pesce), Bis Keemiya, Fihunu Mas Huni, Torta di Cocco",
+    "Spazi Naturali": "Barriere Coralline, Baia di Hanifaru, Spiagge Luminose, Banchi di Sabbia, Shark Point"
+  },
+  {
+    "Paese": "Maldive",
+    "Città": "Dhigurah",
+    "Attrazioni": "Nuotare con gli squali balena, spiagge lunghe.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Mas Huni, Garudhiya (zuppa di pesce), Bis Keemiya, Fihunu Mas Huni, Torta di Cocco",
+    "Spazi Naturali": "Barriere Coralline, Baia di Hanifaru, Spiagge Luminose, Banchi di Sabbia, Shark Point"
+  },
+  {
+    "Paese": "Maldive",
+    "Città": "Thoddoo",
+    "Attrazioni": "Visita di frutteti, spiagge esclusive per turisti.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Mas Huni, Garudhiya (zuppa di pesce), Bis Keemiya, Fihunu Mas Huni, Torta di Cocco",
+    "Spazi Naturali": "Barriere Coralline, Baia di Hanifaru, Spiagge Luminose, Banchi di Sabbia, Shark Point"
+  },
+  {
+    "Paese": "Maldive",
+    "Città": "Ukulhas",
+    "Attrazioni": "Ecoturismo, pesca.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Mas Huni, Garudhiya (zuppa di pesce), Bis Keemiya, Fihunu Mas Huni, Torta di Cocco",
+    "Spazi Naturali": "Barriere Coralline, Baia di Hanifaru, Spiagge Luminose, Banchi di Sabbia, Shark Point"
+  },
+  {
+    "Paese": "Maldive",
+    "Città": "Rasdhoo",
+    "Attrazioni": "Siti di immersione con squali martello, escursioni sui banchi di sabbia.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Mas Huni, Garudhiya (zuppa di pesce), Bis Keemiya, Fihunu Mas Huni, Torta di Cocco",
+    "Spazi Naturali": "Barriere Coralline, Baia di Hanifaru, Spiagge Luminose, Banchi di Sabbia, Shark Point"
+  },
+  {
+    "Paese": "Maldive",
+    "Città": "Feydhoo",
+    "Attrazioni": "Esperienza della vita locale, immersioni notturne.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Mas Huni, Garudhiya (zuppa di pesce), Bis Keemiya, Fihunu Mas Huni, Torta di Cocco",
+    "Spazi Naturali": "Barriere Coralline, Baia di Hanifaru, Spiagge Luminose, Banchi di Sabbia, Shark Point"
+  },
+  {
+    "Paese": "Romania",
+    "Città": "Bucarest",
+    "Attrazioni": "Palazzo del Parlamento (secondo edificio amministrativo più grande), la Città Vecchia, l'Ateneo Romeno.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Mămăligă (polenta di mais), Sarmale (involtini di cavolo), Mici (salsicce alla griglia), Cozonac (pane dolce), Ciorbă de burtă (zuppa di trippa)",
+    "Spazi Naturali": "Delta del Danubio, Monti Carpazi, autostrada Transfăgărășan, Parco Nazionale Retezat, Grotta Scărișoara"
+  },
+  {
+    "Paese": "Romania",
+    "Città": "Brașov",
+    "Attrazioni": "Biserica Neagră (la Chiesa Nera), Piața Sfatului, Monte Tâmpa.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Mămăligă (polenta di mais), Sarmale (involtini di cavolo), Mici (salsicce alla griglia), Cozonac (pane dolce), Ciorbă de burtă (zuppa di trippa)",
+    "Spazi Naturali": "Delta del Danubio, Monti Carpazi, autostrada Transfăgărășan, Parco Nazionale Retezat, Grotta Scărișoara"
+  },
+  {
+    "Paese": "Romania",
+    "Città": "Sibiu",
+    "Attrazioni": "Piața Mare, il Ponte delle Bugie, il Complesso Museale Nazionale ASTRA.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Mămăligă (polenta di mais), Sarmale (involtini di cavolo), Mici (salsicce alla griglia), Cozonac (pane dolce), Ciorbă de burtă (zuppa di trippa)",
+    "Spazi Naturali": "Delta del Danubio, Monti Carpazi, autostrada Transfăgărășan, Parco Nazionale Retezat, Grotta Scărișoara"
+  },
+  {
+    "Paese": "Romania",
+    "Città": "Timișoara",
+    "Attrazioni": "Cattedrale Ortodossa di Timișoara, Piazza della Vittoria, Museo del Villaggio Banat.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Mămăligă (polenta di mais), Sarmale (involtini di cavolo), Mici (salsicce alla griglia), Cozonac (pane dolce), Ciorbă de burtă (zuppa di trippa)",
+    "Spazi Naturali": "Delta del Danubio, Monti Carpazi, autostrada Transfăgărășan, Parco Nazionale Retezat, Grotta Scărișoara"
+  },
+  {
+    "Paese": "Romania",
+    "Città": "Cluj-Napoca",
+    "Attrazioni": "Piazza dell'Unione, Chiesa di San Michele, il Giardino Botanico Alexandru Borza.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Mămăligă (polenta di mais), Sarmale (involtini di cavolo), Mici (salsicce alla griglia), Cozonac (pane dolce), Ciorbă de burtă (zuppa di trippa)",
+    "Spazi Naturali": "Delta del Danubio, Monti Carpazi, autostrada Transfăgărășan, Parco Nazionale Retezat, Grotta Scărișoara"
+  },
+  {
+    "Paese": "Romania",
+    "Città": "Sighișoara",
+    "Attrazioni": "Torre dell'Orologio, Casa di Dracula, la cittadella fortificata (UNESCO).",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Mămăligă (polenta di mais), Sarmale (involtini di cavolo), Mici (salsicce alla griglia), Cozonac (pane dolce), Ciorbă de burtă (zuppa di trippa)",
+    "Spazi Naturali": "Delta del Danubio, Monti Carpazi, autostrada Transfăgărășan, Parco Nazionale Retezat, Grotta Scărișoara"
+  },
+  {
+    "Paese": "Romania",
+    "Città": "Constanța",
+    "Attrazioni": "Casinò di Costanza, la Grande Moschea, spiagge del Mar Nero.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Mămăligă (polenta di mais), Sarmale (involtini di cavolo), Mici (salsicce alla griglia), Cozonac (pane dolce), Ciorbă de burtă (zuppa di trippa)",
+    "Spazi Naturali": "Delta del Danubio, Monti Carpazi, autostrada Transfăgărășan, Parco Nazionale Retezat, Grotta Scărișoara"
+  },
+  {
+    "Paese": "Romania",
+    "Città": "Iași",
+    "Attrazioni": "Palazzo della Cultura, la Cattedrale Metropolitana, Università Alexandru Ioan Cuza.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Mămăligă (polenta di mais), Sarmale (involtini di cavolo), Mici (salsicce alla griglia), Cozonac (pane dolce), Ciorbă de burtă (zuppa di trippa)",
+    "Spazi Naturali": "Delta del Danubio, Monti Carpazi, autostrada Transfăgărășan, Parco Nazionale Retezat, Grotta Scărișoara"
+  },
+  {
+    "Paese": "Romania",
+    "Città": "Oradea",
+    "Attrazioni": "Piazza dell'Unione, il Teatro Maria, il Museo dei Paesi Crișurilor.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Mămăligă (polenta di mais), Sarmale (involtini di cavolo), Mici (salsicce alla griglia), Cozonac (pane dolce), Ciorbă de burtă (zuppa di trippa)",
+    "Spazi Naturali": "Delta del Danubio, Monti Carpazi, autostrada Transfăgărășan, Parco Nazionale Retezat, Grotta Scărișoara"
+  },
+  {
+    "Paese": "Romania",
+    "Città": "Bran",
+    "Attrazioni": "Castello di Bran (Castello di Dracula), Chiesa di San Giorgio, la strada di Poiana Brașov.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Mămăligă (polenta di mais), Sarmale (involtini di cavolo), Mici (salsicce alla griglia), Cozonac (pane dolce), Ciorbă de burtă (zuppa di trippa)",
+    "Spazi Naturali": "Delta del Danubio, Monti Carpazi, autostrada Transfăgărășan, Parco Nazionale Retezat, Grotta Scărișoara"
+  },
+  {
+    "Paese": "Georgia",
+    "Città": "Tbilisi",
+    "Attrazioni": "Fortezza di Narikala, Bagni di Zolfo, Via Rustaveli, il Ponte della Pace.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Khachapuri, Khinkali, Pollo Tabaka, Churchkhela, Insalata di Melanzane",
+    "Spazi Naturali": "Montagne del Caucaso, Lago Ritsa, Canyon di Martvili, Parco di Borjomi, Monte Shkhara"
+  },
+  {
+    "Paese": "Georgia",
+    "Città": "Batumi",
+    "Attrazioni": "Giardino Botanico di Batumi, statua di Ali e Nino, la Torre dell'Alfabeto, il boulevard.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Khachapuri, Khinkali, Pollo Tabaka, Churchkhela, Insalata di Melanzane",
+    "Spazi Naturali": "Montagne del Caucaso, Lago Ritsa, Canyon di Martvili, Parco di Borjomi, Monte Shkhara"
+  },
+  {
+    "Paese": "Georgia",
+    "Città": "Kutaisi",
+    "Attrazioni": "Grotta di Prometeo, Cattedrale di Bagrati, Canyon di Okatse.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Khachapuri, Khinkali, Pollo Tabaka, Churchkhela, Insalata di Melanzane",
+    "Spazi Naturali": "Montagne del Caucaso, Lago Ritsa, Canyon di Martvili, Parco di Borjomi, Monte Shkhara"
+  },
+  {
+    "Paese": "Georgia",
+    "Città": "Mtskheta",
+    "Attrazioni": "Monastero di Jvari, Cattedrale di Svetitskhoveli (l'antica capitale).",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Khachapuri, Khinkali, Pollo Tabaka, Churchkhela, Insalata di Melanzane",
+    "Spazi Naturali": "Montagne del Caucaso, Lago Ritsa, Canyon di Martvili, Parco di Borjomi, Monte Shkhara"
+  },
+  {
+    "Paese": "Georgia",
+    "Città": "Gudauri",
+    "Attrazioni": "Sci, parapendio, viste montane.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Khachapuri, Khinkali, Pollo Tabaka, Churchkhela, Insalata di Melanzane",
+    "Spazi Naturali": "Montagne del Caucaso, Lago Ritsa, Canyon di Martvili, Parco di Borjomi, Monte Shkhara"
+  },
+  {
+    "Paese": "Georgia",
+    "Città": "Sighnaghi",
+    "Attrazioni": "La Città dell'Amore, degustazione di vini, il muro storico.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Khachapuri, Khinkali, Pollo Tabaka, Churchkhela, Insalata di Melanzane",
+    "Spazi Naturali": "Montagne del Caucaso, Lago Ritsa, Canyon di Martvili, Parco di Borjomi, Monte Shkhara"
+  },
+  {
+    "Paese": "Georgia",
+    "Città": "Borjomi",
+    "Attrazioni": "Sorgenti di acqua minerale, il parco centrale.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Khachapuri, Khinkali, Pollo Tabaka, Churchkhela, Insalata di Melanzane",
+    "Spazi Naturali": "Montagne del Caucaso, Lago Ritsa, Canyon di Martvili, Parco di Borjomi, Monte Shkhara"
+  },
+  {
+    "Paese": "Georgia",
+    "Città": "Stepantsminda",
+    "Attrazioni": "Chiesa della Trinità di Gergeti, Monte Kazbek.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Khachapuri, Khinkali, Pollo Tabaka, Churchkhela, Insalata di Melanzane",
+    "Spazi Naturali": "Montagne del Caucaso, Lago Ritsa, Canyon di Martvili, Parco di Borjomi, Monte Shkhara"
+  },
+  {
+    "Paese": "Georgia",
+    "Città": "Gori",
+    "Attrazioni": "Museo di Stalin, la città rupestre di Uplistsikhe.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Khachapuri, Khinkali, Pollo Tabaka, Churchkhela, Insalata di Melanzane",
+    "Spazi Naturali": "Montagne del Caucaso, Lago Ritsa, Canyon di Martvili, Parco di Borjomi, Monte Shkhara"
+  },
+  {
+    "Paese": "Georgia",
+    "Città": "Telavi",
+    "Attrazioni": "Batonis Tsikhe (Castello del Re), vigneti.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Khachapuri, Khinkali, Pollo Tabaka, Churchkhela, Insalata di Melanzane",
+    "Spazi Naturali": "Montagne del Caucaso, Lago Ritsa, Canyon di Martvili, Parco di Borjomi, Monte Shkhara"
+  },
+  {
+    "Paese": "Giamaica",
+    "Città": "Kingston",
+    "Attrazioni": "Museo di Bob Marley, Devon House, le Blue Mountains.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Pollo Jerk, Ackee e Baccalà, Patties (torta di carne), Zuppa, Rum",
+    "Spazi Naturali": "Blue Mountains, Cascate Dunn's River, Laguna Blu, Grotte di Cockpit Country, Seven Mile Beach"
+  },
+  {
+    "Paese": "Giamaica",
+    "Città": "Montego Bay",
+    "Attrazioni": "Spiaggia della Grotta del Dottore, snorkeling, Grande Casa di Rose Hall.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Pollo Jerk, Ackee e Baccalà, Patties (torta di carne), Zuppa, Rum",
+    "Spazi Naturali": "Blue Mountains, Cascate Dunn's River, Laguna Blu, Grotte di Cockpit Country, Seven Mile Beach"
+  },
+  {
+    "Paese": "Giamaica",
+    "Città": "Negril",
+    "Attrazioni": "Seven Mile Beach, tuffi da scogliera al Rick's Cafe.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Pollo Jerk, Ackee e Baccalà, Patties (torta di carne), Zuppa, Rum",
+    "Spazi Naturali": "Blue Mountains, Cascate Dunn's River, Laguna Blu, Grotte di Cockpit Country, Seven Mile Beach"
+  },
+  {
+    "Paese": "Giamaica",
+    "Città": "Ocho Rios",
+    "Attrazioni": "Cascate Dunn's River, nuoto con i delfini.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Pollo Jerk, Ackee e Baccalà, Patties (torta di carne), Zuppa, Rum",
+    "Spazi Naturali": "Blue Mountains, Cascate Dunn's River, Laguna Blu, Grotte di Cockpit Country, Seven Mile Beach"
+  },
+  {
+    "Paese": "Giamaica",
+    "Città": "Port Antonio",
+    "Attrazioni": "Laguna Blu, Spiaggia di Frenchman's Cove, tour in barca sul fiume Rio Grande.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Pollo Jerk, Ackee e Baccalà, Patties (torta di carne), Zuppa, Rum",
+    "Spazi Naturali": "Blue Mountains, Cascate Dunn's River, Laguna Blu, Grotte di Cockpit Country, Seven Mile Beach"
+  },
+  {
+    "Paese": "Giamaica",
+    "Città": "Mandeville",
+    "Attrazioni": "Museo di Manchester, colline verdi, piantagioni di caffè.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Pollo Jerk, Ackee e Baccalà, Patties (torta di carne), Zuppa, Rum",
+    "Spazi Naturali": "Blue Mountains, Cascate Dunn's River, Laguna Blu, Grotte di Cockpit Country, Seven Mile Beach"
+  },
+  {
+    "Paese": "Giamaica",
+    "Città": "Spanish Town",
+    "Attrazioni": "La vecchia cattedrale, la Piazza del Patrimonio, rovine della Vecchia Casa dell'Assemblea.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Pollo Jerk, Ackee e Baccalà, Patties (torta di carne), Zuppa, Rum",
+    "Spazi Naturali": "Blue Mountains, Cascate Dunn's River, Laguna Blu, Grotte di Cockpit Country, Seven Mile Beach"
+  },
+  {
+    "Paese": "Giamaica",
+    "Città": "Black River",
+    "Attrazioni": "Tour in barca sul fiume e osservazione dei coccodrilli, Treasure Beach.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Pollo Jerk, Ackee e Baccalà, Patties (torta di carne), Zuppa, Rum",
+    "Spazi Naturali": "Blue Mountains, Cascate Dunn's River, Laguna Blu, Grotte di Cockpit Country, Seven Mile Beach"
+  },
+  {
+    "Paese": "Giamaica",
+    "Città": "Ocho Rios",
+    "Attrazioni": "Esplorazione di spiagge tranquille, visita di piantagioni di canna da zucchero.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Pollo Jerk, Ackee e Baccalà, Patties (torta di carne), Zuppa, Rum",
+    "Spazi Naturali": "Blue Mountains, Cascate Dunn's River, Laguna Blu, Grotte di Cockpit Country, Seven Mile Beach"
+  },
+  {
+    "Paese": "Giamaica",
+    "Città": "Falmouth",
+    "Attrazioni": "Il porto storico, architettura georgiana, Spiaggia di Burwood.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Pollo Jerk, Ackee e Baccalà, Patties (torta di carne), Zuppa, Rum",
+    "Spazi Naturali": "Blue Mountains, Cascate Dunn's River, Laguna Blu, Grotte di Cockpit Country, Seven Mile Beach"
+  },
+  {
+    "Paese": "Mali",
+    "Città": "Bamako",
+    "Attrazioni": "Il Museo Nazionale, la Grande Moschea, Mercato Centrale di Bamako, Ponte Re Fahd.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Riso con salsa di arachidi (Tieboudien), Fufu, To, Couscous",
+    "Spazi Naturali": "Fiume Niger, Montagne Hombori, Parco Nazionale Boucle du Baoulé, la Savana"
+  },
+  {
+    "Paese": "Mali",
+    "Città": "Djenné",
+    "Attrazioni": "La Grande Moschea (più grande edificio in mattoni di fango), la Città Vecchia (UNESCO).",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Riso con salsa di arachidi (Tieboudien), Fufu, To, Couscous",
+    "Spazi Naturali": "Fiume Niger, Montagne Hombori, Parco Nazionale Boucle du Baoulé, la Savana"
+  },
+  {
+    "Paese": "Mali",
+    "Città": "Timbuktu",
+    "Attrazioni": "Moschee di Sankoré e Djinguereber, biblioteche storiche, Museo di Timbuktu.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Riso con salsa di arachidi (Tieboudien), Fufu, To, Couscous",
+    "Spazi Naturali": "Fiume Niger, Montagne Hombori, Parco Nazionale Boucle du Baoulé, la Savana"
+  },
+  {
+    "Paese": "Mali",
+    "Città": "Mopti",
+    "Attrazioni": "La Grande Moschea, porto fluviale di Mopti, visita di villaggi fluviali.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Riso con salsa di arachidi (Tieboudien), Fufu, To, Couscous",
+    "Spazi Naturali": "Fiume Niger, Montagne Hombori, Parco Nazionale Boucle du Baoulé, la Savana"
+  },
+  {
+    "Paese": "Mali",
+    "Città": "Sikasso",
+    "Attrazioni": "Sito di Mamelon (città fortificata), cascate di Sikasso, Museo di Sikasso.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Riso con salsa di arachidi (Tieboudien), Fufu, To, Couscous",
+    "Spazi Naturali": "Fiume Niger, Montagne Hombori, Parco Nazionale Boucle du Baoulé, la Savana"
+  },
+  {
+    "Paese": "Mali",
+    "Città": "Gao",
+    "Attrazioni": "Tomba di Askia (UNESCO), mercato di Gao, il fiume Niger.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Riso con salsa di arachidi (Tieboudien), Fufu, To, Couscous",
+    "Spazi Naturali": "Fiume Niger, Montagne Hombori, Parco Nazionale Boucle du Baoulé, la Savana"
+  },
+  {
+    "Paese": "Mali",
+    "Città": "Kidal",
+    "Attrazioni": "Esplorazione delle aree Tuareg, il Deserto del Sahara, tour di villaggi nomadi.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Riso con salsa di arachidi (Tieboudien), Fufu, To, Couscous",
+    "Spazi Naturali": "Fiume Niger, Montagne Hombori, Parco Nazionale Boucle du Baoulé, la Savana"
+  },
+  {
+    "Paese": "Mali",
+    "Città": "Kayes",
+    "Attrazioni": "Cascate di Félou, Parco Nazionale di Bafing, Ponte di Kayes.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Riso con salsa di arachidi (Tieboudien), Fufu, To, Couscous",
+    "Spazi Naturali": "Fiume Niger, Montagne Hombori, Parco Nazionale Boucle du Baoulé, la Savana"
+  },
+  {
+    "Paese": "Mali",
+    "Città": "Ségou",
+    "Attrazioni": "La Grande Moschea di stile sudanese, mercati locali.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Riso con salsa di arachidi (Tieboudien), Fufu, To, Couscous",
+    "Spazi Naturali": "Fiume Niger, Montagne Hombori, Parco Nazionale Boucle du Baoulé, la Savana"
+  },
+  {
+    "Paese": "Mali",
+    "Città": "Djenné",
+    "Attrazioni": "Il villaggio storico, artigianato, mercati settimanali.",
+    "Attività": "Partecipazione a tour culturali e turistici, e esperienze di shopping locale.",
+    "Cucina": "Riso con salsa di arachidi (Tieboudien), Fufu, To, Couscous",
+    "Spazi Naturali": "Fiume Niger, Montagne Hombori, Parco Nazionale Boucle du Baoulé, la Savana"
+  }
+]

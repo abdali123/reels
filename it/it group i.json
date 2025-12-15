@@ -1,0 +1,1289 @@
+{
+  "Dati": [
+    {
+      "Paese": "Bahrein",
+      "Città": [
+        {
+          "Città Principale": "Manama",
+          "Monumenti Storici e Architettonici Rilevanti": "Bab Al Bahrain, Museo Nazionale del Bahrain, Grande Moschea Al-Fateh, Beit Al Quran.",
+          "Attività Turistiche Chiave ed Esperienze": "Passeggiare attraverso il vecchio souq di Manama, visitare i musei, godersi la Corniche.",
+          "Spazi Verdi e Paesaggi": "Giardino Al Ammanah, Corniche Al Fateh, Parco Bahrain Bay.",
+          "Piatti Locali Famosi": "Majboos, Halwa bahrenita, Mutabbaq, Mahammar."
+        },
+        {
+          "Città Principale": "Muharraq",
+          "Monumenti Storici e Architettonici Rilevanti": "Casa dello Sheikh Isa bin Ali, Forte Bu Maher, Sentiero delle Perle (Patrimonio dell'Umanità).",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare la storia della pesca delle perle, visitare i musei, camminare attraverso vecchi vicoli.",
+          "Spazi Verdi e Paesaggi": "Parco della Corniche Al Hadd, spiagge di Muharraq.",
+          "Piatti Locali Famosi": "Pane Regag, Burnoush (piatto tradizionale di pesce), frutti di mare freschi."
+        },
+        {
+          "Città Principale": "Riffa",
+          "Monumenti Storici e Architettonici Rilevanti": "Forte di Riffa (Sheikh Salman bin Ahmed Al-Fateh), villaggio storico di Askar.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare forti storici, giocare a golf al Royal Golf Club.",
+          "Spazi Verdi e Paesaggi": "Parco Ain Adhari, fattorie di palme, Royal Golf Club.",
+          "Piatti Locali Famosi": "Pesce Mutabbaq, Khanfroush (dolce fritto)."
+        },
+        {
+          "Città Principale": "Isa Town",
+          "Monumenti Storici e Architettonici Rilevanti": "Stadio Nazionale del Bahrain, Grandi Moschee.",
+          "Attività Turistiche Chiave ed Esperienze": "Shopping nel souq tradizionale, partecipare a eventi sportivi.",
+          "Spazi Verdi e Paesaggi": "Gran Parco di Isa Town.",
+          "Piatti Locali Famosi": "Baleelait (vermicelli dolci), Aish Mashkhool."
+        },
+        {
+          "Città Principale": "Zallaq",
+          "Monumenti Storici e Architettonici Rilevanti": "Circuito Internazionale del Bahrain, Torre del Bahrain.",
+          "Attività Turistiche Chiave ed Esperienze": "Partecipare alle gare di Formula 1, rilassarsi sulla spiaggia di Al Jazayer.",
+          "Spazi Verdi e Paesaggi": "Spiaggia di Al Jazayer, parchi costieri.",
+          "Piatti Locali Famosi": "Khabeesa (piatto dolce), frutti di mare."
+        },
+        {
+          "Città Principale": "Sitra",
+          "Monumenti Storici e Architettonici Rilevanti": "Ponte di Sitra, vecchie case, Moschea Al-Khamis.",
+          "Attività Turistiche Chiave ed Esperienze": "Pesca, visitare i mercati locali, esplorare l'isola.",
+          "Spazi Verdi e Paesaggi": "Corniche di Sitra, fattorie costiere.",
+          "Piatti Locali Famosi": "Maraqouq (impasto e brodo), pesce Safi alla griglia."
+        },
+        {
+          "Città Principale": "Hidd",
+          "Monumenti Storici e Architettonici Rilevanti": "Beyt Al Quran (una filiale), Bab Al Bahrain (una filiale).",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare il museo delle auto, godersi la corniche.",
+          "Spazi Verdi e Paesaggi": "Parco della Corniche di Hidd, spiagge.",
+          "Piatti Locali Famosi": "Grigliate, frutti di mare."
+        },
+        {
+          "Città Principale": "Juffair",
+          "Monumenti Storici e Architettonici Rilevanti": "Bahrain City Centre, Torri di Juffair.",
+          "Attività Turistiche Chiave ed Esperienze": "Shopping di lusso, cenare in ristoranti di alta classe.",
+          "Spazi Verdi e Paesaggi": "Giardini di Juffair, la Corniche.",
+          "Piatti Locali Famosi": "Cucina internazionale, bevande fredde."
+        },
+        {
+          "Città Principale": "Al Budaiya",
+          "Monumenti Storici e Architettonici Rilevanti": "Centro Internazionale per Fiere e Convegni del Bahrain, Bab Al Budaiya.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare fiere e conferenze, fare shopping al Mercato degli Agricoltori.",
+          "Spazi Verdi e Paesaggi": "Fattorie di palme, Mercato degli Agricoltori (spazi verdi).",
+          "Piatti Locali Famosi": "Datteri freschi, succhi naturali."
+        },
+        {
+          "Città Principale": "Al-Ali",
+          "Monumenti Storici e Architettonici Rilevanti": "Fattorie di palme, vecchie moschee.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare le fattorie, esplorare la vita rurale.",
+          "Spazi Verdi e Paesaggi": "Vaste fattorie di palme, valli.",
+          "Piatti Locali Famosi": "Datteri, prodotti delle palme."
+        }
+      ]
+    },
+    {
+      "Paese": "Bangladesh",
+      "Città": [
+        {
+          "Città Principale": "Dhaka",
+          "Monumenti Storici e Architettonici Rilevanti": "Forte di Lalbagh, Moschea delle Sessanta Cupole, Jatiya Sangsad Bhaban (Parlamento Nazionale; progettato da Louis Kahn).",
+          "Attività Turistiche Chiave ed Esperienze": "Andare in risciò, visitare i musei, esplorare i mercati di Dhaka.",
+          "Spazi Verdi e Paesaggi": "Parco Ramna, Lago Dhanmondi.",
+          "Piatti Locali Famosi": "Ilish mach (curry di pesce Hilsa), biryani di Dhaka, Panta bhat (riso fermentato con acqua)."
+        },
+        {
+          "Città Principale": "Chittagong",
+          "Monumenti Storici e Architettonici Rilevanti": "Cimitero della Seconda Guerra Mondiale, Santuario di Hazrat Bayazid Bostami.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare il cimitero di guerra, esplorare le Colline di Chittagong, gite in barca sul fiume Karnaphuli.",
+          "Spazi Verdi e Paesaggi": "Lago di Foy, colline di Chittagong.",
+          "Piatti Locali Famosi": "Mezban (curry piccante di manzo), Shutki (pesce secco), curry di gamberi."
+        },
+        {
+          "Città Principale": "Cox's Bazar",
+          "Monumenti Storici e Architettonici Rilevanti": "La più lunga spiaggia naturale di mare del mondo, Tempio Buddista Aggamukhi.",
+          "Attività Turistiche Chiave ed Esperienze": "Relax sulla spiaggia, gite in barca, visitare templi buddisti.",
+          "Spazi Verdi e Paesaggi": "Spiaggia di Cox's Bazar, Cascata di Himchari, Montagne di Mowdok.",
+          "Piatti Locali Famosi": "Curry di gamberi, frutti di mare freschi, riso speziato e aromatizzato."
+        },
+        {
+          "Città Principale": "Sylhet",
+          "Monumenti Storici e Architettonici Rilevanti": "Santuario di Hazrat Shah Jalal, Giardino di Jafflong.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare i giardini del tè, gite in barca sul fiume Surma.",
+          "Spazi Verdi e Paesaggi": "Giardini del tè, Foresta Paludosa di Ratargul, Parco Nazionale di Lawachara.",
+          "Piatti Locali Famosi": "Curry di Neep, riso di Sylhet, Panta bhat."
+        },
+        {
+          "Città Principale": "Khulna",
+          "Monumenti Storici e Architettonici Rilevanti": "Palazzo di Khan Jahan Ali, Santuario di Khan Jahan.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare palazzi storici, safari fluviale nei Sundarbans.",
+          "Spazi Verdi e Paesaggi": "Fiume Rupsa, vicina foresta dei Sundarbans.",
+          "Piatti Locali Famosi": "Curry di gamberi giganti, pane fritto (Luchi)."
+        },
+        {
+          "Città Principale": "Rajshahi",
+          "Monumenti Storici e Architettonici Rilevanti": "Puthia Rajbari (palazzo), Museo di Ricerca Varendra.",
+          "Attività Turistiche Chiave ed Esperienze": "Acquistare seta, visitare i musei, passeggiare lungo le rive del fiume Padma.",
+          "Spazi Verdi e Paesaggi": "Giardino Bollov, rive del fiume Padma.",
+          "Piatti Locali Famosi": "Dolci di Rajshahi, Rangapith (piatto dolce di riso)."
+        },
+        {
+          "Città Principale": "Bogra",
+          "Monumenti Storici e Architettonici Rilevanti": "Mahasthangarh (rovine storiche), Museo Archeologico.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare il sito archeologico, esplorare la storia del Bangladesh antico.",
+          "Spazi Verdi e Paesaggi": "Aree rurali verdi.",
+          "Piatti Locali Famosi": "Doi (yogurt dolce), curry di carne di capra."
+        },
+        {
+          "Città Principale": "Barisal",
+          "Monumenti Storici e Architettonici Rilevanti": "Forte di Bakerganj, Durga Sagar.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare il mercato fluttuante di guaiave, gite in barca nel Delta del Gange.",
+          "Spazi Verdi e Paesaggi": "Mercato fluttuante di guaiave, fiumi del Delta del Gange.",
+          "Piatti Locali Famosi": "Shutki Ilish mach, verdure del Delta del Gange."
+        },
+        {
+          "Città Principale": "Rangamati",
+          "Monumenti Storici e Architettonici Rilevanti": "Palazzo Rajbagi, Museo Tribale.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare il Lago Kaptai, visitare il ponte sospeso, esplorare la vita tribale.",
+          "Spazi Verdi e Paesaggi": "Lago Kaptai, Ponte Sospeso, colline di Rangamati.",
+          "Piatti Locali Famosi": "Pollo di Bambù (pollo cotto nel bambù), piatti tribali locali."
+        },
+        {
+          "Città Principale": "Comilla",
+          "Monumenti Storici e Architettonici Rilevanti": "Rovine buddiste di Mainamati, Shalban Vihara.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare siti archeologici buddisti, esplorare la storia della regione.",
+          "Spazi Verdi e Paesaggi": "Parco della Caserma di Comilla.",
+          "Piatti Locali Famosi": "Roshmalai (dolce al latte condensato), riso di Comilla."
+        }
+      ]
+    },
+    {
+      "Paese": "Bhutan",
+      "Città": [
+        {
+          "Città Principale": "Thimphu",
+          "Monumenti Storici e Architettonici Rilevanti": "Statua di Buddha Dordenma, Tashichho Dzong, Ufficio Postale Generale.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare monasteri, acquistare francobolli, assistere a danze tradizionali.",
+          "Spazi Verdi e Paesaggi": "Riserva del Takin, Parco Nazionale di Thimphu.",
+          "Piatti Locali Famosi": "Ema Datshi (peperoncino con formaggio), Momo (ravioli)."
+        },
+        {
+          "Città Principale": "Paro",
+          "Monumenti Storici e Architettonici Rilevanti": "Nido della Tigre (Taktsang), Rinpung Dzong, Museo Nazionale.",
+          "Attività Turistiche Chiave ed Esperienze": "Escursione al Nido della Tigre, visitare il museo, esplorare la Valle di Paro.",
+          "Spazi Verdi e Paesaggi": "Valle di Paro, colline di Paro.",
+          "Piatti Locali Famosi": "Phaksha Paa (pancia di maiale con peperoncino), Suja (tè al burro)."
+        },
+        {
+          "Città Principale": "Punakha",
+          "Monumenti Storici e Architettonici Rilevanti": "Punakha Dzong (la fortezza), Chimi Lhakhang (tempio della fertilità).",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare la fortezza, attraversare il ponte sospeso, rafting sul fiume.",
+          "Spazi Verdi e Paesaggi": "Confluenza dei fiumi Mo Chhu e Po Chhu, ponte sospeso.",
+          "Piatti Locali Famosi": "Zow (riso dolce), Hoentoe (ravioli di grano saraceno)."
+        },
+        {
+          "Città Principale": "Bumthang (Jakar)",
+          "Monumenti Storici e Architettonici Rilevanti": "Jakar Dzong, antichi templi, Jambay Lhakhang.",
+          "Attività Turistiche Chiave ed Esperienze": "Partecipare a festival locali, visitare una fabbrica di formaggio.",
+          "Spazi Verdi e Paesaggi": "Fertile Valle di Bumthang, campi di grano saraceno.",
+          "Piatti Locali Famosi": "Hamburger di yak, formaggio svizzero di Bumthang."
+        },
+        {
+          "Città Principale": "Phuentsholing",
+          "Monumenti Storici e Architettonici Rilevanti": "Porta verso il Bhutan, mercato di frontiera.",
+          "Attività Turistiche Chiave ed Esperienze": "Shopping transfrontaliero, visitare il Parco Naturale di Phuentsholing.",
+          "Spazi Verdi e Paesaggi": "Parco Naturale di Phuentsholing.",
+          "Piatti Locali Famosi": "Sikam Paa (maiale con ravanello), cucina indiana."
+        },
+        {
+          "Città Principale": "Gangtey (Phobjikha)",
+          "Monumenti Storici e Architettonici Rilevanti": "Monastero di Gangtey, Villaggio di Phobjikha.",
+          "Attività Turistiche Chiave ed Esperienze": "Osservare gru dal collo nero, escursioni.",
+          "Spazi Verdi e Paesaggi": "Valle di Phobjikha, sentieri per uccelli.",
+          "Piatti Locali Famosi": "Ema Datshi, Momo."
+        },
+        {
+          "Città Principale": "Trongsa",
+          "Monumenti Storici e Architettonici Rilevanti": "Trongsa Dzong (la fortezza più grande), Ta Dzong (museo della torre di guardia).",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare la fortezza, esplorare passi di montagna.",
+          "Spazi Verdi e Paesaggi": "Passi di montagna, valli.",
+          "Piatti Locali Famosi": "Shamday (frittelle di grano saraceno)."
+        },
+        {
+          "Città Principale": "Mongar",
+          "Monumenti Storici e Architettonici Rilevanti": "Mongar Dzong.",
+          "Attività Turistiche Chiave ed Esperienze": "Godersi la strada tortuosa di montagna, visitare il mercato locale.",
+          "Spazi Verdi e Paesaggi": "Viste montane orientali.",
+          "Piatti Locali Famosi": "Limonata di Mongar, Ema Datshi."
+        },
+        {
+          "Città Principale": "Trashigang",
+          "Monumenti Storici e Architettonici Rilevanti": "Trashigang Dzong.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare il Dzong, esplorare la vita tribale.",
+          "Spazi Verdi e Paesaggi": "Fiume Gamri, foreste del Bhutan orientale.",
+          "Piatti Locali Famosi": "Piatti tribali locali, tè allo zenzero."
+        },
+        {
+          "Città Principale": "Samdrup Jongkhar",
+          "Monumenti Storici e Architettonici Rilevanti": "Aeroporto di Yongphulla, cascate.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare uno degli aeroporti più alti del mondo, esplorare foreste tropicali.",
+          "Spazi Verdi e Paesaggi": "Foreste tropicali, cascate.",
+          "Piatti Locali Famosi": "Cucina locale, piatti indiani."
+        }
+      ]
+    },
+    {
+      "Paese": "Arabia Saudita",
+      "Città": [
+        {
+          "Città Principale": "Riyadh",
+          "Monumenti Storici e Architettonici Rilevanti": "Kingdom Centre, King Abdullah Financial District, At-Turaif (Diriyah), Museo Nazionale di Storia Naturale.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare Diriyah, shopping a Boulevard Riyadh City, Riyadh Season.",
+          "Spazi Verdi e Paesaggi": "Parco Re Abdullah, Wadi Hanifa.",
+          "Piatti Locali Famosi": "Kabsa, Jareesh, Qursan, Mutabbaq."
+        },
+        {
+          "Città Principale": "Jeddah",
+          "Monumenti Storici e Architettonici Rilevanti": "Jeddah Storica (Al-Balad), Fontana del Re Fahd, Moschea Al-Rahmah, Fontana del Re Fahd.",
+          "Attività Turistiche Chiave ed Esperienze": "Passeggiare attraverso Jeddah Storica, la Corniche, immersioni nel Mar Rosso.",
+          "Spazi Verdi e Paesaggi": "Corniche di Jeddah, Spiaggia del Red Sea Mall.",
+          "Piatti Locali Famosi": "Sayadiyah (riso con pesce), Mashbūt, pesce Hijazi."
+        },
+        {
+          "Città Principale": "Mecca",
+          "Monumenti Storici e Architettonici Rilevanti": "La Grande Moschea (Al-Masjid al-Haram), Jabal al-Nour, Grotta di Hira, Jabal Arafat, Abraj Al Bait.",
+          "Attività Turistiche Chiave ed Esperienze": "Eseguire l'Umrah, visitare siti religiosi.",
+          "Spazi Verdi e Paesaggi": "Giardino Al-Shara'i.",
+          "Piatti Locali Famosi": "Fattūt (piatto di pane della Mecca), Manto e Yaghmash, Kabsa."
+        },
+        {
+          "Città Principale": "Medina",
+          "Monumenti Storici e Architettonici Rilevanti": "La Moschea del Profeta (Al-Masjid an-Nabawi), Moschea di Quba, Monte Uhud, Fortezza di Quba.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare la Moschea del Profeta, la Moschea di Quba, il Souq Al-Ukhdud.",
+          "Spazi Verdi e Paesaggi": "Monte Uhud, parchi Al-Ukhdud.",
+          "Piatti Locali Famosi": "Al-Madani (piatto di carne e riso), datteri Ajwa."
+        },
+        {
+          "Città Principale": "Dammam",
+          "Monumenti Storici e Architettonici Rilevanti": "Museo Regionale di Dammam, King Abdulaziz Center for World Culture (Ithra), Corniche di Dammam.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare Ithra, fare shopping nei centri commerciali, rilassarsi sulla Corniche.",
+          "Spazi Verdi e Paesaggi": "Corniche di Dammam, Parco Re Fahd.",
+          "Piatti Locali Famosi": "Majboos del Golfo, Zubaidi Mutabbaq, pesce alla griglia."
+        },
+        {
+          "Città Principale": "Abha",
+          "Monumenti Storici e Architettonici Rilevanti": "Villaggio del Patrimonio di Rijal Almaa, Castello di Shamsan, Parco Nazionale di Asir.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare il villaggio di Rijal Almaa, funivia per Al-Souda, esplorare le montagne.",
+          "Spazi Verdi e Paesaggi": "Parco Nazionale di Asir, Jabal Dara, Montagne di Asir.",
+          "Piatti Locali Famosi": "Areeka, Haneeth, Aseeda."
+        },
+        {
+          "Città Principale": "Ta'if",
+          "Monumenti Storici e Architettonici Rilevanti": "Palazzo di Shubra, Souk Okaz, Al-Hada e Al-Shifa.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare le fattorie di rose, Souk Okaz, rilassarsi ad Al-Hada e Al-Shifa.",
+          "Spazi Verdi e Paesaggi": "Al-Hada e Al-Shifa (aree montuose), fattorie di rose.",
+          "Piatti Locali Famosi": "Kabsa di Taifi, acqua di rose di Taif, Baklava."
+        },
+        {
+          "Città Principale": "Tabuk",
+          "Monumenti Storici e Architettonici Rilevanti": "Castello di Tabuk, Ferrovia dell'Hijaz, Wadi Disah.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare Wadi Disah, esplorare la storia della Ferrovia dell'Hijaz.",
+          "Spazi Verdi e Paesaggi": "Wadi Disah, Montagne di Hisma.",
+          "Piatti Locali Famosi": "Pane Sharak, Mafrouka, Mandi."
+        },
+        {
+          "Città Principale": "Hail",
+          "Monumenti Storici e Architettonici Rilevanti": "Forte di Airif, arte rupestre di Jubbah, montagne Aja e Salma.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare le montagne, esplorare l'arte rupestre.",
+          "Spazi Verdi e Paesaggi": "Montagne Aja e Salma, Parco Al-Maghwa.",
+          "Piatti Locali Famosi": "Tashreeb (pane nel brodo), Harees, Jareesh."
+        },
+        {
+          "Città Principale": "Najran",
+          "Monumenti Storici e Architettonici Rilevanti": "Palazzo dell'Emirato di Najran, Forte di Al-Ablaa, antichità di Najran.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare palazzi storici, esplorare antichità.",
+          "Spazi Verdi e Paesaggi": "Wadi Najran, montagne di Najran.",
+          "Piatti Locali Famosi": "Ruzbi (riso con latte), Luqaimat, Mafrouka."
+        }
+      ]
+    },
+    {
+      "Paese": "Qatar",
+      "Città": [
+        {
+          "Città Principale": "Doha",
+          "Monumenti Storici e Architettonici Rilevanti": "Museo di Arte Islamica, Souq Waqif, The Pearl-Qatar, Qatar National Convention Centre.",
+          "Attività Turistiche Chiave ed Esperienze": "Shopping a Souq Waqif, visitare i musei, crociere in barca dhow sulla Corniche.",
+          "Spazi Verdi e Paesaggi": "Corniche di Doha, Parco Al Bidda, Parco Aspire.",
+          "Piatti Locali Famosi": "Machboos, Thareed, Majboos, Mutabbaq."
+        },
+        {
+          "Città Principale": "Al Wakrah",
+          "Monumenti Storici e Architettonici Rilevanti": "Souq di Al Wakrah, Stadio Al Janoub, Forte di Al Wakrah.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare il vecchio souq, rilassarsi sulla spiaggia.",
+          "Spazi Verdi e Paesaggi": "Spiaggia Familiare di Al Wakrah.",
+          "Piatti Locali Famosi": "Majboos qatariota, Harees (piatto di datteri e farina d'avena)."
+        },
+        {
+          "Città Principale": "Al Khor",
+          "Monumenti Storici e Architettonici Rilevanti": "Torre di Al Khor, Grande Moschea di Al Khor.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare la torre, esplorare le mangrovie.",
+          "Spazi Verdi e Paesaggi": "Mangrovie di Al Thakira, Corniche di Al Khor.",
+          "Piatti Locali Famosi": "Mahshi qatariota, pesce alla griglia."
+        },
+        {
+          "Città Principale": "Mesaieed",
+          "Monumenti Storici e Architettonici Rilevanti": "Porto di Mesaieed, Sealine Beach Resort.",
+          "Attività Turistiche Chiave ed Esperienze": "Safari sulle dune a Sealine, visitare Khor Al Adaid (Mare Interno).",
+          "Spazi Verdi e Paesaggi": "Sealine (dune di sabbia), Khor Al Adaid (Mare Interno).",
+          "Piatti Locali Famosi": "Cucina beduina tradizionale, caffè arabo."
+        },
+        {
+          "Città Principale": "Al Rayyan",
+          "Monumenti Storici e Architettonici Rilevanti": "Education City, Biblioteca Nazionale del Qatar, Al Rayyan Sports Club.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare Education City, shopping a Doha Festival City.",
+          "Spazi Verdi e Paesaggi": "Parco di Al Rayyan.",
+          "Piatti Locali Famosi": "Pane Regag, caffè arabo."
+        },
+        {
+          "Città Principale": "Al Shamal",
+          "Monumenti Storici e Architettonici Rilevanti": "Forte di Al Zubarah (Patrimonio dell'Umanità), Forte di Al Ruwais.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare il Forte di Al Zubarah, rilassarsi sulla spiaggia.",
+          "Spazi Verdi e Paesaggi": "Spiaggia di Al Ruwais.",
+          "Piatti Locali Famosi": "Majboos di pesce, frutti di mare."
+        },
+        {
+          "Città Principale": "Dukhan",
+          "Monumenti Storici e Architettonici Rilevanti": "Museo Archeologico di Dukhan, Moschea di Dukhan.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare il museo, rilassarsi sulle spiagge occidentali.",
+          "Spazi Verdi e Paesaggi": "Spiagge di Dukhan.",
+          "Piatti Locali Famosi": "Piatti di frutti di mare occidentali, Mutabbaq."
+        },
+        {
+          "Città Principale": "Lusail",
+          "Monumenti Storici e Architettonici Rilevanti": "Stadio di Lusail, Marina di Lusail, Place Vendome.",
+          "Attività Turistiche Chiave ed Esperienze": "Shopping a Place Vendome, passeggiare lungo la Marina.",
+          "Spazi Verdi e Paesaggi": "Parchi moderni a Lusail.",
+          "Piatti Locali Famosi": "Dolci di lusso di Lusail, cucina internazionale."
+        },
+        {
+          "Città Principale": "Umm Salal",
+          "Monumenti Storici e Architettonici Rilevanti": "Torri di Barzan (storiche), Umm Salal Sports Club.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare le Torri di Barzan.",
+          "Spazi Verdi e Paesaggi": "Parco di Umm Salal Ali.",
+          "Piatti Locali Famosi": "Luqaimat (dolcetti fritti), Mutabbaq."
+        },
+        {
+          "Città Principale": "Al Daayen",
+          "Monumenti Storici e Architettonici Rilevanti": "Torri di Lusail (architettoniche), Qatar Racing & Equestrian Club.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare l'Equestrian Club, esplorare la città moderna.",
+          "Spazi Verdi e Paesaggi": "Parco di Al Daayen.",
+          "Piatti Locali Famosi": "Margoog, Kabsa."
+        }
+      ]
+    },
+    {
+      "Paese": "Ucraina",
+      "Città": [
+        {
+          "Città Principale": "Kyiv",
+          "Monumenti Storici e Architettonici Rilevanti": "Monastero delle Grotte di Kyiv, Cattedrale di Santa Sofia, Maidan Nezalezhnosti (Piazza dell'Indipendenza), Porta d'Oro, Museo Nazionale di Storia dell'Ucraina.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare l'architettura ortodossa, tour artistici e culturali.",
+          "Spazi Verdi e Paesaggi": "Parco Mariyinsky, Parco Feofaniya, Parco Fedyukovycha.",
+          "Piatti Locali Famosi": "Borscht (zuppa di barbabietole), Varenyky (ravioli), Kotleta (polpetta), Holubtsi (involtini di cavolo), Pyrizhky (torte al forno)."
+        },
+        {
+          "Città Principale": "Kharkiv",
+          "Monumenti Storici e Architettonici Rilevanti": "Piazza della Libertà, Parco Gorky, Cattedrale dell'Annunciazione, Museo di Belle Arti.",
+          "Attività Turistiche Chiave ed Esperienze": "Passeggiare attraverso grandi piazze, visitare musei e teatri.",
+          "Spazi Verdi e Paesaggi": "Parco Centrale Gorky, Parco Shevchenko.",
+          "Piatti Locali Famosi": "Borscht, Varenyky."
+        },
+        {
+          "Città Principale": "Odesa",
+          "Monumenti Storici e Architettonici Rilevanti": "Teatro dell'Opera e del Balletto Nazionale di Odesa, Scalinata Potemkin, Via Deribasivska.",
+          "Attività Turistiche Chiave ed Esperienze": "Turismo costiero sul Mar Nero, assistere a spettacoli teatrali.",
+          "Spazi Verdi e Paesaggi": "Giardino della Città, Parco Shevchenko.",
+          "Piatti Locali Famosi": "Insalate, Bliny (frittelle)."
+        },
+        {
+          "Città Principale": "Lviv",
+          "Monumenti Storici e Architettonici Rilevanti": "Piazza del Mercato, Teatro dell'Opera di Lviv, Castello Alto.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare la Città Vecchia (Patrimonio dell'Umanità), assaggiare caffè e cioccolato locali.",
+          "Spazi Verdi e Paesaggi": "Cimitero Lychakivskiy, Parco Stryiskyi.",
+          "Piatti Locali Famosi": "Borscht."
+        },
+        {
+          "Città Principale": "Dnipro",
+          "Monumenti Storici e Architettonici Rilevanti": "Il Lungofiume, Museo dello Spazio, Isola Monastyrsky, Fiume Dnepr.",
+          "Attività Turistiche Chiave ed Esperienze": "Passeggiare lungo il fiume Dnepr, esplorare la storia spaziale dell'Ucraina.",
+          "Spazi Verdi e Paesaggi": "Parco Lazara Hloba, Spiaggia Monastyrsky.",
+          "Piatti Locali Famosi": "Borscht."
+        },
+        {
+          "Città Principale": "Donetsk",
+          "Monumenti Storici e Architettonici Rilevanti": "Parco Forshkovsky, Donbas Arena, Museo delle Arti.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare musei e parchi (soggetto a condizioni di sicurezza).",
+          "Spazi Verdi e Paesaggi": "Parco Forshkovsky, Parco Sheremetov.",
+          "Piatti Locali Famosi": "Borscht."
+        },
+        {
+          "Città Principale": "Sevastopol",
+          "Monumenti Storici e Architettonici Rilevanti": "Penisola della Crimea, Panorama di Sevastopol, Museo della Flotta del Mar Nero.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare la storia navale.",
+          "Spazi Verdi e Paesaggi": "Parco dell'Acropoli, Spiaggia Opir.",
+          "Piatti Locali Famosi": "Borscht."
+        },
+        {
+          "Città Principale": "Zaporizhzhia",
+          "Monumenti Storici e Architettonici Rilevanti": "Isola di Khortytsia, Museo dei Cosacchi di Zaporizhzhian.",
+          "Attività Turistiche Chiave ed Esperienze": "Tour storici sui Cosacchi, esplorare la natura sul fiume.",
+          "Spazi Verdi e Paesaggi": "Isola di Khortytsia (riserva naturale), Parco Dubova.",
+          "Piatti Locali Famosi": "Borscht."
+        },
+        {
+          "Città Principale": "Mykolaiv",
+          "Monumenti Storici e Architettonici Rilevanti": "Osservatorio Astronomico di Mykolaiv, Museo di Costruzione Navale e della Flotta.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare siti scientifici e storici.",
+          "Spazi Verdi e Paesaggi": "Parco Perovsky, Parco degli Eroi.",
+          "Piatti Locali Famosi": "Borscht."
+        },
+        {
+          "Città Principale": "Kropyvnytskyi",
+          "Monumenti Storici e Architettonici Rilevanti": "Bagni della Principessa Olga, Museo delle Forze Missilistiche Strategiche.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare siti storici e militari.",
+          "Spazi Verdi e Paesaggi": "Parco dei Bagni della Principessa Olga.",
+          "Piatti Locali Famosi": "Borscht."
+        }
+      ]
+    },
+    {
+      "Paese": "Eritrea",
+      "Città": [
+        {
+          "Città Principale": "Asmara",
+          "Monumenti Storici e Architettonici Rilevanti": "Cattedrale di San Giuseppe, Teatro dell'Opera di Asmara, Palazzo del Governatore, edifici modernisti (Art Deco), Museo Nazionale dell'Eritrea.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare l'architettura Art Deco (Patrimonio dell'Umanità), visitare il Museo Nazionale, passeggiare nei caffè italiani.",
+          "Spazi Verdi e Paesaggi": "Giardino Mara, viali alberati di Asmara.",
+          "Piatti Locali Famosi": "Zigni (stufato di carne), Injera (pane azzimo fermentato), Ga'at (porridge), Tegabino."
+        },
+        {
+          "Città Principale": "Massawa",
+          "Monumenti Storici e Architettonici Rilevanti": "Porto Storico di Massawa, Città Vecchia, antichità ottomane ed egiziane.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare l'architettura costiera storica, immersioni nel Mar Rosso.",
+          "Spazi Verdi e Paesaggi": "Spiagge sabbiose, isole circostanti.",
+          "Piatti Locali Famosi": "Zigni, Injera."
+        },
+        {
+          "Città Principale": "Keren",
+          "Monumenti Storici e Architettonici Rilevanti": "Mercato dei Cammelli, Forte Bein, santuario di Mariam Dearit, Città Vecchia.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare mercati tradizionali, esplorare siti religiosi.",
+          "Spazi Verdi e Paesaggi": "Montagne che circondano la costa, spiagge.",
+          "Piatti Locali Famosi": "Zigni, Injera."
+        },
+        {
+          "Città Principale": "Dekemhare",
+          "Monumenti Storici e Architettonici Rilevanti": "Architettura coloniale italiana, Mercato di Dekemhare.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare reliquie italiane negli altopiani.",
+          "Spazi Verdi e Paesaggi": "Viste montane, fattorie circostanti.",
+          "Piatti Locali Famosi": "Zigni, Injera."
+        },
+        {
+          "Città Principale": "Adi Quala",
+          "Monumenti Storici e Architettonici Rilevanti": "Siti archeologici, Museo di Adi Quala.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare siti archeologici, esplorare villaggi.",
+          "Spazi Verdi e Paesaggi": "Colline e valli circostanti.",
+          "Piatti Locali Famosi": "Zigni, Injera."
+        },
+        {
+          "Città Principale": "Teseney",
+          "Monumenti Storici e Architettonici Rilevanti": "Fiume Teseney, città di frontiera.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare le regioni occidentali.",
+          "Spazi Verdi e Paesaggi": "Rive del fiume Teseney, savana.",
+          "Piatti Locali Famosi": "Zigni, Injera."
+        },
+        {
+          "Città Principale": "Qondar",
+          "Monumenti Storici e Architettonici Rilevanti": "Villaggi costieri, spiagge del Mar Rosso.",
+          "Attività Turistiche Chiave ed Esperienze": "Turismo balneare e pesca.",
+          "Spazi Verdi e Paesaggi": "Spiagge, isole coralline.",
+          "Piatti Locali Famosi": "Zigni, Injera."
+        },
+        {
+          "Città Principale": "Agordat",
+          "Monumenti Storici e Architettonici Rilevanti": "Mercato Principale, siti militari storici.",
+          "Attività Turistiche Chiave ed Esperienze": "Passeggiare attraverso il mercato locale.",
+          "Spazi Verdi e Paesaggi": "Terre agricole, colline.",
+          "Piatti Locali Famosi": "Zigni, Injera."
+        },
+        {
+          "Città Principale": "Mendefera",
+          "Monumenti Storici e Architettonici Rilevanti": "Antichi siti archeologici (Metera).",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare antichità.",
+          "Spazi Verdi e Paesaggi": "Colline rocciose, siti archeologici.",
+          "Piatti Locali Famosi": "Zigni, Injera."
+        },
+        {
+          "Città Principale": "Barentu",
+          "Monumenti Storici e Architettonici Rilevanti": "Città mineraria, aree pianeggianti.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare aree naturali.",
+          "Spazi Verdi e Paesaggi": "Pianure, terre agricole.",
+          "Piatti Locali Famosi": "Zigni, Injera."
+        }
+      ]
+    },
+    {
+      "Paese": "Spagna",
+      "Città": [
+        {
+          "Città Principale": "Madrid",
+          "Monumenti Storici e Architettonici Rilevanti": "Palazzo Reale, Museo del Prado, Plaza Mayor, Puerta del Sol, Parco del Retiro.",
+          "Attività Turistiche Chiave ed Esperienze": "Tour artistici e culturali, shopping su Gran Vía, assaggiare tapas, assistere a partite di calcio.",
+          "Spazi Verdi e Paesaggi": "Parco del Retiro, Casa de Campo, Parco Juan Carlos I.",
+          "Piatti Locali Famosi": "Paella, Tapas, Gazpacho, Tortilla Española (frittata di patate), Chorizo (salame piccante)."
+        },
+        {
+          "Città Principale": "Barcellona",
+          "Monumenti Storici e Architettonici Rilevanti": "Sagrada Família, Quartiere Gotico, Park Güell, La Rambla, Casa Batlló.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare le opere di Gaudí, turismo balneare, camminare attraverso vecchie strade.",
+          "Spazi Verdi e Paesaggi": "Park Güell, Parco della Ciutadella, Parco di Montjuïc.",
+          "Piatti Locali Famosi": "Fideuà, Pan Tomate, Crema Catalana."
+        },
+        {
+          "Città Principale": "Siviglia",
+          "Monumenti Storici e Architettonici Rilevanti": "Alcázar di Siviglia, Cattedrale di Siviglia, Plaza de España, quartiere di Santa Cruz.",
+          "Attività Turistiche Chiave ed Esperienze": "Assistere a spettacoli di flamenco, esplorare l'architettura moresca, tour storici.",
+          "Spazi Verdi e Paesaggi": "Parco di María Luisa, Mirador de la Muralla.",
+          "Piatti Locali Famosi": "Paella di Valencia (versione locale), Picadillo."
+        },
+        {
+          "Città Principale": "Valencia",
+          "Monumenti Storici e Architettonici Rilevanti": "Città delle Arti e delle Scienze, Mercato Centrale, Cattedrale di Valencia, Porto di Valencia.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare la città futuristica, assaggiare la Paella autentica, godersi la costa mediterranea.",
+          "Spazi Verdi e Paesaggi": "Giardini del Turia, Parco Centrale di Valencia.",
+          "Piatti Locali Famosi": "Paella (l'originale), Fabada (stufa di fagioli), Chorizo."
+        },
+        {
+          "Città Principale": "Malaga",
+          "Monumenti Storici e Architettonici Rilevanti": "Alcazaba, Castello di Gibralfaro, Museo Picasso, Muelle Uno.",
+          "Attività Turistiche Chiave ed Esperienze": "Turismo costiero sulla Costa del Sol, visitare musei d'arte.",
+          "Spazi Verdi e Paesaggi": "Parco di Malaga, Parco Naturale Montes de Málaga.",
+          "Piatti Locali Famosi": "Plato de los Montes (carne alla griglia), Boquerones (acciughe fritte)."
+        },
+        {
+          "Città Principale": "Cordova",
+          "Monumenti Storici e Architettonici Rilevanti": "La Moschea-Cattedrale (Mezquita), Alcázar dei Monarchi Cristiani, Quartiere Ebraico.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare il patrimonio islamico e cristiano, visitare il Festival dei Patios.",
+          "Spazi Verdi e Paesaggi": "Giardini dell'Alcázar, Giardini di Victoria.",
+          "Piatti Locali Famosi": "Salmorejo, Flamenquín."
+        },
+        {
+          "Città Principale": "Granada",
+          "Monumenti Storici e Architettonici Rilevanti": "Alhambra, Generalife, quartiere di Albaicín.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare palazzi moreschi, ammirare il tramonto dall'Albaicín.",
+          "Spazi Verdi e Paesaggi": "Giardini del Generalife, Giardini di Carmen de los Martires.",
+          "Piatti Locali Famosi": "Patatas a lo pobre, Remojón Granadino."
+        },
+        {
+          "Città Principale": "Bilbao",
+          "Monumenti Storici e Architettonici Rilevanti": "Museo Guggenheim, Casco Viejo (Città Vecchia), Ponte Zubizuri.",
+          "Attività Turistiche Chiave ed Esperienze": "Tour di architettura moderna, assaggiare Pintxos (tapas basche).",
+          "Spazi Verdi e Paesaggi": "Parco Doña Casilda Iturrizar, Parco Etxebarria.",
+          "Piatti Locali Famosi": "Pintxos, Bacalao al Pil Pil (merluzzo)."
+        },
+        {
+          "Città Principale": "Alicante",
+          "Monumenti Storici e Architettonici Rilevanti": "Castello di Santa Bárbara, Explanada de España, quartiere di Santa Cruz.",
+          "Attività Turistiche Chiave ed Esperienze": "Godersi le spiagge, shopping e intrattenimento al porto turistico.",
+          "Spazi Verdi e Paesaggi": "Parco Canalejas, Parco El Palmeral.",
+          "Piatti Locali Famosi": "Arroz a Banda, Turrón (dolci alle mandorle)."
+        },
+        {
+          "Città Principale": "Las Palmas (Isole Canarie)",
+          "Monumenti Storici e Architettonici Rilevanti": "Vulcano del Monte Teide, Spiaggia di Las Canteras, Casa de Colón, Parco Doramas.",
+          "Attività Turistiche Chiave ed Esperienze": "Turismo geologico e vulcanico, esplorare siti del patrimonio UNESCO.",
+          "Spazi Verdi e Paesaggi": "Parco Doramas, Parco Territorio.",
+          "Piatti Locali Famosi": "Papas Arrugadas (patate rugose), Mojos (salse)."
+        },
+        {
+          "Città Principale": "Marbella",
+          "Monumenti Storici e Architettonici Rilevanti": "Puerto Banús, Playa de la Fontanilla, Città Vecchia, aree verdi.",
+          "Attività Turistiche Chiave ed Esperienze": "Turismo balneare di lusso, shopping, godersi il clima mite.",
+          "Spazi Verdi e Paesaggi": "Parco La Concepción, Parco Alfonso.",
+          "Piatti Locali Famosi": "Paella, Tapas."
+        },
+        {
+          "Città Principale": "Toledo",
+          "Monumenti Storici e Architettonici Rilevanti": "Cattedrale di Toledo, Sinagoga di Santa María la Blanca, Alcázar di Toledo, Ponte di San Martín.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare il patrimonio religioso e culturale condiviso.",
+          "Spazi Verdi e Paesaggi": "Parco Vado, rive del fiume Tago.",
+          "Piatti Locali Famosi": "Carcamusas, Mazapán (dolci alle mandorle)."
+        }
+      ]
+    },
+    {
+      "Paese": "Estonia",
+      "Città": [
+        {
+          "Città Principale": "Tallinn",
+          "Monumenti Storici e Architettonici Rilevanti": "Città Vecchia (Patrimonio dell'Umanità), Castello di Toompea, Porta di Viru, Chiesa di Sant'Olaf.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare il Medioevo, tour di musei d'arte, shopping nei mercati artigianali.",
+          "Spazi Verdi e Paesaggi": "Parco Kadriorg, Orto Botanico di Tallinn.",
+          "Piatti Locali Famosi": "Verivorst (salsiccia di sangue), Leib (pane di segale), Silgü (aringhe), Mulgikapsad (crauti)."
+        },
+        {
+          "Città Principale": "Tartu",
+          "Monumenti Storici e Architettonici Rilevanti": "Università di Tartu, Ponte dell'Angelo, Centro Scientifico AHHAA.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare centri educativi e culturali, esplorare l'architettura neoclassica.",
+          "Spazi Verdi e Paesaggi": "Parco Tohvri, rive del fiume Emajõgi.",
+          "Piatti Locali Famosi": "Verivorst, Leib, Silgü."
+        },
+        {
+          "Città Principale": "Pärnu",
+          "Monumenti Storici e Architettonici Rilevanti": "Spiagge di Pärnu, le sue stazioni termali, Centro d'Arte Contemporanea.",
+          "Attività Turistiche Chiave ed Esperienze": "Turismo costiero, godersi il suo titolo di 'Capitale Estiva'.",
+          "Spazi Verdi e Paesaggi": "Parco di Pärnu, spiaggia sabbiosa.",
+          "Piatti Locali Famosi": "Verivorst, Leib, Silgü."
+        },
+        {
+          "Città Principale": "Narva",
+          "Monumenti Storici e Architettonici Rilevanti": "Castello di Narva (Castello Hermann), Fiume Narva, vecchio distretto sovietico.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare regioni di frontiera, visitare forti storici.",
+          "Spazi Verdi e Paesaggi": "Parco Hermann, rive del fiume Narva.",
+          "Piatti Locali Famosi": "Verivorst, Leib, Silgü."
+        },
+        {
+          "Città Principale": "Kohtla-Järve",
+          "Monumenti Storici e Architettonici Rilevanti": "Museo dello Scisto Bituminoso di Kohtla-Järve, centro cittadino dell'era sovietica.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare il patrimonio industriale e storico.",
+          "Spazi Verdi e Paesaggi": "Parco Centrale.",
+          "Piatti Locali Famosi": "Verivorst, Leib, Silgü."
+        },
+        {
+          "Città Principale": "Viljandi",
+          "Monumenti Storici e Architettonici Rilevanti": "Castello di Viljandi, il lago.",
+          "Attività Turistiche Chiave ed Esperienze": "Partecipare al Festival di Musica Folk di Viljandi, gite in barca.",
+          "Spazi Verdi e Paesaggi": "Parco del Castello di Viljandi, rive del lago.",
+          "Piatti Locali Famosi": "Verivorst, Leib, Silgü."
+        },
+        {
+          "Città Principale": "Saaremaa",
+          "Monumenti Storici e Architettonici Rilevanti": "Castello Episcopale di Kuressaare, campo di crateri meteoritici di Kaali.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare le isole estoni, visitare rari siti geologici.",
+          "Spazi Verdi e Paesaggi": "Parco Nazionale di Vilsandi, coste rocciose.",
+          "Piatti Locali Famosi": "Verivorst, Leib, Silgü."
+        },
+        {
+          "Città Principale": "Sillamäe",
+          "Monumenti Storici e Architettonici Rilevanti": "Architettura stalinista, la spiaggia.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare l'architettura pianificata sovietica.",
+          "Spazi Verdi e Paesaggi": "Spiaggia di Sillamäe, Parco di Mosca.",
+          "Piatti Locali Famosi": "Verivorst, Leib, Silgü."
+        },
+        {
+          "Città Principale": "Rakvere",
+          "Monumenti Storici e Architettonici Rilevanti": "Castello di Rakvere, Parco Vallimägi.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare castelli in rovina e siti archeologici.",
+          "Spazi Verdi e Paesaggi": "Parco Vallimägi.",
+          "Piatti Locali Famosi": "Verivorst, Leib, Silgü."
+        },
+        {
+          "Città Principale": "Valga",
+          "Monumenti Storici e Architettonici Rilevanti": "Rovine del Castello di Valga, Museo di Valga.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare la storia locale e rurale.",
+          "Spazi Verdi e Paesaggi": "Parco di Valga, rive del fiume Gauja.",
+          "Piatti Locali Famosi": "Verivorst, Leib, Silgü."
+        }
+      ]
+    },
+    {
+      "Paese": "Eswatini",
+      "Città": [
+        {
+          "Città Principale": "Mbabane",
+          "Monumenti Storici e Architettonici Rilevanti": "Museo Nazionale dello Swaziland, Santuario della Fauna Selvatica di Mlilwane, mercati locali.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare la cultura e le tradizioni, visitare i mercati.",
+          "Spazi Verdi e Paesaggi": "Santuario della Fauna Selvatica di Mlilwane.",
+          "Piatti Locali Famosi": "Sishwala (porridge di mais), Incwancwa (stufato di carne), Emasi (latte acido), Sibobo."
+        },
+        {
+          "Città Principale": "Manzini",
+          "Monumenti Storici e Architettonici Rilevanti": "Mercato Aperto, Centro Artigianale di Manzini.",
+          "Attività Turistiche Chiave ed Esperienze": "Shopping di artigianato, esplorare la seconda città più grande.",
+          "Spazi Verdi e Paesaggi": "Parco Centrale di Manzini.",
+          "Piatti Locali Famosi": "Sishwala, Incwancwa, Emasi."
+        },
+        {
+          "Città Principale": "Lobamba",
+          "Monumenti Storici e Architettonici Rilevanti": "Palazzo Reale, Museo Nazionale, Parco Nazionale Reale di Hlane.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare il centro reale e legislativo, safari e osservazione della fauna selvatica.",
+          "Spazi Verdi e Paesaggi": "Parco Nazionale Reale di Hlane.",
+          "Piatti Locali Famosi": "Sishwala, Incwancwa, Emasi."
+        },
+        {
+          "Città Principale": "Big Bend",
+          "Monumenti Storici e Architettonici Rilevanti": "Piantagioni di canna da zucchero, Grande Fiume Usutu.",
+          "Attività Turistiche Chiave ed Esperienze": "Turismo agricolo, rafting sul fiume.",
+          "Spazi Verdi e Paesaggi": "Piantagioni di canna da zucchero, rive del fiume.",
+          "Piatti Locali Famosi": "Sishwala, Incwancwa, Emasi."
+        },
+        {
+          "Città Principale": "Siteki",
+          "Monumenti Storici e Architettonici Rilevanti": "Complesso industriale, centro commerciale.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare aree industriali.",
+          "Spazi Verdi e Paesaggi": "Aree rurali circostanti.",
+          "Piatti Locali Famosi": "Sishwala, Incwancwa, Emasi."
+        },
+        {
+          "Città Principale": "Piggs Peak",
+          "Monumenti Storici e Architettonici Rilevanti": "Riserva naturale, viste montane.",
+          "Attività Turistiche Chiave ed Esperienze": "Escursioni, ecoturismo.",
+          "Spazi Verdi e Paesaggi": "Riserva naturale, montagne.",
+          "Piatti Locali Famosi": "Sishwala, Incwancwa, Emasi."
+        },
+        {
+          "Città Principale": "Sikhuphe",
+          "Monumenti Storici e Architettonici Rilevanti": "Museo di Sikhuphe, aree rurali.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare il patrimonio locale.",
+          "Spazi Verdi e Paesaggi": "Aree rurali, colline.",
+          "Piatti Locali Famosi": "Sishwala, Incwancwa, Emasi."
+        },
+        {
+          "Città Principale": "Malkerns",
+          "Monumenti Storici e Architettonici Rilevanti": "Riserva Faunistica di Mkhaya (per la fauna selvatica), turismo di conservazione.",
+          "Attività Turistiche Chiave ed Esperienze": "Osservazione della fauna selvatica e dei rinoceronti, safari.",
+          "Spazi Verdi e Paesaggi": "Riserva Faunistica di Mkhaya.",
+          "Piatti Locali Famosi": "Sishwala, Incwancwa, Emasi."
+        },
+        {
+          "Città Principale": "Siphofaneni",
+          "Monumenti Storici e Architettonici Rilevanti": "Villaggi tradizionali, centri culturali.",
+          "Attività Turistiche Chiave ed Esperienze": "Imparare sulla cultura swazi.",
+          "Spazi Verdi e Paesaggi": "Villaggi tradizionali circostanti.",
+          "Piatti Locali Famosi": "Sishwala, Incwancwa, Emasi."
+        },
+        {
+          "Città Principale": "Lavumisa",
+          "Monumenti Storici e Architettonici Rilevanti": "Aree di estrazione di diamanti, altopiani.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare la geografia e l'estrazione mineraria.",
+          "Spazi Verdi e Paesaggi": "Altopiani, viste montane.",
+          "Piatti Locali Famosi": "Sishwala, Incwancwa, Emasi."
+        }
+      ]
+    },
+    {
+      "Paese": "Indonesia",
+      "Città": [
+        {
+          "Città Principale": "Jakarta",
+          "Monumenti Storici e Architettonici Rilevanti": "Monumento Nazionale (Monas), Taman Mini Indonesia Indah, Museo di Storia di Jakarta.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare la metropoli, visitare i musei.",
+          "Spazi Verdi e Paesaggi": "Taman Mini Indonesia Indah, Parco Merdeka.",
+          "Piatti Locali Famosi": "Nasi Goreng (riso fritto), Satay (spiedini di carne grigliata), Gado-Gado (insalata di verdure con salsa di arachidi), Soto (zuppa)."
+        },
+        {
+          "Città Principale": "Surabaya",
+          "Monumenti Storici e Architettonici Rilevanti": "Ponte Suramadu, Moschea Al-Akbar, Museo Marittimo.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare la seconda città più grande, esplorare la storia nazionale e la guerra di indipendenza, shopping.",
+          "Spazi Verdi e Paesaggi": "Parco Bungkul, Parco Suroboyo.",
+          "Piatti Locali Famosi": "Nasi Goreng, Satay, Gado-Gado."
+        },
+        {
+          "Città Principale": "Medan",
+          "Monumenti Storici e Architettonici Rilevanti": "Palazzo Maimun, Lago Toba (vicino alla città).",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare palazzi storici, esplorare il Nord di Sumatra.",
+          "Spazi Verdi e Paesaggi": "Lago Toba.",
+          "Piatti Locali Famosi": "Nasi Goreng, Satay, Gado-Gado."
+        },
+        {
+          "Città Principale": "Makassar",
+          "Monumenti Storici e Architettonici Rilevanti": "Forte Rotterdam, Spiaggia di Losari, Moschea Amirul Mukminin.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare la storia marittima e commerciale, turismo costiero.",
+          "Spazi Verdi e Paesaggi": "Giardino Akasia, Spiaggia di Losari.",
+          "Piatti Locali Famosi": "Nasi Goreng, Satay, Gado-Gado."
+        },
+        {
+          "Città Principale": "Semarang",
+          "Monumenti Storici e Architettonici Rilevanti": "Tempio di Sam Poo Kong, Città Vecchia, Grande Moschea di Giava Centrale.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare templi storici, esplorare l'architettura cinese-indonesiana.",
+          "Spazi Verdi e Paesaggi": "Taman Air, Taman Budaya.",
+          "Piatti Locali Famosi": "Nasi Goreng, Satay, Gado-Gado."
+        },
+        {
+          "Città Principale": "Bogor (Puncak)",
+          "Monumenti Storici e Architettonici Rilevanti": "Taman Safari, Taman Bunga Nusantara, Cascata di Cibuni.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare piantagioni di tè, turismo naturalistico.",
+          "Spazi Verdi e Paesaggi": "Taman Bunga Nusantara, cascate, piantagioni di tè.",
+          "Piatti Locali Famosi": "Nasi Goreng, Satay, Gado-Gado."
+        }
+      ]
+    },
+    {
+      "Paese": "Italia",
+      "Città": [
+        {
+          "Città Principale": "Roma",
+          "Monumenti Storici e Architettonici Rilevanti": "Il Colosseo, Fontana di Trevi, Città del Vaticano, il Pantheon, Foro Romano, Musei Vaticani.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare le rovine romane, visitare lo stato indipendente (Vaticano), assaggiare il gelato.",
+          "Spazi Verdi e Paesaggi": "Giardini di Villa Borghese, Parco degli Acquedotti.",
+          "Piatti Locali Famosi": "Pasta Carbonara, Pizza Romana, Saltimbocca, Arancini."
+        },
+        {
+          "Città Principale": "Firenze",
+          "Monumenti Storici e Architettonici Rilevanti": "Cattedrale di Firenze (Duomo), Ponte Vecchio, Galleria degli Uffizi, Palazzo Pitti.",
+          "Attività Turistiche Chiave ed Esperienze": "Tour artistici e storici (capitale del Rinascimento), shopping nei mercati della pelle.",
+          "Spazi Verdi e Paesaggi": "Giardini di Boboli, Giardini Bardini.",
+          "Piatti Locali Famosi": "Bistecca alla Fiorentina (bistecca), Ribollita, Lampredotto."
+        },
+        {
+          "Città Principale": "Venezia",
+          "Monumenti Storici e Architettonici Rilevanti": "Piazza San Marco, Ponte di Rialto, Palazzo Ducale, Canali di Venezia.",
+          "Attività Turistiche Chiave ed Esperienze": "Andare in gondola, esplorare le isole, visitare monumenti storici.",
+          "Spazi Verdi e Paesaggi": "Giardini Papadopoli, Isola di San Giorgio Maggiore.",
+          "Piatti Locali Famosi": "Sarde in Saor, Bigoli in Salsa."
+        },
+        {
+          "Città Principale": "Milano",
+          "Monumenti Storici e Architettonici Rilevanti": "Duomo di Milano, Galleria Vittorio Emanuele II, Teatro alla Scala, Castello Sforzesco.",
+          "Attività Turistiche Chiave ed Esperienze": "Shopping di classe mondiale (capitale della moda), assistere a spettacoli d'opera.",
+          "Spazi Verdi e Paesaggi": "Parco Sempione, Parco Montestella.",
+          "Piatti Locali Famosi": "Risotto alla Milanese, Cotoletta alla Milanese, Ossobuco."
+        },
+        {
+          "Città Principale": "Napoli",
+          "Monumenti Storici e Architettonici Rilevanti": "Centro Storico di Napoli, Teatro di San Carlo, Museo Archeologico Nazionale, Monte Vesuvio (vicino alla città).",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare la culla della pizza, visitare Pompei ed Ercolano.",
+          "Spazi Verdi e Paesaggi": "Parco Villa Floridiana, Parco di Capodimonte.",
+          "Piatti Locali Famosi": "Pizza Napoletana Originale, Pasta con Ragù, Babà (dolce), Risotto."
+        },
+        {
+          "Città Principale": "Bologna",
+          "Monumenti Storici e Architettonici Rilevanti": "Piazza Maggiore, Le Due Torri, Basilica di San Petronio.",
+          "Attività Turistiche Chiave ed Esperienze": "Tour gastronomici (capitale culinaria), esplorare portici storici.",
+          "Spazi Verdi e Paesaggi": "Parco Montagnola, Giardini Margherita.",
+          "Piatti Locali Famosi": "Ragù Bolognese, Tortellini in Brodo, Lasagna."
+        },
+        {
+          "Città Principale": "Genova",
+          "Monumenti Storici e Architettonici Rilevanti": "Porto Antico di Genova, Palazzo Ducale, Museo del Mare Galata, Via Garibaldi (Patrimonio dell'Umanità).",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare il porto ligure, visitare siti del Patrimonio dell'Umanità.",
+          "Spazi Verdi e Paesaggi": "Parco Villa Doria Pamphili, Parco Nervi.",
+          "Piatti Locali Famosi": "Pesto alla Genovese, Farinata, Focaccia."
+        }
+      ]
+    },
+    {
+      "Paese": "Argentina",
+      "Città": [
+        {
+          "Città Principale": "Buenos Aires",
+          "Monumenti Storici e Architettonici Rilevanti": "Casa Rosada (Palazzo Presidenziale), La Recoleta (Cimitero), La Boca, Teatro Colón, Puerto Madero.",
+          "Attività Turistiche Chiave ed Esperienze": "Assistere a spettacoli di Tango, tour di quartieri storici, esplorare l'arte di strada.",
+          "Spazi Verdi e Paesaggi": "Parque Tres de Febrero, Parque Centenario.",
+          "Piatti Locali Famosi": "Asado (barbecue), Empanadas, Dulce de Leche, Milanesa."
+        },
+        {
+          "Città Principale": "Córdoba",
+          "Monumenti Storici e Architettonici Rilevanti": "Complesso dei Gesuiti (Patrimonio dell'Umanità), Cattedrale di Córdoba, Museo Sarmiento.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare siti religiosi e storici, turismo universitario.",
+          "Spazi Verdi e Paesaggi": "Parco Sarmiento, Parco San Martín.",
+          "Piatti Locali Famosi": "Asado, Empanadas, Dulce de Leche."
+        },
+        {
+          "Città Principale": "Rosario",
+          "Monumenti Storici e Architettonici Rilevanti": "Monumento Nazionale alla Bandiera, Bulevar Oroño, parco spiaggia La Florida, Fiume Paraná.",
+          "Attività Turistiche Chiave ed Esperienze": "Passeggiare lungo il fiume Paraná, visitare musei d'arte.",
+          "Spazi Verdi e Paesaggi": "Parco spiaggia La Florida, Parco Independencia.",
+          "Piatti Locali Famosi": "Asado, Empanadas, Dulce de Leche."
+        },
+        {
+          "Città Principale": "Mendoza",
+          "Monumenti Storici e Architettonici Rilevanti": "Parco Generale San Martín, Monte Aconcagua, vigneti (regioni vinicole), Plaza Independencia.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare vigneti e degustazione di vini, avventure nelle montagne delle Ande.",
+          "Spazi Verdi e Paesaggi": "Parco Generale San Martín, vigneti.",
+          "Piatti Locali Famosi": "Asado, Empanadas, Dulce de Leche."
+        },
+        {
+          "Città Principale": "San Carlos de Bariloche",
+          "Monumenti Storici e Architettonici Rilevanti": "Lago Nahuel Huapi, stazione sciistica di Cerro Catedral, Museo della Patagonia.",
+          "Attività Turistiche Chiave ed Esperienze": "Sport invernali, turismo d'avventura in Patagonia.",
+          "Spazi Verdi e Paesaggi": "Lago Nahuel Huapi, Parco Nazionale Nahuel Huapi.",
+          "Piatti Locali Famosi": "Asado, Empanadas, Dulce de Leche."
+        }
+      ]
+    },
+    {
+      "Paese": "Giordania",
+      "Città": [
+        {
+          "Città Principale": "Amman",
+          "Monumenti Storici e Architettonici Rilevanti": "Teatro Romano, Jabal al-Qal'a (Citadella), Il Museo della Giordania, Museo Reale dell'Automobile, City Mall, Downtown, Moschea Re Hussein.",
+          "Attività Turistiche Chiave ed Esperienze": "Tour di Downtown, visitare i musei, shopping, iniziare viaggi verso il Mar Morto e Petra.",
+          "Spazi Verdi e Paesaggi": "Parco Re Hussein, Giardino Al-Jabal Al-Ahmar.",
+          "Piatti Locali Famosi": "Mansaf (piatto nazionale), Maqluba, Shorabat Adas (zuppa di lenticchie), Knafeh, Zarb (carne cotta sotto terra nella sabbia)."
+        },
+        {
+          "Città Principale": "Petra",
+          "Monumenti Storici e Architettonici Rilevanti": "Il Siq, Il Tesoro (Al-Khazneh), Il Monastero (Ad Deir), La Strada Colonnata, Le Tombe Reali, Il Grande Tempio.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare la città rosa scolpita nella roccia, escursioni attraverso il Siq.",
+          "Spazi Verdi e Paesaggi": "Wadi Musa, aree desertiche circostanti.",
+          "Piatti Locali Famosi": "Mansaf, Maqluba."
+        },
+        {
+          "Città Principale": "Irbid",
+          "Monumenti Storici e Architettonici Rilevanti": "Sito archeologico di Tell Irbid, Museo Dar Al-Saraya, Università di Yarmouk.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare musei e siti del patrimonio, prossimità a Umm Qais, viste del Mare di Galilea e del fiume Yarmouk.",
+          "Spazi Verdi e Paesaggi": "Parco Sheikh Hassan, aree rurali.",
+          "Piatti Locali Famosi": "Mansaf, Shorabat Adas."
+        },
+        {
+          "Città Principale": "Aqaba",
+          "Monumenti Storici e Architettonici Rilevanti": "Forte Mamelucco di Aqaba, Museo Archeologico di Aqaba, Spiaggia di Tala Bay, Mar Rosso.",
+          "Attività Turistiche Chiave ed Esperienze": "Immersioni e snorkeling nel Mar Rosso, esplorare la città costiera.",
+          "Spazi Verdi e Paesaggi": "Parco di Aqaba, Riserva della Biosfera di Dana (vicino).",
+          "Piatti Locali Famosi": "Mansaf, Pesce."
+        },
+        {
+          "Città Principale": "Jerash",
+          "Monumenti Storici e Architettonici Rilevanti": "Arco di Adriano, Piazza Ovale, Teatro Meridionale, Cardo Maximus (Strada Colonnata).",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare rovine romane ben conservate.",
+          "Spazi Verdi e Paesaggi": "Aree verdi circostanti le rovine.",
+          "Piatti Locali Famosi": "Mansaf, Maqluba."
+        },
+        {
+          "Città Principale": "Al-Salt",
+          "Monumenti Storici e Architettonici Rilevanti": "Via Al-Hammam, Casa Abu Jaber, Museo di Storia di Al-Salt, architettura ottomana.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare l'architettura ottomana, turismo del patrimonio (Patrimonio dell'Umanità UNESCO).",
+          "Spazi Verdi e Paesaggi": "Parco di Al-Salt, aree montuose.",
+          "Piatti Locali Famosi": "Mansaf, Shorabat Adas."
+        },
+        {
+          "Città Principale": "Umm Qais",
+          "Monumenti Storici e Architettonici Rilevanti": "Rovine romane, Teatro Occidentale, viste del Mare di Galilea e del fiume Yarmouk.",
+          "Attività Turistiche Chiave ed Esperienze": "Tour storici, vedere paesaggi di frontiera.",
+          "Spazi Verdi e Paesaggi": "Parco Archeologico di Umm Qais.",
+          "Piatti Locali Famosi": "Mansaf, Maqluba."
+        }
+      ]
+    },
+    {
+      "Paese": "UAE",
+      "Città": [
+        {
+          "Città Principale": "Dubai",
+          "Monumenti Storici e Architettonici Rilevanti": "Burj Khalifa, Burj Al Arab, The Dubai Mall, Museum of the Future, Palm Jumeirah (isole artificiali), Dubai Water Canal.",
+          "Attività Turistiche Chiave ed Esperienze": "Shopping di classe mondiale, safari nel deserto, visitare isole artificiali, intrattenimento moderno, esplorare architettura moderna.",
+          "Spazi Verdi e Paesaggi": "Dubai Safari Park, Mushrif Park, Zabeel.",
+          "Piatti Locali Famosi": "Harees, Majboos, Luqaimat (dolcetti), Khameer, Balaleet."
+        },
+        {
+          "Città Principale": "Abu Dhabi",
+          "Monumenti Storici e Architettonici Rilevanti": "Grande Moschea dello Sheikh Zayed, Qasr Al Watan, Louvre Abu Dhabi, isole turistiche, Corniche di Abu Dhabi, Ferrari World.",
+          "Attività Turistiche Chiave ed Esperienze": "Turismo culturale e religioso, visitare centri d'arte, intrattenimento familiare.",
+          "Spazi Verdi e Paesaggi": "Parco Khalidiyah, Isola Yas, Parco Al-Mushrif.",
+          "Piatti Locali Famosi": "Harees, Majboos, Luqaimat."
+        },
+        {
+          "Città Principale": "Sharjah",
+          "Monumenti Storici e Architettonici Rilevanti": "Museo della Civiltà Islamica di Sharjah, Heart of Sharjah, Al Qasba.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare musei d'arte e culturali, esplorare il patrimonio antico.",
+          "Spazi Verdi e Paesaggi": "Parco Khalid, Parco Al Majaz.",
+          "Piatti Locali Famosi": "Harees, Majboos, Luqaimat."
+        },
+        {
+          "Città Principale": "Ajman",
+          "Monumenti Storici e Architettonici Rilevanti": "Forte di Ajman, Corniche di Ajman, Museo di Ajman.",
+          "Attività Turistiche Chiave ed Esperienze": "Godersi le spiagge, visitare i musei.",
+          "Spazi Verdi e Paesaggi": "Parco di Ajman, la Corniche.",
+          "Piatti Locali Famosi": "Harees, Majboos, Luqaimat."
+        },
+        {
+          "Città Principale": "Ras Al Khaimah",
+          "Monumenti Storici e Architettonici Rilevanti": "Jebel Jais (picco più alto degli UAE), Museo Nazionale di Ras Al Khaimah.",
+          "Attività Turistiche Chiave ed Esperienze": "Avventure di arrampicata su montagne, zip-line.",
+          "Spazi Verdi e Paesaggi": "Parco Saqr, Wadi Haqil.",
+          "Piatti Locali Famosi": "Harees, Majboos, Luqaimat."
+        },
+        {
+          "Città Principale": "Fujairah",
+          "Monumenti Storici e Architettonici Rilevanti": "Forte di Fujairah, Moschea di Al Badiyah, spiagge sul Golfo dell'Oman.",
+          "Attività Turistiche Chiave ed Esperienze": "Immersioni e snorkeling, turismo montano.",
+          "Spazi Verdi e Paesaggi": "Parco di Fujairah, Wadi Wurayah.",
+          "Piatti Locali Famosi": "Harees, Majboos, Luqaimat."
+        },
+        {
+          "Città Principale": "Umm Al Quwain",
+          "Monumenti Storici e Architettonici Rilevanti": "Dreamland Aqua Park, Isola Al Sinniyah, vecchio forte.",
+          "Attività Turistiche Chiave ed Esperienze": "Intrattenimento acquatico, birdwatching e osservazione della fauna selvatica.",
+          "Spazi Verdi e Paesaggi": "Parco Dreamland, Isola Al Sinniyah.",
+          "Piatti Locali Famosi": "Harees, Majboos, Luqaimat."
+        },
+        {
+          "Città Principale": "Khor Fakkan",
+          "Monumenti Storici e Architettonici Rilevanti": "Spiaggia di Khor Fakkan, Diga di Al Rafisah, Isola degli Squali.",
+          "Attività Turistiche Chiave ed Esperienze": "Turismo montano e costiero, visitare la Diga di Al Rafisah.",
+          "Spazi Verdi e Paesaggi": "Parco di Khor Fakkan, spiagge.",
+          "Piatti Locali Famosi": "Harees, Majboos, Luqaimat."
+        },
+        {
+          "Città Principale": "Dibba Al-Hisn",
+          "Monumenti Storici e Architettonici Rilevanti": "Porto di Dibba, spiagge, mercato del pesce.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare mercati locali e attività marine.",
+          "Spazi Verdi e Paesaggi": "Spiagge, aree montuose.",
+          "Piatti Locali Famosi": "Harees, Majboos, Luqaimat."
+        }
+      ]
+    },
+    {
+      "Paese": "Ecuador",
+      "Città": [
+        {
+          "Città Principale": "Quito",
+          "Monumenti Storici e Architettonici Rilevanti": "Centro Storico (Patrimonio dell'Umanità), Mitad del Mundo (Equatore), Chiesa de la Compañía, Palazzo di Carondelet.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare gli altopiani, visitare monumenti coloniali, esplorare l'equatore.",
+          "Spazi Verdi e Paesaggi": "Parco La Carolina, Parque La Florida.",
+          "Piatti Locali Famosi": "Ceviche (frutti di mare), Loco de Papa (zuppa di patate), Hornado (maiale arrosto), Empanadas (fagottini)."
+        },
+        {
+          "Città Principale": "Guayaquil",
+          "Monumenti Storici e Architettonici Rilevanti": "Malecón 2000, quartiere di Las Peñas, Parco delle Iguane, Collina di Santa Ana.",
+          "Attività Turistiche Chiave ed Esperienze": "Passeggiare lungo il lungofiume, salire le scale storiche.",
+          "Spazi Verdi e Paesaggi": "Parco Seminario, Malecón 2000.",
+          "Piatti Locali Famosi": "Ceviche, Loco de Papa, Hornado."
+        },
+        {
+          "Città Principale": "Cuenca",
+          "Monumenti Storici e Architettonici Rilevanti": "Centro Storico (Patrimonio dell'Umanità), Cattedrale di Cuenca, mercato dei fiori.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare l'architettura coloniale, acquistare cappelli Panama.",
+          "Spazi Verdi e Paesaggi": "Parco Calderón, rive del fiume Tomebamba.",
+          "Piatti Locali Famosi": "Ceviche, Loco de Papa, Hornado."
+        },
+        {
+          "Città Principale": "Galápagos",
+          "Monumenti Storici e Architettonici Rilevanti": "Fauna selvatica unica (tartarughe giganti), Vulcano Sierra Negra, Stazione di Ricerca Charles Darwin.",
+          "Attività Turistiche Chiave ed Esperienze": "Osservazione della fauna selvatica, immersioni e snorkeling, esplorare le isole.",
+          "Spazi Verdi e Paesaggi": "Parchi nazionali, riserve naturali.",
+          "Piatti Locali Famosi": "Ceviche, Loco de Papa, Hornado."
+        },
+        {
+          "Città Principale": "Otavalo",
+          "Monumenti Storici e Architettonici Rilevanti": "Picchi montuosi, mercati settimanali.",
+          "Attività Turistiche Chiave ed Esperienze": "Escursioni in montagna, shopping al mercato di Otavalo (giovedì).",
+          "Spazi Verdi e Paesaggi": "Montagne, valli.",
+          "Piatti Locali Famosi": "Ceviche, Loco de Papa, Hornado."
+        },
+        {
+          "Città Principale": "Riobamba",
+          "Monumenti Storici e Architettonici Rilevanti": "Vulcano Chimborazo (il più vicino al sole), Il Treno del Naso del Diavolo.",
+          "Attività Turistiche Chiave ed Esperienze": "Arrampicata in montagna, gite in treno.",
+          "Spazi Verdi e Paesaggi": "Parco Nazionale del Chimborazo.",
+          "Piatti Locali Famosi": "Ceviche, Loco de Papa, Hornado."
+        },
+        {
+          "Città Principale": "Loja",
+          "Monumenti Storici e Architettonici Rilevanti": "Parco Nazionale Podocarpus, Valle di Vilcabamba (vicino alla città), Museo di Loja.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare parchi nazionali, esplorare la regione meridionale.",
+          "Spazi Verdi e Paesaggi": "Parco Nazionale Podocarpus.",
+          "Piatti Locali Famosi": "Ceviche, Loco de Papa, Hornado."
+        },
+        {
+          "Città Principale": "Portoviejo",
+          "Monumenti Storici e Architettonici Rilevanti": "Museo di Portoviejo, Parco Centrale.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare la regione di Manabí.",
+          "Spazi Verdi e Paesaggi": "Spiagge, parchi.",
+          "Piatti Locali Famosi": "Ceviche, Loco de Papa, Hornado."
+        },
+        {
+          "Città Principale": "Tena",
+          "Monumenti Storici e Architettonici Rilevanti": "Centro di Recupero Animali AmaZoonico, Fiume Misahuallí, foreste pluviali.",
+          "Attività Turistiche Chiave ed Esperienze": "Turismo nella foresta pluviale, gite in barca nell'Amazzonia.",
+          "Spazi Verdi e Paesaggi": "AmaZoonico, foreste pluviali.",
+          "Piatti Locali Famosi": "Ceviche, Loco de Papa, Hornado."
+        },
+        {
+          "Città Principale": "Puerto Villamil (Galápagos)",
+          "Monumenti Storici e Architettonici Rilevanti": "Centro di riproduzione di tartarughe, Vulcano Sierra Negra, spiagge delle Galápagos.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare le Isole Galápagos, vedere fauna selvatica unica.",
+          "Spazi Verdi e Paesaggi": "Parchi nazionali, riserve naturali.",
+          "Piatti Locali Famosi": "Ceviche, Loco de Papa, Hornado."
+        }
+      ]
+    },
+    {
+      "Paese": "Irlanda",
+      "Città": [
+        {
+          "Città Principale": "Dublino",
+          "Monumenti Storici e Architettonici Rilevanti": "Castello di Dublino, Trinity College, Guinness Storehouse, Phoenix Park, Grafton Street.",
+          "Attività Turistiche Chiave ed Esperienze": "Tour culturali e letterari, visitare pub storici, esplorare giardini.",
+          "Spazi Verdi e Paesaggi": "Phoenix Park, St. Stephen's Green.",
+          "Piatti Locali Famosi": "Irish Stew, Colcannon (purè di patate), Pane Soda."
+        },
+        {
+          "Città Principale": "Cork",
+          "Monumenti Storici e Architettonici Rilevanti": "Mercato Inglese, Cattedrale di St. Fin Barre, Parco Fitzgerald.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare mercati locali, esplorare la città sul fiume Lee.",
+          "Spazi Verdi e Paesaggi": "Parco Fitzgerald, The People's Park.",
+          "Piatti Locali Famosi": "Irish Stew, Colcannon, Pane Soda."
+        },
+        {
+          "Città Principale": "Galway",
+          "Monumenti Storici e Architettonici Rilevanti": "Arco Spagnolo, Eyre Square, Museo della Città di Galway.",
+          "Attività Turistiche Chiave ed Esperienze": "Partecipare a festival, turismo costiero sulla Baia di Galway.",
+          "Spazi Verdi e Paesaggi": "Eyre Square, Spiaggia di Salthill.",
+          "Piatti Locali Famosi": "Irish Stew, Colcannon, Pane Soda."
+        },
+        {
+          "Città Principale": "Limerick",
+          "Monumenti Storici e Architettonici Rilevanti": "Castello di Re Giovanni, Cattedrale di St. John, Hunt Museum.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare castelli e musei, passeggiare lungo il fiume Shannon.",
+          "Spazi Verdi e Paesaggi": "People's Park, Bernard Park.",
+          "Piatti Locali Famosi": "Irish Stew, Colcannon, Pane Soda."
+        },
+        {
+          "Città Principale": "Kilkenny",
+          "Monumenti Storici e Architettonici Rilevanti": "Castello di Kilkenny, Cattedrale di St. Canice, Smithwick's Experience.",
+          "Attività Turistiche Chiave ed Esperienze": "Partecipare al Festival delle Arti di Kilkenny (aprile-ottobre).",
+          "Spazi Verdi e Paesaggi": "Parco del Castello di Kilkenny, Fiume Nore.",
+          "Piatti Locali Famosi": "Irish Stew, Colcannon, Pane Soda."
+        },
+        {
+          "Città Principale": "Waterford",
+          "Monumenti Storici e Architettonici Rilevanti": "Torre di Reginald, Museo Waterford Treasures, Triangolo Vichingo.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare il patrimonio vichingo, visitare la fabbrica di Waterford Crystal.",
+          "Spazi Verdi e Paesaggi": "Parco di Waterford, Spiaggia di Tramore.",
+          "Piatti Locali Famosi": "Irish Stew, Colcannon, Pane Soda."
+        },
+        {
+          "Città Principale": "Sligo",
+          "Monumenti Storici e Architettonici Rilevanti": "Monte Benbulben, Abbazia di Sligo, Memoriale di William Butler Yeats.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare i paesaggi circostanti, tour letterari (patrimonio di Yeats).",
+          "Spazi Verdi e Paesaggi": "Fiume Garavogue, Lough Gill.",
+          "Piatti Locali Famosi": "Irish Stew, Colcannon, Pane Soda."
+        },
+        {
+          "Città Principale": "Athlone",
+          "Monumenti Storici e Architettonici Rilevanti": "Castello di Athlone, Fiume Shannon, pub più antico d'Irlanda.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare siti storici e culturali, buona base per esplorare l'area circostante.",
+          "Spazi Verdi e Paesaggi": "Parco di Athlone, rive del fiume Shannon.",
+          "Piatti Locali Famosi": "Irish Stew, Colcannon, Pane Soda."
+        }
+      ]
+    },
+    {
+      "Paese": "Islanda",
+      "Città": [
+        {
+          "Città Principale": "Reykjavik",
+          "Monumenti Storici e Architettonici Rilevanti": "Sala da Concerto Harpa, Chiesa di Hallgrímskirkja, la Laguna Blu.",
+          "Attività Turistiche Chiave ed Esperienze": "Ammirare l'Aurora Boreale, whale watching, esplorare il Cerchio d'Oro, visitare musei di storia e vichinghi.",
+          "Spazi Verdi e Paesaggi": "Parco Laugardalur, Parco Vatnsmyri.",
+          "Piatti Locali Famosi": "Hangikjöt (agnello affumicato), Skyr (yogurt), Kjötsúpa (zuppa di carne)."
+        },
+        {
+          "Città Principale": "Akureyri",
+          "Monumenti Storici e Architettonici Rilevanti": "Orto Botanico di Akureyri, Chiesa di Akureyri.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare il Nord dell'Islanda, visitare il museo d'arte.",
+          "Spazi Verdi e Paesaggi": "Orto Botanico di Akureyri, Vaðlaheiði.",
+          "Piatti Locali Famosi": "Hangikjöt, Skyr."
+        },
+        {
+          "Città Principale": "Keflavik",
+          "Monumenti Storici e Architettonici Rilevanti": "Museo Viking World, Il Ponte tra i Continenti, vicino alla Laguna Blu.",
+          "Attività Turistiche Chiave ed Esperienze": "Turismo geotermico, esplorare la storia marittima.",
+          "Spazi Verdi e Paesaggi": "Parco di Keflavik, Spiaggia della Laguna Blu.",
+          "Piatti Locali Famosi": "Hangikjöt, Skyr."
+        },
+        {
+          "Città Principale": "Höfn",
+          "Monumenti Storici e Architettonici Rilevanti": "Parco Nazionale del Vatnajökull, viste sui ghiacciai.",
+          "Attività Turistiche Chiave ed Esperienze": "Tour sui ghiacciai, esplorare iceberg, assaggiare frutti di mare locali.",
+          "Spazi Verdi e Paesaggi": "Parco Nazionale del Vatnajökull, laghi glaciali di Jökulsárlón.",
+          "Piatti Locali Famosi": "Hangikjöt, Skyr."
+        },
+        {
+          "Città Principale": "Isole Westman (Vestmannaeyjar)",
+          "Monumenti Storici e Architettonici Rilevanti": "Museo Eldheimar, crateri vulcanici attivi, colonie di pulcinella di mare.",
+          "Attività Turistiche Chiave ed Esperienze": "Gite in barca sull'Atlantico, sentieri escursionistici per esplorare l'attività vulcanica recente.",
+          "Spazi Verdi e Paesaggi": "Monte Eldfell, valle di Herjólfsdalur.",
+          "Piatti Locali Famosi": "Hangikjöt, Skyr."
+        },
+        {
+          "Città Principale": "Selfoss",
+          "Monumenti Storici e Architettonici Rilevanti": "La penisola, scogliere costiere.",
+          "Attività Turistiche Chiave ed Esperienze": "Escursioni, esplorare spiagge di sabbia bianca.",
+          "Spazi Verdi e Paesaggi": "Spiaggia di Reynisfjara, vulcano Þórðarfell.",
+          "Piatti Locali Famosi": "Hangikjöt, Skyr."
+        },
+        {
+          "Città Principale": "Grindavik",
+          "Monumenti Storici e Architettonici Rilevanti": "Sorgenti termali naturali, museo geologico.",
+          "Attività Turistiche Chiave ed Esperienze": "Godersi bagni naturali.",
+          "Spazi Verdi e Paesaggi": "Parco di Grindavík, sorgenti calde di Gunnuhver.",
+          "Piatti Locali Famosi": "Hangikjöt, Skyr."
+        }
+      ]
+    },
+    {
+      "Paese": "Etiopia",
+      "Città": [
+        {
+          "Città Principale": "Addis Abeba",
+          "Monumenti Storici e Architettonici Rilevanti": "Museo Nazionale dell'Etiopia (Lucy), Cattedrale della Santa Trinità, Monte Entoto, Mercato Merkato.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare il Museo Nazionale, tour dei mercati, esplorare siti storici.",
+          "Spazi Verdi e Paesaggi": "Parco Gihie, Monte Entoto.",
+          "Piatti Locali Famosi": "Injera (pane azzimo fermentato), Wat (stufato), Tibs (carne fritta), Doro Wat."
+        },
+        {
+          "Città Principale": "Lalibela",
+          "Monumenti Storici e Architettonici Rilevanti": "Chiese scavate nella roccia (Patrimonio dell'Umanità).",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare le chiese scolpite nella roccia (l'ottava meraviglia del mondo).",
+          "Spazi Verdi e Paesaggi": "Colline che circondano le chiese.",
+          "Piatti Locali Famosi": "Injera, Wat, Tibs."
+        },
+        {
+          "Città Principale": "Axum",
+          "Monumenti Storici e Architettonici Rilevanti": "Stele di Axum, Chiesa di Nostra Signora Maria di Sion, rovine del palazzo antico.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare l'antica civiltà aksumita.",
+          "Spazi Verdi e Paesaggi": "Colline che circondano la città.",
+          "Piatti Locali Famosi": "Injera, Wat, Tibs."
+        },
+        {
+          "Città Principale": "Gondar",
+          "Monumenti Storici e Architettonici Rilevanti": "Fasil Ghebbi (Recinto Reale, Patrimonio dell'Umanità), Bagno di Fasilides, Chiesa di Debre Berhan Selassie.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare antichi castelli reali.",
+          "Spazi Verdi e Paesaggi": "Lago Tana (vicino), parchi.",
+          "Piatti Locali Famosi": "Injera, Wat, Tibs."
+        },
+        {
+          "Città Principale": "Bahir Dar",
+          "Monumenti Storici e Architettonici Rilevanti": "Cascate del Nilo Azzurro, Lago Tana, monasteri circostanti.",
+          "Attività Turistiche Chiave ed Esperienze": "Visitare monasteri storici sul lago, vedere le cascate.",
+          "Spazi Verdi e Paesaggi": "Lago Tana, Cascate del Nilo Azzurro.",
+          "Piatti Locali Famosi": "Injera, Wat, Tibs."
+        },
+        {
+          "Città Principale": "Dire Dawa",
+          "Monumenti Storici e Architettonici Rilevanti": "Mercato locale, vecchia stazione ferroviaria.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare la città commerciale.",
+          "Spazi Verdi e Paesaggi": "Parco Kefira.",
+          "Piatti Locali Famosi": "Injera, Wat, Tibs."
+        },
+        {
+          "Città Principale": "Dessie",
+          "Monumenti Storici e Architettonici Rilevanti": "Mercato di Dessie, viste montane circostanti.",
+          "Attività Turistiche Chiave ed Esperienze": "Turismo naturalistico, shopping nei mercati regionali.",
+          "Spazi Verdi e Paesaggi": "Viste montane.",
+          "Piatti Locali Famosi": "Injera, Wat, Tibs."
+        },
+        {
+          "Città Principale": "Harar",
+          "Monumenti Storici e Architettonici Rilevanti": "La Città Murata (Patrimonio dell'Umanità), Casa di Rimbaud, Casa di Arthur Rimbaud.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare antiche città islamiche, osservare l'alimentazione delle iene.",
+          "Spazi Verdi e Paesaggi": "Montagne che circondano la città.",
+          "Piatti Locali Famosi": "Injera, Wat, Tibs."
+        },
+        {
+          "Città Principale": "Shashamane",
+          "Monumenti Storici e Architettonici Rilevanti": "Comunità rastafariana, centri culturali.",
+          "Attività Turistiche Chiave ed Esperienze": "Esplorare la cultura rastafariana.",
+          "Spazi Verdi e Paesaggi": "Aree rurali circostanti.",
+          "Piatti Locali Famosi": "Injera, Wat, Tibs."
+        }
+      ]
+    }
+  ]
+}

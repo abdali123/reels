@@ -1,0 +1,706 @@
+[
+  {
+    "Country": "Iraq",
+    "City": "Baghdad",
+    "Attractions": "Siti storici, Palazzi e musei, Moschea Ketchaoua, Ponti antichi, Piazza della Liberazione",
+    "Activities": "Visita al Museo Nazionale Iracheno, Esplorazione dei principali mercati e moschee",
+    "Cuisine": "Masgouf (pesce di fiume alla griglia), Dolma (verdure ripiene), Ouzi (agnello intero ripieno), Tashreeb (stufato invernale), Kebab iracheno, Timman Bagilla (riso con fave)",
+    "Green Spaces": "Cerca spazi verdi"
+  },
+  {
+    "Country": "Iraq",
+    "City": "Basra",
+    "Attractions": "Shatt Al-Arab, Città Vecchia, Mercati storici, Palazzo di Basra",
+    "Activities": "Gite in barca sullo Shatt Al-Arab, Esplorazione dei mercati di datteri",
+    "Cuisine": "Masgouf, Dolma, Ouzi, Matbakh (pesce con riso)",
+    "Green Spaces": "Shatt Al-Arab"
+  },
+  {
+    "Country": "Iraq",
+    "City": "Nineveh (Mosul)",
+    "Attractions": "Rovine dell'antica città di Ninive, Resti di Ashur, Siti archeologici",
+    "Activities": "Visita ai siti archeologici, Esplorazione della storia antica (Terra di Ashur)",
+    "Cuisine": "Masgouf, Dolma, Ouzi, Kibbeh",
+    "Green Spaces": "Cerca spazi verdi"
+  },
+  {
+    "Country": "Iraq",
+    "City": "Erbil",
+    "Attractions": "Cittadella di Erbil (Patrimonio dell'Umanità), Minareto Muzafiriya, Mercato Vecchio",
+    "Activities": "Visita alla cittadella storica, Shopping nel mercato vecchio",
+    "Cuisine": "Masgouf, Dolma, Ouzi",
+    "Green Spaces": "Cerca spazi verdi"
+  },
+  {
+    "Country": "Iraq",
+    "City": "Najaf",
+    "Attractions": "Santuario dell'Imam Ali, Bahr al-Najaf, Città Vecchia",
+    "Activities": "Turismo religioso (visita ai santuari sacri), Passeggiata attraverso la città vecchia",
+    "Cuisine": "Masgouf, Dolma, Ouzi",
+    "Green Spaces": "Bahr al-Najaf"
+  },
+  {
+    "Country": "Iraq",
+    "City": "Dhi Qar",
+    "Attractions": "Antica città di Ur (Ziggurat), Siti sumeri",
+    "Activities": "Visita ai siti delle antiche civiltà, Esplorazione della culla dei Sumeri",
+    "Cuisine": "Masgouf, Dolma, Ouzi",
+    "Green Spaces": "Cerca spazi verdi"
+  },
+  {
+    "Country": "Iraq",
+    "City": "Kirkuk",
+    "Attractions": "Cittadella di Kirkuk, Città Vecchia",
+    "Activities": "Visita alla cittadella storica",
+    "Cuisine": "Masgouf, Dolma, Ouzi",
+    "Green Spaces": "Cerca spazi verdi"
+  },
+  {
+    "Country": "Iraq",
+    "City": "Babylon",
+    "Attractions": "Rovine dell'antica città di Babilonia, Leone di Babilonia, Porta di Ishtar",
+    "Activities": "Visita ai siti babilonesi",
+    "Cuisine": "Masgouf, Dolma, Ouzi",
+    "Green Spaces": "Cerca spazi verdi"
+  },
+  {
+    "Country": "Iraq",
+    "City": "Karbala",
+    "Attractions": "Santuario dell'Imam Hussein, Santuari sacri",
+    "Activities": "Turismo religioso e visita ai santuari",
+    "Cuisine": "Masgouf, Dolma, Ouzi",
+    "Green Spaces": "Cerca spazi verdi"
+  },
+  {
+    "Country": "Iraq",
+    "City": "Samarra",
+    "Attractions": "Minareto di Samarra, Moschee antiche",
+    "Activities": "Visita ai siti archeologici islamici",
+    "Cuisine": "Masgouf, Dolma, Ouzi",
+    "Green Spaces": "Cerca spazi verdi"
+  },
+  {
+    "Country": "Vatican",
+    "City": "Città del Vaticano",
+    "Attractions": "Basilica di San Pietro, Piazza San Pietro, Musei Vaticani, Cappella Sistina, Palazzo Apostolico, Tombe Papali, Giardini Vaticani, Obelisco",
+    "Activities": "Visita ai Musei Vaticani (salta la fila), Tour della Cappella Sistina, Salita sulla Cupola, Visita alle Tombe Papali",
+    "Cuisine": "Cerca piatti locali",
+    "Green Spaces": "Giardini Vaticani"
+  },
+  {
+    "Country": "Philippines",
+    "City": "Manila",
+    "Attractions": "Intramuros (Città Murata), Cattedrale di Manila, Parco Rizal, Museo Ayala, Mall of Asia",
+    "Activities": "Esplorazione della storica Intramuros, Shopping al Mall of Asia, Visita ai musei d'arte, Turismo d'affari",
+    "Cuisine": "Adobo (piatto di carne o pollo con salsa di soia e aceto), Nasi Goreng, Satay, Gado-gado (insalata), Laar (carne marinata)",
+    "Green Spaces": "Parco Rizal"
+  },
+  {
+    "Country": "Philippines",
+    "City": "Cebu",
+    "Attractions": "Tempio Taoista, Giardini Magici, Musei storici, Spiagge costiere",
+    "Activities": "Immersioni e snorkeling, Esplorazione delle isole vicine (Mactai e Panglao), Turismo cittadino costiero",
+    "Cuisine": "Adobo, Nasi Goreng, Satay, Gado-gado",
+    "Green Spaces": "Giardini Magici, Spiagge costiere"
+  },
+  {
+    "Country": "Philippines",
+    "City": "Palawan",
+    "Attractions": "Lago Kayangan, Baia di Honda (isole e immersioni), Foreste pluviali, Spiagge di sabbia bianca",
+    "Activities": "Immersioni e nuoto, Escursioni tra le isole (Baia di Honda), Esplorazione delle foreste pluviali",
+    "Cuisine": "Adobo, Nasi Goreng, Satay, Gado-gado",
+    "Green Spaces": "Foreste pluviali, Spiagge di sabbia bianca, Lago Kayangan"
+  },
+  {
+    "Country": "Philippines",
+    "City": "Boracay",
+    "Attractions": "White Beach (sabbia bianca brillante), Yapak Beach (Puka Shell Beach), Acque turchesi limpide",
+    "Activities": "Relax e godersi paesaggi stupendi, Nuoto e immersioni, Attività sulla spiaggia",
+    "Cuisine": "Adobo, Nasi Goreng, Satay, Gado-gado",
+    "Green Spaces": "White Beach, Yapak Beach"
+  },
+  {
+    "Country": "Philippines",
+    "City": "Davao",
+    "Attractions": "Monte Apo (cima più alta), Parco dell'Aquila delle Filippine, Spiagge costiere",
+    "Activities": "Escursionismo, Osservazione delle aquile delle Filippine, Esplorazione della natura",
+    "Cuisine": "Adobo, Nasi Goreng, Satay, Gado-gado",
+    "Green Spaces": "Monte Apo, Parco dell'Aquila delle Filippine"
+  },
+  {
+    "Country": "Philippines",
+    "City": "Iloilo",
+    "Attractions": "Città Vecchia, Chiese storiche, Spiagge",
+    "Activities": "Esplorazione della vecchia architettura, Turismo religioso",
+    "Cuisine": "Adobo, Nasi Goreng, Satay, Gado-gado",
+    "Green Spaces": "Spiagge"
+  },
+  {
+    "Country": "Philippines",
+    "City": "Bacolod",
+    "Attractions": "Vulcano Kanlaon, Parchi nazionali",
+    "Activities": "Esplorazione di vulcani, Turismo avventuroso",
+    "Cuisine": "Adobo, Nasi Goreng, Satay, Gado-gado",
+    "Green Spaces": "Parchi nazionali"
+  },
+  {
+    "Country": "Philippines",
+    "City": "Puerto Princesa",
+    "Attractions": "Baia di Honda, Vie d'acqua",
+    "Activities": "Escursioni tra le isole, Immersioni",
+    "Cuisine": "Adobo, Nasi Goreng, Satay, Gado-gado",
+    "Green Spaces": "Baia di Honda, Vie d'acqua"
+  },
+  {
+    "Country": "Philippines",
+    "City": "Cagayan de Oro",
+    "Attractions": "Fiume Cagayan (rafting), Avventure acquatiche",
+    "Activities": "Rafting sulle acque bianche",
+    "Cuisine": "Adobo, Nasi Goreng, Satay, Gado-gado",
+    "Green Spaces": "Fiume Cagayan"
+  },
+  {
+    "Country": "Philippines",
+    "City": "Zamboanga",
+    "Attractions": "Forte Pilar (fortezza spagnola), Isole vicine",
+    "Activities": "Visita a fortezze storiche",
+    "Cuisine": "Adobo, Nasi Goreng, Satay, Gado-gado",
+    "Green Spaces": "Isole vicine"
+  },
+  {
+    "Country": "Palestine",
+    "City": "Jerusalem",
+    "Attractions": "Moschea Al-Aqsa, Cupola della Roccia, Chiesa del Santo Sepolcro, Mura della Città Vecchia",
+    "Activities": "Turismo religioso, Esplorazione della Città Vecchia",
+    "Cuisine": "Maqluba (riso con carne e verdure), Mansaf palestinese, Fattoush, Knafeh di Nablus",
+    "Green Spaces": "Cerca spazi verdi"
+  },
+  {
+    "Country": "Palestine",
+    "City": "Nablus",
+    "Attractions": "Città Vecchia, Monte Gerizim, Moschee e Chiese storiche",
+    "Activities": "Visita alle fabbriche di Knafeh (famosi per questo), Passeggiata nel Mercato Vecchio",
+    "Cuisine": "Knafeh di Nablus, Maqluba, Mansaf palestinese",
+    "Green Spaces": "Monte Gerizim"
+  },
+  {
+    "Country": "Palestine",
+    "City": "Hebron",
+    "Attractions": "Moschea Ibrahimi, Città Vecchia",
+    "Activities": "Turismo religioso, Visita al Santuario",
+    "Cuisine": "Maqluba, Qidra di Hebron",
+    "Green Spaces": "Cerca spazi verdi"
+  },
+  {
+    "Country": "Palestine",
+    "City": "Bethlehem",
+    "Attractions": "Chiesa della Natività (luogo di nascita di Cristo), Città Vecchia",
+    "Activities": "Turismo religioso, Visita alla Chiesa",
+    "Cuisine": "Maqluba, Qidra di Hebron",
+    "Green Spaces": "Cerca spazi verdi"
+  },
+  {
+    "Country": "Palestine",
+    "City": "Jericho",
+    "Attractions": "Monastero di Quruntul, Tell Sultan, Palazzo di Hisham",
+    "Activities": "Visita ai siti archeologici, Esplorazione della città più antica del mondo",
+    "Cuisine": "Maqluba, Qidra di Hebron",
+    "Green Spaces": "Cerca spazi verdi"
+  },
+  {
+    "Country": "Palestine",
+    "City": "Gaza",
+    "Attractions": "Porto di Gaza, Spiagge di Gaza, Siti storici (limitati)",
+    "Activities": "Turismo balneare (limitato)",
+    "Cuisine": "Maqluba, Qidra di Hebron",
+    "Green Spaces": "Spiagge di Gaza"
+  },
+  {
+    "Country": "Venezuela",
+    "City": "Caracas",
+    "Attractions": "(Grandi città), Hotel e Ristoranti",
+    "Activities": "Visita ai centri urbani, Turismo d'affari",
+    "Cuisine": "Cerca piatti locali",
+    "Green Spaces": "Cerca spazi verdi"
+  },
+  {
+    "Country": "Venezuela",
+    "City": "Maracaibo",
+    "Attractions": "Ponte Generale Rafael Urdaneta, Lago di Maracaibo",
+    "Activities": "Visita al lago, Esplorazione della città urbana",
+    "Cuisine": "Cerca piatti locali",
+    "Green Spaces": "Lago di Maracaibo"
+  },
+  {
+    "Country": "Venezuela",
+    "City": "Valencia",
+    "Attractions": "Cattedrale di Valencia, Piazza Bolivar, Parchi",
+    "Activities": "Passeggiata nei parchi",
+    "Cuisine": "Cerca piatti locali",
+    "Green Spaces": "Parchi, Piazza Bolivar"
+  },
+  {
+    "Country": "Venezuela",
+    "City": "Margarita",
+    "Attractions": "Spiagge dell'Isola di Margarita, Fortezze storiche, Villaggi di pescatori",
+    "Activities": "Turismo balneare e di intrattenimento",
+    "Cuisine": "Cerca piatti locali",
+    "Green Spaces": "Spiagge dell'Isola di Margarita"
+  },
+  {
+    "Country": "Finland",
+    "City": "Helsinki",
+    "Attractions": "Cattedrale di Helsinki, Piazza del Senato, Fortezza di Suomenlinna (Patrimonio dell'Umanità)",
+    "Activities": "Visita alla fortezza marittima, Passeggiata attraverso il porto",
+    "Cuisine": "Karjalanpiirakka (torta di riso), Lohikeitto (zuppa di pesce), Borscht",
+    "Green Spaces": "Cerca spazi verdi"
+  },
+  {
+    "Country": "Finland",
+    "City": "Turku",
+    "Attractions": "Castello di Turku, Cattedrale di Turku, Piazza del Mercato",
+    "Activities": "Visita al castello e alla cattedrale storici",
+    "Cuisine": "Cerca piatti locali",
+    "Green Spaces": "Cerca spazi verdi"
+  },
+  {
+    "Country": "Finland",
+    "City": "Porvoo",
+    "Attractions": "Villaggio storico, Fiume Porvoonjoki",
+    "Activities": "Tour del villaggio storico, Visita alla cioccolateria",
+    "Cuisine": "Cerca piatti locali",
+    "Green Spaces": "Fiume Porvoonjoki"
+  },
+  {
+    "Country": "Finland",
+    "City": "Tampere",
+    "Attractions": "Cattedrale di Tampere, Laghi Näsijärvi e Pyhäjärvi",
+    "Activities": "Visita alle zone interne",
+    "Cuisine": "Cerca piatti locali",
+    "Green Spaces": "Laghi Näsijärvi e Pyhäjärvi"
+  },
+  {
+    "Country": "Finland",
+    "City": "Oulu",
+    "Attractions": "Castello di Oulu, Piazza del Mercato",
+    "Activities": "Esplorazione della città settentrionale",
+    "Cuisine": "Cerca piatti locali",
+    "Green Spaces": "Cerca spazi verdi"
+  },
+  {
+    "Country": "Cyprus",
+    "City": "Nicosia",
+    "Attractions": "Città Vecchia, Porta di Famagosta, Museo di Cipro",
+    "Activities": "Visita alla città divisa, Esplorazione di monumenti storici e culturali",
+    "Cuisine": "Moussaka (melanzane e carne), Shish Kebab, Makaronia tou Fournou (piatto di pasta), Sefali (pesce alla griglia), Bulgur (insalata)",
+    "Green Spaces": "Cerca spazi verdi"
+  },
+  {
+    "Country": "Cyprus",
+    "City": "Limassol",
+    "Attractions": "Castello di Limassol, Lungomare, Musei",
+    "Activities": "Turismo balneare e portuale, Passeggiata lungo il lungomare",
+    "Cuisine": "Moussaka, Shish Kebab, Sefali",
+    "Green Spaces": "Lungomare"
+  },
+  {
+    "Country": "Cyprus",
+    "City": "Larnaca",
+    "Attractions": "Lago Salato di Larnaca, Spiaggia di Finikoudes",
+    "Activities": "Immersioni nei relitti, Visita al lago salato",
+    "Cuisine": "Moussaka, Shish Kebab, Sefali",
+    "Green Spaces": "Lago Salato di Larnaca, Spiaggia di Finikoudes"
+  },
+  {
+    "Country": "Cyprus",
+    "City": "Paphos",
+    "Attractions": "Castello di Paphos, Porto di Paphos",
+    "Activities": "Visita al castello e al porto",
+    "Cuisine": "Moussaka, Shish Kebab, Sefali",
+    "Green Spaces": "Cerca spazi verdi"
+  },
+  {
+    "Country": "Cyprus",
+    "City": "Polis",
+    "Attractions": "Spiaggia di Polis, Penisola di Akamas",
+    "Activities": "Turismo naturalistico e spiagge tranquille",
+    "Cuisine": "Moussaka, Shish Kebab, Sefali",
+    "Green Spaces": "Spiaggia di Polis, Penisola di Akamas"
+  },
+  {
+    "Country": "Cyprus",
+    "City": "Lefka",
+    "Attractions": "Villaggi storici, Artigianato",
+    "Activities": "Esplorazione dei villaggi, Acquisto di artigianato",
+    "Cuisine": "Moussaka, Shish Kebab, Sefali",
+    "Green Spaces": "Cerca spazi verdi"
+  },
+  {
+    "Country": "Kazakhstan",
+    "City": "Astana",
+    "Attractions": "Torre Bayterek, Palazzo della Pace e della Riconciliazione, Moschea Nur-Astana",
+    "Activities": "Visita a edifici moderni e letti",
+    "Cuisine": "Beshbarmak (carne bollita e noodles), Kazy (salsiccia di carne di cavallo)",
+    "Green Spaces": "Cerca spazi verdi"
+  },
+  {
+    "Country": "Kazakhstan",
+    "City": "Almaty",
+    "Attractions": "Funivia Kok Tobe, Museo Centrale del Kazakistan, Parco Panfilov",
+    "Activities": "Visita al Museo degli Strumenti Musicali, Passeggiata nel parco",
+    "Cuisine": "Beshbarmak, Kazy",
+    "Green Spaces": "Parco Panfilov"
+  },
+  {
+    "Country": "Kazakhstan",
+    "City": "Karaganda",
+    "Attractions": "Museo dell'Ecologia, Colline di Karaganda",
+    "Activities": "Visita al museo",
+    "Cuisine": "Cerca piatti locali",
+    "Green Spaces": "Colline di Karaganda"
+  },
+  {
+    "Country": "Kazakhstan",
+    "City": "Shymkent",
+    "Attractions": "Rovine dell'antica città di Sauran, Santuari di Sayram, famoso cartello SHYMKENT, Cinema Bar Club, Bazar Aina",
+    "Activities": "Esplorazione delle rovine dell'antica Sauran, Visita al Bazar Aina, Visita ai santuari",
+    "Cuisine": "Cerca piatti locali",
+    "Green Spaces": "Cerca spazi verdi"
+  },
+  {
+    "Country": "Kazakhstan",
+    "City": "Turkistan",
+    "Attractions": "Moschea Hazret Sultan, Mausoleo di Khoja Ahmed Yasawi (Patrimonio dell'Umanità), Rovine di città antiche",
+    "Activities": "Visita a santuari e moschee",
+    "Cuisine": "Beshbarmak, Kazy",
+    "Green Spaces": "Cerca spazi verdi"
+  },
+  {
+    "Country": "Kazakhstan",
+    "City": "Baikonur",
+    "Attractions": "Cosmodromo di Baikonur",
+    "Activities": "Osservazione dei lanci di razzi (se disponibili)",
+    "Cuisine": "Cerca piatti locali",
+    "Green Spaces": "Cerca spazi verdi"
+  },
+  {
+    "Country": "Kazakhstan",
+    "City": "Balkhash",
+    "Attractions": "Lago Balkhash, Centri costieri",
+    "Activities": "Turismo balneare e acquatico",
+    "Cuisine": "Cerca piatti locali",
+    "Green Spaces": "Lago Balkhash"
+  },
+  {
+    "Country": "Kazakhstan",
+    "City": "Oral",
+    "Attractions": "Fiume Ural (Fiume Yaik), Museo dell'Oro",
+    "Activities": "Esplorazione della capitale, Visita ai musei d'arte",
+    "Cuisine": "Cerca piatti locali",
+    "Green Spaces": "Fiume Ural (Fiume Yaik)"
+  },
+  {
+    "Country": "Kazakhstan",
+    "City": "Atyrau",
+    "Attractions": "Fiume Ural (Fiume Yaik), Centri costieri (vicino al Mar Caspio)",
+    "Activities": "Esplorazione delle aree costiere",
+    "Cuisine": "Cerca piatti locali",
+    "Green Spaces": "Fiume Ural (Fiume Yaik), Centri costieri"
+  },
+  {
+    "Country": "Croatia",
+    "City": "Zagreb",
+    "Attractions": "Città Alta (storica), Torre Lotrščak, Cattedrale di Zagabria, Parco Maksimir",
+    "Activities": "Esplorazione della Città Alta",
+    "Cuisine": "Štrukli (paste ripiene), Tacchino Zagorski con Mlinci",
+    "Green Spaces": "Parco Maksimir"
+  },
+  {
+    "Country": "Croatia",
+    "City": "Split",
+    "Attractions": "Palazzo di Diocleziano (Patrimonio dell'Umanità), Lungomare Riva",
+    "Activities": "Visita al Palazzo Romano, Passeggiata lungo il Lungomare Riva",
+    "Cuisine": "Pašticada (stufato di manzo), Risotto (frutti di mare), Krustule (paste)",
+    "Green Spaces": "Lungomare Riva"
+  },
+  {
+    "Country": "Croatia",
+    "City": "Dubrovnik",
+    "Attractions": "Mura della Città Vecchia (Patrimonio dell'Umanità), Via Stradun, Monte Srđ",
+    "Activities": "Passeggiata sulle mura, Salita con la funivia sul Monte Srđ",
+    "Cuisine": "Pašticada, Risotto, Krustule",
+    "Green Spaces": "Monte Srđ"
+  },
+  {
+    "Country": "Croatia",
+    "City": "Zadar",
+    "Attractions": "Il Saluto al Sole (Saluto al Sole), Organo del Mare, Città Vecchia",
+    "Activities": "Esplorazione della città storica",
+    "Cuisine": "Pljeskavica, Burek, Ćevapi",
+    "Green Spaces": "Cerca spazi verdi"
+  },
+  {
+    "Country": "Croatia",
+    "City": "Pula",
+    "Attractions": "Arena Romana di Pola, Tempio di Augusto",
+    "Activities": "Visita alle rovine romane",
+    "Cuisine": "Pljeskavica, Burek, Ćevapi",
+    "Green Spaces": "Cerca spazi verdi"
+  },
+  {
+    "Country": "Cambodia",
+    "City": "Phnom Penh",
+    "Attractions": "Palazzo Reale, Wat Phnom, Museo Nazionale, Killing Fields",
+    "Activities": "Visita al palazzo, Visita ai Killing Fields per la storia",
+    "Cuisine": "Amok (curry di pesce), Nom Banh Chok (noodles cambogiani), Lok Lak (manzo)",
+    "Green Spaces": "Wat Phnom"
+  },
+  {
+    "Country": "Cambodia",
+    "City": "Siem Reap",
+    "Attractions": "Angkor Wat (Patrimonio dell'Umanità), Templi di Angkor",
+    "Activities": "Esplorazione dei templi di Angkor",
+    "Cuisine": "Amok, Nom Banh Chok, Lok Lak",
+    "Green Spaces": "Cerca spazi verdi"
+  },
+  {
+    "Country": "Cambodia",
+    "City": "Battambang",
+    "Attractions": "Architettura coloniale francese, Fiume Battambang",
+    "Activities": "Esplorazione dell'architettura coloniale",
+    "Cuisine": "Amok, Nom Banh Chok, Lok Lak",
+    "Green Spaces": "Fiume Battambang"
+  },
+  {
+    "Country": "Cambodia",
+    "City": "Kampong Cham",
+    "Attractions": "Aree fluviali (Fiume Mekong)",
+    "Activities": "Gite fluviali, Esplorazione di villaggi rurali",
+    "Cuisine": "Amok, Nom Banh Chok, Lok Lak",
+    "Green Spaces": "Aree fluviali (Fiume Mekong)"
+  },
+  {
+    "Country": "Cambodia",
+    "City": "Poipet",
+    "Attractions": "Confine Thailandese (turismo di frontiera)",
+    "Activities": "Tour dell'area di frontiera",
+    "Cuisine": "Amok, Nom Banh Chok, Lok Lak",
+    "Green Spaces": "Cerca spazi verdi"
+  },
+  {
+    "Country": "Canada",
+    "City": "Toronto",
+    "Attractions": "CN Tower, Royal Ontario Museum, Hockey Hall of Fame",
+    "Activities": "Visita alla CN Tower, Esplorazione di musei e gallerie d'arte",
+    "Cuisine": "Poutine (patatine con formaggio e salsa), Butter Tart, Cucina multiculturale",
+    "Green Spaces": "Cerca spazi verdi"
+  },
+  {
+    "Country": "Canada",
+    "City": "Vancouver",
+    "Attractions": "Parco Stanley, Ponte sospeso di Capilano",
+    "Activities": "Visita al Parco Stanley, Ciclismo sul Ponte di Capilano",
+    "Cuisine": "Poutine, Butter Tart, Frutti di mare",
+    "Green Spaces": "Parco Stanley"
+  },
+  {
+    "Country": "Canada",
+    "City": "Montreal",
+    "Attractions": "Vecchia Montreal, Basilica di Notre-Dame, Porto Vecchio, Monte Royal",
+    "Activities": "Esplorazione del patrimonio francese, Partecipazione a festival",
+    "Cuisine": "Poutine, Carne affumicata (la più famosa)",
+    "Green Spaces": "Monte Royal"
+  },
+  {
+    "Country": "Canada",
+    "City": "Quebec",
+    "Attractions": "Château Frontenac, Pianure di Abraham, Vecchia Quebec (cinta da mura)",
+    "Activities": "Visita alla Città Vecchia",
+    "Cuisine": "Poutine, Butter Tart, Zucchero sulla neve (Tire sur la neige)",
+    "Green Spaces": "Pianure di Abraham"
+  },
+  {
+    "Country": "Canada",
+    "City": "Calgary",
+    "Attractions": "Torre di Calgary, Equitazione, Parco Nazionale di Banff (vicino)",
+    "Activities": "Visita al Calgary Stampede",
+    "Cuisine": "Poutine, Butter Tart, Manzo",
+    "Green Spaces": "Parco Nazionale di Banff (vicino)"
+  },
+  {
+    "Country": "Canada",
+    "City": "Ottawa",
+    "Attractions": "Edifici del Parlamento, Canale Rideau, Museo Nazionale",
+    "Activities": "Visita all'Edificio del Parlamento",
+    "Cuisine": "Poutine, Butter Tart",
+    "Green Spaces": "Canale Rideau"
+  },
+  {
+    "Country": "Canada",
+    "City": "Edmonton",
+    "Attractions": "West Edmonton Mall, Musei",
+    "Activities": "Shopping, Visita ai musei",
+    "Cuisine": "Poutine, Butter Tart",
+    "Green Spaces": "Cerca spazi verdi"
+  },
+  {
+    "Country": "Canada",
+    "City": "Halifax",
+    "Attractions": "Lungomare, Fortezza storica",
+    "Activities": "Esplorazione del patrimonio marittimo, Visita al Museo Marittimo",
+    "Cuisine": "Poutine, Butter Tart, Frutti di mare",
+    "Green Spaces": "Lungomare"
+  },
+  {
+    "Country": "Canada",
+    "City": "Winnipeg",
+    "Attractions": "Museo canadese per i diritti umani, Monumento ai diritti umani, Sito storico nazionale delle Forks",
+    "Activities": "Visita ai musei nazionali",
+    "Cuisine": "Poutine, Butter Tart",
+    "Green Spaces": "Cerca spazi verdi"
+  },
+  {
+    "Country": "Canada",
+    "City": "Victoria",
+    "Attractions": "Edifici del Parlamento, Giardini Butchart, Storico Hotel Fairmont Empress",
+    "Activities": "Visita ai giardini storici",
+    "Cuisine": "Poutine, Butter Tart, Frutti di mare",
+    "Green Spaces": "Giardini Butchart"
+  },
+  {
+    "Country": "Congo",
+    "City": "Brazzaville",
+    "Attractions": "Fiume Congo, Foreste",
+    "Activities": "Turismo fluviale e forestale",
+    "Cuisine": "Rosoli, Sontiane, Congolais",
+    "Green Spaces": "Foreste, Fiume Congo"
+  },
+  {
+    "Country": "Congo",
+    "City": "Pointe-Noire",
+    "Attractions": "Spiagge di Pointe-Noire, Foreste",
+    "Activities": "Turismo balneare, Esplorazione delle foreste",
+    "Cuisine": "Rosoli, Sontiane, Congolais",
+    "Green Spaces": "Spiagge, Foreste"
+  },
+  {
+    "Country": "Congo",
+    "City": "Owando",
+    "Attractions": "Parco Nazionale di Odzala (Gorilla)",
+    "Activities": "Tour di safari per l'osservazione dei gorilla",
+    "Cuisine": "Rosoli, Sontiane, Congolais",
+    "Green Spaces": "Parco Nazionale di Odzala"
+  },
+  {
+    "Country": "Congo",
+    "City": "Ouesso",
+    "Attractions": "Regioni interne",
+    "Activities": "Ecoturismo",
+    "Cuisine": "Rosoli, Sontiane, Congolais",
+    "Green Spaces": "Regioni interne"
+  },
+  {
+    "Country": "Democratic Republic of the Congo",
+    "City": "Kinshasa",
+    "Attractions": "Fiume Congo, Foreste",
+    "Activities": "Turismo fluviale e forestale",
+    "Cuisine": "Ponzu, Platano, Pane acido",
+    "Green Spaces": "Fiume Congo, Foreste"
+  },
+  {
+    "Country": "South Korea",
+    "City": "Seoul",
+    "Attractions": "Palazzo Gyeongbokgung, Torre N Seoul, Distretto di Gangnam, Villaggio di Bukchon",
+    "Activities": "Esplorazione della storia reale, Shopping a Gangnam, Cultura moderna (K-Pop), Visita a musei interattivi",
+    "Cuisine": "Kimchi (cavolo fermentato), Bulgogi (manzo marinato alla griglia), Bibimbap (riso misto con verdure), Japchae (noodles)",
+    "Green Spaces": "Cerca spazi verdi"
+  },
+  {
+    "Country": "South Korea",
+    "City": "Busan",
+    "Attractions": "Spiaggia di Haeundae, Tempio di Beomeosa, Mercato del pesce di Jagalchi",
+    "Activities": "Turismo balneare, Visita ai templi",
+    "Cuisine": "Kimchi, Bulgogi, Bibimbap",
+    "Green Spaces": "Spiaggia di Haeundae"
+  },
+  {
+    "Country": "South Korea",
+    "City": "Incheon",
+    "Attractions": "Ponte di Incheon, Chinatown",
+    "Activities": "Esplorazione del Chinatown",
+    "Cuisine": "Kimchi, Bulgogi, Bibimbap",
+    "Green Spaces": "Cerca spazi verdi"
+  },
+  {
+    "Country": "South Korea",
+    "City": "Daejeon",
+    "Attractions": "Museo della Storia di Daejeon, Monte Gyeryongsan",
+    "Activities": "Visita al museo",
+    "Cuisine": "Kimchi, Bulgogi, Bibimbap",
+    "Green Spaces": "Monte Gyeryongsan"
+  },
+  {
+    "Country": "South Korea",
+    "City": "Suwon",
+    "Attractions": "Fortezza di Hwaseong (Patrimonio dell'Umanità)",
+    "Activities": "Visita alla fortezza storica cinta da mura",
+    "Cuisine": "Kimchi, Bulgogi, Bibimbap",
+    "Green Spaces": "Cerca spazi verdi"
+  },
+  {
+    "Country": "South Korea",
+    "City": "Ulsan",
+    "Attractions": "Palazzo di Ulsan (vicino alla città), Spiagge di Ulsan",
+    "Activities": "Visita al palazzo reale",
+    "Cuisine": "Kimchi, Bulgogi, Bibimbap",
+    "Green Spaces": "Spiagge di Ulsan"
+  },
+  {
+    "Country": "South Korea",
+    "City": "Cheonan",
+    "Attractions": "Sala dell'Indipendenza, Aree storiche",
+    "Activities": "Visita alle aree storiche",
+    "Cuisine": "Kimchi, Bulgogi, Bibimbap",
+    "Green Spaces": "Cerca spazi verdi"
+  },
+  {
+    "Country": "Costa Rica",
+    "City": "San Jose",
+    "Attractions": "Teatro Nazionale, Museo dell'Oro",
+    "Activities": "Esplorazione della capitale, Visita ai musei d'arte",
+    "Cuisine": "Cerca piatti locali",
+    "Green Spaces": "Cerca spazi verdi"
+  },
+  {
+    "Country": "Costa Rica",
+    "City": "Naranja",
+    "Attractions": "Piantagioni di caffè, Aree montuose",
+    "Activities": "Tour delle piantagioni di caffè",
+    "Cuisine": "Cerca piatti locali",
+    "Green Spaces": "Piantagioni di caffè, Aree montuose"
+  },
+  {
+    "Country": "Costa Rica",
+    "City": "Limon",
+    "Attractions": "Spiagge del Mar dei Caraibi, Parchi naturali",
+    "Activities": "Turismo balneare",
+    "Cuisine": "Cerca piatti locali",
+    "Green Spaces": "Spiagge del Mar dei Caraibi, Parchi naturali"
+  },
+  {
+    "Country": "Costa Rica",
+    "City": "Tamarindo",
+    "Attractions": "Spiagge dell'Oceano Pacifico, Aree per il surf",
+    "Activities": "Surf, Turismo balneare tranquillo",
+    "Cuisine": "Cerca piatti locali",
+    "Green Spaces": "Spiagge dell'Oceano Pacifico"
+  },
+  {
+    "Country": "Costa Rica",
+    "City": "Tortuguero",
+    "Attractions": "Canali di Tortuguero, Parco Nazionale di Tortuguero",
+    "Activities": "Osservazione delle tartarughe (stagionale), Gite in barca",
+    "Cuisine": "Cerca piatti locali",
+    "Green Spaces": "Canali di Tortuguero, Parco Nazionale di Tortuguero"
+  }
+]

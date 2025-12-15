@@ -1,0 +1,890 @@
+[
+  {
+    "Country": "콜롬비아",
+    "City": "보고타",
+    "Attractions": "정의 궁전, 프리마다 대성당, 황금 박물관, 몬세라테 언덕, 라 칸델라리아 (구시가지), 볼리바르 광장, 스트리트 아트 투어.",
+    "Activities": "스트리트 아트 투어 탐험, 몬세라테 언덕으로 케이블카 타기, 황금 박물관 방문, 구시가지 탐험.",
+    "Cuisine": "아히아코 (닭고기와 옥수수 수프), 반데하 파이사 (고기와 콩 요리), 산코초 (옥수수 수프), 엠파나다스.",
+    "Green Spaces": "몬세라테 언덕, 라 칸델라리아 (구시가지)."
+  },
+  {
+    "Country": "콜롬비아",
+    "City": "카르타헤나",
+    "Attractions": "성벽 도시 (세계유산), 로사리오 제도, 산 펠리페 성, 카르타헤나 대성당.",
+    "Activities": "로사리오 제도 주변 섬 hopping (산호초와 흰색 모래), 성벽 도시 탐험.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "로사리오 제도 (산호초와 흰색 모래)."
+  },
+  {
+    "Country": "콜롬비아",
+    "City": "메데인",
+    "Attractions": "보테로 광장 (예술가 지구), 안티오키아 박물관, 라파엘 우리베 궁전, TPR 메트로케이블 (케이블카).",
+    "Activities": "구시가지 탐험, 파노라마 뷰를 위한 케이블카 타기, 스트리트 아트 투어.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "콜롬비아",
+    "City": "칼리",
+    "Attractions": "살사 지구 (문화 센터), 메트로폴리탄 대성당, 시립 극장.",
+    "Activities": "살사 댄싱 (초보자라도), 연간 페리아 데 칼리 축제 참석.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "콜롬비아",
+    "City": "산타 마르타",
+    "Attractions": "타이로나 국립공원, 산타 마르타 시에라 네바다 (눈 덮인 산).",
+    "Activities": "타이로나 공원 탐험, 근처 해변 방문, 잃어버린 도시 (시우다드 페르디다)까지 하이킹.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "타이로나 국립공원, 산타 마르타 시에라 네바다 (눈 덮인 산)."
+  },
+  {
+    "Country": "콜롬비아",
+    "City": "살렌토",
+    "Attractions": "코코라 계곡 (왁스 야자), 커피 농장 (커피 지역), 멋진 풍경.",
+    "Activities": "원산지 커피 마시기, 코코라 계곡에서 승마, 하이킹 (6시간).",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "코코라 계곡 (왁스 야자), 커피 농장 (커피 지역), 멋진 풍경."
+  },
+  {
+    "Country": "콜롬비아",
+    "City": "포파얀",
+    "Attractions": "하얀 도시 (종교 건축물), 포파얀 대학교, 대성당.",
+    "Activities": "건축물과 종교 탐험, 지역 역사에 관한 박물관 방문.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "콜롬비아",
+    "City": "파스토",
+    "Attractions": "(에콰도르와 국경 근처), 대성당, 코차 호수 (라구나 데 라 코차).",
+    "Activities": "남부 콜롬비아 탐험.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "코차 호수 (라구나 데 라 코차)."
+  },
+  {
+    "Country": "콜롬비아",
+    "City": "레티시아",
+    "Attractions": "아마존 열대우림, 아마존 강.",
+    "Activities": "열대우림 관광 (아마존 강), 야생 동물 관찰.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "아마존 열대우림, 아마존 강."
+  },
+  {
+    "Country": "콜롬비아",
+    "City": "바랑키야",
+    "Attractions": "바랑키야 카니발 (세계유산), 카리브 해 박물관.",
+    "Activities": "카니발 참석 (라틴 아메리카 최대 축제 중 하나).",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "코모로",
+    "City": "모로니",
+    "Attractions": "카르탈라 산 (활화산), 금요일 모스크 (비치 모스크), 좁은 거리와 카페.",
+    "Activities": "열대우림 하이킹, 흰색 모래 해변 탐험.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "카르탈라 산 (활화산), 열대우림, 흰색 모래 해변."
+  },
+  {
+    "Country": "코모로",
+    "City": "모엘리",
+    "Attractions": "모엘리 해양 공원 (파르크 마린 데 모엘리), 매력적인 작은 섬들.",
+    "Activities": "해양 보호 관광, 야생 지역 탐험.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "해양 공원, 매력적인 작은 섬들, 야생 지역."
+  },
+  {
+    "Country": "코모로",
+    "City": "안주앙",
+    "Attractions": "오래된 모로코 농장, 정향 시장.",
+    "Activities": "농장 탐험과 정향 향기 맡기, 자연 속에서 산책.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "오래된 모로코 농장, 자연."
+  },
+  {
+    "Country": "코모로",
+    "City": "퐁보니",
+    "Attractions": "역사적인 도시, 박물관.",
+    "Activities": "역사적인 해안 도시 방문.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "코모로",
+    "City": "카르탈라",
+    "Attractions": "카르탈라 산 (화산).",
+    "Activities": "화산 등반, 화산 지형 탐험.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "카르탈라 산 (화산)."
+  },
+  {
+    "Country": "코모로",
+    "City": "미사미울리",
+    "Attractions": "북부 항구, 조용한 해변.",
+    "Activities": "해변에서 휴식.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "조용한 해변."
+  },
+  {
+    "Country": "코모로",
+    "City": "도모니",
+    "Attractions": "해안 도시, 해변.",
+    "Activities": "해변 관광.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "해변."
+  },
+  {
+    "Country": "코모로",
+    "City": "차무두",
+    "Attractions": "(안주앙 섬의 역사적인 도시).",
+    "Activities": "역사적인 랜드마크 방문.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "코모로",
+    "City": "시마우니",
+    "Attractions": "(해안 마을).",
+    "Activities": "해안 방문.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "해안."
+  },
+  {
+    "Country": "코모로",
+    "City": "부에니",
+    "Attractions": "(해안 마을).",
+    "Activities": "해안 방문.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "해안."
+  },
+  {
+    "Country": "키리바시",
+    "City": "타라와",
+    "Attractions": "제2차 세계대전 역사 유적지, 마네아바 (전통 회의소).",
+    "Activities": "안내 문화 투어, 제2차 세계대전 유적 탐험.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "키리바시",
+    "City": "크리스마스 섬 (키리티마티)",
+    "Attractions": "석호, 숲, 흰색 모래 해변, 철새 보호구역.",
+    "Activities": "다이빙과 스노클링, 조류 관찰, 광활한 내해에서 카약 타기.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "석호, 숲, 흰색 모래 해변, 철새 보호구역."
+  },
+  {
+    "Country": "키리바시",
+    "City": "피닉스 제도",
+    "Attractions": "해양 보호 구역 (세계 최대 해양 보호구역), 원시 산호초.",
+    "Activities": "고급 다이빙과 스노클링 (상어와 만타 가오리 보기), 수중 생태계 탐험.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "해양 보호 구역, 원시 산호초."
+  },
+  {
+    "Country": "키리바시",
+    "City": "바나바",
+    "Attractions": "바나바 인산염 유산지, 복원된 풍경.",
+    "Activities": "광업 역사 탐험, 부상 중인 에코 관광.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "복원된 풍경."
+  },
+  {
+    "Country": "키리바시",
+    "City": "아바이앙",
+    "Attractions": "전통 마을, 고대 유적지, 북부 모래 섬.",
+    "Activities": "문화 다이빙, 식민지 이전 키리바시에 대한 진정한 통찰.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "북부 모래 섬."
+  },
+  {
+    "Country": "키리바시",
+    "City": "타비테우에아",
+    "Attractions": "돌 물고기 함정, 구전 역사 장소.",
+    "Activities": "문화 다이빙과 지속 가능한 어업 유산.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "키리바시",
+    "City": "노노우티",
+    "Attractions": "노노우티 모래 섬 맹그로브숲, 해안 숲.",
+    "Activities": "쉬운 자연 산책, 조류 관찰.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "노노우티 모래 섬 맹그로브숲, 해안 숲."
+  },
+  {
+    "Country": "키리바시",
+    "City": "부타리타리",
+    "Attractions": "부타리타리 석호 물, 모래둑.",
+    "Activities": "석호에서 카약 타기, 경치 좋은 보트 투어.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "부타리타리 석호 물, 모래둑."
+  },
+  {
+    "Country": "키리바시",
+    "City": "나우라",
+    "Attractions": "(외딴 모래 섬), 거북이 알 낳는 장소.",
+    "Activities": "외딴 장소 탐험.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "외딴 모래 섬, 거북이 알 낳는 장소."
+  },
+  {
+    "Country": "키리바시",
+    "City": "사우스 타라와",
+    "Attractions": "(행정 중심지).",
+    "Activities": "행정 수도 방문.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "케냐",
+    "City": "나이로비",
+    "Attractions": "나이로비 국립 박물관, 나이로비 사파리 공원 (수도 내), 인간 진화 전시, 롱고노트 산 (화산 지형).",
+    "Activities": "나이로비 사파리 (수도를 떠나지 않고 즐기는 사파리 모험), 마사이 시장에서 쇼핑, 나이로비 국립 박물관 방문.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "나이로비 사파리 공원, 롱고노트 산."
+  },
+  {
+    "Country": "케냐",
+    "City": "마사이 마라",
+    "Attractions": "마사이 마라 국립 보호구역, 대야생 동물 이동 (계절별).",
+    "Activities": "마사이 마라에서 사파리 드라이브, 대이동 목격, 야생 동물 관찰.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "마사이 마라 국립 보호구역."
+  },
+  {
+    "Country": "케냐",
+    "City": "몸바사",
+    "Attractions": "포트 예수, 구시가지, 케냐 해안의 진주, 해안 해변.",
+    "Activities": "해안 관광, 구시가지 탐험, 해변 방문.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "해안 해변."
+  },
+  {
+    "Country": "케냐",
+    "City": "암보셀리",
+    "Attractions": "암보셀리 국립공원, 킬리만자로 산 전망 (거대한 코끼리와 산 배경).",
+    "Activities": "사파리 드라이브, 거대한 코끼리 보기, 사진 촬영.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "암보셀리 국립공원, 킬리만자로 산 (산 배경)."
+  },
+  {
+    "Country": "케냐",
+    "City": "나쿠루",
+    "Attractions": "나쿠루 호수 (분홍색 플라밍고의 집), 나쿠루 호수 국립공원.",
+    "Activities": "플라밍고 관찰, 에코 관광.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "나쿠루 호수, 나쿠루 호수 국립공원."
+  },
+  {
+    "Country": "케냐",
+    "City": "라무",
+    "Attractions": "라무 역사 도시 (세계유산), 전통 '도우' 보트, 수공예품 시장.",
+    "Activities": "전통 보트에서 보트 타기, 수공예품 시장 방문, 조용한 해변 즐기기.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "조용한 해변."
+  },
+  {
+    "Country": "케냐",
+    "City": "킬리피",
+    "Attractions": "킬리피 군, 매력적인 해변과 풍부한 문화, 해양 농장.",
+    "Activities": "해변 관광, 해안 지역 방문.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "매력적인 해변."
+  },
+  {
+    "Country": "케냐",
+    "City": "와타무",
+    "Attractions": "와타무 해변 (바다의 보석), 산호초, 해양 보호구역.",
+    "Activities": "해변 즐기기, 보호구역에서 다이빙과 스노클링.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "와타무 해변, 산호초, 해양 보호구역."
+  },
+  {
+    "Country": "케냐",
+    "City": "말린디",
+    "Attractions": "해양 공원, 포르투갈 유적지.",
+    "Activities": "해양 관광, 유적지 탐험.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "해양 공원."
+  },
+  {
+    "Country": "케냐",
+    "City": "키수무",
+    "Attractions": "빅토리아 호수, 키수무 박물관.",
+    "Activities": "호수 관광, 박물관 방문.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "빅토리아 호수."
+  },
+  {
+    "Country": "라트비아",
+    "City": "리가",
+    "Attractions": "구시가지 (세계유산), 성 베드로 교회, 시청 광장.",
+    "Activities": "구시가지의 건축물 탐험.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "라트비아",
+    "City": "다우가프필스",
+    "Attractions": "다우가프필스 요새, 다우가바 강.",
+    "Activities": "역사적인 요새 방문.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "다우가바 강."
+  },
+  {
+    "Country": "라트비아",
+    "City": "리에파야",
+    "Attractions": "해안 해변, 항구.",
+    "Activities": "해안 관광.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "해안 해변."
+  },
+  {
+    "Country": "라트비아",
+    "City": "벤츠필스",
+    "Attractions": "벤츠필스 성, 항구.",
+    "Activities": "성과 항구 방문.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "라트비아",
+    "City": "옐가바",
+    "Attractions": "옐가바 궁전, 내륙 지역.",
+    "Activities": "내륙 지역 탐험.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "내륙 지역."
+  },
+  {
+    "Country": "라오스",
+    "City": "비엔티안",
+    "Attractions": "파투사이 (개선문), 왓 시사켓, 파 탓 루앙.",
+    "Activities": "종교 기념물 탐험.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "라오스",
+    "City": "루앙프라방",
+    "Attractions": "구시가지 (세계유산), 왓 시엥 통 사원, 쿠앙시 폭포.",
+    "Activities": "구시가지 탐험, 폭포 방문.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "쿠앙시 폭포."
+  },
+  {
+    "Country": "라오스",
+    "City": "사바나케트",
+    "Attractions": "구시가지, 메콩강.",
+    "Activities": "강가의 구시가지 탐험.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "메콩강."
+  },
+  {
+    "Country": "라오스",
+    "City": "팍세",
+    "Attractions": "시판돈 강 (4000개의 섬), 코네 파펭 폭포.",
+    "Activities": "섬 탐험, 폭포 방문.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "시판돈 강 (4000개의 섬), 코네 파펭 폭포."
+  },
+  {
+    "Country": "라오스",
+    "City": "퐁살리",
+    "Attractions": "산악 지역, 차 농장.",
+    "Activities": "산악 관광.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "산악 지역, 차 농장."
+  },
+  {
+    "Country": "라오스",
+    "City": "삼네아",
+    "Attractions": "논밭, 산악 지역.",
+    "Activities": "농업 관광.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "논밭, 산악 지역."
+  },
+  {
+    "Country": "레바논",
+    "City": "베이루트",
+    "Attractions": "비둘기 바위, 국립 박물관, 함라 거리, 순교자 광장, 코르니쉬.",
+    "Activities": "자연 장소 탐험 (비둘기 바위), 박물관 방문.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "코르니쉬."
+  },
+  {
+    "Country": "레바논",
+    "City": "바알벡",
+    "Attractions": "바알벡 로마 신전, 역사 유적지.",
+    "Activities": "거대한 로마 신전 방문, 로마 유적지 탐험.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "레바논",
+    "City": "비블로스",
+    "Attractions": "비블로스 도시 (가장 오래된 지속적으로 거주하는 도시), 구항, 비블로스 성.",
+    "Activities": "구항 탐험, 성 방문.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "레바논",
+    "City": "주니에",
+    "Attractions": "주니에 하리사 케이블카, 레바논의 성모, 지타 동굴.",
+    "Activities": "케이블카 타기, 패러글라이딩, 레바논의 성모 방문.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "레바논",
+    "City": "트리폴리",
+    "Attractions": "트리폴리 성, 트리폴리 수크.",
+    "Activities": "성과 수크 탐험.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "룩셈부르크",
+    "City": "룩셈부르크",
+    "Attractions": "아돌프 다리, 그랜드 듀칼 궁전, 보크 카세마트 (방어 터널), 구시가지 (세계유산).",
+    "Activities": "금융 중심지로서의 수도 탐험, 방어 터널 방문, 구시가지 산책.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "룩셈부르크",
+    "City": "에슈쉬르알제트",
+    "Attractions": "역사적인 산업 지역, 박물관.",
+    "Activities": "산업 관광.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "룩셈부르크",
+    "City": "디페르당",
+    "Attractions": "성, 주변 지역.",
+    "Activities": "성 방문.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "주변 지역."
+  },
+  {
+    "Country": "룩셈부르크",
+    "City": "에텔브루크",
+    "Attractions": "(지역 중심지).",
+    "Activities": "지역 중심지 방문.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "룩셈부르크",
+    "City": "레미히",
+    "Attractions": "모젤 강, 포도원.",
+    "Activities": "농업 관광.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "모젤 강, 포도원."
+  },
+  {
+    "Country": "리비아",
+    "City": "트리폴리",
+    "Attractions": "구시가지, 마르쿠스 아우렐리우스 아치, 레드 캐슬 박물관 (앗사라야 알함라).",
+    "Activities": "구시가지 탐험.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "리비아",
+    "City": "벵가지",
+    "Attractions": "해안 도시.",
+    "Activities": "해안 관광.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "리비아",
+    "City": "미스라타",
+    "Attractions": "항구.",
+    "Activities": "해양 관광.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "리비아",
+    "City": "사바",
+    "Attractions": "(지역 중심지), 사막.",
+    "Activities": "사막 관광.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "리비아",
+    "City": "가트",
+    "Attractions": "오래된 사막 도시, 아카쿠스 산.",
+    "Activities": "사막 관광, 암석 미술 탐험.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "리비아",
+    "City": "즐리텐",
+    "Attractions": "알아스마리야 대학교, 종교 지역.",
+    "Activities": "종교 관광.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "리비아",
+    "City": "시르테",
+    "Attractions": "해안 도시.",
+    "Activities": "해안 관광.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "리비아",
+    "City": "바이다",
+    "Attractions": "자발 알아크다르 산.",
+    "Activities": "산악 관광.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "자발 알아크다르 산."
+  },
+  {
+    "Country": "리비아",
+    "City": "토브룩",
+    "Attractions": "항구, 국경 지역.",
+    "Activities": "국경 지역 방문.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "리비아",
+    "City": "데르나",
+    "Attractions": "해안 도시, 주변 산악 지역.",
+    "Activities": "해안 및 산악 관광.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "주변 산악 지역."
+  },
+  {
+    "Country": "리투아니아",
+    "City": "빌니우스",
+    "Attractions": "구시가지 (세계유산), 게디미나스 타워, 빌니우스 대성당.",
+    "Activities": "구시가지 탐험, 성과 박물관 방문.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "리투아니아",
+    "City": "카우나스",
+    "Attractions": "구시가지, 카우나스 성.",
+    "Activities": "성과 박물관 방문.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "리투아니아",
+    "City": "클라이페다",
+    "Attractions": "해안 도시, 클라이페다 항구.",
+    "Activities": "해안 관광.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "리투아니아",
+    "City": "팔랑가",
+    "Attractions": "(해안 리조트), 모래 해변, 팔랑가 식물 공원.",
+    "Activities": "해변 관광.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "모래 해변, 팔랑가 식물 공원."
+  },
+  {
+    "Country": "리투아니아",
+    "City": "샤울리아이",
+    "Attractions": "십자가 언덕 (종교 장소), 내륙 지역.",
+    "Activities": "십자가 언덕 방문.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "내륙 지역."
+  },
+  {
+    "Country": "레소토",
+    "City": "마세루",
+    "Attractions": "왕궁, 국립 박물관.",
+    "Activities": "행정 수도 방문.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "레소토",
+    "City": "말로티",
+    "Attractions": "말로티 산, 내륙 지역.",
+    "Activities": "산악 관광.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "말로티 산, 내륙 지역."
+  },
+  {
+    "Country": "레소토",
+    "City": "세몽콩",
+    "Attractions": "말레추냐네 폭포 (아프리카에서 가장 높은 폭포).",
+    "Activities": "폭포 방문.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "말레추냐네 폭포."
+  },
+  {
+    "Country": "레소토",
+    "City": "모할레스 후크",
+    "Attractions": "앤소아나 동굴, 남부 지역.",
+    "Activities": "동굴 탐험.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "레소토",
+    "City": "마페텡",
+    "Attractions": "공룡 발자국, 남부 지역.",
+    "Activities": "발자국 방문.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "말리",
+    "City": "바마코",
+    "Attractions": "BCEAO 타워, 바마코 대성당, 바마코 그랜드 모스크, 국립 박물관, 중앙 시장, 국립 공원.",
+    "Activities": "국립 박물관 방문, 현지 시장 탐험, 니제르 강에서 보트 여행, 사하라 사막에서 낙타 타기.",
+    "Cuisine": "토 (소스와 함께 제공), 마사 (현지 단맛), 고기와 생선이 든 밥, 지완 (수프).",
+    "Green Spaces": "국립 공원, 니제르 강."
+  },
+  {
+    "Country": "말리",
+    "City": "팀북투",
+    "Attractions": "역사적인 진흙 벽돌 모스크, 고대 도서관, 사막.",
+    "Activities": "역사 장소 탐험.",
+    "Cuisine": "토, 마사.",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "말리",
+    "City": "몹티",
+    "Attractions": "몹티 그랜드 모스크, 니제르 강, 데보 호수.",
+    "Activities": "강 관광, 강과 호수 탐험.",
+    "Cuisine": "토, 마사.",
+    "Green Spaces": "니제르 강, 데보 호수."
+  },
+  {
+    "Country": "말리",
+    "City": "세구",
+    "Attractions": "논밭, 고대 건축물.",
+    "Activities": "농업 관광.",
+    "Cuisine": "토, 마사.",
+    "Green Spaces": "논밭."
+  },
+  {
+    "Country": "말리",
+    "City": "가오",
+    "Attractions": "가오 모스크, 역사 지역.",
+    "Activities": "역사 장소 방문.",
+    "Cuisine": "토, 마사.",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "말리",
+    "City": "시카소",
+    "Attractions": "니제르 강, 농촌 지역.",
+    "Activities": "강 관광.",
+    "Cuisine": "토, 마사.",
+    "Green Spaces": "니제르 강, 농촌 지역."
+  },
+  {
+    "Country": "말리",
+    "City": "코로",
+    "Attractions": "농업 지역.",
+    "Activities": "농업 관광.",
+    "Cuisine": "토, 마사.",
+    "Green Spaces": "농업 지역."
+  },
+  {
+    "Country": "말리",
+    "City": "키달",
+    "Attractions": "사하라 사막.",
+    "Activities": "사막 관광.",
+    "Cuisine": "토, 마사.",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "말레이시아",
+    "City": "쿠알라룸푸르",
+    "Attractions": "페트로나스 트윈 타워, 바투 동굴, 국립 모스크, 중앙 시장.",
+    "Activities": "페트로나스 타워 방문, 바투 동굴 탐험.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "말레이시아",
+    "City": "조지타운",
+    "Attractions": "구시가지 (세계유산), 스트리트 아트, 중국과 인도 유산.",
+    "Activities": "구시가지 탐험, 스트리트 아트 보기.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "말레이시아",
+    "City": "사바 (코타키나발루 포함)",
+    "Attractions": "키나발루 산, 키나발루 국립공원.",
+    "Activities": "등산, 자연 관광.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "키나발루 산, 키나발루 국립공원."
+  },
+  {
+    "Country": "말레이시아",
+    "City": "사라왁",
+    "Attractions": "바코 국립공원, 내륙 지역.",
+    "Activities": "국립공원 탐험.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "바코 국립공원, 내륙 지역."
+  },
+  {
+    "Country": "말레이시아",
+    "City": "말라카",
+    "Attractions": "구시가지 (세계유산), 역사적인 교회.",
+    "Activities": "역사 유산 탐험.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "말레이시아",
+    "City": "카메론 하이랜드",
+    "Attractions": "차 농장, 고원.",
+    "Activities": "산악 관광.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "차 농장, 고원."
+  },
+  {
+    "Country": "말레이시아",
+    "City": "무루드 응가랍",
+    "Attractions": "(자연 지역).",
+    "Activities": "자연 지역 탐험.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "자연 지역."
+  },
+  {
+    "Country": "이집트",
+    "City": "카이로",
+    "Attractions": "기자 피라미드, 이집트 박물관, 칸 엘칼릴리, 알아즈하르 모스크, 살라딘 요새.",
+    "Activities": "피라미드와 박물관 방문, 칸 엘칼릴리에서 쇼핑.",
+    "Cuisine": "코샤리 (쌀, 렌틸콩, 파스타, 튀긴 양파), 몰로키아, 페테르 메샬레트, 마쉬, 팔라펠 (타아메야).",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "이집트",
+    "City": "룩소르",
+    "Attractions": "왕의 계곡, 카르나크 신전, 룩소르 신전.",
+    "Activities": "신전과 고고학 유적지 방문.",
+    "Cuisine": "코샤리, 몰로키아, 페테르 메샬레트.",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "이집트",
+    "City": "샤름엘셰이크",
+    "Attractions": "홍해, 라스 무함마드 (자연 보호구역), 해변.",
+    "Activities": "다이빙과 스노클링, 해변 관광.",
+    "Cuisine": "코샤리, 몰로키아, 페테르 메샬레트.",
+    "Green Spaces": "라스 무함마드 (자연 보호구역), 해변."
+  },
+  {
+    "Country": "이집트",
+    "City": "아스완",
+    "Attractions": "고댐, 필라에 신전, 나일 강.",
+    "Activities": "나일 강 여행 (펠루카), 신전 방문.",
+    "Cuisine": "코샤리, 몰로키아, 페테르 메샬레트.",
+    "Green Spaces": "나일 강."
+  },
+  {
+    "Country": "이집트",
+    "City": "파이윰",
+    "Attractions": "와디 엘라얀, 파이윰 호수.",
+    "Activities": "자연 관광.",
+    "Cuisine": "코샤리, 몰로키아, 페테르 메샬레트.",
+    "Green Spaces": "와디 엘라얀, 파이윰 호수."
+  },
+  {
+    "Country": "이집트",
+    "City": "탄타",
+    "Attractions": "(지역 중심지).",
+    "Activities": "시장 방문.",
+    "Cuisine": "코샤리, 몰로키아, 페테르 메샬레트.",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "이집트",
+    "City": "만수라",
+    "Attractions": "(지역 중심지).",
+    "Activities": "지역 중심지 방문.",
+    "Cuisine": "코샤리, 몰로키아, 페테르 메샬레트.",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "몽골",
+    "City": "울란바토르",
+    "Attractions": "에르데네 주우 사원 (도시 근처), 쉬흐바타르 광장, 역사 국립 박물관, 극장과 오페라.",
+    "Activities": "수도 탐험 (문화 및 경제 중심지), 박물관과 사원 방문, 승마.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "몽골",
+    "City": "하르호린 (카라코룸)",
+    "Attractions": "고대 수도 (세계유산), 에르데네 주우 사원.",
+    "Activities": "역사 장소 탐험.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "몽골",
+    "City": "고비 사막",
+    "Attractions": "모래 언덕 (홍고린 엘스), 독수리 계곡 (욜린 암).",
+    "Activities": "사막 사파리, 계곡과 산 탐험.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "독수리 계곡 (욜린 암)."
+  },
+  {
+    "Country": "몽골",
+    "City": "뫼런",
+    "Attractions": "흐브슬굴 호수 (푸른 진주), 흐브슬굴 국립공원.",
+    "Activities": "호수 관광, 국립공원 탐험.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "흐브슬굴 호수, 흐브슬굴 국립공원."
+  },
+  {
+    "Country": "몽골",
+    "City": "울기",
+    "Attractions": "알타이 산 (독수리 사냥 문화).",
+    "Activities": "독수리 사냥 문화 탐험, 산악 관광.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "알타이 산."
+  },
+  {
+    "Country": "몽골",
+    "City": "알타이",
+    "Attractions": "(국경 지역).",
+    "Activities": "국경 지역 탐험.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "녹지 공간 찾아보기"
+  },
+  {
+    "Country": "몽골",
+    "City": "르항가이",
+    "Attractions": "테르킨 차간 누르 호수.",
+    "Activities": "호수 관광.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "테르킨 차간 누르 호수."
+  },
+  {
+    "Country": "몽골",
+    "City": "다르칸",
+    "Attractions": "(지역 중심지).",
+    "Activities": "지역 중심지 방문.",
+    "Cuisine": "현지 요리 찾아보기",
+    "Green Spaces": "녹지 공간 찾아보기"
+  }
+]

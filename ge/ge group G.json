@@ -1,0 +1,890 @@
+[
+  {
+    "Land": "Kolumbien",
+    "Stadt": "Bogotá",
+    "Sehenswürdigkeiten": "Justizpalast, Primada Kathedrale, Goldmuseum, Monserrate-Hügel, La Candelaria (die Altstadt), Bolívar-Platz, Street-Art-Touren.",
+    "Aktivitäten": "Street-Art-Touren erkunden, mit der Seilbahn zum Monserrate-Hügel fahren, das Goldmuseum besuchen, die Altstadt erkunden.",
+    "Küche": "Ajiaco (Hühner- und Maissuppe), Bandeja Paisa (Fleisch- und Bohnengericht), Sancocho (Maissuppe), Empanadas.",
+    "Grünflächen": "Monserrate-Hügel, La Candelaria (die Altstadt)."
+  },
+  {
+    "Land": "Kolumbien",
+    "Stadt": "Cartagena",
+    "Sehenswürdigkeiten": "Ummauerte Stadt (Weltkulturerbe), Rosario-Inseln, San Felipe Burg, Kathedrale von Cartagena.",
+    "Aktivitäten": "Inselhopping um die Rosario-Inseln (Korallenriffe und weißer Sand), die ummauerte Stadt erkunden.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Rosario-Inseln (Korallenriffe und weißer Sand)."
+  },
+  {
+    "Land": "Kolumbien",
+    "Stadt": "Medellín",
+    "Sehenswürdigkeiten": "Botero-Platz (Künstlerviertel), Antioquia-Museum, Rafael Uribe Palast, TPR Metrocable (Seilbahn).",
+    "Aktivitäten": "Die Altstadt erkunden, mit der Seilbahn für Panoramablicke fahren, Street-Art-Touren.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Kolumbien",
+    "Stadt": "Cali",
+    "Sehenswürdigkeiten": "Salsa-Viertel (Kulturzentrum), Metropolitankathedrale, Städtisches Theater.",
+    "Aktivitäten": "Salsa tanzen (auch wenn Sie Anfänger sind), am jährlichen Feria de Cali Festival teilnehmen.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Kolumbien",
+    "Stadt": "Santa Marta",
+    "Sehenswürdigkeiten": "Nationalpark Tayrona, Sierra Nevada de Santa Marta (schneebedeckte Berge).",
+    "Aktivitäten": "Tayrona-Park erkunden, nahegelegene Strände besuchen, zur verlorenen Stadt (Ciudad Perdida) wandern.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nationalpark Tayrona, Sierra Nevada de Santa Marta (schneebedeckte Berge)."
+  },
+  {
+    "Land": "Kolumbien",
+    "Stadt": "Salento",
+    "Sehenswürdigkeiten": "Cocora-Tal (Wachspalmen), Kaffeeplantagen (Kaffeeanbaugebiet), atemberaubende Landschaften.",
+    "Aktivitäten": "Kaffee direkt von der Quelle genießen, Reiten im Cocora-Tal, Wandern (6 Stunden).",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Cocora-Tal (Wachspalmen), Kaffeeplantagen (Kaffeeanbaugebiet), atemberaubende Landschaften."
+  },
+  {
+    "Land": "Kolumbien",
+    "Stadt": "Popayán",
+    "Sehenswürdigkeiten": "Die weiße Stadt (religiöse Architektur), Universität von Popayán, die Kathedrale.",
+    "Aktivitäten": "Architektur und Religion erkunden, Museen besuchen, die der regionalen Geschichte gewidmet sind.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Kolumbien",
+    "Stadt": "Pasto",
+    "Sehenswürdigkeiten": "(nahe der Grenze zu Ecuador), die Kathedrale, Cocha-See (Laguna de la Cocha).",
+    "Aktivitäten": "Südkolumbien erkunden.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Cocha-See (Laguna de la Cocha)."
+  },
+  {
+    "Land": "Kolumbien",
+    "Stadt": "Leticia",
+    "Sehenswürdigkeiten": "Amazonas-Regenwald, Amazonas-Fluss.",
+    "Aktivitäten": "Regenwald-Tourismus (Amazonas-Fluss), Wildtierbeobachtung.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Amazonas-Regenwald, Amazonas-Fluss."
+  },
+  {
+    "Land": "Kolumbien",
+    "Stadt": "Barranquilla",
+    "Sehenswürdigkeiten": "Karneval von Barranquilla (Weltkulturerbe), Karibik-Museum.",
+    "Aktivitäten": "Am Karneval teilnehmen (eines der größten Feste Lateinamerikas).",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Komoren",
+    "Stadt": "Moroni",
+    "Sehenswürdigkeiten": "Mount Karthala (aktiver Vulkan), Freitagsmoschee (Strandmoschee), enge Straßen und Cafés.",
+    "Aktivitäten": "Wandern im Regenwald, Strände mit weißem Sand erkunden.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Mount Karthala (aktiver Vulkan), Regenwald, Strände mit weißem Sand."
+  },
+  {
+    "Land": "Komoren",
+    "Stadt": "Mohéli",
+    "Sehenswürdigkeiten": "Mohéli Meerespark (Parc Marin de Mohéli), verzaubernde kleine Inseln.",
+    "Aktivitäten": "Meeresschutz-Tourismus, die unberührte Wildnis erkunden.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Meerespark, verzaubernde kleine Inseln, Wildnisgebiete."
+  },
+  {
+    "Land": "Komoren",
+    "Stadt": "Anjouan",
+    "Sehenswürdigkeiten": "Alte marokkanische Plantagen, Nelkenmärkte.",
+    "Aktivitäten": "Die Plantagen erkunden und den Duft der Nelken genießen, in der Natur spazieren gehen.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Alte marokkanische Plantagen, Natur."
+  },
+  {
+    "Land": "Komoren",
+    "Stadt": "Fomboni",
+    "Sehenswürdigkeiten": "Historische Stadt, Museen.",
+    "Aktivitäten": "Die historische Küstenstadt besuchen.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Komoren",
+    "Stadt": "Karthala",
+    "Sehenswürdigkeiten": "Mount Karthala (der Vulkan).",
+    "Aktivitäten": "Den Vulkan besteigen, vulkanisches Gelände erkunden.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Mount Karthala (der Vulkan)."
+  },
+  {
+    "Land": "Komoren",
+    "Stadt": "Mitsamiouli",
+    "Sehenswürdigkeiten": "Nördlicher Hafen, ruhige Strände.",
+    "Aktivitäten": "An den Stränden entspannen.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Ruhige Strände."
+  },
+  {
+    "Land": "Komoren",
+    "Stadt": "Domoni",
+    "Sehenswürdigkeiten": "Küstenstadt, Strände.",
+    "Aktivitäten": "Strand-Tourismus.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Strände."
+  },
+  {
+    "Land": "Komoren",
+    "Stadt": "Mtsamoudou",
+    "Sehenswürdigkeiten": "(historische Stadt auf der Insel Anjouan).",
+    "Aktivitäten": "Historische Sehenswürdigkeiten besuchen.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Komoren",
+    "Stadt": "Simaouni",
+    "Sehenswürdigkeiten": "(Küstendorf).",
+    "Aktivitäten": "Die Küsten besuchen.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Küsten."
+  },
+  {
+    "Land": "Komoren",
+    "Stadt": "Bouéni",
+    "Sehenswürdigkeiten": "(Küstendorf).",
+    "Aktivitäten": "Die Küsten besuchen.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Küsten."
+  },
+  {
+    "Land": "Kiribati",
+    "Stadt": "Tarawa",
+    "Sehenswürdigkeiten": "Historische Stätten des Zweiten Weltkriegs, Maneaba (traditionelle Versammlungshäuser).",
+    "Aktivitäten": "Geführte Kulturtouren, Überreste des Zweiten Weltkriegs erkunden.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Kiribati",
+    "Stadt": "Weihnachtsinsel (Kiritimati)",
+    "Sehenswürdigkeiten": "Lagunen, Wälder, Strände mit weißem Sand, Vogelschutzgebiete für Zugvögel.",
+    "Aktivitäten": "Tauchen und Schnorcheln, Vogelbeobachtung, Kajakfahren in riesigen Binnenseen.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Lagunen, Wälder, Strände mit weißem Sand, Vogelschutzgebiete für Zugvögel."
+  },
+  {
+    "Land": "Kiribati",
+    "Stadt": "Phoenix-Inseln",
+    "Sehenswürdigkeiten": "Meeresschutzgebiet (größtes Meeresreservat der Welt), unberührte Korallenriffe.",
+    "Aktivitäten": "Fortgeschrittenes Tauchen und Schnorcheln (Haie und Mantarochen sehen), Unterwasserökosysteme erkunden.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Meeresschutzgebiet, unberührte Korallenriffe."
+  },
+  {
+    "Land": "Kiribati",
+    "Stadt": "Banaba",
+    "Sehenswürdigkeiten": "Banaba Phosphat-Erbestätten, wiederhergestellte Landschaften.",
+    "Aktivitäten": "Bergbaugeschichte erkunden, aufkommender Ökotourismus.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Wiederhergestellte Landschaften."
+  },
+  {
+    "Land": "Kiribati",
+    "Stadt": "Abaiang",
+    "Sehenswürdigkeiten": "Traditionelle Dörfer, antike Ruinen, nördliche Sandinseln.",
+    "Aktivitäten": "Kulturelles Tauchen, authentische Einblicke in das vorkoloniale Kiribati.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nördliche Sandinseln."
+  },
+  {
+    "Land": "Kiribati",
+    "Stadt": "Tabiteuea",
+    "Sehenswürdigkeiten": "Steinerne Fischfallen, Orte mündlicher Geschichte.",
+    "Aktivitäten": "Kulturelles Tauchen und Erbe des nachhaltigen Fischens.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Kiribati",
+    "Stadt": "Nonouti",
+    "Sehenswürdigkeiten": "Mangroven der Nonouti-Sandinseln, Küstenwälder.",
+    "Aktivitäten": "Einfache Naturwanderungen, Vogelbeobachtung.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Mangroven der Nonouti-Sandinseln, Küstenwälder."
+  },
+  {
+    "Land": "Kiribati",
+    "Stadt": "Butaritari",
+    "Sehenswürdigkeiten": "Gewässer der Butaritari-Lagune, Sandbänke.",
+    "Aktivitäten": "Kajakfahren über Lagunen, landschaftliche Bootstouren.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Gewässer der Butaritari-Lagune, Sandbänke."
+  },
+  {
+    "Land": "Kiribati",
+    "Stadt": "Naura",
+    "Sehenswürdigkeiten": "(abgelegene Sandinseln), Nistplätze für Schildkröten.",
+    "Aktivitäten": "Abgelegene Orte erkunden.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Abgelegene Sandinseln, Nistplätze für Schildkröten."
+  },
+  {
+    "Land": "Kiribati",
+    "Stadt": "South Tarawa",
+    "Sehenswürdigkeiten": "(Verwaltungszentrum).",
+    "Aktivitäten": "Die Verwaltungshauptstadt besuchen.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Kenia",
+    "Stadt": "Nairobi",
+    "Sehenswürdigkeiten": "Nationalmuseum Nairobi, Nairobi Safari Park (innerhalb der Hauptstadt), Ausstellung zur menschlichen Evolution, Mount Longonot (vulkanisches Gelände).",
+    "Aktivitäten": "Nairobi Safari (eine Safari-Abenteuer, ohne die Hauptstadt zu verlassen), Einkaufen auf dem Maasai-Markt, Besuch des Nationalmuseums Nairobi.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nairobi Safari Park, Mount Longonot."
+  },
+  {
+    "Land": "Kenia",
+    "Stadt": "Maasai Mara",
+    "Sehenswürdigkeiten": "Maasai Mara Nationalreservat, Große Tierwanderung (saisonal).",
+    "Aktivitäten": "Safarifahrten in der Maasai Mara, die Große Wanderung miterleben, Wildtierbeobachtung.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Maasai Mara Nationalreservat."
+  },
+  {
+    "Land": "Kenia",
+    "Stadt": "Mombasa",
+    "Sehenswürdigkeiten": "Fort Jesus, Altstadt, die Perle der kenianischen Küste, Küstenstrände.",
+    "Aktivitäten": "Küstentourismus, die Altstadt erkunden, die Strände besuchen.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Küstenstrände."
+  },
+  {
+    "Land": "Kenia",
+    "Stadt": "Amboseli",
+    "Sehenswürdigkeiten": "Amboseli Nationalpark, Ausblicke auf den Mount Kilimandscharo (riesige Elefanten und Bergkulisse).",
+    "Aktivitäten": "Safarifahrten, riesige Elefanten sehen, Fotografie.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Amboseli Nationalpark, Mount Kilimandscharo (Bergkulisse)."
+  },
+  {
+    "Land": "Kenia",
+    "Stadt": "Nakuru",
+    "Sehenswürdigkeiten": "Lake Nakuru (Heimat von rosa Flamingos), Lake Nakuru Nationalpark.",
+    "Aktivitäten": "Flamingobeobachtung, Ökotourismus.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Lake Nakuru, Lake Nakuru Nationalpark."
+  },
+  {
+    "Land": "Kenia",
+    "Stadt": "Lamu",
+    "Sehenswürdigkeiten": "Historische Stadt Lamu (Weltkulturerbe), traditionelle 'Dhow'-Boote, Handwerksmärkte.",
+    "Aktivitäten": "Fahren in traditionellen Booten, Handwerksmärkte besuchen, ruhige Strände genießen.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Ruhige Strände."
+  },
+  {
+    "Land": "Kenia",
+    "Stadt": "Kilifi",
+    "Sehenswürdigkeiten": "Kilifi County, reizvolle Strände und reiche Kultur, Meeresfarmen.",
+    "Aktivitäten": "Strandtourismus, Küstengebiete besuchen.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Reizvolle Strände."
+  },
+  {
+    "Land": "Kenia",
+    "Stadt": "Watamu",
+    "Sehenswürdigkeiten": "Watamu Beach (Ozeanjuwel), Korallenriffe, Meeresschutzgebiete.",
+    "Aktivitäten": "Den Strand genießen, Tauchen und Schnorcheln in den Schutzgebieten.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Watamu Beach, Korallenriffe, Meeresschutzgebiete."
+  },
+  {
+    "Land": "Kenia",
+    "Stadt": "Malindi",
+    "Sehenswürdigkeiten": "Meeresparks, portugiesische Ruinen.",
+    "Aktivitäten": "Meerestourismus, Ruinen erkunden.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Meeresparks."
+  },
+  {
+    "Land": "Kenia",
+    "Stadt": "Kisumu",
+    "Sehenswürdigkeiten": "Lake Victoria, Kisumu Museum.",
+    "Aktivitäten": "See-Tourismus, Museum besuchen.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Lake Victoria."
+  },
+  {
+    "Land": "Lettland",
+    "Stadt": "Riga",
+    "Sehenswürdigkeiten": "Altstadt (Weltkulturerbe), St.-Peter-Kirche, Rathausplatz.",
+    "Aktivitäten": "Die Architektur der Altstadt erkunden.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Lettland",
+    "Stadt": "Daugavpils",
+    "Sehenswürdigkeiten": "Daugavpils Festung, Daugava-Fluss.",
+    "Aktivitäten": "Die historische Festung besuchen.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Daugava-Fluss."
+  },
+  {
+    "Land": "Lettland",
+    "Stadt": "Liepāja",
+    "Sehenswürdigkeiten": "Küstenstrände, der Hafen.",
+    "Aktivitäten": "Küstentourismus.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Küstenstrände."
+  },
+  {
+    "Land": "Lettland",
+    "Stadt": "Ventspils",
+    "Sehenswürdigkeiten": "Ventspils Burg, der Hafen.",
+    "Aktivitäten": "Die Burg und den Hafen besuchen.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Lettland",
+    "Stadt": "Jelgava",
+    "Sehenswürdigkeiten": "Jelgava Palast, das Binnenland.",
+    "Aktivitäten": "Das Binnenland erkunden.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Das Binnenland."
+  },
+  {
+    "Land": "Laos",
+    "Stadt": "Vientiane",
+    "Sehenswürdigkeiten": "Patuxai (Triumphbogen), Wat Sisaket, Pha That Luang.",
+    "Aktivitäten": "Religiöse Denkmäler erkunden.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Laos",
+    "Stadt": "Luang Prabang",
+    "Sehenswürdigkeiten": "Altstadt (Weltkulturerbe), Wat Xieng Thong Tempel, Kuang Si Wasserfälle.",
+    "Aktivitäten": "Die Altstadt erkunden, die Wasserfälle besuchen.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Kuang Si Wasserfälle."
+  },
+  {
+    "Land": "Laos",
+    "Stadt": "Savannakhet",
+    "Sehenswürdigkeiten": "Altstadt, Mekong-Fluss.",
+    "Aktivitäten": "Die Altstadt am Fluss erkunden.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Mekong-Fluss."
+  },
+  {
+    "Land": "Laos",
+    "Stadt": "Pakse",
+    "Sehenswürdigkeiten": "Si Phan Don Fluss (4000 Inseln), Khone Phapheng Wasserfälle.",
+    "Aktivitäten": "Die Inseln erkunden, die Wasserfälle besuchen.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Si Phan Don Fluss (4000 Inseln), Khone Phapheng Wasserfälle."
+  },
+  {
+    "Land": "Laos",
+    "Stadt": "Phongsaly",
+    "Sehenswürdigkeiten": "Bergregionen, Teeplantagen.",
+    "Aktivitäten": "Bergtourismus.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Bergregionen, Teeplantagen."
+  },
+  {
+    "Land": "Laos",
+    "Stadt": "Xam Neua",
+    "Sehenswürdigkeiten": "Reisfelder, Bergregionen.",
+    "Aktivitäten": "Agrartourismus.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Reisfelder, Bergregionen."
+  },
+  {
+    "Land": "Libanon",
+    "Stadt": "Beirut",
+    "Sehenswürdigkeiten": "Taubenfelsen, Nationalmuseum, Hamra-Straße, Märtyrerplatz, die Corniche.",
+    "Aktivitäten": "Naturstätten erkunden (Taubenfelsen), Museen besuchen.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Die Corniche."
+  },
+  {
+    "Land": "Libanon",
+    "Stadt": "Baalbek",
+    "Sehenswürdigkeiten": "Römische Tempel von Baalbek, historische Ruinen.",
+    "Aktivitäten": "Die massiven römischen Tempel besuchen, römische Ruinen erkunden.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Libanon",
+    "Stadt": "Byblos",
+    "Sehenswürdigkeiten": "Stadt Byblos (älteste durchgehend bewohnte Stadt), Alter Hafen, Burg von Byblos.",
+    "Aktivitäten": "Den alten Hafen erkunden, die Burg besuchen.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Libanon",
+    "Stadt": "Jounieh",
+    "Sehenswürdigkeiten": "Jounieh Harissa Seilbahn, Unsere Liebe Frau vom Libanon, Jeita-Grotte.",
+    "Aktivitäten": "Mit der Seilbahn fahren, Gleitschirmfliegen, Unsere Liebe Frau vom Libanon besuchen.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Libanon",
+    "Stadt": "Tripoli",
+    "Sehenswürdigkeiten": "Tripoli Burg, Souks von Tripoli.",
+    "Aktivitäten": "Die Burg und die Souks erkunden.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Luxemburg",
+    "Stadt": "Luxemburg",
+    "Sehenswürdigkeiten": "Adolphe-Brücke, Großherzoglicher Palast, Bock Kasematten (Verteidigungstunnel), Altstadt (Weltkulturerbe).",
+    "Aktivitäten": "Die Hauptstadt als Finanzzentrum erkunden, die Verteidigungstunnel besuchen, durch die Altstadt spazieren.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Luxemburg",
+    "Stadt": "Esch-sur-Alzette",
+    "Sehenswürdigkeiten": "Historische Industriegebiete, Museen.",
+    "Aktivitäten": "Industrietourismus.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Luxemburg",
+    "Stadt": "Differdange",
+    "Sehenswürdigkeiten": "Die Burg, umliegende Gebiete.",
+    "Aktivitäten": "Die Burg besuchen.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Umliegende Gebiete."
+  },
+  {
+    "Land": "Luxemburg",
+    "Stadt": "Ettelbruck",
+    "Sehenswürdigkeiten": "(regionales Zentrum).",
+    "Aktivitäten": "Regionale Zentren besuchen.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Luxemburg",
+    "Stadt": "Remich",
+    "Sehenswürdigkeiten": "Mosel-Fluss, Weinberge.",
+    "Aktivitäten": "Agrartourismus.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Mosel-Fluss, Weinberge."
+  },
+  {
+    "Land": "Libyen",
+    "Stadt": "Tripolis",
+    "Sehenswürdigkeiten": "Altstadt, Bogen des Marcus Aurelius, Rote Burg Museum (Assaraya al-Hamra).",
+    "Aktivitäten": "Die Altstadt erkunden.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Libyen",
+    "Stadt": "Bengasi",
+    "Sehenswürdigkeiten": "Küstenstadt.",
+    "Aktivitäten": "Küstentourismus.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Libyen",
+    "Stadt": "Misrata",
+    "Sehenswürdigkeiten": "Der Hafen.",
+    "Aktivitäten": "Maritimer Tourismus.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Libyen",
+    "Stadt": "Sabha",
+    "Sehenswürdigkeiten": "(regionales Zentrum), die Wüste.",
+    "Aktivitäten": "Wüstentourismus.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Libyen",
+    "Stadt": "Ghat",
+    "Sehenswürdigkeiten": "Alte Wüstenstadt, Akakus-Berge.",
+    "Aktivitäten": "Wüstentourismus, Felskunst erkunden.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Libyen",
+    "Stadt": "Zliten",
+    "Sehenswürdigkeiten": "Al-Asmariya Universität, religiöse Gebiete.",
+    "Aktivitäten": "Religiöser Tourismus.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Libyen",
+    "Stadt": "Sirte",
+    "Sehenswürdigkeiten": "Küstenstadt.",
+    "Aktivitäten": "Küstentourismus.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Libyen",
+    "Stadt": "Bayda",
+    "Sehenswürdigkeiten": "Jabal al-Akhdar Berge.",
+    "Aktivitäten": "Bergtourismus.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Jabal al-Akhdar Berge."
+  },
+  {
+    "Land": "Libyen",
+    "Stadt": "Tobruk",
+    "Sehenswürdigkeiten": "Der Hafen, Grenzgebiete.",
+    "Aktivitäten": "Grenzgebiete besuchen.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Libyen",
+    "Stadt": "Derna",
+    "Sehenswürdigkeiten": "Küstenstadt, umliegende Berggebiete.",
+    "Aktivitäten": "Küsten- und Bergtourismus.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Umliegende Berggebiete."
+  },
+  {
+    "Land": "Litauen",
+    "Stadt": "Vilnius",
+    "Sehenswürdigkeiten": "Altstadt (Weltkulturerbe), Gediminas-Turm, Vilnius Kathedrale.",
+    "Aktivitäten": "Die Altstadt erkunden, Burgen und Museen besuchen.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Litauen",
+    "Stadt": "Kaunas",
+    "Sehenswürdigkeiten": "Altstadt, Kaunas Burg.",
+    "Aktivitäten": "Burgen und Museen besuchen.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Litauen",
+    "Stadt": "Klaipėda",
+    "Sehenswürdigkeiten": "Küstenstadt, Hafen von Klaipėda.",
+    "Aktivitäten": "Küstentourismus.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Litauen",
+    "Stadt": "Palanga",
+    "Sehenswürdigkeiten": "(Seebad), Sandstrände, Botanischer Park Palanga.",
+    "Aktivitäten": "Strandtourismus.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Sandstrände, Botanischer Park Palanga."
+  },
+  {
+    "Land": "Litauen",
+    "Stadt": "Šiauliai",
+    "Sehenswürdigkeiten": "Berg der Kreuze (religiöse Stätte), das Binnenland.",
+    "Aktivitäten": "Den Berg der Kreuze besuchen.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Das Binnenland."
+  },
+  {
+    "Land": "Lesotho",
+    "Stadt": "Maseru",
+    "Sehenswürdigkeiten": "Der Königspalast, das Nationalmuseum.",
+    "Aktivitäten": "Die Verwaltungshauptstadt besuchen.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Lesotho",
+    "Stadt": "Maloti",
+    "Sehenswürdigkeiten": "Maloti Berge, Binnenlandregionen.",
+    "Aktivitäten": "Bergtourismus.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Maloti Berge, Binnenlandregionen."
+  },
+  {
+    "Land": "Lesotho",
+    "Stadt": "Semonkong",
+    "Sehenswürdigkeiten": "Maletsunyane Wasserfälle (höchster Wasserfall Afrikas).",
+    "Aktivitäten": "Die Wasserfälle besuchen.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Maletsunyane Wasserfälle."
+  },
+  {
+    "Land": "Lesotho",
+    "Stadt": "Mohale's Hoek",
+    "Sehenswürdigkeiten": "Höhle von Nts'oana, die südliche Region.",
+    "Aktivitäten": "Höhlen erkunden.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Lesotho",
+    "Stadt": "Mafeteng",
+    "Sehenswürdigkeiten": "Dinosaurierfußabdrücke, die südliche Region.",
+    "Aktivitäten": "Die Fußabdrücke besuchen.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Mali",
+    "Stadt": "Bamako",
+    "Sehenswürdigkeiten": "BCEAO Tower, Bamako Kathedrale, Bamako Große Moschee, Nationalmuseum, Zentralmarkt, Nationalpark.",
+    "Aktivitäten": "Das Nationalmuseum besuchen, lokale Märkte erkunden, Bootsfahrten auf dem Niger-Fluss, Kamelreiten in der Sahara-Wüste.",
+    "Küche": "To (mit Saucen serviert), Masa (lokale Süßigkeiten), Reis mit Fleisch und Fisch, Djiwan (Suppe).",
+    "Grünflächen": "Nationalpark, Niger-Fluss."
+  },
+  {
+    "Land": "Mali",
+    "Stadt": "Timbuktu",
+    "Sehenswürdigkeiten": "Historische Lehmziegel-Moscheen, antike Bibliotheken, die Wüste.",
+    "Aktivitäten": "Historische Stätten erkunden.",
+    "Küche": "To, Masa.",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Mali",
+    "Stadt": "Mopti",
+    "Sehenswürdigkeiten": "Mopti Große Moschee, Niger-Fluss, Lake Débo.",
+    "Aktivitäten": "Flusstourismus, den Fluss und See erkunden.",
+    "Küche": "To, Masa.",
+    "Grünflächen": "Niger-Fluss, Lake Débo."
+  },
+  {
+    "Land": "Mali",
+    "Stadt": "Ségou",
+    "Sehenswürdigkeiten": "Reisfelder, antike Architektur.",
+    "Aktivitäten": "Agrartourismus.",
+    "Küche": "To, Masa.",
+    "Grünflächen": "Reisfelder."
+  },
+  {
+    "Land": "Mali",
+    "Stadt": "Gao",
+    "Sehenswürdigkeiten": "Gao Moschee, historische Gebiete.",
+    "Aktivitäten": "Historische Stätten besuchen.",
+    "Küche": "To, Masa.",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Mali",
+    "Stadt": "Sikasso",
+    "Sehenswürdigkeiten": "Niger-Fluss, ländliche Gebiete.",
+    "Aktivitäten": "Flusstourismus.",
+    "Küche": "To, Masa.",
+    "Grünflächen": "Niger-Fluss, ländliche Gebiete."
+  },
+  {
+    "Land": "Mali",
+    "Stadt": "Koro",
+    "Sehenswürdigkeiten": "Landwirtschaftliche Gebiete.",
+    "Aktivitäten": "Agrartourismus.",
+    "Küche": "To, Masa.",
+    "Grünflächen": "Landwirtschaftliche Gebiete."
+  },
+  {
+    "Land": "Mali",
+    "Stadt": "Kidal",
+    "Sehenswürdigkeiten": "Sahara-Wüste.",
+    "Aktivitäten": "Wüstentourismus.",
+    "Küche": "To, Masa.",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Malaysia",
+    "Stadt": "Kuala Lumpur",
+    "Sehenswürdigkeiten": "Petronas Twin Towers, Batu Caves, Nationalmoschee, Zentralmarkt.",
+    "Aktivitäten": "Die Petronas-Türme besuchen, die Batu-Höhlen erkunden.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Malaysia",
+    "Stadt": "George Town",
+    "Sehenswürdigkeiten": "Altstadt (Weltkulturerbe), Street Art, chinesisches und indisches Erbe.",
+    "Aktivitäten": "Die Altstadt erkunden, Street Art sehen.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Malaysia",
+    "Stadt": "Sabah (einschließlich Kota Kinabalu)",
+    "Sehenswürdigkeiten": "Mount Kinabalu, Kinabalu Nationalpark.",
+    "Aktivitäten": "Bergsteigen, Naturtourismus.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Mount Kinabalu, Kinabalu Nationalpark."
+  },
+  {
+    "Land": "Malaysia",
+    "Stadt": "Sarawak",
+    "Sehenswürdigkeiten": "Bako Nationalpark, Binnenlandregionen.",
+    "Aktivitäten": "Den Nationalpark erkunden.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Bako Nationalpark, Binnenlandregionen."
+  },
+  {
+    "Land": "Malaysia",
+    "Stadt": "Malakka",
+    "Sehenswürdigkeiten": "Altstadt (Weltkulturerbe), historische Kirchen.",
+    "Aktivitäten": "Historisches Erbe erkunden.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Malaysia",
+    "Stadt": "Cameron Highlands",
+    "Sehenswürdigkeiten": "Teeplantagen, das Hochland.",
+    "Aktivitäten": "Bergtourismus.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Teeplantagen, das Hochland."
+  },
+  {
+    "Land": "Malaysia",
+    "Stadt": "Murud Ngarap",
+    "Sehenswürdigkeiten": "(Naturgebiete).",
+    "Aktivitäten": "Naturgebiete erkunden.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Naturgebiete."
+  },
+  {
+    "Land": "Ägypten",
+    "Stadt": "Kairo",
+    "Sehenswürdigkeiten": "Giza-Pyramiden, Ägyptisches Museum, Khan el-Khalili, Al-Azhar Moschee, Saladin Zitadelle.",
+    "Aktivitäten": "Die Pyramiden und das Museum besuchen, auf dem Khan el-Khalili einkaufen.",
+    "Küche": "Koshari (Reis, Linsen, Nudeln und gebratene Zwiebeln), Molokhia, Feteer Meshaltet, Mahshi, Falafel (Ta'ameya).",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Ägypten",
+    "Stadt": "Luxor",
+    "Sehenswürdigkeiten": "Tal der Könige, Karnak Tempel, Luxor Tempel.",
+    "Aktivitäten": "Tempel und archäologische Stätten besuchen.",
+    "Küche": "Koshari, Molokhia, Feteer Meshaltet.",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Ägypten",
+    "Stadt": "Sharm El Sheikh",
+    "Sehenswürdigkeiten": "Rotes Meer, Ras Muhammad (Naturschutzgebiet), Strände.",
+    "Aktivitäten": "Tauchen und Schnorcheln, Strandtourismus.",
+    "Küche": "Koshari, Molokhia, Feteer Meshaltet.",
+    "Grünflächen": "Ras Muhammad (Naturschutzgebiet), Strände."
+  },
+  {
+    "Land": "Ägypten",
+    "Stadt": "Assuan",
+    "Sehenswürdigkeiten": "Hoher Damm, Philae Tempel, Nil-Fluss.",
+    "Aktivitäten": "Nil-Flussfahrten (Felucca), Tempel besuchen.",
+    "Küche": "Koshari, Molokhia, Feteer Meshaltet.",
+    "Grünflächen": "Nil-Fluss."
+  },
+  {
+    "Land": "Ägypten",
+    "Stadt": "Faiyum",
+    "Sehenswürdigkeiten": "Wadi El-Rayan, Faiyums Seen.",
+    "Aktivitäten": "Naturtourismus.",
+    "Küche": "Koshari, Molokhia, Feteer Meshaltet.",
+    "Grünflächen": "Wadi El-Rayan, Faiyums Seen."
+  },
+  {
+    "Land": "Ägypten",
+    "Stadt": "Tanta",
+    "Sehenswürdigkeiten": "(regionales Zentrum).",
+    "Aktivitäten": "Märkte besuchen.",
+    "Küche": "Koshari, Molokhia, Feteer Meshaltet.",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Ägypten",
+    "Stadt": "Mansoura",
+    "Sehenswürdigkeiten": "(regionales Zentrum).",
+    "Aktivitäten": "Regionale Zentren besuchen.",
+    "Küche": "Koshari, Molokhia, Feteer Meshaltet.",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Mongolei",
+    "Stadt": "Ulaanbaatar",
+    "Sehenswürdigkeiten": "Erdene Zuu Kloster (nahe der Stadt), Sükhbaatar Platz, Nationalmuseum für Geschichte, Theater und Oper.",
+    "Aktivitäten": "Die Hauptstadt erkunden (kulturelles und wirtschaftliches Herz), Museen und Klöster besuchen, Reiten.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Mongolei",
+    "Stadt": "Kharkhorin (Karakorum)",
+    "Sehenswürdigkeiten": "Antike Hauptstadt (Weltkulturerbe), Erdene Zuu Kloster.",
+    "Aktivitäten": "Historische Stätten erkunden.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Mongolei",
+    "Stadt": "Gobi-Wüste",
+    "Sehenswürdigkeiten": "Sanddünen (Khongoryn Els), Tal der Adler (Yolyn Am).",
+    "Aktivitäten": "Wüstensafari, Täler und Berge erkunden.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Tal der Adler (Yolyn Am)."
+  },
+  {
+    "Land": "Mongolei",
+    "Stadt": "Mörön",
+    "Sehenswürdigkeiten": "Lake Khövsgöl (die blaue Perle), Khövsgöl Nationalpark.",
+    "Aktivitäten": "See-Tourismus, den Nationalpark erkunden.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Lake Khövsgöl, Khövsgöl Nationalpark."
+  },
+  {
+    "Land": "Mongolei",
+    "Stadt": "Ölgii",
+    "Sehenswürdigkeiten": "Altai-Berge (Adlerjagd-Kultur).",
+    "Aktivitäten": "Adlerjagd-Kultur erkunden, Bergtourismus.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Altai-Berge."
+  },
+  {
+    "Land": "Mongolei",
+    "Stadt": "Altai",
+    "Sehenswürdigkeiten": "(Grenzgebiete).",
+    "Aktivitäten": "Grenzgebiete erkunden.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nach Grünflächen suchen"
+  },
+  {
+    "Land": "Mongolei",
+    "Stadt": "Arkhangai",
+    "Sehenswürdigkeiten": "Terkhiin Tsagaan Nuur See.",
+    "Aktivitäten": "See-Tourismus.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Terkhiin Tsagaan Nuur See."
+  },
+  {
+    "Land": "Mongolei",
+    "Stadt": "Darkhan",
+    "Sehenswürdigkeiten": "(regionales Zentrum).",
+    "Aktivitäten": "Regionale Zentren besuchen.",
+    "Küche": "Nach lokalen Gerichten suchen",
+    "Grünflächen": "Nach Grünflächen suchen"
+  }
+]

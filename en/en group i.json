@@ -1,0 +1,1289 @@
+{
+  "Data": [
+    {
+      "Country": "Bahrain",
+      "Cities": [
+        {
+          "Main City": "Manama",
+          "Prominent Historical and Architectural Landmarks": "Bab Al Bahrain, Bahrain National Museum, Al-Fateh Grand Mosque, Beit Al Quran.",
+          "Key Tourist Activities and Experiences": "Strolling through the Old Manama Souq, visiting museums, enjoying the Corniche.",
+          "Green Spaces and Landscapes": "Al Ammanah Garden, Al Fateh Corniche, Bahrain Bay Park.",
+          "Famous Local Dishes": "Majboos, Bahraini Halwa, Mutabbaq, Mahammar."
+        },
+        {
+          "Main City": "Muharraq",
+          "Prominent Historical and Architectural Landmarks": "Sheikh Isa bin Ali House, Bu Maher Fort, Pearl Path (World Heritage).",
+          "Key Tourist Activities and Experiences": "Exploring the history of pearl diving, visiting museums, walking through old alleys.",
+          "Green Spaces and Landscapes": "Al Hadd Corniche Park, Muharraq beaches.",
+          "Famous Local Dishes": "Regag bread, Burnoush (traditional fish dish), fresh seafood."
+        },
+        {
+          "Main City": "Riffa",
+          "Prominent Historical and Architectural Landmarks": "Riffa Fort (Sheikh Salman bin Ahmed Al-Fateh), Askar historical village.",
+          "Key Tourist Activities and Experiences": "Visiting historical forts, playing golf at the Royal Golf Club.",
+          "Green Spaces and Landscapes": "Ain Adhari Park, palm farms, Royal Golf Club.",
+          "Famous Local Dishes": "Fish Mutabbaq, Khanfroush (fried sweet)."
+        },
+        {
+          "Main City": "Isa Town",
+          "Prominent Historical and Architectural Landmarks": "Bahrain National Stadium, Grand Mosques.",
+          "Key Tourist Activities and Experiences": "Shopping in the traditional souq, attending sporting events.",
+          "Green Spaces and Landscapes": "Isa Town Grand Park.",
+          "Famous Local Dishes": "Baleelait (sweet vermicelli), Aish Mashkhool."
+        },
+        {
+          "Main City": "Zallaq",
+          "Prominent Historical and Architectural Landmarks": "Bahrain International Circuit, Bahrain Tower.",
+          "Key Tourist Activities and Experiences": "Attending Formula 1 races, relaxing at Al Jazayer Beach.",
+          "Green Spaces and Landscapes": "Al Jazayer Beach, coastal parks.",
+          "Famous Local Dishes": "Khabeesa (sweet dish), seafood."
+        },
+        {
+          "Main City": "Sitra",
+          "Prominent Historical and Architectural Landmarks": "Sitra Bridge, old houses, Al-Khamis Mosque.",
+          "Key Tourist Activities and Experiences": "Fishing, visiting local markets, exploring the island.",
+          "Green Spaces and Landscapes": "Sitra Corniche, coastal farms.",
+          "Famous Local Dishes": "Maraqouq (dough and broth), grilled Safi fish."
+        },
+        {
+          "Main City": "Hidd",
+          "Prominent Historical and Architectural Landmarks": "Beyt Al Quran (a branch), Bab Al Bahrain (a branch).",
+          "Key Tourist Activities and Experiences": "Visiting the car museum, enjoying the corniche.",
+          "Green Spaces and Landscapes": "Hidd Corniche Park, beaches.",
+          "Famous Local Dishes": "Grills, seafood."
+        },
+        {
+          "Main City": "Juffair",
+          "Prominent Historical and Architectural Landmarks": "Bahrain City Centre, Juffair Towers.",
+          "Key Tourist Activities and Experiences": "Luxury shopping, dining at fine restaurants.",
+          "Green Spaces and Landscapes": "Juffair Gardens, the Corniche.",
+          "Famous Local Dishes": "International cuisine, cold drinks."
+        },
+        {
+          "Main City": "Al Budaiya",
+          "Prominent Historical and Architectural Landmarks": "Bahrain International Exhibition & Convention Centre, Bab Al Budaiya.",
+          "Key Tourist Activities and Experiences": "Visiting exhibitions and conferences, shopping at the Farmers Market.",
+          "Green Spaces and Landscapes": "Palm farms, Farmers Market (green spaces).",
+          "Famous Local Dishes": "Fresh dates, natural juices."
+        },
+        {
+          "Main City": "Al-Ali",
+          "Prominent Historical and Architectural Landmarks": "Palm farms, old mosques.",
+          "Key Tourist Activities and Experiences": "Visiting farms, exploring rural life.",
+          "Green Spaces and Landscapes": "Vast palm farms, valleys.",
+          "Famous Local Dishes": "Dates, palm products."
+        }
+      ]
+    },
+    {
+      "Country": "Bangladesh",
+      "Cities": [
+        {
+          "Main City": "Dhaka",
+          "Prominent Historical and Architectural Landmarks": "Lalbagh Fort, Sixty Dome Mosque, Jatiya Sangsad Bhaban (National Parliament; designed by Louis Kahn).",
+          "Key Tourist Activities and Experiences": "Riding a Rickshaw, visiting museums, exploring Dhaka's markets.",
+          "Green Spaces and Landscapes": "Ramna Park, Dhanmondi Lake.",
+          "Famous Local Dishes": "Ilish mach (Hilsa fish curry), Dhaka biryani, Panta bhat (fermented rice with water)."
+        },
+        {
+          "Main City": "Chittagong",
+          "Prominent Historical and Architectural Landmarks": "World War II Cemetery, Shrine of Hazrat Bayazid Bostami.",
+          "Key Tourist Activities and Experiences": "Visiting the war cemetery, exploring the Chittagong Hill Tracts, boat trips on the Karnaphuli River.",
+          "Green Spaces and Landscapes": "Foy's Lake, Chittagong hills.",
+          "Famous Local Dishes": "Mezban (spicy beef curry), Shutki (dried fish), prawn curry."
+        },
+        {
+          "Main City": "Cox's Bazar",
+          "Prominent Historical and Architectural Landmarks": "World's longest natural sea beach, Aggamukhi Buddhist Temple.",
+          "Key Tourist Activities and Experiences": "Beach relaxation, boat trips, visiting Buddhist temples.",
+          "Green Spaces and Landscapes": "Cox's Bazar Beach, Himchari Waterfall, Mowdok Mountains.",
+          "Famous Local Dishes": "Prawn curry, fresh seafood, spicy and flavored rice."
+        },
+        {
+          "Main City": "Sylhet",
+          "Prominent Historical and Architectural Landmarks": "Shrine of Hazrat Shah Jalal, Jafflong Garden.",
+          "Key Tourist Activities and Experiences": "Visiting tea gardens, boat trips on the Surma River.",
+          "Green Spaces and Landscapes": "Tea gardens, Ratargul Swamp Forest, Lawachara National Park.",
+          "Famous Local Dishes": "Neep curry, Sylheti rice, Panta bhat."
+        },
+        {
+          "Main City": "Khulna",
+          "Prominent Historical and Architectural Landmarks": "Khan Jahan Ali's palace, Khan Jahan's Shrine.",
+          "Key Tourist Activities and Experiences": "Visiting historical palaces, river safaris in the Sundarbans.",
+          "Green Spaces and Landscapes": "Rupsa River, nearby Sundarbans forest.",
+          "Famous Local Dishes": "Giant prawn curry, fried bread (Luchi)."
+        },
+        {
+          "Main City": "Rajshahi",
+          "Prominent Historical and Architectural Landmarks": "Puthia Rajbari (palace), Varendra Research Museum.",
+          "Key Tourist Activities and Experiences": "Buying silk, visiting museums, strolling along the Padma River banks.",
+          "Green Spaces and Landscapes": "Bollov Garden, Padma River banks.",
+          "Famous Local Dishes": "Rajshahi sweets, Rangapith (sweet rice dish)."
+        },
+        {
+          "Main City": "Bogra",
+          "Prominent Historical and Architectural Landmarks": "Mahasthangarh (historical ruins), Archaeological Museum.",
+          "Key Tourist Activities and Experiences": "Visiting the archaeological site, exploring ancient Bangladesh's history.",
+          "Green Spaces and Landscapes": "Green rural areas.",
+          "Famous Local Dishes": "Doi (sweet yogurt), goat meat curry."
+        },
+        {
+          "Main City": "Barisal",
+          "Prominent Historical and Architectural Landmarks": "Bakerganj Fort, Durga Sagar.",
+          "Key Tourist Activities and Experiences": "Touring the floating guava market, boat trips in the Ganges Delta.",
+          "Green Spaces and Landscapes": "Floating guava market, Ganges Delta rivers.",
+          "Famous Local Dishes": "Shutki Ilish mach, Ganges Delta vegetables."
+        },
+        {
+          "Main City": "Rangamati",
+          "Prominent Historical and Architectural Landmarks": "Rajbagi Palace, Tribal Museum.",
+          "Key Tourist Activities and Experiences": "Touring Kaptai Lake, visiting the hanging bridge, exploring tribal life.",
+          "Green Spaces and Landscapes": "Kaptai Lake, Hanging Bridge, Rangamati hills.",
+          "Famous Local Dishes": "Bamboo Chicken (chicken cooked in bamboo), local tribal dishes."
+        },
+        {
+          "Main City": "Comilla",
+          "Prominent Historical and Architectural Landmarks": "Mainamati Buddhist ruins, Shalban Vihara.",
+          "Key Tourist Activities and Experiences": "Visiting Buddhist archaeological sites, exploring the region's history.",
+          "Green Spaces and Landscapes": "Comilla Cantonment Park.",
+          "Famous Local Dishes": "Roshmalai (condensed milk dessert), Comilla rice."
+        }
+      ]
+    },
+    {
+      "Country": "Bhutan",
+      "Cities": [
+        {
+          "Main City": "Thimphu",
+          "Prominent Historical and Architectural Landmarks": "Buddha Dordenma statue, Tashichho Dzong, General Post Office.",
+          "Key Tourist Activities and Experiences": "Visiting monasteries, buying postage stamps, watching traditional dances.",
+          "Green Spaces and Landscapes": "Takin Preserve, Thimphu National Park.",
+          "Famous Local Dishes": "Ema Datshi (chili with cheese), Momo (dumplings)."
+        },
+        {
+          "Main City": "Paro",
+          "Prominent Historical and Architectural Landmarks": "Tiger's Nest (Taktsang), Rinpung Dzong, National Museum.",
+          "Key Tourist Activities and Experiences": "Hiking to Tiger's Nest, visiting the museum, exploring the Paro Valley.",
+          "Green Spaces and Landscapes": "Paro Valley, Paro hills.",
+          "Famous Local Dishes": "Phaksha Paa (pork belly with chili), Suja (butter tea)."
+        },
+        {
+          "Main City": "Punakha",
+          "Prominent Historical and Architectural Landmarks": "Punakha Dzong (the fortress), Chimi Lhakhang (fertility temple).",
+          "Key Tourist Activities and Experiences": "Visiting the fortress, walking across the suspension bridge, river rafting.",
+          "Green Spaces and Landscapes": "Confluence of Mo Chhu and Po Chhu rivers, suspension bridge.",
+          "Famous Local Dishes": "Zow (sweet rice), Hoentoe (buckwheat dumplings)."
+        },
+        {
+          "Main City": "Bumthang (Jakar)",
+          "Prominent Historical and Architectural Landmarks": "Jakar Dzong, ancient temples, Jambay Lhakhang.",
+          "Key Tourist Activities and Experiences": "Attending local festivals, visiting a cheese factory.",
+          "Green Spaces and Landscapes": "Fertile Bumthang Valley, buckwheat fields.",
+          "Famous Local Dishes": "Yak burger, Bumthang Swiss cheese."
+        },
+        {
+          "Main City": "Phuentsholing",
+          "Prominent Historical and Architectural Landmarks": "Gateway to Bhutan, border market.",
+          "Key Tourist Activities and Experiences": "Cross-border shopping, visiting Phuentsholing Nature Park.",
+          "Green Spaces and Landscapes": "Phuentsholing Nature Park.",
+          "Famous Local Dishes": "Sikam Paa (pork with radish), Indian cuisine."
+        },
+        {
+          "Main City": "Gangtey (Phobjikha)",
+          "Prominent Historical and Architectural Landmarks": "Gangtey Monastery, Phobjikha Village.",
+          "Key Tourist Activities and Experiences": "Watching black-necked cranes, hiking.",
+          "Green Spaces and Landscapes": "Phobjikha Valley, bird trails.",
+          "Famous Local Dishes": "Ema Datshi, Momo."
+        },
+        {
+          "Main City": "Trongsa",
+          "Prominent Historical and Architectural Landmarks": "Trongsa Dzong (the largest fortress), Ta Dzong (watchtower museum).",
+          "Key Tourist Activities and Experiences": "Visiting the fortress, exploring mountain passes.",
+          "Green Spaces and Landscapes": "Mountain passes, valleys.",
+          "Famous Local Dishes": "Shamday (buckwheat pancakes)."
+        },
+        {
+          "Main City": "Mongar",
+          "Prominent Historical and Architectural Landmarks": "Mongar Dzong.",
+          "Key Tourist Activities and Experiences": "Enjoying the winding mountain road, visiting the local market.",
+          "Green Spaces and Landscapes": "Eastern mountain views.",
+          "Famous Local Dishes": "Mongar lemonade, Ema Datshi."
+        },
+        {
+          "Main City": "Trashigang",
+          "Prominent Historical and Architectural Landmarks": "Trashigang Dzong.",
+          "Key Tourist Activities and Experiences": "Visiting the Dzong, exploring tribal life.",
+          "Green Spaces and Landscapes": "Gamri River, eastern Bhutan forests.",
+          "Famous Local Dishes": "Local tribal dishes, ginger tea."
+        },
+        {
+          "Main City": "Samdrup Jongkhar",
+          "Prominent Historical and Architectural Landmarks": "Yongphulla Airport, waterfalls.",
+          "Key Tourist Activities and Experiences": "Visiting one of the world's highest airports, exploring tropical forests.",
+          "Green Spaces and Landscapes": "Tropical forests, waterfalls.",
+          "Famous Local Dishes": "Local cuisine, Indian dishes."
+        }
+      ]
+    },
+    {
+      "Country": "Saudi Arabia",
+      "Cities": [
+        {
+          "Main City": "Riyadh",
+          "Prominent Historical and Architectural Landmarks": "Kingdom Centre, King Abdullah Financial District, At-Turaif (Diriyah), National Museum of Natural History.",
+          "Key Tourist Activities and Experiences": "Visiting Diriyah, shopping at Boulevard Riyadh City, Riyadh Season.",
+          "Green Spaces and Landscapes": "King Abdullah Park, Wadi Hanifa.",
+          "Famous Local Dishes": "Kabsa, Jareesh, Qursan, Mutabbaq."
+        },
+        {
+          "Main City": "Jeddah",
+          "Prominent Historical and Architectural Landmarks": "Historical Jeddah (Al-Balad), King Fahd Fountain, Al-Rahmah Mosque, King Fahd's Fountain.",
+          "Key Tourist Activities and Experiences": "Strolling through Historical Jeddah, the Corniche, diving in the Red Sea.",
+          "Green Spaces and Landscapes": "Jeddah Corniche, Red Sea Mall Beach.",
+          "Famous Local Dishes": "Sayadiyah (rice with fish), Mashbūt, Hijazi fish."
+        },
+        {
+          "Main City": "Mecca",
+          "Prominent Historical and Architectural Landmarks": "The Grand Mosque (Al-Masjid al-Haram), Jabal al-Nour, Hira Cave, Jabal Arafat, Abraj Al Bait.",
+          "Key Tourist Activities and Experiences": "Performing Umrah, visiting religious sites.",
+          "Green Spaces and Landscapes": "Al-Shara'i Garden.",
+          "Famous Local Dishes": "Fattūt (Meccan bread dish), Manto and Yaghmash, Kabsa."
+        },
+        {
+          "Main City": "Medina",
+          "Prominent Historical and Architectural Landmarks": "The Prophet's Mosque (Al-Masjid an-Nabawi), Quba Mosque, Mount Uhud, Quba Fortress.",
+          "Key Tourist Activities and Experiences": "Visiting the Prophet's Mosque, Quba Mosque, Al-Ukhdud Souq.",
+          "Green Spaces and Landscapes": "Mount Uhud, Al-Ukhdud parks.",
+          "Famous Local Dishes": "Al-Madani (meat and rice dish), Ajwa dates."
+        },
+        {
+          "Main City": "Dammam",
+          "Prominent Historical and Architectural Landmarks": "Dammam Regional Museum, King Abdulaziz Center for World Culture (Ithra), Dammam Corniche.",
+          "Key Tourist Activities and Experiences": "Visiting Ithra, shopping in malls, relaxing on the Corniche.",
+          "Green Spaces and Landscapes": "Dammam Corniche, King Fahd Park.",
+          "Famous Local Dishes": "Gulf Majboos, Zubaidi Mutabbaq, grilled fish."
+        },
+        {
+          "Main City": "Abha",
+          "Prominent Historical and Architectural Landmarks": "Rijal Almaa Heritage Village, Shamsan Castle, Asir National Park.",
+          "Key Tourist Activities and Experiences": "Visiting Rijal Almaa village, cable car to Al-Souda, exploring the mountains.",
+          "Green Spaces and Landscapes": "Asir National Park, Jabal Dara, Asir Mountains.",
+          "Famous Local Dishes": "Areeka, Haneeth, Aseeda."
+        },
+        {
+          "Main City": "Ta'if",
+          "Prominent Historical and Architectural Landmarks": "Shubra Palace, Souk Okaz, Al-Hada and Al-Shifa.",
+          "Key Tourist Activities and Experiences": "Visiting rose farms, Souk Okaz, relaxing in Al-Hada and Al-Shifa.",
+          "Green Spaces and Landscapes": "Al-Hada and Al-Shifa (mountainous areas), rose farms.",
+          "Famous Local Dishes": "Taifi Kabsa, Taif rose water, Baklava."
+        },
+        {
+          "Main City": "Tabuk",
+          "Prominent Historical and Architectural Landmarks": "Tabuk Castle, Hijaz Railway, Wadi Disah.",
+          "Key Tourist Activities and Experiences": "Visiting Wadi Disah, exploring the history of the Hijaz Railway.",
+          "Green Spaces and Landscapes": "Wadi Disah, Hisma Mountains.",
+          "Famous Local Dishes": "Sharak bread, Mafrouka, Mandi."
+        },
+        {
+          "Main City": "Hail",
+          "Prominent Historical and Architectural Landmarks": "Airif Fort, Jubbah rock art, Aja and Salma mountains.",
+          "Key Tourist Activities and Experiences": "Visiting the mountains, exploring rock art.",
+          "Green Spaces and Landscapes": "Aja and Salma mountains, Al-Maghwa Park.",
+          "Famous Local Dishes": "Tashreeb (bread in broth), Harees, Jareesh."
+        },
+        {
+          "Main City": "Najran",
+          "Prominent Historical and Architectural Landmarks": "Najran Emirate Palace, Al-Ablaa Fort, Najran antiquities.",
+          "Key Tourist Activities and Experiences": "Visiting historical palaces, exploring antiquities.",
+          "Green Spaces and Landscapes": "Wadi Najran, Najran mountains.",
+          "Famous Local Dishes": "Ruzbi (rice with milk), Luqaimat, Mafrouka."
+        }
+      ]
+    },
+    {
+      "Country": "Qatar",
+      "Cities": [
+        {
+          "Main City": "Doha",
+          "Prominent Historical and Architectural Landmarks": "Museum of Islamic Art, Souq Waqif, The Pearl-Qatar, Qatar National Convention Centre.",
+          "Key Tourist Activities and Experiences": "Shopping at Souq Waqif, visiting museums, dhow boat cruises on the Corniche.",
+          "Green Spaces and Landscapes": "Doha Corniche, Al Bidda Park, Aspire Park.",
+          "Famous Local Dishes": "Machboos, Thareed, Majboos, Mutabbaq."
+        },
+        {
+          "Main City": "Al Wakrah",
+          "Prominent Historical and Architectural Landmarks": "Al Wakrah Souq, Al Janoub Stadium, Al Wakrah Fort.",
+          "Key Tourist Activities and Experiences": "Visiting the old souq, relaxing at the beach.",
+          "Green Spaces and Landscapes": "Al Wakrah Family Beach.",
+          "Famous Local Dishes": "Qatari Majboos, Harees (date and oatmeal dish)."
+        },
+        {
+          "Main City": "Al Khor",
+          "Prominent Historical and Architectural Landmarks": "Al Khor Tower, Al Khor Grand Mosque.",
+          "Key Tourist Activities and Experiences": "Visiting the tower, exploring mangroves.",
+          "Green Spaces and Landscapes": "Al Thakira Mangroves, Al Khor Corniche.",
+          "Famous Local Dishes": "Qatari Mahshi, grilled fish."
+        },
+        {
+          "Main City": "Mesaieed",
+          "Prominent Historical and Architectural Landmarks": "Mesaieed Port, Sealine Beach Resort.",
+          "Key Tourist Activities and Experiences": "Dune bashing at Sealine, visiting Khor Al Adaid (Inland Sea).",
+          "Green Spaces and Landscapes": "Sealine (sand dunes), Khor Al Adaid (Inland Sea).",
+          "Famous Local Dishes": "Traditional Bedouin cuisine, Arabic coffee."
+        },
+        {
+          "Main City": "Al Rayyan",
+          "Prominent Historical and Architectural Landmarks": "Education City, Qatar National Library, Al Rayyan Sports Club.",
+          "Key Tourist Activities and Experiences": "Visiting Education City, shopping at Doha Festival City.",
+          "Green Spaces and Landscapes": "Al Rayyan Park.",
+          "Famous Local Dishes": "Regag bread, Arabic coffee."
+        },
+        {
+          "Main City": "Al Shamal",
+          "Prominent Historical and Architectural Landmarks": "Al Zubarah Fort (World Heritage), Al Ruwais Fort.",
+          "Key Tourist Activities and Experiences": "Visiting Al Zubarah Fort, relaxing at the beach.",
+          "Green Spaces and Landscapes": "Al Ruwais Beach.",
+          "Famous Local Dishes": "Fish Majboos, seafood."
+        },
+        {
+          "Main City": "Dukhan",
+          "Prominent Historical and Architectural Landmarks": "Dukhan Archaeological Museum, Dukhan Mosque.",
+          "Key Tourist Activities and Experiences": "Visiting the museum, relaxing on the western beaches.",
+          "Green Spaces and Landscapes": "Dukhan beaches.",
+          "Famous Local Dishes": "Western seafood dishes, Mutabbaq."
+        },
+        {
+          "Main City": "Lusail",
+          "Prominent Historical and Architectural Landmarks": "Lusail Stadium, Lusail Marina, Place Vendome.",
+          "Key Tourist Activities and Experiences": "Shopping at Place Vendome, strolling along the Marina.",
+          "Green Spaces and Landscapes": "Modern parks in Lusail.",
+          "Famous Local Dishes": "Lusail luxury sweets, international cuisine."
+        },
+        {
+          "Main City": "Umm Salal",
+          "Prominent Historical and Architectural Landmarks": "Barzan Towers (historical), Umm Salal Sports Club.",
+          "Key Tourist Activities and Experiences": "Visiting Barzan Towers.",
+          "Green Spaces and Landscapes": "Umm Salal Ali Park.",
+          "Famous Local Dishes": "Luqaimat (fried sweet dumplings), Mutabbaq."
+        },
+        {
+          "Main City": "Al Daayen",
+          "Prominent Historical and Architectural Landmarks": "Lusail Towers (architectural), Qatar Racing & Equestrian Club.",
+          "Key Tourist Activities and Experiences": "Visiting the Equestrian Club, exploring the modern city.",
+          "Green Spaces and Landscapes": "Al Daayen Park.",
+          "Famous Local Dishes": "Margoog, Kabsa."
+        }
+      ]
+    },
+    {
+      "Country": "Ukraine",
+      "Cities": [
+        {
+          "Main City": "Kyiv",
+          "Prominent Historical and Architectural Landmarks": "Kyiv Pechersk Lavra, Saint Sophia's Cathedral, Maidan Nezalezhnosti (Independence Square), Golden Gate, National Museum of the History of Ukraine.",
+          "Key Tourist Activities and Experiences": "Exploring Orthodox architecture, art and cultural tours.",
+          "Green Spaces and Landscapes": "Mariyinsky Park, Feofaniya Park, Fedyukovycha Park.",
+          "Famous Local Dishes": "Borscht (beetroot soup), Varenyky (dumplings), Kotleta (patty), Holubtsi (cabbage rolls), Pyrizhky (baked pies)."
+        },
+        {
+          "Main City": "Kharkiv",
+          "Prominent Historical and Architectural Landmarks": "Freedom Square, Gorky Park, Annunciation Cathedral, Museum of Fine Arts.",
+          "Key Tourist Activities and Experiences": "Strolling through large squares, visiting museums and theaters.",
+          "Green Spaces and Landscapes": "Gorky Central Park, Shevchenko Park.",
+          "Famous Local Dishes": "Borscht, Varenyky."
+        },
+        {
+          "Main City": "Odesa",
+          "Prominent Historical and Architectural Landmarks": "Odesa National Academic Opera and Ballet Theater, Potemkin Stairs, Deribasivska Street.",
+          "Key Tourist Activities and Experiences": "Black Sea coastal tourism, attending theatrical performances.",
+          "Green Spaces and Landscapes": "City Garden, Shevchenko Park.",
+          "Famous Local Dishes": "Salads, Bliny (pancakes)."
+        },
+        {
+          "Main City": "Lviv",
+          "Prominent Historical and Architectural Landmarks": "Rynok Square, Lviv Opera House, High Castle.",
+          "Key Tourist Activities and Experiences": "Exploring the Old Town (World Heritage), tasting local coffee and chocolate.",
+          "Green Spaces and Landscapes": "Lychakivskiy Cemetery, Stryiskyi Park.",
+          "Famous Local Dishes": "Borscht."
+        },
+        {
+          "Main City": "Dnipro",
+          "Prominent Historical and Architectural Landmarks": "The Embankment, Museum of Space, Monastyrsky Island, Dnieper River.",
+          "Key Tourist Activities and Experiences": "Strolling along the Dnieper River, exploring Ukraine's space history.",
+          "Green Spaces and Landscapes": "Lazara Hloba Park, Monastyrsky Beach.",
+          "Famous Local Dishes": "Borscht."
+        },
+        {
+          "Main City": "Donetsk",
+          "Prominent Historical and Architectural Landmarks": "Forshkovsky Park, Donbas Arena, Museum of Arts.",
+          "Key Tourist Activities and Experiences": "Visiting museums and parks (subject to security conditions).",
+          "Green Spaces and Landscapes": "Forshkovsky Park, Sheremetov Park.",
+          "Famous Local Dishes": "Borscht."
+        },
+        {
+          "Main City": "Sevastopol",
+          "Prominent Historical and Architectural Landmarks": "Crimean Peninsula, Sevastopol Panorama, Black Sea Fleet Museum.",
+          "Key Tourist Activities and Experiences": "Exploring naval history.",
+          "Green Spaces and Landscapes": "Acropolis Park, Opir Beach.",
+          "Famous Local Dishes": "Borscht."
+        },
+        {
+          "Main City": "Zaporizhzhia",
+          "Prominent Historical and Architectural Landmarks": "Khortytsia Island, Museum of Zaporizhzhian Cossacks.",
+          "Key Tourist Activities and Experiences": "Historical tours about the Cossacks, exploring nature on the river.",
+          "Green Spaces and Landscapes": "Khortytsia Island (nature reserve), Dubova Park.",
+          "Famous Local Dishes": "Borscht."
+        },
+        {
+          "Main City": "Mykolaiv",
+          "Prominent Historical and Architectural Landmarks": "Mykolaiv Astronomical Observatory, Museum of Shipbuilding and Fleet.",
+          "Key Tourist Activities and Experiences": "Visiting scientific and historical sites.",
+          "Green Spaces and Landscapes": "Perovsky Park, Park of Heroes.",
+          "Famous Local Dishes": "Borscht."
+        },
+        {
+          "Main City": "Kropyvnytskyi",
+          "Prominent Historical and Architectural Landmarks": "Princess Olga's Baths, Strategic Missile Forces Museum.",
+          "Key Tourist Activities and Experiences": "Exploring historical and military sites.",
+          "Green Spaces and Landscapes": "Princess Olga's Baths Park.",
+          "Famous Local Dishes": "Borscht."
+        }
+      ]
+    },
+    {
+      "Country": "Eritrea",
+      "Cities": [
+        {
+          "Main City": "Asmara",
+          "Prominent Historical and Architectural Landmarks": "St. Joseph's Cathedral, Asmara Opera House, Governor's Palace, Modernist buildings (Art Deco), National Museum of Eritrea.",
+          "Key Tourist Activities and Experiences": "Exploring Art Deco architecture (World Heritage), visiting the National Museum, strolling in Italian cafes.",
+          "Green Spaces and Landscapes": "Mara Garden, tree-lined streets of Asmara.",
+          "Famous Local Dishes": "Zigni (meat stew), Injera (sourdough flatbread), Ga'at (porridge), Tegabino."
+        },
+        {
+          "Main City": "Massawa",
+          "Prominent Historical and Architectural Landmarks": "Historical Port of Massawa, Old City, Ottoman and Egyptian antiquities.",
+          "Key Tourist Activities and Experiences": "Exploring historical coastal architecture, diving in the Red Sea.",
+          "Green Spaces and Landscapes": "Sandy beaches, surrounding islands.",
+          "Famous Local Dishes": "Zigni, Injera."
+        },
+        {
+          "Main City": "Keren",
+          "Prominent Historical and Architectural Landmarks": "Camel Market, Fort Bein, Mariam Dearit shrine, Old City.",
+          "Key Tourist Activities and Experiences": "Visiting traditional markets, exploring religious sites.",
+          "Green Spaces and Landscapes": "Mountains surrounding the coast, beaches.",
+          "Famous Local Dishes": "Zigni, Injera."
+        },
+        {
+          "Main City": "Dekemhare",
+          "Prominent Historical and Architectural Landmarks": "Italian colonial architecture, Dekemhare Market.",
+          "Key Tourist Activities and Experiences": "Exploring Italian relics in the highlands.",
+          "Green Spaces and Landscapes": "Mountain views, surrounding farms.",
+          "Famous Local Dishes": "Zigni, Injera."
+        },
+        {
+          "Main City": "Adi Quala",
+          "Prominent Historical and Architectural Landmarks": "Archaeological sites, Adi Quala Museum.",
+          "Key Tourist Activities and Experiences": "Visiting archaeological sites, exploring villages.",
+          "Green Spaces and Landscapes": "Surrounding hills and valleys.",
+          "Famous Local Dishes": "Zigni, Injera."
+        },
+        {
+          "Main City": "Teseney",
+          "Prominent Historical and Architectural Landmarks": "Teseney River, border town.",
+          "Key Tourist Activities and Experiences": "Exploring the western regions.",
+          "Green Spaces and Landscapes": "Banks of the Teseney River, savannah.",
+          "Famous Local Dishes": "Zigni, Injera."
+        },
+        {
+          "Main City": "Qondar",
+          "Prominent Historical and Architectural Landmarks": "Coastal villages, Red Sea beaches.",
+          "Key Tourist Activities and Experiences": "Beach tourism and fishing.",
+          "Green Spaces and Landscapes": "Beaches, coral islands.",
+          "Famous Local Dishes": "Zigni, Injera."
+        },
+        {
+          "Main City": "Agordat",
+          "Prominent Historical and Architectural Landmarks": "Main Market, historical military sites.",
+          "Key Tourist Activities and Experiences": "Strolling through the local market.",
+          "Green Spaces and Landscapes": "Agricultural land, hills.",
+          "Famous Local Dishes": "Zigni, Injera."
+        },
+        {
+          "Main City": "Mendefera",
+          "Prominent Historical and Architectural Landmarks": "Ancient archaeological sites (Metera).",
+          "Key Tourist Activities and Experiences": "Exploring antiquities.",
+          "Green Spaces and Landscapes": "Rocky hills, archaeological sites.",
+          "Famous Local Dishes": "Zigni, Injera."
+        },
+        {
+          "Main City": "Barentu",
+          "Prominent Historical and Architectural Landmarks": "Mining town, plains areas.",
+          "Key Tourist Activities and Experiences": "Visiting natural areas.",
+          "Green Spaces and Landscapes": "Plains, agricultural land.",
+          "Famous Local Dishes": "Zigni, Injera."
+        }
+      ]
+    },
+    {
+      "Country": "Spain",
+      "Cities": [
+        {
+          "Main City": "Madrid",
+          "Prominent Historical and Architectural Landmarks": "Royal Palace, Prado Museum, Plaza Mayor, Puerta del Sol, Retiro Park.",
+          "Key Tourist Activities and Experiences": "Art and cultural tours, shopping on Gran Vía, tasting tapas, attending football matches.",
+          "Green Spaces and Landscapes": "Retiro Park, Casa de Campo, Juan Carlos I Park.",
+          "Famous Local Dishes": "Paella, Tapas, Gazpacho, Tortilla Española (potato omelette), Chorizo (spicy sausage)."
+        },
+        {
+          "Main City": "Barcelona",
+          "Prominent Historical and Architectural Landmarks": "Sagrada Família, Gothic Quarter, Park Güell, La Rambla, Casa Batlló.",
+          "Key Tourist Activities and Experiences": "Exploring Gaudí's works, beach tourism, walking through old streets.",
+          "Green Spaces and Landscapes": "Park Güell, Ciutadella Park, Montjuïc Park.",
+          "Famous Local Dishes": "Fideuà, Pan Tomate, Crema Catalana."
+        },
+        {
+          "Main City": "Seville",
+          "Prominent Historical and Architectural Landmarks": "Alcázar of Seville, Seville Cathedral, Plaza de España, Santa Cruz quarter.",
+          "Key Tourist Activities and Experiences": "Watching Flamenco shows, exploring Moorish architecture, historical tours.",
+          "Green Spaces and Landscapes": "María Luisa Park, Mirador de la Muralla.",
+          "Famous Local Dishes": "Paella de Valencia (local version), Picadillo."
+        },
+        {
+          "Main City": "Valencia",
+          "Prominent Historical and Architectural Landmarks": "City of Arts and Sciences, Central Market, Valencia Cathedral, Port of Valencia.",
+          "Key Tourist Activities and Experiences": "Visiting the futuristic city, tasting authentic Paella, enjoying the Mediterranean coast.",
+          "Green Spaces and Landscapes": "Turia Gardens, Valencia Central Park.",
+          "Famous Local Dishes": "Paella (the original), Fabada (bean stew), Chorizo."
+        },
+        {
+          "Main City": "Malaga",
+          "Prominent Historical and Architectural Landmarks": "Alcazaba, Gibralfaro Castle, Picasso Museum, Muelle Uno.",
+          "Key Tourist Activities and Experiences": "Coastal tourism on Costa del Sol, visiting art museums.",
+          "Green Spaces and Landscapes": "Malaga Park, Montes de Málaga Natural Park.",
+          "Famous Local Dishes": "Plato de los Montes (grilled meat), Boquerones (fried anchovies)."
+        },
+        {
+          "Main City": "Cordoba",
+          "Prominent Historical and Architectural Landmarks": "The Mosque-Cathedral (Mezquita), Alcázar of the Christian Monarchs, Jewish Quarter.",
+          "Key Tourist Activities and Experiences": "Exploring Islamic and Christian heritage, visiting the Patios Festival.",
+          "Green Spaces and Landscapes": "Gardens of the Alcázar, Victoria Gardens.",
+          "Famous Local Dishes": "Salmorejo, Flamenquín."
+        },
+        {
+          "Main City": "Granada",
+          "Prominent Historical and Architectural Landmarks": "Alhambra, Generalife, Albaicín quarter.",
+          "Key Tourist Activities and Experiences": "Exploring Moorish palaces, watching the sunset from Albaicín.",
+          "Green Spaces and Landscapes": "Generalife Gardens, Carmen de los Martires Gardens.",
+          "Famous Local Dishes": "Patatas a lo pobre, Remojón Granadino."
+        },
+        {
+          "Main City": "Bilbao",
+          "Prominent Historical and Architectural Landmarks": "Guggenheim Museum, Casco Viejo (Old Town), Zubizuri Bridge.",
+          "Key Tourist Activities and Experiences": "Modern architecture tours, tasting Pintxos (Basque tapas).",
+          "Green Spaces and Landscapes": "Doña Casilda Iturrizar Park, Etxebarria Park.",
+          "Famous Local Dishes": "Pintxos, Bacalao al Pil Pil (cod)."
+        },
+        {
+          "Main City": "Alicante",
+          "Prominent Historical and Architectural Landmarks": "Santa Bárbara Castle, Explanada de España, Santa Cruz quarter.",
+          "Key Tourist Activities and Experiences": "Enjoying the beaches, shopping and entertainment at the marina.",
+          "Green Spaces and Landscapes": "Canalejas Park, El Palmeral Park.",
+          "Famous Local Dishes": "Arroz a Banda, Turrón (almond sweets)."
+        },
+        {
+          "Main City": "Las Palmas (Canary Islands)",
+          "Prominent Historical and Architectural Landmarks": "Mount Teide volcano, Las Canteras Beach, Casa de Colón, Doramas Park.",
+          "Key Tourist Activities and Experiences": "Geological and volcanic tourism, exploring UNESCO heritage sites.",
+          "Green Spaces and Landscapes": "Doramas Park, Territorio Park.",
+          "Famous Local Dishes": "Papas Arrugadas (wrinkly potatoes), Mojos (sauces)."
+        },
+        {
+          "Main City": "Marbella",
+          "Prominent Historical and Architectural Landmarks": "Puerto Banús, Playa de la Fontanilla, Old Town, green areas.",
+          "Key Tourist Activities and Experiences": "Luxury beach tourism, shopping, enjoying the mild climate.",
+          "Green Spaces and Landscapes": "La Concepción Park, Alfonso Park.",
+          "Famous Local Dishes": "Paella, Tapas."
+        },
+        {
+          "Main City": "Toledo",
+          "Prominent Historical and Architectural Landmarks": "Toledo Cathedral, Synagogue of Santa María la Blanca, Alcázar of Toledo, San Martín Bridge.",
+          "Key Tourist Activities and Experiences": "Exploring shared religious and cultural heritage.",
+          "Green Spaces and Landscapes": "Vado Park, banks of the Tagus River.",
+          "Famous Local Dishes": "Carcamusas, Mazapán (almond sweets)."
+        }
+      ]
+    },
+    {
+      "Country": "Estonia",
+      "Cities": [
+        {
+          "Main City": "Tallinn",
+          "Prominent Historical and Architectural Landmarks": "Old Town (World Heritage), Toompea Castle, Viru Gate, St. Olaf's Church.",
+          "Key Tourist Activities and Experiences": "Exploring the Middle Ages, art museum tours, shopping in craft markets.",
+          "Green Spaces and Landscapes": "Kadriorg Park, Tallinn Botanic Garden.",
+          "Famous Local Dishes": "Verivorst (blood sausage), Leib (rye bread), Silgü (sprats), Mulgikapsad (sauerkraut)."
+        },
+        {
+          "Main City": "Tartu",
+          "Prominent Historical and Architectural Landmarks": "University of Tartu, Angel's Bridge, Science Centre AHHAA.",
+          "Key Tourist Activities and Experiences": "Visiting educational and cultural centers, exploring Neoclassical architecture.",
+          "Green Spaces and Landscapes": "Tohvri Park, banks of the Emajõgi River.",
+          "Famous Local Dishes": "Verivorst, Leib, Silgü."
+        },
+        {
+          "Main City": "Pärnu",
+          "Prominent Historical and Architectural Landmarks": "Pärnu beaches, its health resorts, Center for Contemporary Art.",
+          "Key Tourist Activities and Experiences": "Coastal tourism, enjoying its title as the 'Summer Capital'.",
+          "Green Spaces and Landscapes": "Pärnu Park, sandy beach.",
+          "Famous Local Dishes": "Verivorst, Leib, Silgü."
+        },
+        {
+          "Main City": "Narva",
+          "Prominent Historical and Architectural Landmarks": "Narva Castle (Hermann Castle), Narva River, old Soviet district.",
+          "Key Tourist Activities and Experiences": "Exploring border regions, visiting historical forts.",
+          "Green Spaces and Landscapes": "Hermann Park, banks of the Narva River.",
+          "Famous Local Dishes": "Verivorst, Leib, Silgü."
+        },
+        {
+          "Main City": "Kohtla-Järve",
+          "Prominent Historical and Architectural Landmarks": "Kohtla-Järve Oil Shale Museum, Soviet-era city center.",
+          "Key Tourist Activities and Experiences": "Exploring industrial and historical heritage.",
+          "Green Spaces and Landscapes": "Central Park.",
+          "Famous Local Dishes": "Verivorst, Leib, Silgü."
+        },
+        {
+          "Main City": "Viljandi",
+          "Prominent Historical and Architectural Landmarks": "Viljandi Castle, the lake.",
+          "Key Tourist Activities and Experiences": "Attending the Viljandi Folk Music Festival, boating.",
+          "Green Spaces and Landscapes": "Viljandi Castle Park, lake banks.",
+          "Famous Local Dishes": "Verivorst, Leib, Silgü."
+        },
+        {
+          "Main City": "Saaremaa",
+          "Prominent Historical and Architectural Landmarks": "Kuressaare Episcopal Castle, Kaali meteorite crater field.",
+          "Key Tourist Activities and Experiences": "Exploring Estonian islands, visiting rare geological sites.",
+          "Green Spaces and Landscapes": "Vilsandi National Park, rocky coasts.",
+          "Famous Local Dishes": "Verivorst, Leib, Silgü."
+        },
+        {
+          "Main City": "Sillamäe",
+          "Prominent Historical and Architectural Landmarks": "Stalinist architecture, the beach.",
+          "Key Tourist Activities and Experiences": "Exploring planned Soviet architecture.",
+          "Green Spaces and Landscapes": "Sillamäe Beach, Moscow Park.",
+          "Famous Local Dishes": "Verivorst, Leib, Silgü."
+        },
+        {
+          "Main City": "Rakvere",
+          "Prominent Historical and Architectural Landmarks": "Rakvere Castle, Vallimägi Park.",
+          "Key Tourist Activities and Experiences": "Visiting ruined castles and archaeological sites.",
+          "Green Spaces and Landscapes": "Vallimägi Park.",
+          "Famous Local Dishes": "Verivorst, Leib, Silgü."
+        },
+        {
+          "Main City": "Valga",
+          "Prominent Historical and Architectural Landmarks": "Valga Castle ruins, Valga Museum.",
+          "Key Tourist Activities and Experiences": "Exploring local and rural history.",
+          "Green Spaces and Landscapes": "Valga Park, banks of the Gauja River.",
+          "Famous Local Dishes": "Verivorst, Leib, Silgü."
+        }
+      ]
+    },
+    {
+      "Country": "Eswatini",
+      "Cities": [
+        {
+          "Main City": "Mbabane",
+          "Prominent Historical and Architectural Landmarks": "National Museum of Swaziland, Mlilwane Wildlife Sanctuary, local markets.",
+          "Key Tourist Activities and Experiences": "Exploring culture and traditions, visiting markets.",
+          "Green Spaces and Landscapes": "Mlilwane Wildlife Sanctuary.",
+          "Famous Local Dishes": "Sishwala (maize porridge), Incwancwa (meat stew), Emasi (sour milk), Sibobo."
+        },
+        {
+          "Main City": "Manzini",
+          "Prominent Historical and Architectural Landmarks": "Open Market, Manzini Craft Centre.",
+          "Key Tourist Activities and Experiences": "Shopping for crafts, exploring the second-largest city.",
+          "Green Spaces and Landscapes": "Manzini Central Park.",
+          "Famous Local Dishes": "Sishwala, Incwancwa, Emasi."
+        },
+        {
+          "Main City": "Lobamba",
+          "Prominent Historical and Architectural Landmarks": "Royal Palace, National Museum, Hlane Royal National Park.",
+          "Key Tourist Activities and Experiences": "Visiting the royal and legislative center, safaris and wildlife viewing.",
+          "Green Spaces and Landscapes": "Hlane Royal National Park.",
+          "Famous Local Dishes": "Sishwala, Incwancwa, Emasi."
+        },
+        {
+          "Main City": "Big Bend",
+          "Prominent Historical and Architectural Landmarks": "Sugar cane plantations, Great Usutu River.",
+          "Key Tourist Activities and Experiences": "Agricultural tourism, river rafting.",
+          "Green Spaces and Landscapes": "Sugar cane plantations, river banks.",
+          "Famous Local Dishes": "Sishwala, Incwancwa, Emasi."
+        },
+        {
+          "Main City": "Siteki",
+          "Prominent Historical and Architectural Landmarks": "Industrial complex, trade center.",
+          "Key Tourist Activities and Experiences": "Exploring industrial areas.",
+          "Green Spaces and Landscapes": "Surrounding rural areas.",
+          "Famous Local Dishes": "Sishwala, Incwancwa, Emasi."
+        },
+        {
+          "Main City": "Piggs Peak",
+          "Prominent Historical and Architectural Landmarks": "Nature reserve, mountain views.",
+          "Key Tourist Activities and Experiences": "Hiking, ecotourism.",
+          "Green Spaces and Landscapes": "Nature reserve, mountains.",
+          "Famous Local Dishes": "Sishwala, Incwancwa, Emasi."
+        },
+        {
+          "Main City": "Sikhuphe",
+          "Prominent Historical and Architectural Landmarks": "Sikhuphe Museum, rural areas.",
+          "Key Tourist Activities and Experiences": "Exploring local heritage.",
+          "Green Spaces and Landscapes": "Rural areas, hills.",
+          "Famous Local Dishes": "Sishwala, Incwancwa, Emasi."
+        },
+        {
+          "Main City": "Malkerns",
+          "Prominent Historical and Architectural Landmarks": "Mkhaya Game Reserve (for wildlife), conservation tourism.",
+          "Key Tourist Activities and Experiences": "Wildlife viewing and rhinos, safaris.",
+          "Green Spaces and Landscapes": "Mkhaya Game Reserve.",
+          "Famous Local Dishes": "Sishwala, Incwancwa, Emasi."
+        },
+        {
+          "Main City": "Siphofaneni",
+          "Prominent Historical and Architectural Landmarks": "Traditional villages, cultural centers.",
+          "Key Tourist Activities and Experiences": "Learning about Swazi culture.",
+          "Green Spaces and Landscapes": "Surrounding traditional villages.",
+          "Famous Local Dishes": "Sishwala, Incwancwa, Emasi."
+        },
+        {
+          "Main City": "Lavumisa",
+          "Prominent Historical and Architectural Landmarks": "Diamond mining areas, highlands.",
+          "Key Tourist Activities and Experiences": "Exploring geography and mining.",
+          "Green Spaces and Landscapes": "Highlands, mountain views.",
+          "Famous Local Dishes": "Sishwala, Incwancwa, Emasi."
+        }
+      ]
+    },
+    {
+      "Country": "Indonesia",
+      "Cities": [
+        {
+          "Main City": "Jakarta",
+          "Prominent Historical and Architectural Landmarks": "National Monument (Monas), Taman Mini Indonesia Indah, Jakarta History Museum.",
+          "Key Tourist Activities and Experiences": "Exploring the metropolis, visiting museums.",
+          "Green Spaces and Landscapes": "Taman Mini Indonesia Indah, Merdeka Park.",
+          "Famous Local Dishes": "Nasi Goreng (fried rice), Satay (grilled meat skewers), Gado-Gado (vegetable salad with peanut sauce), Soto (soup)."
+        },
+        {
+          "Main City": "Surabaya",
+          "Prominent Historical and Architectural Landmarks": "Suramadu Bridge, Al-Akbar Mosque, Maritime Museum.",
+          "Key Tourist Activities and Experiences": "Touring the second-largest city, exploring national history and independence war, shopping.",
+          "Green Spaces and Landscapes": "Bungkul Park, Suroboyo Park.",
+          "Famous Local Dishes": "Nasi Goreng, Satay, Gado-Gado."
+        },
+        {
+          "Main City": "Medan",
+          "Prominent Historical and Architectural Landmarks": "Maimun Palace, Toba Lake (near the city).",
+          "Key Tourist Activities and Experiences": "Visiting historical palaces, exploring North Sumatra.",
+          "Green Spaces and Landscapes": "Lake Toba.",
+          "Famous Local Dishes": "Nasi Goreng, Satay, Gado-Gado."
+        },
+        {
+          "Main City": "Makassar",
+          "Prominent Historical and Architectural Landmarks": "Fort Rotterdam, Losari Beach, Amirul Mukminin Mosque.",
+          "Key Tourist Activities and Experiences": "Exploring maritime and trade history, coastal tourism.",
+          "Green Spaces and Landscapes": "Akasia Garden, Losari Beach.",
+          "Famous Local Dishes": "Nasi Goreng, Satay, Gado-Gado."
+        },
+        {
+          "Main City": "Semarang",
+          "Prominent Historical and Architectural Landmarks": "Sam Poo Kong Temple, Old City, Great Mosque of Central Java.",
+          "Key Tourist Activities and Experiences": "Visiting historical temples, exploring Chinese-Indonesian architecture.",
+          "Green Spaces and Landscapes": "Taman Air, Taman Budaya.",
+          "Famous Local Dishes": "Nasi Goreng, Satay, Gado-Gado."
+        },
+        {
+          "Main City": "Bogor (Puncak)",
+          "Prominent Historical and Architectural Landmarks": "Taman Safari, Taman Bunga Nusantara, Cibuni Waterfall.",
+          "Key Tourist Activities and Experiences": "Visiting tea gardens, nature tourism.",
+          "Green Spaces and Landscapes": "Taman Bunga Nusantara, waterfalls, tea plantations.",
+          "Famous Local Dishes": "Nasi Goreng, Satay, Gado-Gado."
+        }
+      ]
+    },
+    {
+      "Country": "Italy",
+      "Cities": [
+        {
+          "Main City": "Rome",
+          "Prominent Historical and Architectural Landmarks": "The Colosseum, Trevi Fountain, Vatican City, the Pantheon, Roman Forum, Vatican Museums.",
+          "Key Tourist Activities and Experiences": "Exploring Roman ruins, visiting the independent state (Vatican), tasting gelato.",
+          "Green Spaces and Landscapes": "Villa Borghese Gardens, Parco degli Acquedotti.",
+          "Famous Local Dishes": "Pasta Carbonara, Pizza Romana, Saltimbocca, Arancini."
+        },
+        {
+          "Main City": "Florence",
+          "Prominent Historical and Architectural Landmarks": "Florence Cathedral (Duomo), Ponte Vecchio, Uffizi Gallery, Pitti Palace.",
+          "Key Tourist Activities and Experiences": "Art and historical tours (capital of the Renaissance), shopping in leather markets.",
+          "Green Spaces and Landscapes": "Boboli Gardens, Bardini Gardens.",
+          "Famous Local Dishes": "Bistecca alla Fiorentina (steak), Ribollita, Lampredotto."
+        },
+        {
+          "Main City": "Venice",
+          "Prominent Historical and Architectural Landmarks": "St. Mark's Square, Rialto Bridge, Doge's Palace, Canals of Venice.",
+          "Key Tourist Activities and Experiences": "Riding a gondola, exploring islands, visiting historical landmarks.",
+          "Green Spaces and Landscapes": "Papadopoli Gardens, San Giorgio Maggiore Island.",
+          "Famous Local Dishes": "Sarde in Saor, Bigoli in Salsa."
+        },
+        {
+          "Main City": "Milan",
+          "Prominent Historical and Architectural Landmarks": "Milan Cathedral (Duomo), Galleria Vittorio Emanuele II, La Scala Theatre, Sforza Castle.",
+          "Key Tourist Activities and Experiences": "World-class shopping (fashion capital), attending opera shows.",
+          "Green Spaces and Landscapes": "Sempione Park, Montestella Park.",
+          "Famous Local Dishes": "Risotto alla Milanese, Cotoletta alla Milanese, Ossobuco."
+        },
+        {
+          "Main City": "Naples",
+          "Prominent Historical and Architectural Landmarks": "Historic Centre of Naples, Teatro di San Carlo, National Archaeological Museum, Mount Vesuvius (near the city).",
+          "Key Tourist Activities and Experiences": "Exploring the birthplace of pizza, visiting Pompeii and Herculaneum.",
+          "Green Spaces and Landscapes": "Villa Floridiana Park, Capodimonte Park.",
+          "Famous Local Dishes": "Original Neapolitan Pizza, Pasta with Ragù, Babà (dessert), Risotto."
+        },
+        {
+          "Main City": "Bologna",
+          "Prominent Historical and Architectural Landmarks": "Piazza Maggiore, The Two Towers, Basilica of San Petronio.",
+          "Key Tourist Activities and Experiences": "Food tours (culinary capital), exploring historical porticoes.",
+          "Green Spaces and Landscapes": "Montagnola Park, Margherita Gardens.",
+          "Famous Local Dishes": "Ragù Bolognese, Tortellini in Brodo, Lasagna."
+        },
+        {
+          "Main City": "Genoa",
+          "Prominent Historical and Architectural Landmarks": "Old Port of Genoa, Palazzo Ducale, Galata Maritime Museum, Via Garibaldi (World Heritage).",
+          "Key Tourist Activities and Experiences": "Exploring the Ligurian port, visiting World Heritage sites.",
+          "Green Spaces and Landscapes": "Villa Doria Pamphili Park, Nervi Park.",
+          "Famous Local Dishes": "Pesto alla Genovese, Farinata, Focaccia."
+        }
+      ]
+    },
+    {
+      "Country": "Argentina",
+      "Cities": [
+        {
+          "Main City": "Buenos Aires",
+          "Prominent Historical and Architectural Landmarks": "Casa Rosada (Presidential Palace), La Recoleta (Cemetery), La Boca, Teatro Colón, Puerto Madero.",
+          "Key Tourist Activities and Experiences": "Attending Tango shows, tours of historical neighborhoods, exploring street art.",
+          "Green Spaces and Landscapes": "Parque Tres de Febrero, Parque Centenario.",
+          "Famous Local Dishes": "Asado (barbecue), Empanadas, Dulce de Leche, Milanesa."
+        },
+        {
+          "Main City": "Córdoba",
+          "Prominent Historical and Architectural Landmarks": "Jesuit Block (World Heritage), Córdoba Cathedral, Sarmiento Museum.",
+          "Key Tourist Activities and Experiences": "Exploring religious and historical sites, university tourism.",
+          "Green Spaces and Landscapes": "Sarmiento Park, San Martín Park.",
+          "Famous Local Dishes": "Asado, Empanadas, Dulce de Leche."
+        },
+        {
+          "Main City": "Rosario",
+          "Prominent Historical and Architectural Landmarks": "National Flag Memorial, Bulevar Oroño, La Florida beach park, Paraná River.",
+          "Key Tourist Activities and Experiences": "Strolling along the Paraná River, visiting art museums.",
+          "Green Spaces and Landscapes": "La Florida beach park, Independencia Park.",
+          "Famous Local Dishes": "Asado, Empanadas, Dulce de Leche."
+        },
+        {
+          "Main City": "Mendoza",
+          "Prominent Historical and Architectural Landmarks": "General San Martín Park, Mount Aconcagua, vineyards (wine regions), Plaza Independencia.",
+          "Key Tourist Activities and Experiences": "Exploring vineyards and wine tasting, adventures in the Andes mountains.",
+          "Green Spaces and Landscapes": "General San Martín Park, vineyards.",
+          "Famous Local Dishes": "Asado, Empanadas, Dulce de Leche."
+        },
+        {
+          "Main City": "San Carlos de Bariloche",
+          "Prominent Historical and Architectural Landmarks": "Nahuel Huapi Lake, Cerro Catedral ski resort, Patagonia Museum.",
+          "Key Tourist Activities and Experiences": "Winter sports, Patagonia adventure tourism.",
+          "Green Spaces and Landscapes": "Nahuel Huapi Lake, Nahuel Huapi National Park.",
+          "Famous Local Dishes": "Asado, Empanadas, Dulce de Leche."
+        }
+      ]
+    },
+    {
+      "Country": "Jordan",
+      "Cities": [
+        {
+          "Main City": "Amman",
+          "Prominent Historical and Architectural Landmarks": "Roman Amphitheatre, Jabal al-Qal'a (Citadel), The Jordan Museum, Royal Automobile Museum, City Mall, Downtown, King Hussein Mosque.",
+          "Key Tourist Activities and Experiences": "Touring Downtown, visiting museums, shopping, starting trips to the Dead Sea and Petra.",
+          "Green Spaces and Landscapes": "King Hussein Park, Al-Jabal Al-Ahmar Garden.",
+          "Famous Local Dishes": "Mansaf (the national dish), Maqluba, Shorabat Adas (lentil soup), Knafeh, Zarb (meat cooked underground in sand)."
+        },
+        {
+          "Main City": "Petra",
+          "Prominent Historical and Architectural Landmarks": "The Siq, The Treasury (Al-Khazneh), The Monastery (Ad Deir), The Colonnaded Street, The Royal Tombs, The Great Temple.",
+          "Key Tourist Activities and Experiences": "Exploring the pink rock-carved city, hiking through the Siq.",
+          "Green Spaces and Landscapes": "Wadi Musa, surrounding desert areas.",
+          "Famous Local Dishes": "Mansaf, Maqluba."
+        },
+        {
+          "Main City": "Irbid",
+          "Prominent Historical and Architectural Landmarks": "Tell Irbid archaeological site, Dar Al-Saraya Museum, Yarmouk University.",
+          "Key Tourist Activities and Experiences": "Visiting museums and heritage sites, proximity to Umm Qais, views of the Sea of Galilee and Yarmouk River.",
+          "Green Spaces and Landscapes": "Sheikh Hassan Park, rural areas.",
+          "Famous Local Dishes": "Mansaf, Shorabat Adas."
+        },
+        {
+          "Main City": "Aqaba",
+          "Prominent Historical and Architectural Landmarks": "Mamluk Aqaba Fort, Aqaba Archaeological Museum, Tala Bay Beach, Red Sea.",
+          "Key Tourist Activities and Experiences": "Diving and snorkeling in the Red Sea, exploring the coastal city.",
+          "Green Spaces and Landscapes": "Aqaba Park, Dana Biosphere Reserve (nearby).",
+          "Famous Local Dishes": "Mansaf, Fish."
+        },
+        {
+          "Main City": "Jerash",
+          "Prominent Historical and Architectural Landmarks": "Hadrian's Arch, Oval Plaza, South Theatre, Cardo Maximus (Colonnaded Street).",
+          "Key Tourist Activities and Experiences": "Visiting well-preserved Roman ruins.",
+          "Green Spaces and Landscapes": "Green areas surrounding the ruins.",
+          "Famous Local Dishes": "Mansaf, Maqluba."
+        },
+        {
+          "Main City": "Al-Salt",
+          "Prominent Historical and Architectural Landmarks": "Al-Hammam Street, Abu Jaber House, Al-Salt History Museum, Ottoman architecture.",
+          "Key Tourist Activities and Experiences": "Exploring Ottoman architecture, heritage tourism (UNESCO World Heritage).",
+          "Green Spaces and Landscapes": "Al-Salt Park, mountainous areas.",
+          "Famous Local Dishes": "Mansaf, Shorabat Adas."
+        },
+        {
+          "Main City": "Umm Qais",
+          "Prominent Historical and Architectural Landmarks": "Roman ruins, West Theatre, views of the Sea of Galilee and Yarmouk River.",
+          "Key Tourist Activities and Experiences": "Historical tours, viewing border landscapes.",
+          "Green Spaces and Landscapes": "Umm Qais Archaeological Park.",
+          "Famous Local Dishes": "Mansaf, Maqluba."
+        }
+      ]
+    },
+    {
+      "Country": "UAE",
+      "Cities": [
+        {
+          "Main City": "Dubai",
+          "Prominent Historical and Architectural Landmarks": "Burj Khalifa, Burj Al Arab, The Dubai Mall, Museum of the Future, Palm Jumeirah (man-made islands), Dubai Water Canal.",
+          "Key Tourist Activities and Experiences": "World-class shopping, desert safari, visiting man-made islands, modern entertainment, exploring modern architecture.",
+          "Green Spaces and Landscapes": "Dubai Safari Park, Mushrif Park, Zabeel.",
+          "Famous Local Dishes": "Harees, Majboos, Luqaimat (sweet dumplings), Khameer, Balaleet."
+        },
+        {
+          "Main City": "Abu Dhabi",
+          "Prominent Historical and Architectural Landmarks": "Sheikh Zayed Grand Mosque, Qasr Al Watan, Louvre Abu Dhabi, tourist islands, Abu Dhabi Corniche, Ferrari World.",
+          "Key Tourist Activities and Experiences": "Cultural and religious tourism, visiting art centers, family entertainment.",
+          "Green Spaces and Landscapes": "Khalidiyah Park, Yas Island, Al-Mushrif Park.",
+          "Famous Local Dishes": "Harees, Majboos, Luqaimat."
+        },
+        {
+          "Main City": "Sharjah",
+          "Prominent Historical and Architectural Landmarks": "Sharjah Museum of Islamic Civilization, Heart of Sharjah, Al Qasba.",
+          "Key Tourist Activities and Experiences": "Visiting art and cultural museums, exploring ancient heritage.",
+          "Green Spaces and Landscapes": "Khalid Park, Al Majaz Park.",
+          "Famous Local Dishes": "Harees, Majboos, Luqaimat."
+        },
+        {
+          "Main City": "Ajman",
+          "Prominent Historical and Architectural Landmarks": "Ajman Fort, Ajman Corniche, Ajman Museum.",
+          "Key Tourist Activities and Experiences": "Enjoying the beaches, visiting museums.",
+          "Green Spaces and Landscapes": "Ajman Park, the Corniche.",
+          "Famous Local Dishes": "Harees, Majboos, Luqaimat."
+        },
+        {
+          "Main City": "Ras Al Khaimah",
+          "Prominent Historical and Architectural Landmarks": "Jebel Jais (highest peak in the UAE), National Museum of Ras Al Khaimah.",
+          "Key Tourist Activities and Experiences": "Mountain climbing adventures, zip-lining.",
+          "Green Spaces and Landscapes": "Saqr Park, Wadi Haqil.",
+          "Famous Local Dishes": "Harees, Majboos, Luqaimat."
+        },
+        {
+          "Main City": "Fujairah",
+          "Prominent Historical and Architectural Landmarks": "Fujairah Fort, Al Badiyah Mosque, beaches on the Gulf of Oman.",
+          "Key Tourist Activities and Experiences": "Diving and snorkeling, mountain tourism.",
+          "Green Spaces and Landscapes": "Fujairah Park, Wadi Wurayah.",
+          "Famous Local Dishes": "Harees, Majboos, Luqaimat."
+        },
+        {
+          "Main City": "Umm Al Quwain",
+          "Prominent Historical and Architectural Landmarks": "Dreamland Aqua Park, Al Sinniyah Island, old fort.",
+          "Key Tourist Activities and Experiences": "Water entertainment, bird watching and wildlife viewing.",
+          "Green Spaces and Landscapes": "Dreamland Park, Al Sinniyah Island.",
+          "Famous Local Dishes": "Harees, Majboos, Luqaimat."
+        },
+        {
+          "Main City": "Khor Fakkan",
+          "Prominent Historical and Architectural Landmarks": "Khor Fakkan Beach, Al Rafisah Dam, Shark Island.",
+          "Key Tourist Activities and Experiences": "Mountain and coastal tourism, visiting Al Rafisah Dam.",
+          "Green Spaces and Landscapes": "Khor Fakkan Park, beaches.",
+          "Famous Local Dishes": "Harees, Majboos, Luqaimat."
+        },
+        {
+          "Main City": "Dibba Al-Hisn",
+          "Prominent Historical and Architectural Landmarks": "Dibba Port, beaches, fish market.",
+          "Key Tourist Activities and Experiences": "Visiting local markets and marine activities.",
+          "Green Spaces and Landscapes": "Beaches, mountainous areas.",
+          "Famous Local Dishes": "Harees, Majboos, Luqaimat."
+        }
+      ]
+    },
+    {
+      "Country": "Ecuador",
+      "Cities": [
+        {
+          "Main City": "Quito",
+          "Prominent Historical and Architectural Landmarks": "Historic Center (World Heritage), Mitad del Mundo (Equator), La Compañía Church, Carondelet Palace.",
+          "Key Tourist Activities and Experiences": "Exploring the highlands, visiting colonial landmarks, exploring the equator.",
+          "Green Spaces and Landscapes": "La Carolina Park, Parque La Florida.",
+          "Famous Local Dishes": "Ceviche (seafood), Loco de Papa (potato soup), Hornado (roasted pork), Empanadas (turnovers)."
+        },
+        {
+          "Main City": "Guayaquil",
+          "Prominent Historical and Architectural Landmarks": "Malecón 2000, Las Peñas neighborhood, Iguana Park, Santa Ana Hill.",
+          "Key Tourist Activities and Experiences": "Strolling along the riverfront, climbing the historic stairs.",
+          "Green Spaces and Landscapes": "Seminario Park, Malecón 2000.",
+          "Famous Local Dishes": "Ceviche, Loco de Papa, Hornado."
+        },
+        {
+          "Main City": "Cuenca",
+          "Prominent Historical and Architectural Landmarks": "Historic Center (World Heritage), Cuenca Cathedral, flower market.",
+          "Key Tourist Activities and Experiences": "Exploring colonial architecture, buying Panama hats.",
+          "Green Spaces and Landscapes": "Calderón Park, banks of the Tomebamba River.",
+          "Famous Local Dishes": "Ceviche, Loco de Papa, Hornado."
+        },
+        {
+          "Main City": "Galápagos",
+          "Prominent Historical and Architectural Landmarks": "Unique wildlife (giant tortoises), Sierra Negra Volcano, Charles Darwin Research Station.",
+          "Key Tourist Activities and Experiences": "Wildlife viewing, diving and snorkeling, exploring the islands.",
+          "Green Spaces and Landscapes": "National parks, nature reserves.",
+          "Famous Local Dishes": "Ceviche, Loco de Papa, Hornado."
+        },
+        {
+          "Main City": "Otavalo",
+          "Prominent Historical and Architectural Landmarks": "Mountain peaks, weekly markets.",
+          "Key Tourist Activities and Experiences": "Mountain hiking, shopping at the Otavalo market (Thursday).",
+          "Green Spaces and Landscapes": "Mountains, valleys.",
+          "Famous Local Dishes": "Ceviche, Loco de Papa, Hornado."
+        },
+        {
+          "Main City": "Riobamba",
+          "Prominent Historical and Architectural Landmarks": "Chimborazo Volcano (closest to the sun), The Devil's Nose train.",
+          "Key Tourist Activities and Experiences": "Mountain climbing, train rides.",
+          "Green Spaces and Landscapes": "Chimborazo National Park.",
+          "Famous Local Dishes": "Ceviche, Loco de Papa, Hornado."
+        },
+        {
+          "Main City": "Loja",
+          "Prominent Historical and Architectural Landmarks": "Podocarpus National Park, Vilcabamba Valley (near the city), Loja Museum.",
+          "Key Tourist Activities and Experiences": "Visiting national parks, exploring the southern region.",
+          "Green Spaces and Landscapes": "Podocarpus National Park.",
+          "Famous Local Dishes": "Ceviche, Loco de Papa, Hornado."
+        },
+        {
+          "Main City": "Portoviejo",
+          "Prominent Historical and Architectural Landmarks": "Portoviejo Museum, Central Park.",
+          "Key Tourist Activities and Experiences": "Exploring the Manabí region.",
+          "Green Spaces and Landscapes": "Beaches, parks.",
+          "Famous Local Dishes": "Ceviche, Loco de Papa, Hornado."
+        },
+        {
+          "Main City": "Tena",
+          "Prominent Historical and Architectural Landmarks": "AmaZoonico Animal Rescue Center, Misahuallí River, rainforests.",
+          "Key Tourist Activities and Experiences": "Rainforest tourism, boating in the Amazon.",
+          "Green Spaces and Landscapes": "AmaZoonico, rainforests.",
+          "Famous Local Dishes": "Ceviche, Loco de Papa, Hornado."
+        },
+        {
+          "Main City": "Puerto Villamil (Galápagos)",
+          "Prominent Historical and Architectural Landmarks": "Tortoise breeding center, Sierra Negra Volcano, Galápagos beaches.",
+          "Key Tourist Activities and Experiences": "Exploring the Galápagos Islands, viewing unique wildlife.",
+          "Green Spaces and Landscapes": "National parks, nature reserves.",
+          "Famous Local Dishes": "Ceviche, Loco de Papa, Hornado."
+        }
+      ]
+    },
+    {
+      "Country": "Ireland",
+      "Cities": [
+        {
+          "Main City": "Dublin",
+          "Prominent Historical and Architectural Landmarks": "Dublin Castle, Trinity College, Guinness Storehouse, Phoenix Park, Grafton Street.",
+          "Key Tourist Activities and Experiences": "Cultural and literary tours, visiting historic pubs, exploring gardens.",
+          "Green Spaces and Landscapes": "Phoenix Park, St. Stephen's Green.",
+          "Famous Local Dishes": "Irish Stew, Colcannon (mashed potatoes), Soda Bread."
+        },
+        {
+          "Main City": "Cork",
+          "Prominent Historical and Architectural Landmarks": "English Market, St. Fin Barre's Cathedral, Fitzgerald Park.",
+          "Key Tourist Activities and Experiences": "Visiting local markets, exploring the city on the River Lee.",
+          "Green Spaces and Landscapes": "Fitzgerald Park, The People's Park.",
+          "Famous Local Dishes": "Irish Stew, Colcannon, Soda Bread."
+        },
+        {
+          "Main City": "Galway",
+          "Prominent Historical and Architectural Landmarks": "Spanish Arch, Eyre Square, Galway City Museum.",
+          "Key Tourist Activities and Experiences": "Attending festivals, coastal tourism on Galway Bay.",
+          "Green Spaces and Landscapes": "Eyre Square, Salthill Beach.",
+          "Famous Local Dishes": "Irish Stew, Colcannon, Soda Bread."
+        },
+        {
+          "Main City": "Limerick",
+          "Prominent Historical and Architectural Landmarks": "King John's Castle, St. John's Cathedral, Hunt Museum.",
+          "Key Tourist Activities and Experiences": "Visiting castles and museums, strolling along the River Shannon.",
+          "Green Spaces and Landscapes": "People's Park, Bernard Park.",
+          "Famous Local Dishes": "Irish Stew, Colcannon, Soda Bread."
+        },
+        {
+          "Main City": "Kilkenny",
+          "Prominent Historical and Architectural Landmarks": "Kilkenny Castle, St. Canice's Cathedral, Smithwick's Experience.",
+          "Key Tourist Activities and Experiences": "Attending the Kilkenny Arts Festival (April-October).",
+          "Green Spaces and Landscapes": "Kilkenny Castle Park, River Nore.",
+          "Famous Local Dishes": "Irish Stew, Colcannon, Soda Bread."
+        },
+        {
+          "Main City": "Waterford",
+          "Prominent Historical and Architectural Landmarks": "Reginald's Tower, Waterford Treasures Museum, Viking Triangle.",
+          "Key Tourist Activities and Experiences": "Exploring Viking heritage, visiting the Waterford Crystal factory.",
+          "Green Spaces and Landscapes": "Waterford Park, Tramore Beach.",
+          "Famous Local Dishes": "Irish Stew, Colcannon, Soda Bread."
+        },
+        {
+          "Main City": "Sligo",
+          "Prominent Historical and Architectural Landmarks": "Benbulben Mountain, Sligo Abbey, William Butler Yeats Memorial.",
+          "Key Tourist Activities and Experiences": "Exploring the surrounding landscapes, literary tours (Yeats heritage).",
+          "Green Spaces and Landscapes": "Garavogue River, Lough Gill.",
+          "Famous Local Dishes": "Irish Stew, Colcannon, Soda Bread."
+        },
+        {
+          "Main City": "Athlone",
+          "Prominent Historical and Architectural Landmarks": "Athlone Castle, River Shannon, Ireland's oldest pub.",
+          "Key Tourist Activities and Experiences": "Exploring historical and cultural sites, a good base for exploring the surrounding area.",
+          "Green Spaces and Landscapes": "Athlone Park, banks of the River Shannon.",
+          "Famous Local Dishes": "Irish Stew, Colcannon, Soda Bread."
+        }
+      ]
+    },
+    {
+      "Country": "Iceland",
+      "Cities": [
+        {
+          "Main City": "Reykjavik",
+          "Prominent Historical and Architectural Landmarks": "Harpa Concert Hall, Hallgrímskirkja Church, the Blue Lagoon.",
+          "Key Tourist Activities and Experiences": "Viewing the Northern Lights, whale watching, exploring the Golden Circle, visiting history and Viking museums.",
+          "Green Spaces and Landscapes": "Laugardalur Park, Vatnsmyri Park.",
+          "Famous Local Dishes": "Hangikjöt (smoked lamb), Skyr (yogurt), Kjötsúpa (meat soup)."
+        },
+        {
+          "Main City": "Akureyri",
+          "Prominent Historical and Architectural Landmarks": "Akureyri Botanical Garden, Akureyri Church.",
+          "Key Tourist Activities and Experiences": "Exploring North Iceland, visiting the art museum.",
+          "Green Spaces and Landscapes": "Akureyri Botanical Garden, Vaðlaheiði.",
+          "Famous Local Dishes": "Hangikjöt, Skyr."
+        },
+        {
+          "Main City": "Keflavik",
+          "Prominent Historical and Architectural Landmarks": "Viking World Museum, The Bridge between Continents, near the Blue Lagoon.",
+          "Key Tourist Activities and Experiences": "Geothermal tourism, exploring maritime history.",
+          "Green Spaces and Landscapes": "Keflavik Park, Blue Lagoon Beach.",
+          "Famous Local Dishes": "Hangikjöt, Skyr."
+        },
+        {
+          "Main City": "Höfn",
+          "Prominent Historical and Architectural Landmarks": "Vatnajökull National Park, glacier views.",
+          "Key Tourist Activities and Experiences": "Glacier tours, exploring icebergs, tasting local seafood.",
+          "Green Spaces and Landscapes": "Vatnajökull National Park, Jökulsárlón glacier lagoon.",
+          "Famous Local Dishes": "Hangikjöt, Skyr."
+        },
+        {
+          "Main City": "Westman Islands (Vestmannaeyjar)",
+          "Prominent Historical and Architectural Landmarks": "Eldheimar museum, active volcanic craters, puffin colonies.",
+          "Key Tourist Activities and Experiences": "Boat trips on the Atlantic, hiking trails to explore recent volcanic activity.",
+          "Green Spaces and Landscapes": "Eldfell mountain, Herjólfsdalur valley.",
+          "Famous Local Dishes": "Hangikjöt, Skyr."
+        },
+        {
+          "Main City": "Selfoss",
+          "Prominent Historical and Architectural Landmarks": "The peninsula, coastal cliffs.",
+          "Key Tourist Activities and Experiences": "Hiking, exploring white sand beaches.",
+          "Green Spaces and Landscapes": "Reynisfjara beach, Þórðarfell volcano.",
+          "Famous Local Dishes": "Hangikjöt, Skyr."
+        },
+        {
+          "Main City": "Grindavik",
+          "Prominent Historical and Architectural Landmarks": "Natural hot springs, geological museum.",
+          "Key Tourist Activities and Experiences": "Enjoying natural baths.",
+          "Green Spaces and Landscapes": "Grindavík Park, Gunnuhver hot springs.",
+          "Famous Local Dishes": "Hangikjöt, Skyr."
+        }
+      ]
+    },
+    {
+      "Country": "Ethiopia",
+      "Cities": [
+        {
+          "Main City": "Addis Ababa",
+          "Prominent Historical and Architectural Landmarks": "National Museum of Ethiopia (Lucy), Holy Trinity Cathedral, Entoto Mountain, Merkato Market.",
+          "Key Tourist Activities and Experiences": "Visiting the National Museum, touring the markets, exploring historical sites.",
+          "Green Spaces and Landscapes": "Gihie Park, Entoto Mountain.",
+          "Famous Local Dishes": "Injera (sourdough flatbread), Wat (stew), Tibs (fried meat), Doro Wat."
+        },
+        {
+          "Main City": "Lalibela",
+          "Prominent Historical and Architectural Landmarks": "Rock-hewn churches (World Heritage).",
+          "Key Tourist Activities and Experiences": "Visiting the rock-carved churches (the eighth wonder of the world).",
+          "Green Spaces and Landscapes": "Hills surrounding the churches.",
+          "Famous Local Dishes": "Injera, Wat, Tibs."
+        },
+        {
+          "Main City": "Axum",
+          "Prominent Historical and Architectural Landmarks": "Axum Stelae, Church of Our Lady Mary of Zion, ancient palace ruins.",
+          "Key Tourist Activities and Experiences": "Exploring the ancient Aksumite civilization.",
+          "Green Spaces and Landscapes": "Hills surrounding the city.",
+          "Famous Local Dishes": "Injera, Wat, Tibs."
+        },
+        {
+          "Main City": "Gondar",
+          "Prominent Historical and Architectural Landmarks": "Fasil Ghebbi (Royal Enclosure, World Heritage), Fasilides' Bath, Debre Berhan Selassie Church.",
+          "Key Tourist Activities and Experiences": "Visiting ancient royal castles.",
+          "Green Spaces and Landscapes": "Lake Tana (nearby), parks.",
+          "Famous Local Dishes": "Injera, Wat, Tibs."
+        },
+        {
+          "Main City": "Bahir Dar",
+          "Prominent Historical and Architectural Landmarks": "Blue Nile Falls, Lake Tana, surrounding monasteries.",
+          "Key Tourist Activities and Experiences": "Visiting historical monasteries on the lake, viewing the falls.",
+          "Green Spaces and Landscapes": "Lake Tana, Blue Nile Falls.",
+          "Famous Local Dishes": "Injera, Wat, Tibs."
+        },
+        {
+          "Main City": "Dire Dawa",
+          "Prominent Historical and Architectural Landmarks": "Local market, old railway station.",
+          "Key Tourist Activities and Experiences": "Exploring the commercial city.",
+          "Green Spaces and Landscapes": "Kefira Park.",
+          "Famous Local Dishes": "Injera, Wat, Tibs."
+        },
+        {
+          "Main City": "Dessie",
+          "Prominent Historical and Architectural Landmarks": "Dessie Market, surrounding mountain views.",
+          "Key Tourist Activities and Experiences": "Nature tourism, shopping in regional markets.",
+          "Green Spaces and Landscapes": "Mountain views.",
+          "Famous Local Dishes": "Injera, Wat, Tibs."
+        },
+        {
+          "Main City": "Harar",
+          "Prominent Historical and Architectural Landmarks": "The Walled City (World Heritage), Rimbaud House, Arthur Rimbaud House.",
+          "Key Tourist Activities and Experiences": "Exploring ancient Islamic cities, watching hyena feeding.",
+          "Green Spaces and Landscapes": "Mountains surrounding the city.",
+          "Famous Local Dishes": "Injera, Wat, Tibs."
+        },
+        {
+          "Main City": "Shashamane",
+          "Prominent Historical and Architectural Landmarks": "Rastafarian community, cultural centers.",
+          "Key Tourist Activities and Experiences": "Exploring Rastafarian culture.",
+          "Green Spaces and Landscapes": "Surrounding rural areas.",
+          "Famous Local Dishes": "Injera, Wat, Tibs."
+        }
+      ]
+    }
+  ]
+}

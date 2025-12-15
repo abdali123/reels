@@ -1,0 +1,890 @@
+[
+  {
+    "País": "Colombia",
+    "Ciudad": "Bogotá",
+    "Atracciones": "Palacio de Justicia, Catedral Primada, Museo del Oro, Cerro de Monserrate, La Candelaria (el casco antiguo), Plaza de Bolívar, tours de arte callejero.",
+    "Actividades": "Explorar tours de arte callejero, subir en el teleférico al Cerro de Monserrate, visitar el Museo del Oro, explorar el casco antiguo.",
+    "Gastronomía": "Ajiaco (sopa de pollo y maíz), Bandeja Paisa (plato de carne y frijoles), Sancocho (sopa de maíz), Empanadas.",
+    "Espacios Verdes": "Cerro de Monserrate, La Candelaria (el casco antiguo)."
+  },
+  {
+    "País": "Colombia",
+    "Ciudad": "Cartagena",
+    "Atracciones": "Ciudad Amurallada (Patrimonio de la Humanidad), Islas del Rosario, Castillo de San Felipe, Catedral de Cartagena.",
+    "Actividades": "Hacer un tour por las Islas del Rosario (arrecifes de coral y arena blanca), explorar la Ciudad Amurallada.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Islas del Rosario (arrecifes de coral y arena blanca)."
+  },
+  {
+    "País": "Colombia",
+    "Ciudad": "Medellín",
+    "Atracciones": "Plaza Botero (barrio de artistas), Museo de Antioquia, Palacio Rafael Uribe, Metrocable TPR (teleférico).",
+    "Actividades": "Explorar el casco antiguo, subir en el teleférico para vistas panorámicas, tours de arte callejero.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Colombia",
+    "Ciudad": "Cali",
+    "Atracciones": "Barrio de la Salsa (centro cultural), Catedral Metropolitana, Teatro Municipal.",
+    "Actividades": "Bailar salsa (incluso si eres principiante), asistir al festival anual Feria de Cali.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Colombia",
+    "Ciudad": "Santa Marta",
+    "Atracciones": "Parque Nacional Tayrona, Sierra Nevada de Santa Marta (montañas nevadas).",
+    "Actividades": "Explorar el Parque Tayrona, visitar playas cercanas, hacer senderismo hacia la Ciudad Perdida.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Parque Nacional Tayrona, Sierra Nevada de Santa Marta (montañas nevadas)."
+  },
+  {
+    "País": "Colombia",
+    "Ciudad": "Salento",
+    "Atracciones": "Valle de Cocora (palmas de cera), fincas cafeteras (región cafetera), paisajes impresionantes.",
+    "Actividades": "Tomar café directamente de la fuente, montar a caballo en el Valle de Cocora, hacer senderismo (6 horas).",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Valle de Cocora (palmas de cera), fincas cafeteras (región cafetera), paisajes impresionantes."
+  },
+  {
+    "País": "Colombia",
+    "Ciudad": "Popayán",
+    "Atracciones": "La Ciudad Blanca (arquitectura religiosa), Universidad de Popayán, la Catedral.",
+    "Actividades": "Explorar la arquitectura y la religión, visitar museos dedicados a la historia regional.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Colombia",
+    "Ciudad": "Pasto",
+    "Atracciones": "(cerca de la frontera con Ecuador), la Catedral, Lago Cocha (Laguna de la Cocha).",
+    "Actividades": "Explorar el sur de Colombia.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Lago Cocha (Laguna de la Cocha)."
+  },
+  {
+    "País": "Colombia",
+    "Ciudad": "Leticia",
+    "Atracciones": "Selva amazónica, Río Amazonas.",
+    "Actividades": "Turismo en la selva (Río Amazonas), observación de vida silvestre.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Selva amazónica, Río Amazonas."
+  },
+  {
+    "País": "Colombia",
+    "Ciudad": "Barranquilla",
+    "Atracciones": "Carnaval de Barranquilla (Patrimonio de la Humanidad), Museo del Caribe.",
+    "Actividades": "Asistir al Carnaval (uno de los festivales más grandes de América Latina).",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Comoras",
+    "Ciudad": "Moroni",
+    "Atracciones": "Monte Karthala (volcán activo), Mezquita del Viernes (Mezquita de la Playa), calles estrechas y cafés.",
+    "Actividades": "Senderismo en la selva, explorar playas de arena blanca.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Monte Karthala (volcán activo), selva, playas de arena blanca."
+  },
+  {
+    "País": "Comoras",
+    "Ciudad": "Mohéli",
+    "Atracciones": "Parque Marino de Mohéli, encantadoras pequeñas islas.",
+    "Actividades": "Turismo de conservación marina, explorar la naturaleza salvaje.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Parque Marino, encantadoras pequeñas islas, áreas salvajes."
+  },
+  {
+    "País": "Comoras",
+    "Ciudad": "Anjouan",
+    "Atracciones": "Antiguas plantaciones marroquíes, mercados de clavo.",
+    "Actividades": "Explorar las plantaciones y oler los clavos, caminar en la naturaleza.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Antiguas plantaciones marroquíes, naturaleza."
+  },
+  {
+    "País": "Comoras",
+    "Ciudad": "Fomboni",
+    "Atracciones": "Ciudad histórica, museos.",
+    "Actividades": "Visitar la ciudad costera histórica.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Comoras",
+    "Ciudad": "Karthala",
+    "Atracciones": "Monte Karthala (el volcán).",
+    "Actividades": "Escalar el volcán, explorar el terreno volcánico.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Monte Karthala (el volcán)."
+  },
+  {
+    "País": "Comoras",
+    "Ciudad": "Mitsamiouli",
+    "Atracciones": "Puerto norteño, playas tranquilas.",
+    "Actividades": "Relajarse en las playas.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Playas tranquilas."
+  },
+  {
+    "País": "Comoras",
+    "Ciudad": "Domoni",
+    "Atracciones": "Pueblo costero, playas.",
+    "Actividades": "Turismo de playa.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Playas."
+  },
+  {
+    "País": "Comoras",
+    "Ciudad": "Mtsamoudou",
+    "Atracciones": "(pueblo histórico en la isla de Anjouan).",
+    "Actividades": "Visitar lugares históricos.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Comoras",
+    "Ciudad": "Simaouni",
+    "Atracciones": "(pueblo costero).",
+    "Actividades": "Visitar las costas.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Costas."
+  },
+  {
+    "País": "Comoras",
+    "Ciudad": "Bouéni",
+    "Atracciones": "(pueblo costero).",
+    "Actividades": "Visitar las costas.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Costas."
+  },
+  {
+    "País": "Kiribati",
+    "Ciudad": "Tarawa",
+    "Atracciones": "Sitios históricos de la Segunda Guerra Mundial, Maneaba (casas de reuniones tradicionales).",
+    "Actividades": "Tours culturales guiados, explorar restos de la Segunda Guerra Mundial.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Kiribati",
+    "Ciudad": "Isla Christmas (Kiritimati)",
+    "Atracciones": "Lagunas, bosques, playas de arena blanca, santuarios de aves migratorias.",
+    "Actividades": "Buceo y snorkel, observación de aves, kayak en extensos mares interiores.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Lagunas, bosques, playas de arena blanca, santuarios de aves migratorias."
+  },
+  {
+    "País": "Kiribati",
+    "Ciudad": "Islas Fénix",
+    "Atracciones": "Área Marina Protegida (la reserva marina más grande del mundo), arrecifes de coral prístinos.",
+    "Actividades": "Buceo y snorkel avanzado (ver tiburones y mantarrayas), explorar ecosistemas submarinos.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Área Marina Protegida, arrecifes de coral prístinos."
+  },
+  {
+    "País": "Kiribati",
+    "Ciudad": "Banaba",
+    "Atracciones": "Sitios del Patrimonio del Fosfato de Banaba, paisajes restaurados.",
+    "Actividades": "Explorar la historia minera, ecoturismo emergente.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Paisajes restaurados."
+  },
+  {
+    "País": "Kiribati",
+    "Ciudad": "Abaiang",
+    "Atracciones": "Aldeas tradicionales, ruinas antiguas, islotes de arena del norte.",
+    "Actividades": "Buceo cultural, visiones auténticas de Kiribati precolonial.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Islotes de arena del norte."
+  },
+  {
+    "País": "Kiribati",
+    "Ciudad": "Tabiteuea",
+    "Atracciones": "Trampas de piedra para peces, sitios de historia oral.",
+    "Actividades": "Buceo cultural y patrimonio de pesca sostenible.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Kiribati",
+    "Ciudad": "Nonouti",
+    "Atracciones": "Manglares de los islotes de arena de Nonouti, bosques costeros.",
+    "Actividades": "Caminatas fáciles por la naturaleza, observación de aves.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Manglares de los islotes de arena de Nonouti, bosques costeros."
+  },
+  {
+    "País": "Kiribati",
+    "Ciudad": "Butaritari",
+    "Atracciones": "Aguas de la laguna de Butaritari, bancos de arena.",
+    "Actividades": "Kayak a través de lagunas, tours en barco panorámicos.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Aguas de la laguna de Butaritari, bancos de arena."
+  },
+  {
+    "País": "Kiribati",
+    "Ciudad": "Naura",
+    "Atracciones": "(islotes de arena remotos), sitios de anidación de tortugas.",
+    "Actividades": "Explorar sitios remotos.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Islotes de arena remotos, sitios de anidación de tortugas."
+  },
+  {
+    "País": "Kiribati",
+    "Ciudad": "Tarawa Sur",
+    "Atracciones": "(centro administrativo).",
+    "Actividades": "Visitar la capital administrativa.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Kenia",
+    "Ciudad": "Nairobi",
+    "Atracciones": "Museo Nacional de Nairobi, Parque Safari de Nairobi (dentro de la capital), Exposición de la Evolución Humana, Monte Longonot (terreno volcánico).",
+    "Actividades": "Safari de Nairobi (una aventura de safari sin salir de la capital), compras en el Mercado Maasai, visitar el Museo Nacional de Nairobi.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Parque Safari de Nairobi, Monte Longonot."
+  },
+  {
+    "País": "Kenia",
+    "Ciudad": "Maasai Mara",
+    "Atracciones": "Reserva Nacional Maasai Mara, Gran Migración de Vida Silvestre (estacional).",
+    "Actividades": "Paseos en safari en Maasai Mara, presenciar la Gran Migración, observación de vida silvestre.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Reserva Nacional Maasai Mara."
+  },
+  {
+    "País": "Kenia",
+    "Ciudad": "Mombasa",
+    "Atracciones": "Fuerte Jesús, Casco Antiguo, la perla de la costa keniana, playas costeras.",
+    "Actividades": "Turismo costero, explorar el Casco Antiguo, visitar las playas.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Playas costeras."
+  },
+  {
+    "País": "Kenia",
+    "Ciudad": "Amboseli",
+    "Atracciones": "Parque Nacional Amboseli, vistas del Monte Kilimanjaro (elefantes gigantes y fondo montañoso).",
+    "Actividades": "Paseos en safari, ver elefantes gigantes, fotografía.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Parque Nacional Amboseli, Monte Kilimanjaro (fondo montañoso)."
+  },
+  {
+    "País": "Kenia",
+    "Ciudad": "Nakuru",
+    "Atracciones": "Lago Nakuru (hogar de flamencos rosados), Parque Nacional del Lago Nakuru.",
+    "Actividades": "Observación de flamencos, ecoturismo.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Lago Nakuru, Parque Nacional del Lago Nakuru."
+  },
+  {
+    "País": "Kenia",
+    "Ciudad": "Lamu",
+    "Atracciones": "Ciudad histórica de Lamu (Patrimonio de la Humanidad), barcos tradicionales 'dhow', mercados de artesanías.",
+    "Actividades": "Navegación en barcos tradicionales, visitar mercados de artesanías, disfrutar de playas tranquilas.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Playas tranquilas."
+  },
+  {
+    "País": "Kenia",
+    "Ciudad": "Kilifi",
+    "Atracciones": "Condado de Kilifi, encantadoras playas y rica cultura, granjas marinas.",
+    "Actividades": "Turismo de playa, visitar áreas costeras.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Encantadoras playas."
+  },
+  {
+    "País": "Kenia",
+    "Ciudad": "Watamu",
+    "Atracciones": "Playa de Watamu (joya del océano), arrecifes de coral, reservas marinas.",
+    "Actividades": "Disfrutar de la playa, bucear y hacer snorkel en las reservas.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Playa de Watamu, arrecifes de coral, reservas marinas."
+  },
+  {
+    "País": "Kenia",
+    "Ciudad": "Malindi",
+    "Atracciones": "Parques marinos, ruinas portuguesas.",
+    "Actividades": "Turismo marino, explorar ruinas.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Parques marinos."
+  },
+  {
+    "País": "Kenia",
+    "Ciudad": "Kisumu",
+    "Atracciones": "Lago Victoria, Museo de Kisumu.",
+    "Actividades": "Turismo en el lago, visitar el museo.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Lago Victoria."
+  },
+  {
+    "País": "Letonia",
+    "Ciudad": "Riga",
+    "Atracciones": "Casco Antiguo (Patrimonio de la Humanidad), Iglesia de San Pedro, Plaza del Ayuntamiento.",
+    "Actividades": "Explorar la arquitectura del Casco Antiguo.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Letonia",
+    "Ciudad": "Daugavpils",
+    "Atracciones": "Fortaleza de Daugavpils, Río Daugava.",
+    "Actividades": "Visitar la fortaleza histórica.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Río Daugava."
+  },
+  {
+    "País": "Letonia",
+    "Ciudad": "Liepāja",
+    "Atracciones": "Playas costeras, el puerto.",
+    "Actividades": "Turismo costero.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Playas costeras."
+  },
+  {
+    "País": "Letonia",
+    "Ciudad": "Ventspils",
+    "Atracciones": "Castillo de Ventspils, el puerto.",
+    "Actividades": "Visitar el castillo y el puerto.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Letonia",
+    "Ciudad": "Jelgava",
+    "Atracciones": "Palacio de Jelgava, la región interior.",
+    "Actividades": "Explorar las regiones interiores.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "La región interior."
+  },
+  {
+    "País": "Laos",
+    "Ciudad": "Vientián",
+    "Atracciones": "Patuxai (Arco del Triunfo), Wat Sisaket, Pha That Luang.",
+    "Actividades": "Explorar monumentos religiosos.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Laos",
+    "Ciudad": "Luang Prabang",
+    "Atracciones": "Casco Antiguo (Patrimonio de la Humanidad), templo Wat Xieng Thong, Cascadas Kuang Si.",
+    "Actividades": "Explorar el Casco Antiguo, visitar las cascadas.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Cascadas Kuang Si."
+  },
+  {
+    "País": "Laos",
+    "Ciudad": "Savannakhet",
+    "Atracciones": "Casco Antiguo, Río Mekong.",
+    "Actividades": "Explorar el Casco Antiguo en el río.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Río Mekong."
+  },
+  {
+    "País": "Laos",
+    "Ciudad": "Pakse",
+    "Atracciones": "Río Si Phan Don (4000 islas), Cascadas Khone Phapheng.",
+    "Actividades": "Explorar las islas, visitar las cascadas.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Río Si Phan Don (4000 islas), Cascadas Khone Phapheng."
+  },
+  {
+    "País": "Laos",
+    "Ciudad": "Phongsaly",
+    "Atracciones": "Regiones montañosas, plantaciones de té.",
+    "Actividades": "Turismo de montaña.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Regiones montañosas, plantaciones de té."
+  },
+  {
+    "País": "Laos",
+    "Ciudad": "Xam Neua",
+    "Atracciones": "Arrozales, regiones montañosas.",
+    "Actividades": "Turismo agrícola.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Arrozales, regiones montañosas."
+  },
+  {
+    "País": "Líbano",
+    "Ciudad": "Beirut",
+    "Atracciones": "Rocas de las Palomas, Museo Nacional, Calle Hamra, Plaza de los Mártires, la Corniche.",
+    "Actividades": "Explorar sitios naturales (Rocas de las Palomas), visitar museos.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "La Corniche."
+  },
+  {
+    "País": "Líbano",
+    "Ciudad": "Baalbek",
+    "Atracciones": "Templos romanos de Baalbek, ruinas históricas.",
+    "Actividades": "Visitar los masivos templos romanos, explorar ruinas romanas.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Líbano",
+    "Ciudad": "Byblos",
+    "Atracciones": "Ciudad de Byblos (ciudad habitada continuamente más antigua), Puerto Antiguo, Castillo de Byblos.",
+    "Actividades": "Explorar el Puerto Antiguo, visitar el castillo.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Líbano",
+    "Ciudad": "Jounieh",
+    "Atracciones": "Teleférico de Jounieh Harissa, Nuestra Señora del Líbano, Grotta de Jeita.",
+    "Actividades": "Montar en el teleférico, parapente, visitar Nuestra Señora del Líbano.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Líbano",
+    "Ciudad": "Trípoli",
+    "Atracciones": "Castillo de Trípoli, Zocos de Trípoli.",
+    "Actividades": "Explorar el castillo y los zocos.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Luxemburgo",
+    "Ciudad": "Luxemburgo",
+    "Atracciones": "Puente Adolfo, Palacio Gran Ducal, Casamatas del Bock (túneles defensivos), Casco Antiguo (Patrimonio de la Humanidad).",
+    "Actividades": "Explorar la capital como centro financiero, visitar los túneles defensivos, caminar por el Casco Antiguo.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Luxemburgo",
+    "Ciudad": "Esch-sur-Alzette",
+    "Atracciones": "Zonas industriales históricas, museos.",
+    "Actividades": "Turismo industrial.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Luxemburgo",
+    "Ciudad": "Differdange",
+    "Atracciones": "El castillo, áreas circundantes.",
+    "Actividades": "Visitar el castillo.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Áreas circundantes."
+  },
+  {
+    "País": "Luxemburgo",
+    "Ciudad": "Ettelbruck",
+    "Atracciones": "(centro regional).",
+    "Actividades": "Visitar centros regionales.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Luxemburgo",
+    "Ciudad": "Remich",
+    "Atracciones": "Río Mosela, viñedos.",
+    "Actividades": "Turismo agrícola.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Río Mosela, viñedos."
+  },
+  {
+    "País": "Libia",
+    "Ciudad": "Trípoli",
+    "Atracciones": "Casco Antiguo, Arco de Marco Aurelio, Museo del Castillo Rojo (Assaraya al-Hamra).",
+    "Actividades": "Explorar el Casco Antiguo.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Libia",
+    "Ciudad": "Bengasi",
+    "Atracciones": "Ciudad costera.",
+    "Actividades": "Turismo costero.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Libia",
+    "Ciudad": "Misurata",
+    "Atracciones": "El puerto.",
+    "Actividades": "Turismo marítimo.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Libia",
+    "Ciudad": "Sabha",
+    "Atracciones": "(centro regional), el desierto.",
+    "Actividades": "Turismo desértico.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Libia",
+    "Ciudad": "Ghat",
+    "Atracciones": "Ciudad desértica antigua, Montañas Acacus.",
+    "Actividades": "Turismo desértico, explorar arte rupestre.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Libia",
+    "Ciudad": "Zliten",
+    "Atracciones": "Universidad Al-Asmariya, áreas religiosas.",
+    "Actividades": "Turismo religioso.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Libia",
+    "Ciudad": "Sirte",
+    "Atracciones": "Ciudad costera.",
+    "Actividades": "Turismo costero.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Libia",
+    "Ciudad": "Bayda",
+    "Atracciones": "Montañas Jabal al-Akhdar.",
+    "Actividades": "Turismo de montaña.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Montañas Jabal al-Akhdar."
+  },
+  {
+    "País": "Libia",
+    "Ciudad": "Tobruk",
+    "Atracciones": "El puerto, áreas fronterizas.",
+    "Actividades": "Visitar áreas fronterizas.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Libia",
+    "Ciudad": "Derna",
+    "Atracciones": "Ciudad costera, áreas montañosas circundantes.",
+    "Actividades": "Turismo costero y de montaña.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Áreas montañosas circundantes."
+  },
+  {
+    "País": "Lituania",
+    "Ciudad": "Vilna",
+    "Atracciones": "Casco Antiguo (Patrimonio de la Humanidad), Torre de Gediminas, Catedral de Vilna.",
+    "Actividades": "Explorar el Casco Antiguo, visitar castillos y museos.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Lituania",
+    "Ciudad": "Kaunas",
+    "Atracciones": "Casco Antiguo, Castillo de Kaunas.",
+    "Actividades": "Visitar castillos y museos.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Lituania",
+    "Ciudad": "Klaipėda",
+    "Atracciones": "Ciudad costera, Puerto de Klaipėda.",
+    "Actividades": "Turismo costero.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Lituania",
+    "Ciudad": "Palanga",
+    "Atracciones": "(balneario), playas de arena, Parque Botánico de Palanga.",
+    "Actividades": "Turismo de playa.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Playas de arena, Parque Botánico de Palanga."
+  },
+  {
+    "País": "Lituania",
+    "Ciudad": "Šiauliai",
+    "Atracciones": "Colina de las Cruces (sitio religioso), la región interior.",
+    "Actividades": "Visitar la Colina de las Cruces.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "La región interior."
+  },
+  {
+    "País": "Lesoto",
+    "Ciudad": "Maseru",
+    "Atracciones": "El Palacio Real, el Museo Nacional.",
+    "Actividades": "Visitar la capital administrativa.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Lesoto",
+    "Ciudad": "Maloti",
+    "Atracciones": "Montañas Maloti, regiones interiores.",
+    "Actividades": "Turismo de montaña.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Montañas Maloti, regiones interiores."
+  },
+  {
+    "País": "Lesoto",
+    "Ciudad": "Semonkong",
+    "Atracciones": "Cascadas Maletsunyane (la cascada más alta de África).",
+    "Actividades": "Visitar la cascada.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Cascadas Maletsunyane."
+  },
+  {
+    "País": "Lesoto",
+    "Ciudad": "Mohale's Hoek",
+    "Atracciones": "Cueva de Nts'oana, la región sur.",
+    "Actividades": "Explorar cuevas.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Lesoto",
+    "Ciudad": "Mafeteng",
+    "Atracciones": "Huellas de dinosaurios, la región sur.",
+    "Actividades": "Visitar las huellas.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Mali",
+    "Ciudad": "Bamako",
+    "Atracciones": "Torre BCEAO, Catedral de Bamako, Gran Mezquita de Bamako, Museo Nacional, Mercado Central, Parque Nacional.",
+    "Actividades": "Visitar el Museo Nacional, explorar mercados locales, paseos en barco por el Río Níger, paseos en camello por el Desierto del Sahara.",
+    "Gastronomía": "To (servido con salsas), Masa (dulces locales), arroz con carne y pescado, Djiwan (sopa).",
+    "Espacios Verdes": "Parque Nacional, Río Níger."
+  },
+  {
+    "País": "Mali",
+    "Ciudad": "Tombuctú",
+    "Atracciones": "Mezquitas históricas de adobe, bibliotecas antiguas, el desierto.",
+    "Actividades": "Explorar sitios históricos.",
+    "Gastronomía": "To, Masa.",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Mali",
+    "Ciudad": "Mopti",
+    "Atracciones": "Gran Mezquita de Mopti, Río Níger, Lago Débo.",
+    "Actividades": "Turismo fluvial, explorar el río y el lago.",
+    "Gastronomía": "To, Masa.",
+    "Espacios Verdes": "Río Níger, Lago Débo."
+  },
+  {
+    "País": "Mali",
+    "Ciudad": "Ségou",
+    "Atracciones": "Arrozales, arquitectura antigua.",
+    "Actividades": "Turismo agrícola.",
+    "Gastronomía": "To, Masa.",
+    "Espacios Verdes": "Arrozales."
+  },
+  {
+    "País": "Mali",
+    "Ciudad": "Gao",
+    "Atracciones": "Mezquita de Gao, áreas históricas.",
+    "Actividades": "Visitar sitios históricos.",
+    "Gastronomía": "To, Masa.",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Mali",
+    "Ciudad": "Sikasso",
+    "Atracciones": "Río Níger, áreas rurales.",
+    "Actividades": "Turismo fluvial.",
+    "Gastronomía": "To, Masa.",
+    "Espacios Verdes": "Río Níger, áreas rurales."
+  },
+  {
+    "País": "Mali",
+    "Ciudad": "Koro",
+    "Atracciones": "Áreas agrícolas.",
+    "Actividades": "Turismo agrícola.",
+    "Gastronomía": "To, Masa.",
+    "Espacios Verdes": "Áreas agrícolas."
+  },
+  {
+    "País": "Mali",
+    "Ciudad": "Kidal",
+    "Atracciones": "Desierto del Sahara.",
+    "Actividades": "Turismo desértico.",
+    "Gastronomía": "To, Masa.",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Malasia",
+    "Ciudad": "Kuala Lumpur",
+    "Atracciones": "Torres Petronas, Cuevas Batu, Mezquita Nacional, Mercado Central.",
+    "Actividades": "Visitar las Torres Petronas, explorar las Cuevas Batu.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Malasia",
+    "Ciudad": "George Town",
+    "Atracciones": "Casco Antiguo (Patrimonio de la Humanidad), Arte Callejero, patrimonio chino e indio.",
+    "Actividades": "Explorar el Casco Antiguo, ver arte callejero.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Malasia",
+    "Ciudad": "Sabah (incluyendo Kota Kinabalu)",
+    "Atracciones": "Monte Kinabalu, Parque Nacional Kinabalu.",
+    "Actividades": "Escalada de montañas, turismo de naturaleza.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Monte Kinabalu, Parque Nacional Kinabalu."
+  },
+  {
+    "País": "Malasia",
+    "Ciudad": "Sarawak",
+    "Atracciones": "Parque Nacional Bako, regiones interiores.",
+    "Actividades": "Explorar el Parque Nacional.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Parque Nacional Bako, regiones interiores."
+  },
+  {
+    "País": "Malasia",
+    "Ciudad": "Malaca",
+    "Atracciones": "Casco Antiguo (Patrimonio de la Humanidad), iglesias históricas.",
+    "Actividades": "Explorar el patrimonio histórico.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Malasia",
+    "Ciudad": "Cameron Highlands",
+    "Atracciones": "Plantaciones de té, las tierras altas.",
+    "Actividades": "Turismo de montaña.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Plantaciones de té, las tierras altas."
+  },
+  {
+    "País": "Malasia",
+    "Ciudad": "Murud Ngarap",
+    "Atracciones": "(áreas naturales).",
+    "Actividades": "Explorar áreas naturales.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Áreas naturales."
+  },
+  {
+    "País": "Egipto",
+    "Ciudad": "El Cairo",
+    "Atracciones": "Pirámides de Giza, Museo Egipcio, Khan el-Khalili, Mezquita de Al-Azhar, Ciudadela de Saladino.",
+    "Actividades": "Visitar las Pirámides y el Museo, compras en Khan el-Khalili.",
+    "Gastronomía": "Koshari (arroz, lentejas, pasta y cebollas fritas), Molokhia, Feteer Meshaltet, Mahshi, Falafel (Ta'ameya).",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Egipto",
+    "Ciudad": "Luxor",
+    "Atracciones": "Valle de los Reyes, Templo de Karnak, Templo de Luxor.",
+    "Actividades": "Visitar templos y sitios arqueológicos.",
+    "Gastronomía": "Koshari, Molokhia, Feteer Meshaltet.",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Egipto",
+    "Ciudad": "Sharm El Sheikh",
+    "Atracciones": "Mar Rojo, Ras Muhammad (reserva natural), playas.",
+    "Actividades": "Buceo y snorkel, turismo de playa.",
+    "Gastronomía": "Koshari, Molokhia, Feteer Meshaltet.",
+    "Espacios Verdes": "Ras Muhammad (reserva natural), playas."
+  },
+  {
+    "País": "Egipto",
+    "Ciudad": "Asuán",
+    "Atracciones": "Alta Presa, Templo de File, Río Nilo.",
+    "Actividades": "Paseos por el Río Nilo (Felucca), visitar templos.",
+    "Gastronomía": "Koshari, Molokhia, Feteer Meshaltet.",
+    "Espacios Verdes": "Río Nilo."
+  },
+  {
+    "País": "Egipto",
+    "Ciudad": "Faiyum",
+    "Atracciones": "Wadi El-Rayan, lagos de Faiyum.",
+    "Actividades": "Turismo de naturaleza.",
+    "Gastronomía": "Koshari, Molokhia, Feteer Meshaltet.",
+    "Espacios Verdes": "Wadi El-Rayan, lagos de Faiyum."
+  },
+  {
+    "País": "Egipto",
+    "Ciudad": "Tanta",
+    "Atracciones": "(centro regional).",
+    "Actividades": "Visitar mercados.",
+    "Gastronomía": "Koshari, Molokhia, Feteer Meshaltet.",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Egipto",
+    "Ciudad": "Mansura",
+    "Atracciones": "(centro regional).",
+    "Actividades": "Visitar centros regionales.",
+    "Gastronomía": "Koshari, Molokhia, Feteer Meshaltet.",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Mongolia",
+    "Ciudad": "Ulán Bator",
+    "Atracciones": "Monasterio Erdene Zuu (cerca de la ciudad), Plaza Sükhbaatar, Museo Nacional de Historia, teatros y ópera.",
+    "Actividades": "Explorar la capital (corazón cultural y económico), visitar museos y monasterios, paseos a caballo.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Mongolia",
+    "Ciudad": "Harkhorin (Karakorum)",
+    "Atracciones": "Capital antigua (Patrimonio de la Humanidad), Monasterio Erdene Zuu.",
+    "Actividades": "Explorar sitios históricos.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Mongolia",
+    "Ciudad": "Desierto de Gobi",
+    "Atracciones": "Dunas de arena (Khongoryn Els), Valle de las Águilas (Yolyn Am).",
+    "Actividades": "Safari por el desierto, explorar valles y montañas.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Valle de las Águilas (Yolyn Am)."
+  },
+  {
+    "País": "Mongolia",
+    "Ciudad": "Mörön",
+    "Atracciones": "Lago Khövsgöl (la Perla Azul), Parque Nacional Khövsgöl.",
+    "Actividades": "Turismo en el lago, explorar el Parque Nacional.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Lago Khövsgöl, Parque Nacional Khövsgöl."
+  },
+  {
+    "País": "Mongolia",
+    "Ciudad": "Ölgii",
+    "Atracciones": "Montañas Altai (cultura de caza con águilas).",
+    "Actividades": "Explorar la cultura de caza con águilas, turismo de montaña.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Montañas Altai."
+  },
+  {
+    "País": "Mongolia",
+    "Ciudad": "Altai",
+    "Atracciones": "(áreas fronterizas).",
+    "Actividades": "Explorar áreas fronterizas.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  },
+  {
+    "País": "Mongolia",
+    "Ciudad": "Arkhangai",
+    "Atracciones": "Lago Terkhiin Tsagaan Nuur.",
+    "Actividades": "Turismo en el lago.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Lago Terkhiin Tsagaan Nuur."
+  },
+  {
+    "País": "Mongolia",
+    "Ciudad": "Darkhan",
+    "Atracciones": "(centro regional).",
+    "Actividades": "Visitar centros regionales.",
+    "Gastronomía": "Buscar platos locales",
+    "Espacios Verdes": "Buscar espacios verdes"
+  }
+]

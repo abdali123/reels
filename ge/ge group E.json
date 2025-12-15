@@ -1,0 +1,66 @@
+[
+  {
+    "Land": "Aserbaidschan",
+    "Stadt": "Baku",
+    "Sehenswürdigkeiten": "Altstadt (Icherisheher), Jungfrauenturm, Palast der Schirwanschahs, Flammentürme, Heydar-Əliyev-Zentrum, Brunnenplatz, Klein-Venedig, Teppichmuseum.",
+    "Aktivitäten": "Erkunden architektonischer Kontraste, historische Touren in der Altstadt, Spaziergänge am Brunnenplatz.",
+    "Küche": "Plov (Reisgericht mit Fleisch), aserbaidschanischer Kebab, Duschbara (Teigtaschensuppe).",
+    "Grünflächen": "Highland Park, Baku Boulevard, Zentralpark."
+  },
+  {
+    "Land": "Aserbaidschan",
+    "Stadt": "Ganja",
+    "Sehenswürdigkeiten": "Nizami-Gandschavi-Distrikt, historische Moscheen, Schreine, schöne Gärten.",
+    "Aktivitäten": "Besuch kultureller und historischer Stätten, Erkunden architektonischer Wahrzeichen.",
+    "Küche": "Plov, Kebab, Duschbara.",
+    "Grünflächen": "Khan Baghi (Khan's Garden), Heydar-Əliyev-Park."
+  },
+  {
+    "Land": "Aserbaidschan",
+    "Stadt": "Sheki",
+    "Sehenswürdigkeiten": "Palast der Schaki-Chane, lokaler Handwerksmarkt, Theater (für traditionelle Musik und Tanz).",
+    "Aktivitäten": "Eintauchen in das Landleben, Besuch des Schaki-Marktes zum Kauf von Teppichen.",
+    "Küche": "Besondere Schaki-Küche, Plov.",
+    "Grünflächen": "Gärten des Khan-Palastes, Nationale Wälder von Schaki."
+  },
+  {
+    "Land": "Usbekistan",
+    "Stadt": "Buchara",
+    "Sehenswürdigkeiten": "Kalyan-Minarett, Ark-Festung, Samaniden-Mausoleum, Überdachte Basare (für Kunsthandwerk und Teppiche), antike Madrasas, Samaniden-Mausoleum, Bolo-Hauz-Moschee.",
+    "Aktivitäten": "Entdeckung der antiken islamischen Architektur, Spaziergänge durch Taki-Basare.",
+    "Küche": "Plov, Schaschlik, Manti, Samsa.",
+    "Grünflächen": "Samaniden-Park, Lyab-i Hauz."
+  },
+  {
+    "Land": "Usbekistan",
+    "Stadt": "Taschkent",
+    "Sehenswürdigkeiten": "Unabhängigkeitsplatz, Metro Taschkent (verziert mit Mosaiktafeln), Chorsu traditioneller Markt, Nationales Museum für Geschichte Usbekistans, 'Alisher Navoi' Park.",
+    "Aktivitäten": "Besuch von Museen und weitläufigen Parks, Einkaufen auf dem Chorsu-Markt.",
+    "Küche": "Plov, Schaschlik, Manti, Laghman.",
+    "Grünflächen": "Nationalpark Alisher Navoi, Japanischer Garten, Botanischer Garten Taschkent."
+  },
+  {
+    "Land": "Usbekistan",
+    "Stadt": "Choresm (Chiwa)",
+    "Sehenswürdigkeiten": "Alte Stadtmauern, Paläste und Festungen, Türme (zur Beobachtung), antike Märkte.",
+    "Aktivitäten": "Erkunden von Palästen und Festungen, Betrachten von Oasen, Besuch antiker Märkte.",
+    "Küche": "Plov, Schaschlik, Laghman.",
+    "Grünflächen": "Ichan-Qala Innenpark, Kultur- und Erholungspark Chiwa."
+  },
+  {
+    "Land": "Usbekistan",
+    "Stadt": "Schrifisabes",
+    "Sehenswürdigkeiten": "Ak-Saray-Palast (Geburtsort von Timur), historische Gärten, schöne Mosaiken.",
+    "Aktivitäten": "Besuch historischer Gärten, Betrachten timuridischer Architektur.",
+    "Küche": "Plov, Schaschlik, Samsa.",
+    "Grünflächen": "Gärten des Timur-Platzes, Kitab-Geologisches Reservat."
+  },
+  {
+    "Land": "Usbekistan",
+    "Stadt": "Namangan",
+    "Sehenswürdigkeiten": "(Eine große Stadt mit historischen Denkmälern und Wahrzeichen).",
+    "Aktivitäten": "Erkunden von Minaretten und Madrasas, Besuch des Blumengartens.",
+    "Küche": "Namangan-Plov, Schaschlik, Früchte aus dem Fergana-Tal.",
+    "Grünflächen": "Zahiriddin-Babur-Park, Afsana-Park."
+  }
+]

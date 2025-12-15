@@ -1,0 +1,2612 @@
+[
+  {
+    "Land": "Slowakei",
+    "Region": "Mitteleuropa",
+    "Stadt": "Bratislava",
+    "Sehenswürdigkeiten": "Bratislava Burg, Michaels Tor (Mittelalter), Grassalkovich Palast (Präsidentenpalast), Blaue Kirche (Elisabeth), Altstadt.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Sad Janka Kráľa Park (ältester öffentlicher Park), Bratislava Waldpark, Donauufer."
+  },
+  {
+    "Land": "Slowakei",
+    "Region": "Mitteleuropa",
+    "Stadt": "Košice",
+    "Sehenswürdigkeiten": "St. Elisabeth Kathedrale (größte Kirche der Slowakei), Urbaner Turm, Historische Hlavná Straße.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Botanischer Garten der Pavol Jozef Šafárik Universität, Stadtpark (Mestský Park)."
+  },
+  {
+    "Land": "Slowakei",
+    "Region": "Mitteleuropa",
+    "Stadt": "Banská Štiavnica",
+    "Sehenswürdigkeiten": "Alte Burg und Neue Burg (UNESCO-Erbe), Heilig- Dreifaltigkeitsplatz, Freilicht-Bergbaumuseum.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Künstliche Bergbauteiche (Tajchy) umgeben von Wäldern, Kalvária Garten."
+  },
+  {
+    "Land": "Slowakei",
+    "Region": "Mitteleuropa",
+    "Stadt": "Piešťany",
+    "Sehenswürdigkeiten": "Kolonádný Brücke (Funktionalistische Architektur), Napoleons Badhaus, Balneologisches Museum.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Kurinsel mit ihren üppigen Gärten, Stadtpark."
+  },
+  {
+    "Land": "Slowakei",
+    "Region": "Mitteleuropa",
+    "Stadt": "Trenčín",
+    "Sehenswürdigkeiten": "Beeindruckende Trenčín Burg auf dem Hügel, Römische Inschrift auf Felsen (datiert auf 179 n. Chr.), Alte Jüdische Synagoge.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Brezina Waldpark (Lesopark Brezina) umgibt die Burg."
+  },
+  {
+    "Land": "Slowakei",
+    "Region": "Mitteleuropa",
+    "Stadt": "Levoča",
+    "Sehenswürdigkeiten": "St. Jakobus Kirche (enthält den höchsten Holzschnitzaltar der Welt), Altes Rathaus, Schandkäfig.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Grüne Hügel um Spiš mit malerischen Ausblicken."
+  },
+  {
+    "Land": "Slowakei",
+    "Region": "Mitteleuropa",
+    "Stadt": "Žilina",
+    "Sehenswürdigkeiten": "Platz Marian Square, Budatín Burg (am Zusammenfluss der Flüsse), Kirche der Heiligen Dreifaltigkeit.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Sad SNP Park, Žilina Talsperre."
+  },
+  {
+    "Land": "Slowakei",
+    "Region": "Mitteleuropa",
+    "Stadt": "Poprad",
+    "Sehenswürdigkeiten": "Historischer Bezirk Spišská Sobota (gotische und Renaissancehäuser), Kirche des Heiligen Ägidius.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Tor zur Hohen Tatra, Aquacity Wasserpark (unterirdische Gewässer)."
+  },
+  {
+    "Land": "Slowakei",
+    "Region": "Mitteleuropa",
+    "Stadt": "Nitra",
+    "Sehenswürdigkeiten": "Nitra Burg, St. Emmeram Kathedrale, Zobor Kloster (Ruinen).",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Sídlisko Park (am Fluss), Zobor Berg und Wanderwege."
+  },
+  {
+    "Land": "Slowakei",
+    "Region": "Mitteleuropa",
+    "Stadt": "Bardejov",
+    "Sehenswürdigkeiten": "Rathausplatz (UNESCO), St. Ägidius Kirche, Erhaltene Befestigungsanlagen.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Bardejovské Kúpele Kurort umgeben von Wäldern."
+  },
+  {
+    "Land": "Singapur",
+    "Region": "Südostasien",
+    "Stadt": "Marina Bay",
+    "Sehenswürdigkeiten": "Fullerton Hotel (ehemaliges Postamt), Merlion Park.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Gärten am Bay und Supertrees, Blumenkuppel."
+  },
+  {
+    "Land": "Singapur",
+    "Region": "Südostasien",
+    "Stadt": "Chinatown",
+    "Sehenswürdigkeiten": "Buddha-Zahn-Reliqui-Tempel, Sri Mariamman Tempel (hinduistisch), Traditionelle Ladenhäuser.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Hong Lim Park (Speaker's Corner)."
+  },
+  {
+    "Land": "Singapur",
+    "Region": "Südostasien",
+    "Stadt": "Sentosa",
+    "Sehenswürdigkeiten": "Fort Siloso aus dem Zweiten Weltkrieg.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Siloso, Palawan und Tanjong Strände, Naturwanderwege."
+  },
+  {
+    "Land": "Singapur",
+    "Region": "Südostasien",
+    "Stadt": "Civic District",
+    "Sehenswürdigkeiten": "Nationalgalerie (ehemaliges Oberstes Gericht), Altes Parlamentsgebäude, St. Andrew's Kathedrale.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Historischer Fort Canning Park."
+  },
+  {
+    "Land": "Singapur",
+    "Region": "Südostasien",
+    "Stadt": "Botanic Gardens",
+    "Sehenswürdigkeiten": "Burkill House, Shaw Foundation Symphony Stage.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "National Orchid Garden, Old Rainforest (UNESCO-Stätte)."
+  },
+  {
+    "Land": "Singapur",
+    "Region": "Südostasien",
+    "Stadt": "Little India",
+    "Sehenswürdigkeiten": "Sri Veeramakaliamman Tempel, Abdul Gaffoor Moschee, Mustafa Centre.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Kleine Grünflächen und Gemeinschaftsgärten."
+  },
+  {
+    "Land": "Singapur",
+    "Region": "Südostasien",
+    "Stadt": "Kampong Glam",
+    "Sehenswürdigkeiten": "Sultan Moschee mit ihrer goldenen Kuppel, Malaysisches Erbezentrum (ehemaliger Sultanpalast).",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Keine großen Parks, aber bekannt für Palmenbäume entlang der Straßen."
+  },
+  {
+    "Land": "Singapur",
+    "Region": "Südostasien",
+    "Stadt": "Katong",
+    "Sehenswürdigkeiten": "Bunte Peranakan Häuser, Kolonialarchitektur.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "East Coast Park erstreckt sich entlang des Meeres."
+  },
+  {
+    "Land": "Singapur",
+    "Region": "Südostasien",
+    "Stadt": "Punggol",
+    "Sehenswürdigkeiten": "Altes Matilda Haus.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Coney Island, Punggol Waterway."
+  },
+  {
+    "Land": "Singapur",
+    "Region": "Südostasien",
+    "Stadt": "Pulau Ubin",
+    "Sehenswürdigkeiten": "Verbleibende traditionelle Dörfer (Kampongs), alte Granitsteinbrüche.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Chek Jawa Feuchtgebiete, Mangrovenwälder."
+  },
+  {
+    "Land": "Schweiz",
+    "Region": "Westeuropa",
+    "Stadt": "Bern",
+    "Sehenswürdigkeiten": "Altstadt (UNESCO), Zytglogge Turmuhr, Bundespalast der Schweiz.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "BärenPark, Rosengarten mit Blick auf die Stadt."
+  },
+  {
+    "Land": "Schweiz",
+    "Region": "Westeuropa",
+    "Stadt": "Zürich",
+    "Sehenswürdigkeiten": "Grossmünster Kirche, Fraumünster Kirche (Chagall-Fenster), Lindenhof Viertel.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Zürichsee, Uetliberg Berg zum Wandern."
+  },
+  {
+    "Land": "Schweiz",
+    "Region": "Westeuropa",
+    "Stadt": "Genf",
+    "Sehenswürdigkeiten": "St. Pierre Kathedrale, Palais des Nations (Vereinte Nationen), Reformationsmauer.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Jardin Anglais (Englischer Garten), Parc de la Bastion, Genfersee und sein Springbrunnen."
+  },
+  {
+    "Land": "Schweiz",
+    "Region": "Westeuropa",
+    "Stadt": "Luzern",
+    "Sehenswürdigkeiten": "Kapellbrücke, Museggmauer (Musegg Mauer), Löwendenkmal.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Vierwaldstättersee, Pilatus (in der Nähe)."
+  },
+  {
+    "Land": "Schweiz",
+    "Region": "Westeuropa",
+    "Stadt": "Basel",
+    "Sehenswürdigkeiten": "Roter Münster, Spalentor Tor, Buntes Rathaus.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Botanischer Garten der Universität Basel, Rheinufer."
+  },
+  {
+    "Land": "Schweiz",
+    "Region": "Westeuropa",
+    "Stadt": "Lausanne",
+    "Sehenswürdigkeiten": "Notre Dame Kathedrale, Palais de Rumine, Flon Viertel.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Olympisches Museum Gärten, Montreux Park, Lavaux Weinberge (in der Nähe)."
+  },
+  {
+    "Land": "Schweiz",
+    "Region": "Westeuropa",
+    "Stadt": "Lugano",
+    "Sehenswürdigkeiten": "Kathedrale von San Lorenzo, Piazza della Riforma, Kirche Santa Maria degli Angioli.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Parco Ciani, Luganersee, Monte Brè."
+  },
+  {
+    "Land": "Schweiz",
+    "Region": "Westeuropa",
+    "Stadt": "St. Gallen",
+    "Sehenswürdigkeiten": "Stiftsbibliothek (Weltkulturerbe), Barockkathedrale.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Peter und Paul Wildpark, Drei Weieren Bereich."
+  },
+  {
+    "Land": "Schweiz",
+    "Region": "Westeuropa",
+    "Stadt": "Montreux",
+    "Sehenswürdigkeiten": "Historisches Schloss Chillon am Wasser.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Blumenpromenade entlang des Sees, Rochers de Naye."
+  },
+  {
+    "Land": "Schweiz",
+    "Region": "Westeuropa",
+    "Stadt": "Zermatt",
+    "Sehenswürdigkeiten": "Altes Walliser Dorf (traditionelle Holzhäuser), Matterhorn Museum.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Berühmter Matterhorn Berg, Riffelsee See, Gorner Schlucht."
+  },
+  {
+    "Land": "Frankreich",
+    "Region": "Westeuropa",
+    "Stadt": "Paris",
+    "Sehenswürdigkeiten": "Eiffelturm, Arc de Triomphe, Louvre Museum, Notre Dame Kathedrale.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Luxemburg Gärten, Tuilerien Garten, Bois de Boulogne."
+  },
+  {
+    "Land": "Frankreich",
+    "Region": "Westeuropa",
+    "Stadt": "Lyon",
+    "Sehenswürdigkeiten": "Römisches Theater, Notre-Dame de Fourvière Basilika, Traboules (versteckte Gänge).",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Großer Parc de la Tête d'Or."
+  },
+  {
+    "Land": "Frankreich",
+    "Region": "Westeuropa",
+    "Stadt": "Marseille",
+    "Sehenswürdigkeiten": "Notre-Dame de la Garde Basilika, Fort Saint-Jean, Alter Hafen.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Calanques Nationalpark (felsige Buchten)."
+  },
+  {
+    "Land": "Frankreich",
+    "Region": "Westeuropa",
+    "Stadt": "Bordeaux",
+    "Sehenswürdigkeiten": "Place de la Bourse, Saint André Kathedrale, Grand Théâtre.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Jardin Public, Garonne-Ufer."
+  },
+  {
+    "Land": "Frankreich",
+    "Region": "Westeuropa",
+    "Stadt": "Nizza",
+    "Sehenswürdigkeiten": "Vieux Nizza (Altstadt), Saint Nikolaus Orthodoxe Kathedrale.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Colline du Château (Schlosshügel), Promenade des Anglais."
+  },
+  {
+    "Land": "Frankreich",
+    "Region": "Westeuropa",
+    "Stadt": "Straßburg",
+    "Sehenswürdigkeiten": "Straßburger Münster (astronomische Uhr), Petit France Viertel, Gedeckte Brücken.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Parc de l'Orangerie."
+  },
+  {
+    "Land": "Frankreich",
+    "Region": "Westeuropa",
+    "Stadt": "Toulouse",
+    "Sehenswürdigkeiten": "Saint-Sernin Basilika, Place du Capitole, Jakobiner Konvent.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Japanischer Garten, Garonne-Ufer und Canal du Midi."
+  },
+  {
+    "Land": "Frankreich",
+    "Region": "Westeuropa",
+    "Stadt": "Nantes",
+    "Sehenswürdigkeiten": "Schloss der Herzöge der Bretagne, Passage Pommeraye, Kathedrale von Nantes.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Jardin des Plantes, Île de Versailles."
+  },
+  {
+    "Land": "Frankreich",
+    "Region": "Westeuropa",
+    "Stadt": "Aix-en-Provence",
+    "Sehenswürdigkeiten": "Cours Mirabeau, Saint-Sauveur Kathedrale, Cézanne Atelier.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Terrain des Peintres, Sainte-Victoire Berg."
+  },
+  {
+    "Land": "Frankreich",
+    "Region": "Westeuropa",
+    "Stadt": "Annecy",
+    "Sehenswürdigkeiten": "Palais de l'Isle, Altes Schloss.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Annecy See, Europa Gärten."
+  },
+  {
+    "Land": "Syrien",
+    "Region": "Naher Osten",
+    "Stadt": "Damaskus",
+    "Sehenswürdigkeiten": "Umayyaden Moschee, Al-Hamidiyah Souq, Azem Palast, Bab Tuma, Mariamiten Kathedrale.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Ghouta von Damaskus (historisch), Berg Qasioun, Tishreen Park."
+  },
+  {
+    "Land": "Syrien",
+    "Region": "Naher Osten",
+    "Stadt": "Aleppo",
+    "Sehenswürdigkeiten": "Aleppo Zitadelle, Überdachte Souks (Altstadt), Große Moschee, Al-Jdayde Viertel.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Öffentlicher Garten."
+  },
+  {
+    "Land": "Syrien",
+    "Region": "Naher Osten",
+    "Stadt": "Palmyra (Tadmur)",
+    "Sehenswürdigkeiten": "Tempel des Bel, Triumphbogen, Römisches Theater, Tal der Gräber.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Palmyra Oase (Palmen und Oliven), Afqa Quelle."
+  },
+  {
+    "Land": "Syrien",
+    "Region": "Naher Osten",
+    "Stadt": "Homs",
+    "Sehenswürdigkeiten": "Um al-Zinar Kirche, Khalid ibn al-Walid Moschee, Homs Burg.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Orontes-Ufer, See Qattinah."
+  },
+  {
+    "Land": "Syrien",
+    "Region": "Naher Osten",
+    "Stadt": "Latakia",
+    "Sehenswürdigkeiten": "Römischer Triumphbogen, Bacchus Säulen, Nationalmuseum.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Blauer Strand, in der Nähe Al-Furqol Wälder."
+  },
+  {
+    "Land": "Syrien",
+    "Region": "Naher Osten",
+    "Stadt": "Hama",
+    "Sehenswürdigkeiten": "Alte Norias, Azem Palast (Museum der Traditionen), Al-Nouri Moschee.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Norias Gärten am Orontes Fluss."
+  },
+  {
+    "Land": "Syrien",
+    "Region": "Naher Osten",
+    "Stadt": "Bosra al-Sham",
+    "Sehenswürdigkeiten": "Römisches Amphitheater (eines der vollständigsten der Welt), Alte Basalt Stadt.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Ebenen um Hauran."
+  },
+  {
+    "Land": "Syrien",
+    "Region": "Naher Osten",
+    "Stadt": "Tartus",
+    "Sehenswürdigkeiten": "Tartus Kathedrale (Museum), Altstadt, Margat Burg (in der Nähe).",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Arwad Insel, Seeuferpromenade."
+  },
+  {
+    "Land": "Syrien",
+    "Region": "Naher Osten",
+    "Stadt": "Maaloula",
+    "Sehenswürdigkeiten": "Kloster der Heiligen Thekla, Kloster des Heiligen Sergius, Der Felsriss.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Umgebende felsige Berge und Höhlen."
+  },
+  {
+    "Land": "Syrien",
+    "Region": "Naher Osten",
+    "Stadt": "Raqqa",
+    "Sehenswürdigkeiten": "Baghdad Tor, Qasr al-Banat (Abbasidische), Alte Stadtmauern.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Euphrat-Ufer."
+  },
+  {
+    "Land": "Eswatini (Swasiland)",
+    "Region": "Südafrika",
+    "Stadt": "Mbabane",
+    "Sehenswürdigkeiten": "Mbabane Handwerksmarkt (kulturell).",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Sibebe Felsen - zweitgrößter Granitmonolith der Welt."
+  },
+  {
+    "Land": "Eswatini (Swasiland)",
+    "Region": "Südafrika",
+    "Stadt": "Lobamba",
+    "Sehenswürdigkeiten": "Parlament, Nationalmuseum, König Sobhuza II Gedenkdorf.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Mlilwane Wildschutzgebiet."
+  },
+  {
+    "Land": "Eswatini (Swasiland)",
+    "Region": "Südafrika",
+    "Stadt": "Manzini",
+    "Sehenswürdigkeiten": "Manzini Kathedrale, Alter Markt.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "In der Nähe Hlane Royal Nationalpark."
+  },
+  {
+    "Land": "Eswatini (Swasiland)",
+    "Region": "Südafrika",
+    "Stadt": "Ezulwini",
+    "Sehenswürdigkeiten": "Tal der Könige, Mantenga Kulturelles Dorf.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Mantenga Wasserfälle, Shewula Naturschutzgebiet."
+  },
+  {
+    "Land": "Eswatini (Swasiland)",
+    "Region": "Südafrika",
+    "Stadt": "Big Bend",
+    "Sehenswürdigkeiten": "Historische Zuckerfabriken und Schulen.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Usutu Fluss (Krokodilbeobachtung), Lubombo Berge."
+  },
+  {
+    "Land": "Eswatini (Swasiland)",
+    "Region": "Südafrika",
+    "Stadt": "Piggs Peak",
+    "Sehenswürdigkeiten": "Alte Goldminen.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Phophonyane Wasserfälle, Maguga Talsperre."
+  },
+  {
+    "Land": "Eswatini (Swasiland)",
+    "Region": "Südafrika",
+    "Stadt": "Simunye",
+    "Sehenswürdigkeiten": "Zuckermuseum.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Hlane Royal Nationalpark - Heimat von Löwen."
+  },
+  {
+    "Land": "Eswatini (Swasiland)",
+    "Region": "Südafrika",
+    "Stadt": "Nhlangano",
+    "Sehenswürdigkeiten": "Ort, an dem König George VI. König Sobhuza traf.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Mahamba Schlucht Wald."
+  },
+  {
+    "Land": "Eswatini (Swasiland)",
+    "Region": "Südafrika",
+    "Stadt": "Siteki",
+    "Sehenswürdigkeiten": "Alte Missionsschulen.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Mkhaya Naturschutzgebiet für bedrohte Arten."
+  },
+  {
+    "Land": "Eswatini (Swasiland)",
+    "Region": "Südafrika",
+    "Stadt": "Malkerns",
+    "Sehenswürdigkeiten": "Swazi Kerzenzentrum.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Grüne landwirtschaftliche Flächen und Täler."
+  },
+  {
+    "Land": "Suriname",
+    "Region": "Südamerika",
+    "Stadt": "Paramaribo",
+    "Sehenswürdigkeiten": "Historische Innenstadt (UNESCO), Fort Zeelandia, Holzkathedrale (Sts. Peter und Paul).",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Palmentuin (Palmen Garten), Suriname Flussufer."
+  },
+  {
+    "Land": "Suriname",
+    "Region": "Südamerika",
+    "Stadt": "Nieuw Nickerie",
+    "Sehenswürdigkeiten": "Stadtmarkt, Einwanderungsdenkmäler.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Bigi Pan Naturschutzgebiet - Vögel und Sümpfe."
+  },
+  {
+    "Land": "Suriname",
+    "Region": "Südamerika",
+    "Stadt": "Moengo",
+    "Sehenswürdigkeiten": "Geschichte des Bauxitabbaus, Moderne Kunstinstallationen.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Umgebende Wälder und Flüsse."
+  },
+  {
+    "Land": "Suriname",
+    "Region": "Südamerika",
+    "Stadt": "Albina",
+    "Sehenswürdigkeiten": "Altes französisches Gefängnis (Ruinen bleiben), Koloniale Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Galibi Naturschutzgebiet für Meeresschildkröten."
+  },
+  {
+    "Land": "Suriname",
+    "Region": "Südamerika",
+    "Stadt": "Groningen",
+    "Sehenswürdigkeiten": "Niederländisches Einwanderungsdenkmal, Hauptplatz.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Saramacca Fluss."
+  },
+  {
+    "Land": "Suriname",
+    "Region": "Südamerika",
+    "Stadt": "Jodensavanne",
+    "Sehenswürdigkeiten": "Ruinen der alten jüdischen Synagoge (älteste in Amerika), Historischer Friedhof.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Suriname Fluss und umgebende dichte Wälder."
+  },
+  {
+    "Land": "Suriname",
+    "Region": "Südamerika",
+    "Stadt": "Domburg",
+    "Sehenswürdigkeiten": "Alte Plantagen.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "White Beach (künstlicher Strand am Fluss)."
+  },
+  {
+    "Land": "Suriname",
+    "Region": "Südamerika",
+    "Stadt": "Brokopondo",
+    "Sehenswürdigkeiten": "Talsperren-Denkmal.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Brokopondo See (großer Stausee), Tonka Insel."
+  },
+  {
+    "Land": "Suriname",
+    "Region": "Südamerika",
+    "Stadt": "Wageningen",
+    "Sehenswürdigkeiten": "Historisches Reisanbauzentrum.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Ausgedehnte Reisfelder."
+  },
+  {
+    "Land": "Suriname",
+    "Region": "Südamerika",
+    "Stadt": "Totness",
+    "Sehenswürdigkeiten": "Altes Kommissärshaus.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Wasserkanäle und Kokospalmen (Coronie)."
+  },
+  {
+    "Land": "Vietnam",
+    "Region": "Südostasien",
+    "Stadt": "Hanoi",
+    "Sehenswürdigkeiten": "Ho Chi Minh Mausoleum, Literaturtempel, Kaiserliche Zitadelle.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Hoan Kiem See, Westsee."
+  },
+  {
+    "Land": "Vietnam",
+    "Region": "Südostasien",
+    "Stadt": "Hoi An",
+    "Sehenswürdigkeiten": "Altstadt (UNESCO), Japanische Brücke, Chinesische Versammlungshallen.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "An Bang Strand, Reisfelder in Tra Que."
+  },
+  {
+    "Land": "Vietnam",
+    "Region": "Südostasien",
+    "Stadt": "Ho-Chi-Minh-Stadt",
+    "Sehenswürdigkeiten": "Wiedervereinigungspalast, Notre Dame Kathedrale, Zentraler Postamt.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Tao Dan Park, Saigon Flussufer."
+  },
+  {
+    "Land": "Vietnam",
+    "Region": "Südostasien",
+    "Stadt": "Hue",
+    "Sehenswürdigkeiten": "Verbotene Stadt (Zitadelle), Gräber der Kaiser, Thien Mu Pagode.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Parfüm Fluss, Phong Kanh Hügel."
+  },
+  {
+    "Land": "Vietnam",
+    "Region": "Südostasien",
+    "Stadt": "Ha Long",
+    "Sehenswürdigkeiten": "Bai Chay Brücke.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Ha Long Bucht (UNESCO) - Kalksteininseln und Höhlen."
+  },
+  {
+    "Land": "Vietnam",
+    "Region": "Südostasien",
+    "Stadt": "Sapa",
+    "Sehenswürdigkeiten": "Alte Steinkirche, Stammesdörfer (Cat Cat).",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Fansipan Berg, Muong Hoa Tal, Silber Wasserfall."
+  },
+  {
+    "Land": "Vietnam",
+    "Region": "Südostasien",
+    "Stadt": "Nha Trang",
+    "Sehenswürdigkeiten": "Po Nagar Cham Türme, Nha Trang Kathedrale.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Nha Trang Strand, Affeninsel."
+  },
+  {
+    "Land": "Vietnam",
+    "Region": "Südostasien",
+    "Stadt": "Da Nang",
+    "Sehenswürdigkeiten": "Drachenbrücke, Cham Skulpturenmuseum.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Marmorberge, My Khe Strand, Son Tra Halbinsel."
+  },
+  {
+    "Land": "Vietnam",
+    "Region": "Südostasien",
+    "Stadt": "Dalat",
+    "Sehenswürdigkeiten": "Sommerpalast von König Bao Dai, Alter Bahnhof, Crazy House.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Xuan Huong See, Datanla Wasserfälle, Tal der Liebe."
+  },
+  {
+    "Land": "Vietnam",
+    "Region": "Südostasien",
+    "Stadt": "Ninh Binh",
+    "Sehenswürdigkeiten": "Bai Dinh Tempel, Alte Hauptstadt Hoa Lu.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Tam Coc (Ha Long Bucht an Land), Van Long Naturschutzgebiet."
+  },
+  {
+    "Land": "Ghana",
+    "Region": "Westafrika",
+    "Stadt": "Accra",
+    "Sehenswürdigkeiten": "Osu Burg (Christiansborg), Unabhängigkeitsplatz, James Town Leuchtturm.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Labadi Strand, Legon Botanischer Garten."
+  },
+  {
+    "Land": "Ghana",
+    "Region": "Westafrika",
+    "Stadt": "Cape Coast",
+    "Sehenswürdigkeiten": "Cape Coast Burg (Geschichte der Sklaverei), Koloniale Häuser.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Cape Coast Strände."
+  },
+  {
+    "Land": "Ghana",
+    "Region": "Westafrika",
+    "Stadt": "Elmina",
+    "Sehenswürdigkeiten": "St. Georgs Burg (ältestes europäisches Gebäude in Afrika), Fort Coenraadsburg.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Benya Lagune."
+  },
+  {
+    "Land": "Ghana",
+    "Region": "Westafrika",
+    "Stadt": "Kumasi",
+    "Sehenswürdigkeiten": "Manhyia Palast (Ashanti Königreich), Okomfo Anokye Schwertstelle.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "See Bosomtwe (Meteoritenkrater), Kumasi Gärten."
+  },
+  {
+    "Land": "Ghana",
+    "Region": "Westafrika",
+    "Stadt": "Tamale",
+    "Sehenswürdigkeiten": "Alte Lehm-Moscheen (Larabanga in der Nähe), Tamale Markt.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Mole Nationalpark (Safari)."
+  },
+  {
+    "Land": "Ghana",
+    "Region": "Westafrika",
+    "Stadt": "Ho",
+    "Sehenswürdigkeiten": "Regionales Museum, Alte deutsche Kirche.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Berg Adaklu, Wli Wasserfälle."
+  },
+  {
+    "Land": "Ghana",
+    "Region": "Westafrika",
+    "Stadt": "Takoradi",
+    "Sehenswürdigkeiten": "Historischer Hafen, Market Circle.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Busua Strände."
+  },
+  {
+    "Land": "Ghana",
+    "Region": "Westafrika",
+    "Stadt": "Akosombo",
+    "Sehenswürdigkeiten": "Akosombo Talsperren-Denkmal.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Volta See, Dodi Insel."
+  },
+  {
+    "Land": "Ghana",
+    "Region": "Westafrika",
+    "Stadt": "Koforidua",
+    "Sehenswürdigkeiten": "Traditioneller Perlenmarkt.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Boti Wasserfälle, Regenschirm Felsen."
+  },
+  {
+    "Land": "Ghana",
+    "Region": "Westafrika",
+    "Stadt": "Bolgatanga",
+    "Sehenswürdigkeiten": "Kunsthandwerksdorf, Sacred Heart Kathedrale.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Tongo Felsen."
+  },
+  {
+    "Land": "Sierra Leone",
+    "Region": "Westafrika",
+    "Stadt": "Freetown",
+    "Sehenswürdigkeiten": "Baumwollbaum (Symbol der Freiheit), Königstor, Eisenbahnmuseum.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Lumley Strand, Tacugama Schimpansen-Reservat."
+  },
+  {
+    "Land": "Sierra Leone",
+    "Region": "Westafrika",
+    "Stadt": "Bunce Island",
+    "Sehenswürdigkeiten": "Ruinen des Sklaven-Schlosses (emotionale historische Stätte).",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Insel umgeben vom Sierra Leone Fluss und Wäldern."
+  },
+  {
+    "Land": "Sierra Leone",
+    "Region": "Westafrika",
+    "Stadt": "Bo",
+    "Sehenswürdigkeiten": "Bo Tor, Regierungsschule.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Umgebende Gärten."
+  },
+  {
+    "Land": "Sierra Leone",
+    "Region": "Westafrika",
+    "Stadt": "Kenema",
+    "Sehenswürdigkeiten": "Diamantenhandelszentrum.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "In der Nähe Gola Regenwald."
+  },
+  {
+    "Land": "Sierra Leone",
+    "Region": "Westafrika",
+    "Stadt": "Makeni",
+    "Sehenswürdigkeiten": "Zentralmoschee.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Waba Hügel."
+  },
+  {
+    "Land": "Sierra Leone",
+    "Region": "Westafrika",
+    "Stadt": "Kabala",
+    "Sehenswürdigkeiten": "Alte koloniale Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Berg Bintimani, Berglandschaften."
+  },
+  {
+    "Land": "Sierra Leone",
+    "Region": "Westafrika",
+    "Stadt": "Waterloo",
+    "Sehenswürdigkeiten": "Friedhof der befreiten Siedler.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "In der Nähe Halbinselstrände."
+  },
+  {
+    "Land": "Sierra Leone",
+    "Region": "Westafrika",
+    "Stadt": "Shenge",
+    "Sehenswürdigkeiten": "Überreste alter Festungen.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Schildkröteninseln."
+  },
+  {
+    "Land": "Sierra Leone",
+    "Region": "Westafrika",
+    "Stadt": "Bonthe",
+    "Sehenswürdigkeiten": "Alte Kreolen-Architektur.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Sherbro Insel, Mangrovenbäume."
+  },
+  {
+    "Land": "Sierra Leone",
+    "Region": "Westafrika",
+    "Stadt": "Rokupr",
+    "Sehenswürdigkeiten": "Flusshandelsgeschichte.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Great Scarcies Fluss."
+  },
+  {
+    "Land": "Seychellen",
+    "Region": "Ostafrika (Inseln)",
+    "Stadt": "Victoria",
+    "Sehenswürdigkeiten": "Turm (Lorloz), Arul Mihu Navasakthi Vinayagar Tempel, Naturhistorisches Museum.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Nationaler Botanischer Garten, Morne Seychellois Nationalpark."
+  },
+  {
+    "Land": "Seychellen",
+    "Region": "Ostafrika (Inseln)",
+    "Stadt": "Beau Vallon",
+    "Sehenswürdigkeiten": "Alte Wohngegend.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Berühmter Beau Vallon Strand, Mare aux Cochons Pfad."
+  },
+  {
+    "Land": "Seychellen",
+    "Region": "Ostafrika (Inseln)",
+    "Stadt": "Anse Royale",
+    "Sehenswürdigkeiten": "Jardin du Roi Gewürzgarten.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Anse Royale Strand, kristallklares Wasser."
+  },
+  {
+    "Land": "Seychellen",
+    "Region": "Ostafrika (Inseln)",
+    "Stadt": "La Passe (La Digue Insel)",
+    "Sehenswürdigkeiten": "Union Estate Plantage, Das Plantagenhaus.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Anse Source d'Argent Strand (Granitfelsen), Fliegenschnäpper Reservat."
+  },
+  {
+    "Land": "Seychellen",
+    "Region": "Ostafrika (Inseln)",
+    "Stadt": "Grand Anse (Praslin)",
+    "Sehenswürdigkeiten": "Lokale Denkmäler.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Vallee de Mai - Heimat des coco de mer (UNESCO)."
+  },
+  {
+    "Land": "Seychellen",
+    "Region": "Ostafrika (Inseln)",
+    "Stadt": "Takamaka",
+    "Sehenswürdigkeiten": "Lokale Kirchen.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Anse Intendance Strand."
+  },
+  {
+    "Land": "Seychellen",
+    "Region": "Ostafrika (Inseln)",
+    "Stadt": "Bel Ombre",
+    "Sehenswürdigkeiten": "La Buse Piratenschatzstätte (Legende).",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Anse Major Pfad."
+  },
+  {
+    "Land": "Seychellen",
+    "Region": "Ostafrika (Inseln)",
+    "Stadt": "Baie Sainte Anne",
+    "Sehenswürdigkeiten": "Fähre-Hafen.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Fond Ferdinand Reservat."
+  },
+  {
+    "Land": "Seychellen",
+    "Region": "Ostafrika (Inseln)",
+    "Stadt": "Silhouette Insel",
+    "Sehenswürdigkeiten": "Dauban Familienfriedhof, Altes Dorf.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Dichter tropischer Wald und Meeresreservat."
+  },
+  {
+    "Land": "Seychellen",
+    "Region": "Ostafrika (Inseln)",
+    "Stadt": "Anse Boileau",
+    "Sehenswürdigkeiten": "Traditionelles Fischerdorf.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Ruhige Bucht und Mangrovenbäume."
+  },
+  {
+    "Land": "Tadschikistan",
+    "Region": "Zentralasien",
+    "Stadt": "Duschanbe",
+    "Sehenswürdigkeiten": "Ismail Samani Denkmal, Hissor Festung (in der Nähe), Nationalmuseum.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Rudaki Park, Komsomol See, Siegespark."
+  },
+  {
+    "Land": "Tadschikistan",
+    "Region": "Zentralasien",
+    "Stadt": "Khujand",
+    "Sehenswürdigkeiten": "Khujand Festung, Panjshanbe Markt, Sheikh Muslihiddin Mausoleum.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Syr Darya Flussufer, Kamol Khujandi Park."
+  },
+  {
+    "Land": "Tadschikistan",
+    "Region": "Zentralasien",
+    "Stadt": "Penjikent",
+    "Sehenswürdigkeiten": "Ruinen des antiken Penjikent (Pompeji Zentralasiens), Geburtsort von Rudaki.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Sieben Seen (Haft Kul) im Fann Gebirge."
+  },
+  {
+    "Land": "Tadschikistan",
+    "Region": "Zentralasien",
+    "Stadt": "Istaravshan",
+    "Sehenswürdigkeiten": "Alte Burg (Mug Teppe), Kok Gumbaz Schule.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Obstgärten und umgebende Hügel."
+  },
+  {
+    "Land": "Tadschikistan",
+    "Region": "Zentralasien",
+    "Stadt": "Khorugh",
+    "Sehenswürdigkeiten": "Regionales Geschichtsmuseum.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Botanischer Garten (zweithöchster Garten der Welt), Pamir Gebirge."
+  },
+  {
+    "Land": "Tadschikistan",
+    "Region": "Zentralasien",
+    "Stadt": "Kulob",
+    "Sehenswürdigkeiten": "Mausoleum von Mir Said Ali Hamadoni.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Yakhch Tal."
+  },
+  {
+    "Land": "Tadschikistan",
+    "Region": "Zentralasien",
+    "Stadt": "Murghab",
+    "Sehenswürdigkeiten": "Lenin Statue, Lokaler Markt.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Hohe Pamir Hochebene, Karakul See."
+  },
+  {
+    "Land": "Tadschikistan",
+    "Region": "Zentralasien",
+    "Stadt": "Hissor",
+    "Sehenswürdigkeiten": "Hissor Festung, Alte Schule.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Umgebende fruchtbare Ebene."
+  },
+  {
+    "Land": "Tadschikistan",
+    "Region": "Zentralasien",
+    "Stadt": "Nurek",
+    "Sehenswürdigkeiten": "Nurek Talsperre (höchste Erddamm).",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Nurek Stausee (Blauer See)."
+  },
+  {
+    "Land": "Tadschikistan",
+    "Region": "Zentralasien",
+    "Stadt": "Isfara",
+    "Sehenswürdigkeiten": "Antike islamische Schreine.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Aprikosengärten, felsige Berge."
+  },
+  {
+    "Land": "Gambia",
+    "Region": "Westafrika",
+    "Stadt": "Banjul",
+    "Sehenswürdigkeiten": "Bogen 22, Nationalmuseum, Albert Markt.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Gambia Flussmündung."
+  },
+  {
+    "Land": "Gambia",
+    "Region": "Westafrika",
+    "Stadt": "Serrekunda",
+    "Sehenswürdigkeiten": "Besuchter Serrekunda Markt, Traditionelle Ringkampfarena.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Abuko Naturschutzgebiet."
+  },
+  {
+    "Land": "Gambia",
+    "Region": "Westafrika",
+    "Stadt": "Bakau",
+    "Sehenswürdigkeiten": "Kachikaly Krokodil Museum (heilige Stätte).",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Botanische Gärten, Krokodilteich."
+  },
+  {
+    "Land": "Gambia",
+    "Region": "Westafrika",
+    "Stadt": "Juffureh",
+    "Sehenswürdigkeiten": "Sklavereimuseum, Kunta Kinte Dorf.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Flussufer."
+  },
+  {
+    "Land": "Gambia",
+    "Region": "Westafrika",
+    "Stadt": "Kunta Kinte Insel",
+    "Sehenswürdigkeiten": "James Insel (UNESCO) - historische Ruinen.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Flussinsel."
+  },
+  {
+    "Land": "Gambia",
+    "Region": "Westafrika",
+    "Stadt": "Janjanbureh",
+    "Sehenswürdigkeiten": "Wassu Steinkreise, Koloniale Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Flusscamps, Flusspferdebeobachtung."
+  },
+  {
+    "Land": "Gambia",
+    "Region": "Westafrika",
+    "Stadt": "Tujereng",
+    "Sehenswürdigkeiten": "Tanji Dorfmuseum.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Tanji Vogelreservat, Strand."
+  },
+  {
+    "Land": "Gambia",
+    "Region": "Westafrika",
+    "Stadt": "Gunjur",
+    "Sehenswürdigkeiten": "Lokale Moscheen.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Umweltzentrum, Sandstrände."
+  },
+  {
+    "Land": "Gambia",
+    "Region": "Westafrika",
+    "Stadt": "Brikama",
+    "Sehenswürdigkeiten": "Holzhandwerksmarkt.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Makasutu Kulturwald (Palmenwälder)."
+  },
+  {
+    "Land": "Gambia",
+    "Region": "Westafrika",
+    "Stadt": "Kartong",
+    "Sehenswürdigkeiten": "Älteste Siedlung in Gambia.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Hallahin Fluss, Reptilienschutzgebiet."
+  },
+  {
+    "Land": "Grenada",
+    "Region": "Karibik",
+    "Stadt": "St. George's",
+    "Sehenswürdigkeiten": "Fort George, Fort Frederick, Sendall Tunnel, Nationalmuseum.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Annandale Wasserfall, Grand Anse Strand."
+  },
+  {
+    "Land": "Grenada",
+    "Region": "Karibik",
+    "Stadt": "Gouyave",
+    "Sehenswürdigkeiten": "Muskatnuss Verarbeitungsstation.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Concord Wasserfall."
+  },
+  {
+    "Land": "Grenada",
+    "Region": "Karibik",
+    "Stadt": "Grenville",
+    "Sehenswürdigkeiten": "Koloniale Gebäude, Schokoladenfabrik.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Lake Antoine, Mount Carmel Wasserfall."
+  },
+  {
+    "Land": "Grenada",
+    "Region": "Karibik",
+    "Stadt": "Victoria",
+    "Sehenswürdigkeiten": "Traditionelles Fischerdorf.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Sunset Bay."
+  },
+  {
+    "Land": "Grenada",
+    "Region": "Karibik",
+    "Stadt": "Sauteurs",
+    "Sehenswürdigkeiten": "Historischer Leapers' Hügel.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Levera Bucht, Zuckerinsel."
+  },
+  {
+    "Land": "Grenada",
+    "Region": "Karibik",
+    "Stadt": "Hillsborough (Carriacou)",
+    "Sehenswürdigkeiten": "Lokales Museum.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Korallengärten, Paradise Strand."
+  },
+  {
+    "Land": "Grenada",
+    "Region": "Karibik",
+    "Stadt": "St. David's",
+    "Sehenswürdigkeiten": "Laura's Kräuter- und Gewürzgarten.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "La Sagesse Strand."
+  },
+  {
+    "Land": "Grenada",
+    "Region": "Karibik",
+    "Stadt": "Tivoli",
+    "Sehenswürdigkeiten": "Belmont Estate (historisch und landwirtschaftlich).",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Biologische Gärten."
+  },
+  {
+    "Land": "Grenada",
+    "Region": "Karibik",
+    "Stadt": "Grand Etang",
+    "Sehenswürdigkeiten": "Waldzentrum.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Grand Etang See (Vulkankrater), Regenwald."
+  },
+  {
+    "Land": "Grenada",
+    "Region": "Karibik",
+    "Stadt": "Morne Rouge",
+    "Sehenswürdigkeiten": "Historische Hotels.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "BBC Strand."
+  },
+  {
+    "Land": "Malta",
+    "Region": "Südeuropa",
+    "Stadt": "Valletta",
+    "Sehenswürdigkeiten": "St. Johannes Co-Kathedrale, Großmeisterpalast, Kriegsmuseum, Fort St. Elmo.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Obere und untere Barrakka Gärten (Panoramaaussicht)."
+  },
+  {
+    "Land": "Malta",
+    "Region": "Südeuropa",
+    "Stadt": "Mdina",
+    "Sehenswürdigkeiten": "Befestigte Altstadt, St. Paulus Kathedrale, Paläste des Adels.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Mdina Graben (in Gärten umgewandelt)."
+  },
+  {
+    "Land": "Malta",
+    "Region": "Südeuropa",
+    "Stadt": "Rabat",
+    "Sehenswürdigkeiten": "Katakomben, Römische Villa.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Buskett Gärten - der einzige Wald."
+  },
+  {
+    "Land": "Malta",
+    "Region": "Südeuropa",
+    "Stadt": "Victoria (Gozo)",
+    "Sehenswürdigkeiten": "Cittadella, Altes Gefängnis.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Villa Rundle Gärten."
+  },
+  {
+    "Land": "Malta",
+    "Region": "Südeuropa",
+    "Stadt": "Die Drei Städte (Birgu)",
+    "Sehenswürdigkeiten": "Fort St. Angelo, Inquisitorpalast, Marinemuseum.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Yachthafen."
+  },
+  {
+    "Land": "Malta",
+    "Region": "Südeuropa",
+    "Stadt": "Marsaxlokk",
+    "Sehenswürdigkeiten": "Fort Delimara.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "St. Peter's Pool, Delimara Küste."
+  },
+  {
+    "Land": "Malta",
+    "Region": "Südeuropa",
+    "Stadt": "Mellieħa",
+    "Sehenswürdigkeiten": "St. Agatha Turm (Roter Turm), Kriegsbunker.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Għadira Naturschutzgebiet, Sandstrände."
+  },
+  {
+    "Land": "Malta",
+    "Region": "Südeuropa",
+    "Stadt": "Tarxien",
+    "Sehenswürdigkeiten": "Tarxien Megalithtempel (Vorgeschichte).",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Kleine moderne Gärten."
+  },
+  {
+    "Land": "Malta",
+    "Region": "Südeuropa",
+    "Stadt": "Qrendi",
+    "Sehenswürdigkeiten": "Ħaġar Qim und Mnajdra Tempel.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Blaue Grotte, felsige Klippen."
+  },
+  {
+    "Land": "Malta",
+    "Region": "Südeuropa",
+    "Stadt": "Mosta",
+    "Sehenswürdigkeiten": "Mosta Kuppel (Rotunda) - drittgrößte freitragende Kuppel.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Wied is-Speranza Tal."
+  },
+  {
+    "Land": "Kuba",
+    "Region": "Karibik",
+    "Stadt": "Havanna",
+    "Sehenswürdigkeiten": "Alte Havanna, Capitolio, Morro Burg, Revolutionsplatz.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Bosque de La Habana."
+  },
+  {
+    "Land": "Kuba",
+    "Region": "Karibik",
+    "Stadt": "Trinidad",
+    "Sehenswürdigkeiten": "Kolonialstadt (UNESCO), Glockenturm, Zuckermuseen.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Topes de Collantes Wasserfälle, Valle de los Ingenios."
+  },
+  {
+    "Land": "Kuba",
+    "Region": "Karibik",
+    "Stadt": "Varadero",
+    "Sehenswürdigkeiten": "Xanadu Villa.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Hicacos Halbinsel, Ambrosio Höhle."
+  },
+  {
+    "Land": "Kuba",
+    "Region": "Karibik",
+    "Stadt": "Cienfuegos",
+    "Sehenswürdigkeiten": "Palacio de Valle (Maurenstil), Terry Theater, Triumphbogen.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Botanischer Garten, El Nicho Wasserfälle."
+  },
+  {
+    "Land": "Kuba",
+    "Region": "Karibik",
+    "Stadt": "Viñales",
+    "Sehenswürdigkeiten": "Prähistorisches Wandgemälde.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Viñales Tal (Karstberge), Indische Höhle."
+  },
+  {
+    "Land": "Kuba",
+    "Region": "Karibik",
+    "Stadt": "Santiago de Cuba",
+    "Sehenswürdigkeiten": "San Pedro de la Roca Burg, Santa Ifigenia Friedhof.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Baconao Park, umgebende Berge."
+  },
+  {
+    "Land": "Kuba",
+    "Region": "Karibik",
+    "Stadt": "Camagüey",
+    "Sehenswürdigkeiten": "Carmen Platz, Alte Kirchen, Tinajones (große Tontöpfe).",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Casino Campestre Reservat (Stadtpark)."
+  },
+  {
+    "Land": "Kuba",
+    "Region": "Karibik",
+    "Stadt": "Santa Clara",
+    "Sehenswürdigkeiten": "Che Guevara Denkmal, Panzerzug.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Capiro Hügel."
+  },
+  {
+    "Land": "Kuba",
+    "Region": "Karibik",
+    "Stadt": "Baracoa",
+    "Sehenswürdigkeiten": "Nuestra Señora de la Asunción Kathedrale, Matachín Festung.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "El Yunque Berg, Toa Fluss."
+  },
+  {
+    "Land": "Kuba",
+    "Region": "Karibik",
+    "Stadt": "Holguín",
+    "Sehenswürdigkeiten": "Loma de la Cruz (Hügel des Kreuzes).",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Naranjo Bucht, Guardalavaca Strand."
+  },
+  {
+    "Land": "Guatemala",
+    "Region": "Zentralamerika",
+    "Stadt": "Antigua",
+    "Sehenswürdigkeiten": "Santa Catalina Bogen, La Merced Kirche, Kapuzinerinnen Konvent.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Agua Vulkan, Zentralpark."
+  },
+  {
+    "Land": "Guatemala",
+    "Region": "Zentralamerika",
+    "Stadt": "Tikal (Park)",
+    "Sehenswürdigkeiten": "Große Maya Pyramiden, Tempel I und II.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Umgebender Regenwald, Wildtiere."
+  },
+  {
+    "Land": "Guatemala",
+    "Region": "Zentralamerika",
+    "Stadt": "Atitlán See (Panajachel)",
+    "Sehenswürdigkeiten": "Traditionelle Maya Dörfer, Kolonialkirchen.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Vulkanischer See, Atitlán Naturschutzgebiet."
+  },
+  {
+    "Land": "Guatemala",
+    "Region": "Zentralamerika",
+    "Stadt": "Chichicastenango",
+    "Sehenswürdigkeiten": "Santo Tomás Kirche (Maya- und katholische Rituale), Bunter Friedhof.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Heilige Hügel (Pascual Abaj)."
+  },
+  {
+    "Land": "Guatemala",
+    "Region": "Zentralamerika",
+    "Stadt": "Quetzaltenango (Xela)",
+    "Sehenswürdigkeiten": "Historisches Zentrum, Stadttheater.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Santa María Vulkan, Fuentes Georginas Thermalquellen."
+  },
+  {
+    "Land": "Guatemala",
+    "Region": "Zentralamerika",
+    "Stadt": "Flores",
+    "Sehenswürdigkeiten": "Alte Stadt auf der Insel.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Petén Itzá See."
+  },
+  {
+    "Land": "Guatemala",
+    "Region": "Zentralamerika",
+    "Stadt": "Copán",
+    "Sehenswürdigkeiten": "Kalvarienberg Kirche.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Orchideen Reservat, Semuc Champey (natürliche Pools)."
+  },
+  {
+    "Land": "Guatemala",
+    "Region": "Zentralamerika",
+    "Stadt": "Livingston",
+    "Sehenswürdigkeiten": "Garífuna Kultur.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Río Dulce, Sieben Wasserfälle."
+  },
+  {
+    "Land": "Guatemala",
+    "Region": "Zentralamerika",
+    "Stadt": "Guatemala Stadt",
+    "Sehenswürdigkeiten": "Nationalpalast der Kultur, Kathedrale, Karte im Relief.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "La Aurora Zoo."
+  },
+  {
+    "Land": "Guatemala",
+    "Region": "Zentralamerika",
+    "Stadt": "Río Hondo",
+    "Sehenswürdigkeiten": "Fossilienmuseum.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Sierra de las Minas (Wolkenwald)."
+  },
+  {
+    "Land": "Luxemburg",
+    "Region": "Westeuropa",
+    "Stadt": "Luxemburg Stadt",
+    "Sehenswürdigkeiten": "Kasematten (verteidigungstunnel), Großherzoglicher Palast, Adolphe Brücke.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Pétrusse Tal, Parc de Merl."
+  },
+  {
+    "Land": "Luxemburg",
+    "Region": "Westeuropa",
+    "Stadt": "Vianden",
+    "Sehenswürdigkeiten": "Vianden Burg (eine der schönsten Burgen Europas), Victor Hugo Haus.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Our Fluss, umgebende Wälder (Sesselbahn)."
+  },
+  {
+    "Land": "Luxemburg",
+    "Region": "Westeuropa",
+    "Stadt": "Echternach",
+    "Sehenswürdigkeiten": "Benediktinerabtei, Römische Basilika.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Echternach See, Müllerthal Felsformationen."
+  },
+  {
+    "Land": "Luxemburg",
+    "Region": "Westeuropa",
+    "Stadt": "Clervaux",
+    "Sehenswürdigkeiten": "Clervaux Burg (Ausstellung Die Familie des Menschen), Abtei.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Naturparks in den Ardennen."
+  },
+  {
+    "Land": "Luxemburg",
+    "Region": "Westeuropa",
+    "Stadt": "Larochette",
+    "Sehenswürdigkeiten": "Ruinen der Larochette Burg.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Müllerthal Wälder (Kleine Schweiz)."
+  },
+  {
+    "Land": "Luxemburg",
+    "Region": "Westeuropa",
+    "Stadt": "Beaufort",
+    "Sehenswürdigkeiten": "Beaufort Burg (mittelalterlich und Renaissance).",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Fels Wanderwege."
+  },
+  {
+    "Land": "Luxemburg",
+    "Region": "Westeuropa",
+    "Stadt": "Mondorf-les-Bains",
+    "Sehenswürdigkeiten": "Luftfahrtmuseum.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Thermalpark (Parc Thermal)."
+  },
+  {
+    "Land": "Luxemburg",
+    "Region": "Westeuropa",
+    "Stadt": "Esch-sur-Alzette",
+    "Sehenswürdigkeiten": "Hohe Öfen (Belval - Industriegeschichte).",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Gaalgebierg Park."
+  },
+  {
+    "Land": "Luxemburg",
+    "Region": "Westeuropa",
+    "Stadt": "Remich",
+    "Sehenswürdigkeiten": "Tor der Corniche.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Haff Réimech Naturschutzgebiet, Mosel Fluss."
+  },
+  {
+    "Land": "Luxemburg",
+    "Region": "Westeuropa",
+    "Stadt": "Wiltz",
+    "Sehenswürdigkeiten": "Wiltz Burg, Nationalstreik Denkmal.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Wiltz Gärten."
+  },
+  {
+    "Land": "Costa Rica",
+    "Region": "Zentralamerika",
+    "Stadt": "San José",
+    "Sehenswürdigkeiten": "Nationaltheater, Goldmuseum, Nationalmuseum.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "La Sabana Park, Spiro Schmetterlingsgarten."
+  },
+  {
+    "Land": "Costa Rica",
+    "Region": "Zentralamerika",
+    "Stadt": "La Fortuna",
+    "Sehenswürdigkeiten": "Lokale Kirche.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Arenal Vulkan, La Fortuna Wasserfall, Thermalquellen."
+  },
+  {
+    "Land": "Costa Rica",
+    "Region": "Zentralamerika",
+    "Stadt": "Monteverde",
+    "Sehenswürdigkeiten": "Käsefabriken (Quäker).",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Wolkenwald (Hängebrücken), Curi Cancha Reservat."
+  },
+  {
+    "Land": "Costa Rica",
+    "Region": "Zentralamerika",
+    "Stadt": "Manuel Antonio",
+    "Sehenswürdigkeiten": "Keine bedeutende historische Architektur.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Nationalpark (Strände, Affen, Faultiere)."
+  },
+  {
+    "Land": "Costa Rica",
+    "Region": "Zentralamerika",
+    "Stadt": "Tortuguero",
+    "Sehenswürdigkeiten": "Dorf der Wasserwege.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Tortuguero Nationalpark (Schildkröten-Nistplätze)."
+  },
+  {
+    "Land": "Costa Rica",
+    "Region": "Zentralamerika",
+    "Stadt": "Liberia",
+    "Sehenswürdigkeiten": "Weiße Stadt (koloniale Häuser).",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Rincón de la Vieja Vulkanpark."
+  },
+  {
+    "Land": "Costa Rica",
+    "Region": "Zentralamerika",
+    "Stadt": "Puerto Viejo",
+    "Sehenswürdigkeiten": "Karibische Kultur.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Cocles Strand, Jaguar Rettungszentrum."
+  },
+  {
+    "Land": "Costa Rica",
+    "Region": "Zentralamerika",
+    "Stadt": "Tamarindo",
+    "Sehenswürdigkeiten": "Altes Fischerdorf.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Las Baulas Meeresschutzgebiet (Lederschildkröten)."
+  },
+  {
+    "Land": "Costa Rica",
+    "Region": "Zentralamerika",
+    "Stadt": "Cartago",
+    "Sehenswürdigkeiten": "Basilika von Los Ángeles, Kirchenruinen.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Irazú Vulkan (Kratersee)."
+  },
+  {
+    "Land": "Costa Rica",
+    "Region": "Zentralamerika",
+    "Stadt": "Uvita",
+    "Sehenswürdigkeiten": "Walsschwanz Formationen.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Marino Ballena Nationalpark."
+  },
+  {
+    "Land": "Serbien",
+    "Region": "Europa",
+    "Stadt": "Belgrad",
+    "Sehenswürdigkeiten": "Kalemegdan Festung, St. Sava Tempel.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Ada Ciganlija Insel."
+  },
+  {
+    "Land": "Serbien",
+    "Region": "Europa",
+    "Stadt": "Novi Sad",
+    "Sehenswürdigkeiten": "Petrovaradin Festung, Freiheitsplatz.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Donau Park."
+  },
+  {
+    "Land": "Serbien",
+    "Region": "Europa",
+    "Stadt": "Niš",
+    "Sehenswürdigkeiten": "Schädelturm, Niš Festung.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Niška Banja Kurort."
+  },
+  {
+    "Land": "Serbien",
+    "Region": "Europa",
+    "Stadt": "Subotica",
+    "Sehenswürdigkeiten": "Rathaus (Jugendstil), Synagoge.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Palić See."
+  },
+  {
+    "Land": "Serbien",
+    "Region": "Europa",
+    "Stadt": "Kragujevac",
+    "Sehenswürdigkeiten": "Šumarice Gedenkpark.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Gruža See."
+  },
+  {
+    "Land": "Serbien",
+    "Region": "Europa",
+    "Stadt": "Novi Pazar",
+    "Sehenswürdigkeiten": "Altun-Alem Moschee, Sopoćani Kloster.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Golia Berg."
+  },
+  {
+    "Land": "Serbien",
+    "Region": "Europa",
+    "Stadt": "Zrenjanin",
+    "Sehenswürdigkeiten": "Rathausgebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Stari Begej Naturschutzgebiet."
+  },
+  {
+    "Land": "Serbien",
+    "Region": "Europa",
+    "Stadt": "Smederevo",
+    "Sehenswürdigkeiten": "Smederevo Festung (größte Ebene Festung).",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Donau Fluss."
+  },
+  {
+    "Land": "Serbien",
+    "Region": "Europa",
+    "Stadt": "Sombor",
+    "Sehenswürdigkeiten": "Präfekturgebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Gornje Podunavlje Naturschutzgebiet."
+  },
+  {
+    "Land": "Serbien",
+    "Region": "Europa",
+    "Stadt": "Golubac",
+    "Sehenswürdigkeiten": "Golubac Festung.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Đerdap Nationalpark (Eisernes Tor)."
+  },
+  {
+    "Land": "Kiribati",
+    "Region": "Ozeanien",
+    "Stadt": "South Tarawa",
+    "Sehenswürdigkeiten": "Tarawa Schlachtfelder (WW2), Japanische Kanonen.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Strände und Lagunen."
+  },
+  {
+    "Land": "Kiribati",
+    "Region": "Ozeanien",
+    "Stadt": "Betio",
+    "Sehenswürdigkeiten": "Kriegsfriedhof, Militärbunker.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Meeresreservate."
+  },
+  {
+    "Land": "Kiribati",
+    "Region": "Ozeanien",
+    "Stadt": "Ambo",
+    "Sehenswürdigkeiten": "Parlamentsgebäude (Maneaba).",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Uferpromenade."
+  },
+  {
+    "Land": "Kiribati",
+    "Region": "Ozeanien",
+    "Stadt": "Bonriki",
+    "Sehenswürdigkeiten": "Internationaler Flughafen.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Natürliche Wasserreservoirs."
+  },
+  {
+    "Land": "Kiribati",
+    "Region": "Ozeanien",
+    "Stadt": "London (Kiritimati)",
+    "Sehenswürdigkeiten": "Ehemalige Atomtestgelände.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Vogelschutzgebiete."
+  },
+  {
+    "Land": "Kiribati",
+    "Region": "Ozeanien",
+    "Stadt": "Banana",
+    "Sehenswürdigkeiten": "Traditionelle Dörfer.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Wälder und Kokospalmen."
+  },
+  {
+    "Land": "Kiribati",
+    "Region": "Ozeanien",
+    "Stadt": "Tabuaeran",
+    "Sehenswürdigkeiten": "Lokale Kirchen.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Meeresblicke."
+  },
+  {
+    "Land": "Kiribati",
+    "Region": "Ozeanien",
+    "Stadt": "Abaiang",
+    "Sehenswürdigkeiten": "Kulturelle Stätten.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Meeresblicke."
+  },
+  {
+    "Land": "Kiribati",
+    "Region": "Ozeanien",
+    "Stadt": "Butaritari",
+    "Sehenswürdigkeiten": "Traditionelle Brücken.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Mangrovenbäume."
+  },
+  {
+    "Land": "Kiribati",
+    "Region": "Ozeanien",
+    "Stadt": "Bairiki",
+    "Sehenswürdigkeiten": "Regierungsgebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Öffentlicher Platz."
+  },
+  {
+    "Land": "Malawi",
+    "Region": "Afrika",
+    "Stadt": "Lilongwe",
+    "Sehenswürdigkeiten": "Weltkriegsdenkmal, Alter Markt.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Wildtierzentrum, Botanischer Garten."
+  },
+  {
+    "Land": "Malawi",
+    "Region": "Afrika",
+    "Stadt": "Blantyre",
+    "Sehenswürdigkeiten": "St. Michael und alle Engel Kirche, Mandala Museum (ältestes Gebäude).",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Berg Michiru."
+  },
+  {
+    "Land": "Malawi",
+    "Region": "Afrika",
+    "Stadt": "Zomba",
+    "Sehenswürdigkeiten": "Alte Parlamentsgebäude, Denkmal.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Zomba Plateau, Williams Wasserfälle."
+  },
+  {
+    "Land": "Malawi",
+    "Region": "Afrika",
+    "Stadt": "Mangochi",
+    "Sehenswürdigkeiten": "Malawi See Museum, Uhrturm.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Malawi See, Liwonde Nationalpark."
+  },
+  {
+    "Land": "Malawi",
+    "Region": "Afrika",
+    "Stadt": "Nkhata Bay",
+    "Sehenswürdigkeiten": "Sklavenhandelsgeschichte.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Chikale Strand, Wälder."
+  },
+  {
+    "Land": "Malawi",
+    "Region": "Afrika",
+    "Stadt": "Mzuzu",
+    "Sehenswürdigkeiten": "Mzuzu Museum.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Viphya Wald."
+  },
+  {
+    "Land": "Malawi",
+    "Region": "Afrika",
+    "Stadt": "Karonga",
+    "Sehenswürdigkeiten": "Kulturzentrum und Museum (Dinosaurier).",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Seeufer."
+  },
+  {
+    "Land": "Malawi",
+    "Region": "Afrika",
+    "Stadt": "Salima",
+    "Sehenswürdigkeiten": "Lokale historische Stätten.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Senga Bucht."
+  },
+  {
+    "Land": "Malawi",
+    "Region": "Afrika",
+    "Stadt": "Monkey Bay",
+    "Sehenswürdigkeiten": "Fischereihafen.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Malawi See Nationalpark."
+  },
+  {
+    "Land": "Malawi",
+    "Region": "Afrika",
+    "Stadt": "Dedza",
+    "Sehenswürdigkeiten": "Felsmalereien (Chongoni - UNESCO).",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Dedza Berg."
+  },
+  {
+    "Land": "Curaçao",
+    "Region": "Karibik",
+    "Stadt": "Willemstad",
+    "Sehenswürdigkeiten": "Königin Emma Brücke (schwimmend), Punda Bezirk (UNESCO), Mikvé Israel-Emanuel Synagoge.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Mambo Strand."
+  },
+  {
+    "Land": "Curaçao",
+    "Region": "Karibik",
+    "Stadt": "Westpunt",
+    "Sehenswürdigkeiten": "St. Peter Kirche.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Playa Forti Strand, Shete Boka Nationalpark."
+  },
+  {
+    "Land": "Curaçao",
+    "Region": "Karibik",
+    "Stadt": "Sint Michiel",
+    "Sehenswürdigkeiten": "Fort Sint Michiel.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Blue Bay."
+  },
+  {
+    "Land": "Curaçao",
+    "Region": "Karibik",
+    "Stadt": "Lagun",
+    "Sehenswürdigkeiten": "Alte Plantagenhäuser (Landhuis).",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Playa Lagun Strand (Schildkröten)."
+  },
+  {
+    "Land": "Curaçao",
+    "Region": "Karibik",
+    "Stadt": "Barber",
+    "Sehenswürdigkeiten": "Ältester Kapokbaum, Markt.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Hof Pastor Garten."
+  },
+  {
+    "Land": "Curaçao",
+    "Region": "Karibik",
+    "Stadt": "Sabana Westpunt",
+    "Sehenswürdigkeiten": "Fischerdörfer.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Grote Knip Strand."
+  },
+  {
+    "Land": "Curaçao",
+    "Region": "Karibik",
+    "Stadt": "Tera Cora",
+    "Sehenswürdigkeiten": "Windmühlen.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Hato Ebenen."
+  },
+  {
+    "Land": "Curaçao",
+    "Region": "Karibik",
+    "Stadt": "Soto",
+    "Sehenswürdigkeiten": "Alte Salinen.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Santa Cruz Strand."
+  },
+  {
+    "Land": "Curaçao",
+    "Region": "Karibik",
+    "Stadt": "Jan Thiel",
+    "Sehenswürdigkeiten": "Shell Ölvillen.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Private Gärten."
+  },
+  {
+    "Land": "Curaçao",
+    "Region": "Karibik",
+    "Stadt": "Julianadorp",
+    "Sehenswürdigkeiten": "Überreste von Küstenfestungen.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Salinen (Flamingos)."
+  },
+  {
+    "Land": "Guinea",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 1 in Guinea",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Guinea",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 2 in Guinea",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Guinea",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 3 in Guinea",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Guinea",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 4 in Guinea",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Guinea",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 5 in Guinea",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Guinea",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 6 in Guinea",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Guinea",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 7 in Guinea",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Guinea",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 8 in Guinea",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Guinea",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 9 in Guinea",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Guinea",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 10 in Guinea",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Guinea-Bissau",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 1 in Guinea-Bissau",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Guinea-Bissau",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 2 in Guinea-Bissau",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Guinea-Bissau",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 3 in Guinea-Bissau",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Guinea-Bissau",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 4 in Guinea-Bissau",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Guinea-Bissau",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 5 in Guinea-Bissau",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Guinea-Bissau",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 6 in Guinea-Bissau",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Guinea-Bissau",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 7 in Guinea-Bissau",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Guinea-Bissau",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 8 in Guinea-Bissau",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Guinea-Bissau",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 9 in Guinea-Bissau",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Guinea-Bissau",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 10 in Guinea-Bissau",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Äquatorialguinea",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 1 in Äquatorialguinea",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Äquatorialguinea",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 2 in Äquatorialguinea",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Äquatorialguinea",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 3 in Äquatorialguinea",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Äquatorialguinea",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 4 in Äquatorialguinea",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Äquatorialguinea",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 5 in Äquatorialguinea",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Äquatorialguinea",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 6 in Äquatorialguinea",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Äquatorialguinea",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 7 in Äquatorialguinea",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Äquatorialguinea",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 8 in Äquatorialguinea",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Äquatorialguinea",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 9 in Äquatorialguinea",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Äquatorialguinea",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 10 in Äquatorialguinea",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Kap Verde",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 1 in Kap Verde",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Kap Verde",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 2 in Kap Verde",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Kap Verde",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 3 in Kap Verde",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Kap Verde",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 4 in Kap Verde",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Kap Verde",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 5 in Kap Verde",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Kap Verde",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 6 in Kap Verde",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Kap Verde",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 7 in Kap Verde",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Kap Verde",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 8 in Kap Verde",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Kap Verde",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 9 in Kap Verde",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Kap Verde",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 10 in Kap Verde",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Kosovo",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 1 in Kosovo",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Kosovo",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 2 in Kosovo",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Kosovo",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 3 in Kosovo",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Kosovo",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 4 in Kosovo",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Kosovo",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 5 in Kosovo",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Kosovo",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 6 in Kosovo",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Kosovo",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 7 in Kosovo",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Kosovo",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 8 in Kosovo",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Kosovo",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 9 in Kosovo",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Kosovo",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 10 in Kosovo",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Guyana",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 1 in Guyana",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Guyana",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 2 in Guyana",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Guyana",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 3 in Guyana",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Guyana",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 4 in Guyana",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Guyana",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 5 in Guyana",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Guyana",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 6 in Guyana",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Guyana",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 7 in Guyana",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Guyana",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 8 in Guyana",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Guyana",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 9 in Guyana",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  },
+  {
+    "Land": "Guyana",
+    "Region": "Global",
+    "Stadt": "Stadt/Region 10 in Guyana",
+    "Sehenswürdigkeiten": "Lokale historische Wahrzeichen und archäologische Gebäude.",
+    "Aktivitäten": "Suche nach Touristenaktivitäten",
+    "Küche": "Suche nach berühmten Gerichten",
+    "Grünflächen": "Landschaften und grüne Parks."
+  }
+]

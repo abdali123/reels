@@ -1,0 +1,706 @@
+[
+  {
+    "Land": "Irak",
+    "Stadt": "Bagdad",
+    "Sehenswürdigkeiten": "Historische Stätten, Paläste und Museen, Ketchaoua-Moschee, Alte Brücken, Befreiungsplatz",
+    "Aktivitäten": "Besuch des Irakischen Nationalmuseums, Erkundung großer Märkte und Moscheen",
+    "Küche": "Masgouf (gegrillter Flussfisch), Dolma (gefülltes Gemüse), Ouzi (ganzes gefülltes Lamm), Tashreeb (Wintereintopf), Irakischer Kebab, Timman Bagilla (Reis mit Saubohnen)",
+    "Grünflächen": "Suche nach Grünflächen"
+  },
+  {
+    "Land": "Irak",
+    "Stadt": "Basra",
+    "Sehenswürdigkeiten": "Shatt Al-Arab, Altstadt, Historische Märkte, Basra-Palast",
+    "Aktivitäten": "Bootstouren auf dem Shatt Al-Arab, Erkundung von Dattelmärkten",
+    "Küche": "Masgouf, Dolma, Ouzi, Matbakh (Fisch mit Reis)",
+    "Grünflächen": "Shatt Al-Arab"
+  },
+  {
+    "Land": "Irak",
+    "Stadt": "Ninive (Mosul)",
+    "Sehenswürdigkeiten": "Ruinen der antiken Stadt Ninive, Überreste von Ashur, Archäologische Stätten",
+    "Aktivitäten": "Besuch archäologischer Stätten, Erkundung der antiken Geschichte (Land von Ashur)",
+    "Küche": "Masgouf, Dolma, Ouzi, Kibbeh",
+    "Grünflächen": "Suche nach Grünflächen"
+  },
+  {
+    "Land": "Irak",
+    "Stadt": "Erbil",
+    "Sehenswürdigkeiten": "Zitadelle von Erbil (Weltkulturerbe), Muzafiriya-Minarett, Alter Markt",
+    "Aktivitäten": "Besuch der historischen Zitadelle, Einkaufen im alten Markt",
+    "Küche": "Masgouf, Dolma, Ouzi",
+    "Grünflächen": "Suche nach Grünflächen"
+  },
+  {
+    "Land": "Irak",
+    "Stadt": "Nadschaf",
+    "Sehenswürdigkeiten": "Imam-Ali-Schrein, Bahr al-Najaf, Altstadt",
+    "Aktivitäten": "Religiöser Tourismus (Besuch heiliger Schreine), Spaziergänge durch die Altstadt",
+    "Küche": "Masgouf, Dolma, Ouzi",
+    "Grünflächen": "Bahr al-Najaf"
+  },
+  {
+    "Land": "Irak",
+    "Stadt": "Dhi Qar",
+    "Sehenswürdigkeiten": "Antike Stadt Ur (Zikkurat), Sumerische Stätten",
+    "Aktivitäten": "Besuch antiker Zivilisationsstätten, Erkundung der Wiege der Sumerer",
+    "Küche": "Masgouf, Dolma, Ouzi",
+    "Grünflächen": "Suche nach Grünflächen"
+  },
+  {
+    "Land": "Irak",
+    "Stadt": "Kirkuk",
+    "Sehenswürdigkeiten": "Kirkuk-Zitadelle, Altstadt",
+    "Aktivitäten": "Besuch der historischen Zitadelle",
+    "Küche": "Masgouf, Dolma, Ouzi",
+    "Grünflächen": "Suche nach Grünflächen"
+  },
+  {
+    "Land": "Irak",
+    "Stadt": "Babylon",
+    "Sehenswürdigkeiten": "Ruinen der antiken Stadt Babylon, Löwe von Babylon, Ischtar-Tor",
+    "Aktivitäten": "Besuch babylonischer Stätten",
+    "Küche": "Masgouf, Dolma, Ouzi",
+    "Grünflächen": "Suche nach Grünflächen"
+  },
+  {
+    "Land": "Irak",
+    "Stadt": "Karbala",
+    "Sehenswürdigkeiten": "Imam-Hussein-Schrein, Heilige Schreine",
+    "Aktivitäten": "Religiöser Tourismus und Schreinbesuche",
+    "Küche": "Masgouf, Dolma, Ouzi",
+    "Grünflächen": "Suche nach Grünflächen"
+  },
+  {
+    "Land": "Irak",
+    "Stadt": "Samarra",
+    "Sehenswürdigkeiten": "Samarra-Minarett, Antike Moscheen",
+    "Aktivitäten": "Besuch islamischer archäologischer Stätten",
+    "Küche": "Masgouf, Dolma, Ouzi",
+    "Grünflächen": "Suche nach Grünflächen"
+  },
+  {
+    "Land": "Vatikan",
+    "Stadt": "Vatikanstadt",
+    "Sehenswürdigkeiten": "St. Petersdom, Petersplatz, Vatikanische Museen, Sixtinische Kapelle, Apostolischer Palast, Papstgräber, Vatikanische Gärten, Obelisk",
+    "Aktivitäten": "Besuch der Vatikanischen Museen (ohne Anstehen), Tour durch die Sixtinische Kapelle, Besteigung der Kuppel, Besuch der Papstgräber",
+    "Küche": "Suche nach lokalen Gerichten",
+    "Grünflächen": "Vatikanische Gärten"
+  },
+  {
+    "Land": "Philippinen",
+    "Stadt": "Manila",
+    "Sehenswürdigkeiten": "Intramuros (ummauerte Stadt), Manila-Kathedrale, Rizal-Park, Ayala-Museum, Mall of Asia",
+    "Aktivitäten": "Erkundung des historischen Intramuros, Einkaufen in der Mall of Asia, Besuch von Kunstmuseen, Geschäftsreisen",
+    "Küche": "Adobo (Fleisch- oder Hühnchengericht mit Sojasauce und Essig), Nasi Goreng, Satay, Gado-gado (Salat), Laar (mariniertes Fleisch)",
+    "Grünflächen": "Rizal-Park"
+  },
+  {
+    "Land": "Philippinen",
+    "Stadt": "Cebu",
+    "Sehenswürdigkeiten": "Taoistischer Tempel, Magic Gardens, Historische Museen, Küstenstrände",
+    "Aktivitäten": "Tauchen und Schnorcheln, Erkundung nahegelegener Inseln (Mactai und Panglao), Küstenstadt-Tourismus",
+    "Küche": "Adobo, Nasi Goreng, Satay, Gado-gado",
+    "Grünflächen": "Magic Gardens, Küstenstrände"
+  },
+  {
+    "Land": "Philippinen",
+    "Stadt": "Palawan",
+    "Sehenswürdigkeiten": "Kayangan-See, Honda-Bucht (Inseln und Tauchen), Regenwälder, Strände mit weißem Sand",
+    "Aktivitäten": "Tauchen und Schwimmen, Inselhopping (Honda-Bucht), Erkundung von Regenwäldern",
+    "Küche": "Adobo, Nasi Goreng, Satay, Gado-gado",
+    "Grünflächen": "Regenwälder, Strände mit weißem Sand, Kayangan-See"
+  },
+  {
+    "Land": "Philippinen",
+    "Stadt": "Boracay",
+    "Sehenswürdigkeiten": "White Beach (leuchtend weißer Sand), Yapak Beach (Puka Shell Beach), Klares türkisfarbenes Wasser",
+    "Aktivitäten": "Entspannen und Genießen der atemberaubenden Landschaft, Schwimmen und Tauchen, Strandaktivitäten",
+    "Küche": "Adobo, Nasi Goreng, Satay, Gado-gado",
+    "Grünflächen": "White Beach, Yapak Beach"
+  },
+  {
+    "Land": "Philippinen",
+    "Stadt": "Davao",
+    "Sehenswürdigkeiten": "Mount Apo (höchster Gipfel), Philippinischer Adler-Park, Küstenstrände",
+    "Aktivitäten": "Bergsteigen, Beobachtung philippinischer Adler, Naturerkundung",
+    "Küche": "Adobo, Nasi Goreng, Satay, Gado-gado",
+    "Grünflächen": "Mount Apo, Philippinischer Adler-Park"
+  },
+  {
+    "Land": "Philippinen",
+    "Stadt": "Iloilo",
+    "Sehenswürdigkeiten": "Altstadt, Historische Kirchen, Strände",
+    "Aktivitäten": "Erkundung alter Architektur, Religiöser Tourismus",
+    "Küche": "Adobo, Nasi Goreng, Satay, Gado-gado",
+    "Grünflächen": "Strände"
+  },
+  {
+    "Land": "Philippinen",
+    "Stadt": "Bacolod",
+    "Sehenswürdigkeiten": "Kanlaon-Vulkan, Nationalparks",
+    "Aktivitäten": "Erkundung von Vulkanen, Abenteuertourismus",
+    "Küche": "Adobo, Nasi Goreng, Satay, Gado-gado",
+    "Grünflächen": "Nationalparks"
+  },
+  {
+    "Land": "Philippinen",
+    "Stadt": "Puerto Princesa",
+    "Sehenswürdigkeiten": "Honda-Bucht, Wasserwege",
+    "Aktivitäten": "Inselhopping, Tauchen",
+    "Küche": "Adobo, Nasi Goreng, Satay, Gado-gado",
+    "Grünflächen": "Honda-Bucht, Wasserwege"
+  },
+  {
+    "Land": "Philippinen",
+    "Stadt": "Cagayan de Oro",
+    "Sehenswürdigkeiten": "Cagayan-Fluss (Rafting), Wasserabenteuer",
+    "Aktivitäten": "Wildwasser-Rafting",
+    "Küche": "Adobo, Nasi Goreng, Satay, Gado-gado",
+    "Grünflächen": "Cagayan-Fluss"
+  },
+  {
+    "Land": "Philippinen",
+    "Stadt": "Zamboanga",
+    "Sehenswürdigkeiten": "Fort Pilar (spanische Festung), Nahegelegene Inseln",
+    "Aktivitäten": "Besuch historischer Festungen",
+    "Küche": "Adobo, Nasi Goreng, Satay, Gado-gado",
+    "Grünflächen": "Nahegelegene Inseln"
+  },
+  {
+    "Land": "Palästina",
+    "Stadt": "Jerusalem",
+    "Sehenswürdigkeiten": "Al-Aqsa-Moschee, Felsendom, Grabeskirche, Mauern der Altstadt",
+    "Aktivitäten": "Religiöser Tourismus, Erkundung der Altstadt",
+    "Küche": "Maqluba (Reis mit Fleisch und Gemüse), Palästinensisches Mansaf, Fattoush, Nabulsi Knafeh",
+    "Grünflächen": "Suche nach Grünflächen"
+  },
+  {
+    "Land": "Palästina",
+    "Stadt": "Nablus",
+    "Sehenswürdigkeiten": "Altstadt, Berg Garizim, Historische Moscheen und Kirchen",
+    "Aktivitäten": "Besuch von Knafeh-Fabriken (berühmt dafür), Spaziergänge durch den Alten Markt",
+    "Küche": "Nabulsi Knafeh, Maqluba, Palästinensisches Mansaf",
+    "Grünflächen": "Berg Garizim"
+  },
+  {
+    "Land": "Palästina",
+    "Stadt": "Hebron",
+    "Sehenswürdigkeiten": "Ibrahim-Moschee, Altstadt",
+    "Aktivitäten": "Religiöser Tourismus, Besuch des Heiligtums",
+    "Küche": "Maqluba, Hebron Qidra",
+    "Grünflächen": "Suche nach Grünflächen"
+  },
+  {
+    "Land": "Palästina",
+    "Stadt": "Bethlehem",
+    "Sehenswürdigkeiten": "Geburtskirche (Geburtsort Christi), Altstadt",
+    "Aktivitäten": "Religiöser Tourismus, Besuch der Kirche",
+    "Küche": "Maqluba, Hebron Qidra",
+    "Grünflächen": "Suche nach Grünflächen"
+  },
+  {
+    "Land": "Palästina",
+    "Stadt": "Jericho",
+    "Sehenswürdigkeiten": "Deir Quruntul, Tell Sultan, Hishams-Palast",
+    "Aktivitäten": "Besuch archäologischer Stätten, Erkundung der ältesten Stadt der Welt",
+    "Küche": "Maqluba, Hebron Qidra",
+    "Grünflächen": "Suche nach Grünflächen"
+  },
+  {
+    "Land": "Palästina",
+    "Stadt": "Gaza",
+    "Sehenswürdigkeiten": "Gaza-Hafen, Gaza-Strände, Historische Stätten (begrenzt)",
+    "Aktivitäten": "Strandtourismus (begrenzt)",
+    "Küche": "Maqluba, Hebron Qidra",
+    "Grünflächen": "Gaza-Strände"
+  },
+  {
+    "Land": "Venezuela",
+    "Stadt": "Caracas",
+    "Sehenswürdigkeiten": "(Großstädte), Hotels und Restaurants",
+    "Aktivitäten": "Besuch städtischer Zentren, Geschäftsreisen",
+    "Küche": "Suche nach lokalen Gerichten",
+    "Grünflächen": "Suche nach Grünflächen"
+  },
+  {
+    "Land": "Venezuela",
+    "Stadt": "Maracaibo",
+    "Sehenswürdigkeiten": "General-Rafael-Urdaneta-Brücke, Maracaibo-See",
+    "Aktivitäten": "Besuch des Sees, Erkundung der Stadt",
+    "Küche": "Suche nach lokalen Gerichten",
+    "Grünflächen": "Maracaibo-See"
+  },
+  {
+    "Land": "Venezuela",
+    "Stadt": "Valencia",
+    "Sehenswürdigkeiten": "Valencia-Kathedrale, Bolívar-Platz, Parks",
+    "Aktivitäten": "Spaziergänge in den Parks",
+    "Küche": "Suche nach lokalen Gerichten",
+    "Grünflächen": "Parks, Bolívar-Platz"
+  },
+  {
+    "Land": "Venezuela",
+    "Stadt": "Margarita",
+    "Sehenswürdigkeiten": "Strände der Margarita-Insel, Historische Festungen, Fischerdörfer",
+    "Aktivitäten": "Strand- und Unterhaltungstourismus",
+    "Küche": "Suche nach lokalen Gerichten",
+    "Grünflächen": "Strände der Margarita-Insel"
+  },
+  {
+    "Land": "Finnland",
+    "Stadt": "Helsinki",
+    "Sehenswürdigkeiten": "Helsinki-Kathedrale, Senatsplatz, Suomenlinna-Festung (Weltkulturerbe)",
+    "Aktivitäten": "Besuch der Seefestung, Spaziergänge durch den Hafen",
+    "Küche": "Karjalanpiirakka (Reiskuchen), Lohikeitto (Fischsuppe), Borschtsch",
+    "Grünflächen": "Suche nach Grünflächen"
+  },
+  {
+    "Land": "Finnland",
+    "Stadt": "Turku",
+    "Sehenswürdigkeiten": "Turku-Schloss, Turku-Kathedrale, Marktplatz",
+    "Aktivitäten": "Besuch des historischen Schlosses und der Kathedrale",
+    "Küche": "Suche nach lokalen Gerichten",
+    "Grünflächen": "Suche nach Grünflächen"
+  },
+  {
+    "Land": "Finnland",
+    "Stadt": "Porvoo",
+    "Sehenswürdigkeiten": "Historisches Dorf, Porvoonjoki-Fluss",
+    "Aktivitäten": "Tour durch das historische Dorf, Besuch der Schokoladenfabrik",
+    "Küche": "Suche nach lokalen Gerichten",
+    "Grünflächen": "Porvoonjoki-Fluss"
+  },
+  {
+    "Land": "Finnland",
+    "Stadt": "Tampere",
+    "Sehenswürdigkeiten": "Tampere-Kathedrale, Seen Näsijärvi und Pyhäjärvi",
+    "Aktivitäten": "Besuch von Binnenlandgebieten",
+    "Küche": "Suche nach lokalen Gerichten",
+    "Grünflächen": "Seen Näsijärvi und Pyhäjärvi"
+  },
+  {
+    "Land": "Finnland",
+    "Stadt": "Oulu",
+    "Sehenswürdigkeiten": "Oulu-Schloss, Marktplatz",
+    "Aktivitäten": "Erkundung der nördlichen Stadt",
+    "Küche": "Suche nach lokalen Gerichten",
+    "Grünflächen": "Suche nach Grünflächen"
+  },
+  {
+    "Land": "Zypern",
+    "Stadt": "Nikosia",
+    "Sehenswürdigkeiten": "Altstadt, Famagusta-Tor, Zypern-Museum",
+    "Aktivitäten": "Besuch der geteilten Stadt, Erkundung historischer und kultureller Wahrzeichen",
+    "Küche": "Moussaka (Aubergine und Fleisch), Shish Kebab, Makaronia tou Fournou (Nudelgericht), Sefali (gegrillter Fisch), Bulgur (Salat)",
+    "Grünflächen": "Suche nach Grünflächen"
+  },
+  {
+    "Land": "Zypern",
+    "Stadt": "Limassol",
+    "Sehenswürdigkeiten": "Limassol-Schloss, Uferpromenade, Museen",
+    "Aktivitäten": "Strand- und Hafentourismus, Spaziergänge entlang der Uferpromenade",
+    "Küche": "Moussaka, Shish Kebab, Sefali",
+    "Grünflächen": "Uferpromenade"
+  },
+  {
+    "Land": "Zypern",
+    "Stadt": "Larnaka",
+    "Sehenswürdigkeiten": "Larnaka-Salzsee, Finikoudes-Strand",
+    "Aktivitäten": "Tauchen an Schiffswracks, Besuch des Salzsees",
+    "Küche": "Moussaka, Shish Kebab, Sefali",
+    "Grünflächen": "Larnaka-Salzsee, Finikoudes-Strand"
+  },
+  {
+    "Land": "Zypern",
+    "Stadt": "Paphos",
+    "Sehenswürdigkeiten": "Paphos-Schloss, Paphos-Hafen",
+    "Aktivitäten": "Besuch des Schlosses und Hafens",
+    "Küche": "Moussaka, Shish Kebab, Sefali",
+    "Grünflächen": "Suche nach Grünflächen"
+  },
+  {
+    "Land": "Zypern",
+    "Stadt": "Polis",
+    "Sehenswürdigkeiten": "Polis-Strand, Akamas-Halbinsel",
+    "Aktivitäten": "Naturtourismus und ruhige Strände",
+    "Küche": "Moussaka, Shish Kebab, Sefali",
+    "Grünflächen": "Polis-Strand, Akamas-Halbinsel"
+  },
+  {
+    "Land": "Zypern",
+    "Stadt": "Lefka",
+    "Sehenswürdigkeiten": "Historische Dörfer, Handwerkskunst",
+    "Aktivitäten": "Erkundung von Dörfern, Kauf von Handwerksartikeln",
+    "Küche": "Moussaka, Shish Kebab, Sefali",
+    "Grünflächen": "Suche nach Grünflächen"
+  },
+  {
+    "Land": "Kasachstan",
+    "Stadt": "Astana",
+    "Sehenswürdigkeiten": "Bayterek-Turm, Palast des Friedens und der Eintracht, Nur-Astana-Moschee",
+    "Aktivitäten": "Besuch moderner Gebäude und Betten",
+    "Küche": "Beshbarmak (gekochtes Fleisch und Nudeln), Kazy (Pferdefleischwurst)",
+    "Grünflächen": "Suche nach Grünflächen"
+  },
+  {
+    "Land": "Kasachstan",
+    "Stadt": "Almaty",
+    "Sehenswürdigkeiten": "Kok Tobe-Seilbahn, Zentrales Museum Kasachstans, Panfilow-Park",
+    "Aktivitäten": "Besuch des Museums für Musikinstrumente, Spaziergänge im Park",
+    "Küche": "Beshbarmak, Kazy",
+    "Grünflächen": "Panfilow-Park"
+  },
+  {
+    "Land": "Kasachstan",
+    "Stadt": "Karaganda",
+    "Sehenswürdigkeiten": "Ökologie-Museum, Karaganda-Hügel",
+    "Aktivitäten": "Besuch des Museums",
+    "Küche": "Suche nach lokalen Gerichten",
+    "Grünflächen": "Karaganda-Hügel"
+  },
+  {
+    "Land": "Kasachstan",
+    "Stadt": "Schymkent",
+    "Sehenswürdigkeiten": "Ruinen der antiken Stadt Sauran, Sayram-Schreine, Berühmtes SHYMKENT-Schild, Kino Bar Club, Aina-Basar",
+    "Aktivitäten": "Erkundung der Ruinen des antiken Sauran, Besuch des Aina-Basars, Besuch von Schreinen",
+    "Küche": "Suche nach lokalen Gerichten",
+    "Grünflächen": "Suche nach Grünflächen"
+  },
+  {
+    "Land": "Kasachstan",
+    "Stadt": "Turkistan",
+    "Sehenswürdigkeiten": "Hazret-Sultan-Moschee, Mausoleum von Chodscha Ahmed Yasawi (Weltkulturerbe), Ruinen antiker Städte",
+    "Aktivitäten": "Besuch von Schreinen und Moscheen",
+    "Küche": "Beshbarmak, Kazy",
+    "Grünflächen": "Suche nach Grünflächen"
+  },
+  {
+    "Land": "Kasachstan",
+    "Stadt": "Baikonur",
+    "Sehenswürdigkeiten": "Baikonur-Kosmodrom",
+    "Aktivitäten": "Beobachtung von Raketenstarts (falls verfügbar)",
+    "Küche": "Suche nach lokalen Gerichten",
+    "Grünflächen": "Suche nach Grünflächen"
+  },
+  {
+    "Land": "Kasachstan",
+    "Stadt": "Balkhash",
+    "Sehenswürdigkeiten": "Balkhash-See, Küstenzentren",
+    "Aktivitäten": "Strand- und Wassertourismus",
+    "Küche": "Suche nach lokalen Gerichten",
+    "Grünflächen": "Balkhash-See"
+  },
+  {
+    "Land": "Kasachstan",
+    "Stadt": "Oral",
+    "Sehenswürdigkeiten": "Ural-Fluss (Yaik-Fluss), Goldmuseum",
+    "Aktivitäten": "Erkundung der Hauptstadt, Besuch von Kunstmuseen",
+    "Küche": "Suche nach lokalen Gerichten",
+    "Grünflächen": "Ural-Fluss (Yaik-Fluss)"
+  },
+  {
+    "Land": "Kasachstan",
+    "Stadt": "Atyrau",
+    "Sehenswürdigkeiten": "Ural-Fluss (Yaik-Fluss), Küstenzentren (nahe dem Kaspischen Meer)",
+    "Aktivitäten": "Erkundung von Küstengebieten",
+    "Küche": "Suche nach lokalen Gerichten",
+    "Grünflächen": "Ural-Fluss (Yaik-Fluss), Küstenzentren"
+  },
+  {
+    "Land": "Kroatien",
+    "Stadt": "Zagreb",
+    "Sehenswürdigkeiten": "Oberstadt (historisch), Lotrščak-Turm, Zagreb-Kathedrale, Maksimir-Park",
+    "Aktivitäten": "Erkundung der Oberstadt",
+    "Küche": "Štrukli (gefüllte Gebäck), Zagorski puran s mlincima (Truthahn)",
+    "Grünflächen": "Maksimir-Park"
+  },
+  {
+    "Land": "Kroatien",
+    "Stadt": "Split",
+    "Sehenswürdigkeiten": "Diokletianspalast (Weltkulturerbe), Riva-Promenade",
+    "Aktivitäten": "Besuch des römischen Palastes, Spaziergänge entlang der Riva-Promenade",
+    "Küche": "Pašticada (Rindfleischeintopf), Risotto (Meeresfrüchte), Krustule (Gebäck)",
+    "Grünflächen": "Riva-Promenade"
+  },
+  {
+    "Land": "Kroatien",
+    "Stadt": "Dubrovnik",
+    "Sehenswürdigkeiten": "Altstadtmauern (Weltkulturerbe), Stradun-Straße, Berg Srđ",
+    "Aktivitäten": "Spaziergänge auf den Mauern, Fahrt mit der Seilbahn auf den Berg Srđ",
+    "Küche": "Pašticada, Risotto, Krustule",
+    "Grünflächen": "Berg Srđ"
+  },
+  {
+    "Land": "Kroatien",
+    "Stadt": "Zadar",
+    "Sehenswürdigkeiten": "Die Begrüßung an die Sonne (Sonnenanbetung), Seeorgel, Altstadt",
+    "Aktivitäten": "Erkundung der historischen Stadt",
+    "Küche": "Pljeskavica, Burek, Ćevapi",
+    "Grünflächen": "Suche nach Grünflächen"
+  },
+  {
+    "Land": "Kroatien",
+    "Stadt": "Pula",
+    "Sehenswürdigkeiten": "Römische Arena von Pula, Tempel des Augustus",
+    "Aktivitäten": "Besuch römischer Ruinen",
+    "Küche": "Pljeskavica, Burek, Ćevapi",
+    "Grünflächen": "Suche nach Grünflächen"
+  },
+  {
+    "Land": "Kambodscha",
+    "Stadt": "Phnom Penh",
+    "Sehenswürdigkeiten": "Königspalast, Wat Phnom, Nationalmuseum, Killing Fields",
+    "Aktivitäten": "Besuch des Palastes, Besuch der Killing Fields aus historischen Gründen",
+    "Küche": "Amok (Fischcurry), Nom Banh Chok (Kambodschanische Nudeln), Lok Lak (Rindfleisch)",
+    "Grünflächen": "Wat Phnom"
+  },
+  {
+    "Land": "Kambodscha",
+    "Stadt": "Siem Reap",
+    "Sehenswürdigkeiten": "Angkor Wat (Weltkulturerbe), Angkor-Tempel",
+    "Aktivitäten": "Erkundung der Angkor-Tempel",
+    "Küche": "Amok, Nom Banh Chok, Lok Lak",
+    "Grünflächen": "Suche nach Grünflächen"
+  },
+  {
+    "Land": "Kambodscha",
+    "Stadt": "Battambang",
+    "Sehenswürdigkeiten": "Französische Kolonialarchitektur, Battambang-Fluss",
+    "Aktivitäten": "Erkundung der Kolonialarchitektur",
+    "Küche": "Amok, Nom Banh Chok, Lok Lak",
+    "Grünflächen": "Battambang-Fluss"
+  },
+  {
+    "Land": "Kambodscha",
+    "Stadt": "Kampong Cham",
+    "Sehenswürdigkeiten": "Flussgebiete (Mekong-Fluss)",
+    "Aktivitäten": "Flusstouren, Erkundung ländlicher Dörfer",
+    "Küche": "Amok, Nom Banh Chok, Lok Lak",
+    "Grünflächen": "Flussgebiete (Mekong-Fluss)"
+  },
+  {
+    "Land": "Kambodscha",
+    "Stadt": "Poipet",
+    "Sehenswürdigkeiten": "Thailändische Grenze (Grenztourismus)",
+    "Aktivitäten": "Tour durch das Grenzgebiet",
+    "Küche": "Amok, Nom Banh Chok, Lok Lak",
+    "Grünflächen": "Suche nach Grünflächen"
+  },
+  {
+    "Land": "Kanada",
+    "Stadt": "Toronto",
+    "Sehenswürdigkeiten": "CN-Turm, Royal Ontario Museum, Hockey Hall of Fame",
+    "Aktivitäten": "Besuch des CN-Turms, Erkundung von Museen und Kunstgalerien",
+    "Küche": "Poutine (Pommes mit Käse und Bratensoße), Butter Tart, Multikulturelle Küche",
+    "Grünflächen": "Suche nach Grünflächen"
+  },
+  {
+    "Land": "Kanada",
+    "Stadt": "Vancouver",
+    "Sehenswürdigkeiten": "Stanley-Park, Capilano-Hängebrücke",
+    "Aktivitäten": "Besuch des Stanley-Parks, Radfahren auf der Capilano-Brücke",
+    "Küche": "Poutine, Butter Tart, Meeresfrüchte",
+    "Grünflächen": "Stanley-Park"
+  },
+  {
+    "Land": "Kanada",
+    "Stadt": "Montreal",
+    "Sehenswürdigkeiten": "Alt-Montreal, Notre-Dame-Basilika, Alter Hafen, Mont Royal",
+    "Aktivitäten": "Erkundung des französischen Erbes, Teilnahme an Festivals",
+    "Küche": "Poutine, Geräuchertes Fleisch (am berühmtesten)",
+    "Grünflächen": "Mont Royal"
+  },
+  {
+    "Land": "Kanada",
+    "Stadt": "Quebec",
+    "Sehenswürdigkeiten": "Château Frontenac, Ebenen von Abraham, Alt-Quebec (ummauert)",
+    "Aktivitäten": "Besuch der Altstadt",
+    "Küche": "Poutine, Butter Tart, Zucker auf Schnee (Tire sur la neige)",
+    "Grünflächen": "Ebenen von Abraham"
+  },
+  {
+    "Land": "Kanada",
+    "Stadt": "Calgary",
+    "Sehenswürdigkeiten": "Calgary-Turm, Reiten, Banff-Nationalpark (in der Nähe)",
+    "Aktivitäten": "Besuch des Calgary Stampede",
+    "Küche": "Poutine, Butter Tart, Rindfleisch",
+    "Grünflächen": "Banff-Nationalpark (in der Nähe)"
+  },
+  {
+    "Land": "Kanada",
+    "Stadt": "Ottawa",
+    "Sehenswürdigkeiten": "Parlamentsgebäude, Rideau-Kanal, Nationalmuseum",
+    "Aktivitäten": "Besuch des Parlamentsgebäudes",
+    "Küche": "Poutine, Butter Tart",
+    "Grünflächen": "Rideau-Kanal"
+  },
+  {
+    "Land": "Kanada",
+    "Stadt": "Edmonton",
+    "Sehenswürdigkeiten": "West Edmonton Mall, Museen",
+    "Aktivitäten": "Einkaufen, Besuch von Museen",
+    "Küche": "Poutine, Butter Tart",
+    "Grünflächen": "Suche nach Grünflächen"
+  },
+  {
+    "Land": "Kanada",
+    "Stadt": "Halifax",
+    "Sehenswürdigkeiten": "Uferpromenade, Historische Festung",
+    "Aktivitäten": "Erkundung des Seefahrts-Erbes, Besuch des Seefahrtsmuseums",
+    "Küche": "Poutine, Butter Tart, Meeresfrüchte",
+    "Grünflächen": "Uferpromenade"
+  },
+  {
+    "Land": "Kanada",
+    "Stadt": "Winnipeg",
+    "Sehenswürdigkeiten": "Kanadisches Museum für Menschenrechte, Menschenrechtsdenkmal, The Forks National Historic Site",
+    "Aktivitäten": "Besuch nationaler Museen",
+    "Küche": "Poutine, Butter Tart",
+    "Grünflächen": "Suche nach Grünflächen"
+  },
+  {
+    "Land": "Kanada",
+    "Stadt": "Victoria",
+    "Sehenswürdigkeiten": "Parlamentsgebäude, Butchart-Gärten, Historisches Fairmont Empress Hotel",
+    "Aktivitäten": "Besuch historischer Gärten",
+    "Küche": "Poutine, Butter Tart, Meeresfrüchte",
+    "Grünflächen": "Butchart-Gärten"
+  },
+  {
+    "Land": "Kongo",
+    "Stadt": "Brazzaville",
+    "Sehenswürdigkeiten": "Kongo-Fluss, Wälder",
+    "Aktivitäten": "Fluss- und Waldtourismus",
+    "Küche": "Rosoli, Sontiane, Congolais",
+    "Grünflächen": "Wälder, Kongo-Fluss"
+  },
+  {
+    "Land": "Kongo",
+    "Stadt": "Pointe-Noire",
+    "Sehenswürdigkeiten": "Strände von Pointe-Noire, Wälder",
+    "Aktivitäten": "Strandtourismus, Erkundung von Wäldern",
+    "Küche": "Rosoli, Sontiane, Congolais",
+    "Grünflächen": "Strände, Wälder"
+  },
+  {
+    "Land": "Kongo",
+    "Stadt": "Owando",
+    "Sehenswürdigkeiten": "Odzala-Nationalpark (Gorilla)",
+    "Aktivitäten": "Safaritouren zur Gorillabeobachtung",
+    "Küche": "Rosoli, Sontiane, Congolais",
+    "Grünflächen": "Odzala-Nationalpark"
+  },
+  {
+    "Land": "Kongo",
+    "Stadt": "Ouesso",
+    "Sehenswürdigkeiten": "Binnenlandregionen",
+    "Aktivitäten": "Ökotourismus",
+    "Küche": "Rosoli, Sontiane, Congolais",
+    "Grünflächen": "Binnenlandregionen"
+  },
+  {
+    "Land": "Demokratische Republik Kongo",
+    "Stadt": "Kinshasa",
+    "Sehenswürdigkeiten": "Kongo-Fluss, Wälder",
+    "Aktivitäten": "Fluss- und Waldtourismus",
+    "Küche": "Ponzu, Kochbanane, Sauerteigbrot",
+    "Grünflächen": "Kongo-Fluss, Wälder"
+  },
+  {
+    "Land": "Südkorea",
+    "Stadt": "Seoul",
+    "Sehenswürdigkeiten": "Gyeongbokgung-Palast, N Seoul Tower, Gangnam-Distrikt, Bukchon-Dorf",
+    "Aktivitäten": "Erkundung der königlichen Geschichte, Einkaufen in Gangnam, Moderne Kultur (K-Pop), Besuch interaktiver Museen",
+    "Küche": "Kimchi (eingelegter Kohl), Bulgogi (mariniertes gegrilltes Rindfleisch), Bibimbap (gemischter Reis mit Gemüse), Japchae (Nudeln)",
+    "Grünflächen": "Suche nach Grünflächen"
+  },
+  {
+    "Land": "Südkorea",
+    "Stadt": "Busan",
+    "Sehenswürdigkeiten": "Haeundae-Strand, Beomeosa-Tempel, Jagalchi-Fischmarkt",
+    "Aktivitäten": "Strandtourismus, Besuch von Tempeln",
+    "Küche": "Kimchi, Bulgogi, Bibimbap",
+    "Grünflächen": "Haeundae-Strand"
+  },
+  {
+    "Land": "Südkorea",
+    "Stadt": "Incheon",
+    "Sehenswürdigkeiten": "Incheon-Brücke, Chinatown",
+    "Aktivitäten": "Erkundung von Chinatown",
+    "Küche": "Kimchi, Bulgogi, Bibimbap",
+    "Grünflächen": "Suche nach Grünflächen"
+  },
+  {
+    "Land": "Südkorea",
+    "Stadt": "Daejeon",
+    "Sehenswürdigkeiten": "Daejeon-Geschichtsmuseum, Gyeryongsan-Berg",
+    "Aktivitäten": "Besuch des Museums",
+    "Küche": "Kimchi, Bulgogi, Bibimbap",
+    "Grünflächen": "Gyeryongsan-Berg"
+  },
+  {
+    "Land": "Südkorea",
+    "Stadt": "Suwon",
+    "Sehenswürdigkeiten": "Hwaseong-Festung (Weltkulturerbe)",
+    "Aktivitäten": "Besuch der historischen ummauerten Festung",
+    "Küche": "Kimchi, Bulgogi, Bibimbap",
+    "Grünflächen": "Suche nach Grünflächen"
+  },
+  {
+    "Land": "Südkorea",
+    "Stadt": "Ulsan",
+    "Sehenswürdigkeiten": "Ulsan-Palast (nahe der Stadt), Ulsan-Strände",
+    "Aktivitäten": "Besuch des königlichen Palastes",
+    "Küche": "Kimchi, Bulgogi, Bibimbap",
+    "Grünflächen": "Ulsan-Strände"
+  },
+  {
+    "Land": "Südkorea",
+    "Stadt": "Cheonan",
+    "Sehenswürdigkeiten": "Unabhängigkeitshalle, Historische Gebiete",
+    "Aktivitäten": "Besuch historischer Gebiete",
+    "Küche": "Kimchi, Bulgogi, Bibimbap",
+    "Grünflächen": "Suche nach Grünflächen"
+  },
+  {
+    "Land": "Costa Rica",
+    "Stadt": "San Jose",
+    "Sehenswürdigkeiten": "Nationaltheater, Goldmuseum",
+    "Aktivitäten": "Erkundung der Hauptstadt, Besuch von Kunstmuseen",
+    "Küche": "Suche nach lokalen Gerichten",
+    "Grünflächen": "Suche nach Grünflächen"
+  },
+  {
+    "Land": "Costa Rica",
+    "Stadt": "Naranja",
+    "Sehenswürdigkeiten": "Kaffeeplantagen, Berggebiete",
+    "Aktivitäten": "Tour durch Kaffeeplantagen",
+    "Küche": "Suche nach lokalen Gerichten",
+    "Grünflächen": "Kaffeeplantagen, Berggebiete"
+  },
+  {
+    "Land": "Costa Rica",
+    "Stadt": "Limon",
+    "Sehenswürdigkeiten": "Strände an der Karibik, Naturparks",
+    "Aktivitäten": "Strandtourismus",
+    "Küche": "Suche nach lokalen Gerichten",
+    "Grünflächen": "Strände an der Karibik, Naturparks"
+  },
+  {
+    "Land": "Costa Rica",
+    "Stadt": "Tamarindo",
+    "Sehenswürdigkeiten": "Strände am Pazifischen Ozean, Surfgebiete",
+    "Aktivitäten": "Surfen, Ruhiger Strandtourismus",
+    "Küche": "Suche nach lokalen Gerichten",
+    "Grünflächen": "Strände am Pazifischen Ozean"
+  },
+  {
+    "Land": "Costa Rica",
+    "Stadt": "Tortuguero",
+    "Sehenswürdigkeiten": "Tortuguero-Kanäle, Tortuguero-Nationalpark",
+    "Aktivitäten": "Schildkrötenbeobachtung (saisonal), Bootsfahrten",
+    "Küche": "Suche nach lokalen Gerichten",
+    "Grünflächen": "Tortuguero-Kanäle, Tortuguero-Nationalpark"
+  }
+]

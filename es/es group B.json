@@ -1,0 +1,3141 @@
+[
+  {
+    "País": "Mauritania",
+    "Región": "Noroeste de África",
+    "Descripción": "Un país desértico rico en cultura desértica e historia antigua, conocido por la construcción tradicional de barcos y ciudades antiguas declaradas Patrimonio de la Humanidad por la UNESCO.",
+    "Ciudades": [
+      {
+        "Ciudad": "Nuakchot",
+        "Atracciones": "Playa de los Pescadores y Reservas Costeras",
+        "Actividades": "Visitar el mercado de pescado del puerto, explorar mercados locales",
+        "Lugares históricos y monumentos": "La Gran Mezquita, Museo Nacional",
+        "Gastronomía": "Cuscús, Marú y Pescado (arroz y pescado), Al-Manshiyah (carne de cordero), Bebida Zareeg, Bulghman"
+      },
+      {
+        "Ciudad": "Chinguetti",
+        "Atracciones": "Dunas doradas del desierto circundante",
+        "Actividades": "Explorar antiguas bibliotecas y manuscritos, safaris por el desierto",
+        "Lugares históricos y monumentos": "Ciudad Antigua de Chinguetti (sitio de la UNESCO)",
+        "Gastronomía": "Cuscús, Marú y Pescado (arroz y pescado), Al-Manshiyah (carne de cordero), Bebida Zareeg, Bulghman"
+      },
+      {
+        "Ciudad": "Uadán",
+        "Atracciones": "Corazón del Gran Sahara y Meseta de Adrar",
+        "Actividades": "Visitar la ciudad antigua y la fortaleza, observar las estrellas del desierto por la noche",
+        "Lugares históricos y monumentos": "Ciudad Antigua de Uadán (sitio de la UNESCO), Biblioteca de Uadán",
+        "Gastronomía": "Cuscús, Marú y Pescado (arroz y pescado), Al-Manshiyah (carne de cordero), Bebida Zareeg, Bulghman"
+      },
+      {
+        "Ciudad": "Néma",
+        "Atracciones": "Colinas de la región oriental",
+        "Actividades": "Puerta de entrada al este de Mauritania y mercados tradicionales",
+        "Lugares históricos y monumentos": "Mercado de Carne, Edificios Coloniales",
+        "Gastronomía": "Cuscús, Marú y Pescado (arroz y pescado), Al-Manshiyah (carne de cordero), Bebida Zareeg, Bulghman"
+      },
+      {
+        "Ciudad": "Nuadibú",
+        "Atracciones": "Reserva de Focas de Cabo Blanco (Ras Nuadibú)",
+        "Actividades": "Observar naufragios y deportes acuáticos, pesca",
+        "Lugares históricos y monumentos": "Puerto Pesquero, Faro de Nuadibú",
+        "Gastronomía": "Cuscús, Marú y Pescado (arroz y pescado), Al-Manshiyah (carne de cordero), Bebida Zareeg, Bulghman"
+      },
+      {
+        "Ciudad": "Tichitt",
+        "Atracciones": "Oasis aislados",
+        "Actividades": "Caminar por la arquitectura de piedra antigua, explorar el desierto",
+        "Lugares históricos y monumentos": "Ciudad Antigua de Tichitt (sitio de la UNESCO)",
+        "Gastronomía": "Cuscús, Marú y Pescado (arroz y pescado), Al-Manshiyah (carne de cordero), Bebida Zareeg, Bulghman"
+      },
+      {
+        "Ciudad": "Atar",
+        "Atracciones": "Oasis de palmeras y montañas rocosas",
+        "Actividades": "Punto de partida para viajes por el desierto, explorar montañas",
+        "Lugares históricos y monumentos": "Fortaleza de Atar, Mercado Semanal",
+        "Gastronomía": "Cuscús, Marú y Pescado (arroz y pescado), Al-Manshiyah (carne de cordero), Bebida Zareeg, Bulghman"
+      },
+      {
+        "Ciudad": "Rosso",
+        "Atracciones": "Verdes orillas del río Senegal",
+        "Actividades": "Travesías en ferry a través del río Senegal, observación de aves",
+        "Lugares históricos y monumentos": "Ciudad Antigua de Rosso, Mercado Central",
+        "Gastronomía": "Cuscús, Marú y Pescado (arroz y pescado), Al-Manshiyah (carne de cordero), Bebida Zareeg, Bulghman"
+      },
+      {
+        "Ciudad": "Kaédi",
+        "Atracciones": "Tierras agrícolas inundadas",
+        "Actividades": "Conocer diversas culturas ribereñas, observar agricultura tradicional",
+        "Lugares históricos y monumentos": "Aldeas circundantes, riberas",
+        "Gastronomía": "Cuscús, Marú y Pescado (arroz y pescado), Al-Manshiyah (carne de cordero), Bebida Zareeg, Bulghman"
+      },
+      {
+        "Ciudad": "Banco de Arguin",
+        "Atracciones": "Parque Nacional del Banco de Arguin (intersección de desierto y océano)",
+        "Actividades": "Observación de aves migratorias (sitio de la UNESCO), fotografía",
+        "Lugares históricos y monumentos": "Parque Nacional del Banco de Arguin",
+        "Gastronomía": "Cuscús, Marú y Pescado (arroz y pescado), Al-Manshiyah (carne de cordero), Bebida Zareeg, Bulghman"
+      }
+    ],
+    "Parques y espacios verdes": [
+      "Playa de los Pescadores y Reservas Costeras",
+      "Dunas doradas del desierto circundante",
+      "Corazón del Gran Sahara y Meseta de Adrar",
+      "Colinas de la región oriental",
+      "Reserva de Focas de Cabo Blanco (Ras Nuadibú)",
+      "Oasis aislados",
+      "Oasis de palmeras y montañas rocosas",
+      "Verdes orillas del río Senegal",
+      "Tierras agrícolas inundadas",
+      "Parque Nacional del Banco de Arguin (intersección de desierto y océano)"
+    ]
+  },
+  {
+    "País": "Mauricio",
+    "Región": "África (Este)",
+    "Descripción": "Una isla tropical en el Océano Índico, famosa por sus playas de arena blanca, coloridos arrecifes de coral y diversidad cultural.",
+    "Ciudades": [
+      {
+        "Ciudad": "Port Louis",
+        "Atracciones": "Famosos Jardines Botánicos de Pamplemousses",
+        "Actividades": "Compras en el mercado del Malecón Caudan, visitar museos",
+        "Lugares históricos y monumentos": "Museo de la Moda, Mercado Central",
+        "Gastronomía": "Dal puri, curry de pescado, fideos fritos (mine frit), ensalada de palma, guisantes de paloma"
+      },
+      {
+        "Ciudad": "Grand Baie",
+        "Atracciones": "Playa Pública La Cuvette",
+        "Actividades": "Navegación y deportes acuáticos y vida nocturna",
+        "Lugares históricos y monumentos": "Iglesia de Cap Malheureux",
+        "Gastronomía": "Dal puri, curry de pescado, fideos fritos (mine frit), ensalada de palma, guisantes de paloma"
+      },
+      {
+        "Ciudad": "Flic en Flac",
+        "Atracciones": "Arrecifes de coral y largas playas",
+        "Actividades": "Buceo y natación con delfines",
+        "Lugares históricos y monumentos": "Faro de Flic en Flac",
+        "Gastronomía": "Dal puri, curry de pescado, fideos fritos (mine frit), ensalada de palma, guisantes de paloma"
+      },
+      {
+        "Ciudad": "Le Morne",
+        "Atracciones": "Península de Le Morne y paisajes",
+        "Actividades": "Escalar la Montaña Le Morne Brabant (UNESCO)",
+        "Lugares históricos y monumentos": "Montaña Le Morne Brabant",
+        "Gastronomía": "Dal puri, curry de pescado, fideos fritos (mine frit), ensalada de palma, guisantes de paloma"
+      },
+      {
+        "Ciudad": "Belle Mare",
+        "Atracciones": "Reserva Natural de Frédérica",
+        "Actividades": "Safaris y golf de lujo",
+        "Lugares históricos y monumentos": "Complejo turístico de Belle Mare",
+        "Gastronomía": "Dal puri, curry de pescado, fideos fritos (mine frit), ensalada de palma, guisantes de paloma"
+      },
+      {
+        "Ciudad": "Chamarel",
+        "Atracciones": "Cataratas de Chamarel y Parque de la Tierra de Colores",
+        "Actividades": "Visitar la Tierra de Siete Colores y fábrica de ron",
+        "Lugares históricos y monumentos": "Tierra de Siete Colores, Cataratas de Chamarel",
+        "Gastronomía": "Dal puri, curry de pescado, fideos fritos (mine frit), ensalada de palma, guisantes de paloma"
+      },
+      {
+        "Ciudad": "Mahébourg",
+        "Atracciones": "Parque Marino de Blue Bay",
+        "Actividades": "Visitar el Museo Marítimo y mercado popular",
+        "Lugares históricos y monumentos": "Museo Marítimo de Mahébourg",
+        "Gastronomía": "Dal puri, curry de pescado, fideos fritos (mine frit), ensalada de palma, guisantes de paloma"
+      },
+      {
+        "Ciudad": "Tamarin",
+        "Atracciones": "Cataratas de Tamarin y desembocadura del río",
+        "Actividades": "Surf y observación de delfines",
+        "Lugares históricos y monumentos": "Cataratas de Tamarin",
+        "Gastronomía": "Dal puri, curry de pescado, fideos fritos (mine frit), ensalada de palma, guisantes de paloma"
+      },
+      {
+        "Ciudad": "Curepipe",
+        "Atracciones": "Cráter volcánico Trou aux Cerfs",
+        "Actividades": "Visitar modelos de barcos y compras",
+        "Lugares históricos y monumentos": "Cráter volcánico Trou aux Cerfs",
+        "Gastronomía": "Dal puri, curry de pescado, fideos fritos (mine frit), ensalada de palma, guisantes de paloma"
+      },
+      {
+        "Ciudad": "Río Negro",
+        "Atracciones": "Parque Nacional de los Gorges del Río Negro (selva tropical)",
+        "Actividades": "Pesca en alta mar",
+        "Lugares históricos y monumentos": "Parque Nacional de los Gorges del Río Negro",
+        "Gastronomía": "Dal puri, curry de pescado, fideos fritos (mine frit), ensalada de palma, guisantes de paloma"
+      }
+    ],
+    "Parques y espacios verdes": [
+      "Famosos Jardines Botánicos de Pamplemousses",
+      "Playa Pública La Cuvette",
+      "Arrecifes de coral y largas playas",
+      "Península de Le Morne y paisajes",
+      "Reserva Natural de Frédérica",
+      "Cataratas de Chamarel y Parque de la Tierra de Colores",
+      "Parque Marino de Blue Bay",
+      "Cataratas de Tamarin y desembocadura del río",
+      "Cráter volcánico Trou aux Cerfs",
+      "Parque Nacional de los Gorges del Río Negro (selva tropical)"
+    ]
+  },
+  {
+    "País": "Mozambique",
+    "Región": "África (Sudeste)",
+    "Descripción": "Un país costero en el sureste de África, famoso por sus playas vírgenes, arrecifes de coral e influencias culturales portuguesas.",
+    "Ciudades": [
+      {
+        "Ciudad": "Maputo",
+        "Atracciones": "Jardín Botánico de Tunduru",
+        "Actividades": "Visitar la estación de tren y el mercado central",
+        "Lugares históricos y monumentos": "Fortaleza de São Sebastião, Catedral de Nuestra Señora de la Concepción",
+        "Gastronomía": "Langostinos a la parrilla Piri Piri, Matapa (hojas de yuca), Pan portugués (pãozinho), Pollo Zambesi"
+      },
+      {
+        "Ciudad": "Archipiélago de Bazaruto",
+        "Atracciones": "Parque Marino Nacional y protección de dugongos",
+        "Actividades": "Snorkel y buceo profundo (mejor destino)",
+        "Lugares históricos y monumentos": "Ruinas de São Paulo",
+        "Gastronomía": "Langostinos a la parrilla Piri Piri, Matapa (hojas de yuca), Pan portugués (pãozinho), Pollo Zambesi"
+      },
+      {
+        "Ciudad": "Tofo",
+        "Atracciones": "Playas de arena abiertas de Tofo",
+        "Actividades": "Nadar con tiburones ballena",
+        "Lugares históricos y monumentos": "Faro de Barra do Tofo",
+        "Gastronomía": "Langostinos a la parrilla Piri Piri, Matapa (hojas de yuca), Pan portugués (pãozinho), Pollo Zambesi"
+      },
+      {
+        "Ciudad": "Isla de Mozambique",
+        "Atracciones": "Playas rocosas y aguas turquesas",
+        "Actividades": "Explorar la historia colonial (sitio de la UNESCO)",
+        "Lugares históricos y monumentos": "Museo de la Isla de Mozambique, Fortaleza de São Sebastião",
+        "Gastronomía": "Langostinos a la parrilla Piri Piri, Matapa (hojas de yuca), Pan portugués (pãozinho), Pollo Zambesi"
+      },
+      {
+        "Ciudad": "Beira",
+        "Atracciones": "Playa de Macuti",
+        "Actividades": "Visitar el faro y la antigua catedral",
+        "Lugares históricos y monumentos": "Catedral de São Paulo, Faro de Beira",
+        "Gastronomía": "Langostinos a la parrilla Piri Piri, Matapa (hojas de yuca), Pan portugués (pãozinho), Pollo Zambesi"
+      },
+      {
+        "Ciudad": "Ilha de Moçambique",
+        "Atracciones": "Reservas de aves costeras",
+        "Actividades": "Puerta de entrada a las islas y paseos a caballo",
+        "Lugares históricos y monumentos": "Iglesia de San Antonio",
+        "Gastronomía": "Langostinos a la parrilla Piri Piri, Matapa (hojas de yuca), Pan portugués (pãozinho), Pollo Zambesi"
+      },
+      {
+        "Ciudad": "Gorongosa",
+        "Atracciones": "Parque Nacional de Gorongosa (enorme diversidad ambiental)",
+        "Actividades": "Safaris para ver leones y elefantes",
+        "Lugares históricos y monumentos": "Parque Nacional de Gorongosa",
+        "Gastronomía": "Langostinos a la parrilla Piri Piri, Matapa (hojas de yuca), Pan portugués (pãozinho), Pollo Zambesi"
+      },
+      {
+        "Ciudad": "Pemba",
+        "Atracciones": "Playa y Bahía de Wimbe",
+        "Actividades": "Relajarse en complejos turísticos de lujo",
+        "Lugares históricos y monumentos": "Colinas de Pemba",
+        "Gastronomía": "Langostinos a la parrilla Piri Piri, Matapa (hojas de yuca), Pan portugués (pãozinho), Pollo Zambesi"
+      },
+      {
+        "Ciudad": "Archipiélago de Quirimbas",
+        "Atracciones": "Parque Nacional de Quirimbas (bosques de mangle)",
+        "Actividades": "Navegación en dhows tradicionales",
+        "Lugares históricos y monumentos": "Aldeas pesqueras tradicionales",
+        "Gastronomía": "Langostinos a la parrilla Piri Piri, Matapa (hojas de yuca), Pan portugués (pãozinho), Pollo Zambesi"
+      },
+      {
+        "Ciudad": "Inhambane",
+        "Atracciones": "Frente marítimo y bahía tranquila",
+        "Actividades": "Visitar mercados históricos",
+        "Lugares históricos y monumentos": "Iglesia de Nuestra Señora de la Palma",
+        "Gastronomía": "Langostinos a la parrilla Piri Piri, Matapa (hojas de yuca), Pan portugués (pãozinho), Pollo Zambesi"
+      }
+    ],
+    "Parques y espacios verdes": [
+      "Jardín Botánico de Tunduru",
+      "Parque Marino Nacional y protección de dugongos",
+      "Playas de arena abiertas de Tofo",
+      "Playas rocosas y aguas turquesas",
+      "Playa de Macuti",
+      "Reservas de aves costeras",
+      "Parque Nacional de Gorongosa (enorme diversidad ambiental)",
+      "Playa y Bahía de Wimbe",
+      "Parque Nacional de Quirimbas (bosques de mangle)",
+      "Frente marítimo y bahía tranquila"
+    ]
+  },
+  {
+    "País": "Moldavia",
+    "Región": "Europa (Este)",
+    "Descripción": "Un pequeño país europeo sin litoral, famoso por sus impresionantes paisajes, viñedos e historia rica.",
+    "Ciudades": [
+      {
+        "Ciudad": "Chisináu",
+        "Atracciones": "Parque Central Stefan cel Mare",
+        "Actividades": "Recorrer el centro de la ciudad y la catedral",
+        "Lugares históricos y monumentos": "Arco del Triunfo, Catedral de la Natividad",
+        "Gastronomía": "Mămăligă (gachas de maíz), Sarmale (hojas de col rellenas), Plăcintă (pasteles), Sopa Zama"
+      },
+      {
+        "Ciudad": "Orheiul Vechi",
+        "Atracciones": "Valle del río Răut y paisajes impresionantes",
+        "Actividades": "Visitar el complejo monástico excavado en la roca",
+        "Lugares históricos y monumentos": "Monasterio de Orheiul Vechi",
+        "Gastronomía": "Mămăligă (gachas de maíz), Sarmale (hojas de col rellenas), Plăcintă (pasteles), Sopa Zama"
+      },
+      {
+        "Ciudad": "Cricova",
+        "Atracciones": "Viñedos circundantes",
+        "Actividades": "Recorrer las bodegas subterráneas más grandes",
+        "Lugares históricos y monumentos": "Museo del Vino",
+        "Gastronomía": "Mămăligă (gachas de maíz), Sarmale (hojas de col rellenas), Plăcintă (pasteles), Sopa Zama"
+      },
+      {
+        "Ciudad": "Tiraspol",
+        "Atracciones": "Parque Pobeda (Victoria) y orillas del río Dniéster",
+        "Actividades": "Experimentar un retorno a la era soviética (Transnistria)",
+        "Lugares históricos y monumentos": "Memorial Soviético, Fortaleza de Tiraspol",
+        "Gastronomía": "Mămăligă (gachas de maíz), Sarmale (hojas de col rellenas), Plăcintă (pasteles), Sopa Zama"
+      },
+      {
+        "Ciudad": "Soroca",
+        "Atracciones": "Bosques y orillas del río Dniéster",
+        "Actividades": "Visitar la histórica Fortaleza de Soroca",
+        "Lugares históricos y monumentos": "Fortaleza de Soroca",
+        "Gastronomía": "Mămăligă (gachas de maíz), Sarmale (hojas de col rellenas), Plăcintă (pasteles), Sopa Zama"
+      },
+      {
+        "Ciudad": "Mileștii Mici",
+        "Atracciones": "Colinas plantadas con viñedos",
+        "Actividades": "Visitar la ciudad subterránea del vino (Libro Guinness)",
+        "Lugares históricos y monumentos": "Museo del Vino",
+        "Gastronomía": "Mămăligă (gachas de maíz), Sarmale (hojas de col rellenas), Plăcintă (pasteles), Sopa Zama"
+      },
+      {
+        "Ciudad": "Bender (Tighina)",
+        "Atracciones": "Parques fluviales",
+        "Actividades": "Explorar la antigua fortaleza otomana",
+        "Lugares históricos y monumentos": "Fortaleza de Bender",
+        "Gastronomía": "Mămăligă (gachas de maíz), Sarmale (hojas de col rellenas), Plăcintă (pasteles), Sopa Zama"
+      },
+      {
+        "Ciudad": "Saharna",
+        "Atracciones": "Cataratas de Saharna y bosques circundantes",
+        "Actividades": "Peregrinación al Monasterio de la Santísima Trinidad",
+        "Lugares históricos y monumentos": "Monasterio de Saharna",
+        "Gastronomía": "Mămăligă (gachas de maíz), Sarmale (hojas de col rellenas), Plăcintă (pasteles), Sopa Zama"
+      },
+      {
+        "Ciudad": "Tipova",
+        "Atracciones": "Reserva Natural de Tipova y cataratas",
+        "Actividades": "Senderismo y visita al monasterio de roca",
+        "Lugares históricos y monumentos": "Monasterio de Tipova",
+        "Gastronomía": "Mămăligă (gachas de maíz), Sarmale (hojas de col rellenas), Plăcintă (pasteles), Sopa Zama"
+      },
+      {
+        "Ciudad": "Găgăuzia",
+        "Atracciones": "Estepas del sur y paisajes rurales",
+        "Actividades": "Explorar la única cultura turca cristiana",
+        "Lugares históricos y monumentos": "Museo de Găgăuzia",
+        "Gastronomía": "Mămăligă (gachas de maíz), Sarmale (hojas de col rellenas), Plăcintă (pasteles), Sopa Zama"
+      }
+    ],
+    "Parques y espacios verdes": [
+      "Parque Central Stefan cel Mare",
+      "Valle del río Răut y paisajes impresionantes",
+      "Viñedos circundantes",
+      "Parque Pobeda (Victoria) y orillas del río Dniéster",
+      "Bosques y orillas del río Dniéster",
+      "Colinas plantadas con viñedos",
+      "Parques fluviales",
+      "Cataratas de Saharna y bosques circundantes",
+      "Reserva Natural de Tipova y cataratas",
+      "Estepas del sur y paisajes rurales"
+    ]
+  },
+  {
+    "País": "Mónaco",
+    "Región": "Europa (Oeste)",
+    "Descripción": "Un pequeño principado en la costa de la Riviera Francesa, famoso por su lujo, el Casino de Montecarlo y carreras de Fórmula 1.",
+    "Ciudades": [
+      {
+        "Ciudad": "Montecarlo",
+        "Atracciones": "Jardines Japoneses Pacíficos",
+        "Actividades": "Visitar el famoso casino y la ópera",
+        "Lugares históricos y monumentos": "Casino de Montecarlo, Casa de la Ópera",
+        "Gastronomía": "Barbaguian (pasteles fritos), Fougasse (pan dulce), Bacalao (pescado seco), Ensalada Nizarda"
+      },
+      {
+        "Ciudad": "Mónaco-Ville",
+        "Atracciones": "Jardines de San Martín con vistas al mar",
+        "Actividades": "Visitar el Palacio del Príncipe y la ciudad antigua",
+        "Lugares históricos y monumentos": "Palacio del Príncipe, Catedral de Mónaco",
+        "Gastronomía": "Barbaguian (pasteles fritos), Fougasse (pan dulce), Bacalao (pescado seco), Ensalada Nizarda"
+      },
+      {
+        "Ciudad": "La Condamine",
+        "Atracciones": "Parque de la Princesa Antonieta (olivos)",
+        "Actividades": "Pasear por el Puerto de Hércules para ver yates",
+        "Lugares históricos y monumentos": "Puerto de Hércules",
+        "Gastronomía": "Barbaguian (pasteles fritos), Fougasse (pan dulce), Bacalao (pescado seco), Ensalada Nizarda"
+      },
+      {
+        "Ciudad": "Fontvieille",
+        "Atracciones": "Jardín de Rosas de la Princesa Grace",
+        "Actividades": "Visitar el museo de coches y juegos de pelota",
+        "Lugares históricos y monumentos": "Estadio Luis II",
+        "Gastronomía": "Barbaguian (pasteles fritos), Fougasse (pan dulce), Bacalao (pescado seco), Ensalada Nizarda"
+      },
+      {
+        "Ciudad": "Larvotto",
+        "Atracciones": "Reserva Marina y playa de arena",
+        "Actividades": "Disfrutar de la playa pública y clubes",
+        "Lugares históricos y monumentos": "Museo de Larvotto",
+        "Gastronomía": "Barbaguian (pasteles fritos), Fougasse (pan dulce), Bacalao (pescado seco), Ensalada Nizarda"
+      },
+      {
+        "Ciudad": "Jardín Exótico",
+        "Atracciones": "Jardín Exótico (plantas suculentas)",
+        "Actividades": "Explorar cuevas subterráneas (Grotte de l'Observatoire)",
+        "Lugares históricos y monumentos": "Jardín Exótico",
+        "Gastronomía": "Barbaguian (pasteles fritos), Fougasse (pan dulce), Bacalao (pescado seco), Ensalada Nizarda"
+      },
+      {
+        "Ciudad": "Moneghetti",
+        "Atracciones": "Senderos con vistas al principado",
+        "Actividades": "Explorar las fronteras montañosas del norte",
+        "Lugares históricos y monumentos": "Jardines de Moneghetti",
+        "Gastronomía": "Barbaguian (pasteles fritos), Fougasse (pan dulce), Bacalao (pescado seco), Ensalada Nizarda"
+      },
+      {
+        "Ciudad": "La Rousse",
+        "Atracciones": "Espacios verdes verticales",
+        "Actividades": "Compras y observación de rascacielos",
+        "Lugares históricos y monumentos": "Rascacielos",
+        "Gastronomía": "Barbaguian (pasteles fritos), Fougasse (pan dulce), Bacalao (pescado seco), Ensalada Nizarda"
+      },
+      {
+        "Ciudad": "Puerto de Mónaco",
+        "Atracciones": "Paseo marítimo",
+        "Actividades": "Asistir al espectáculo anual de yates",
+        "Lugares históricos y monumentos": "Puerto de Mónaco",
+        "Gastronomía": "Barbaguian (pasteles fritos), Fougasse (pan dulce), Bacalao (pescado seco), Ensalada Nizarda"
+      },
+      {
+        "Ciudad": "Museo Oceanográfico",
+        "Atracciones": "Ubicado en un acantilado rocoso con vistas al mar",
+        "Actividades": "Observar enormes acuarios",
+        "Lugares históricos y monumentos": "Museo Oceanográfico",
+        "Gastronomía": "Barbaguian (pasteles fritos), Fougasse (pan dulce), Bacalao (pescado seco), Ensalada Nizarda"
+      }
+    ],
+    "Parques y espacios verdes": [
+      "Jardines Japoneses Pacíficos",
+      "Jardines de San Martín con vistas al mar",
+      "Parque de la Princesa Antonieta (olivos)",
+      "Jardín de Rosas de la Princesa Grace",
+      "Reserva Marina y playa de arena",
+      "Jardín Exótico (plantas suculentas)",
+      "Senderos con vistas al principado",
+      "Espacios verdes verticales",
+      "Paseo marítimo",
+      "Ubicado en un acantilado rocoso con vistas al mar"
+    ]
+  },
+  {
+    "País": "Montenegro (Montaña Negra)",
+    "Región": "Europa (Sudeste)",
+    "Descripción": "Un pequeño país en la costa del Adriático, famoso por sus altas montañas, bahías costeras y ciudades antiguas.",
+    "Ciudades": [
+      {
+        "Ciudad": "Kotor",
+        "Atracciones": "Bahía de Kotor (fiordo natural)",
+        "Actividades": "Escalar la fortaleza y caminar por la ciudad antigua",
+        "Lugares históricos y monumentos": "Murallas de la Ciudad Antigua, Catedral de San Trifón",
+        "Gastronomía": "Prosciutto (Njeguški), Pastel Negro, Sopa de Pescado, Burek"
+      },
+      {
+        "Ciudad": "Budva",
+        "Atracciones": "Isla Sveti Nikola",
+        "Actividades": "Vida nocturna y playas antiguas",
+        "Lugares históricos y monumentos": "Ciudad Antigua, Fortaleza de Budva",
+        "Gastronomía": "Prosciutto (Njeguški), Pastel Negro, Sopa de Pescado, Burek"
+      },
+      {
+        "Ciudad": "Žabljak",
+        "Atracciones": "Parque Nacional Durmitor y Lago Negro",
+        "Actividades": "Esquí en invierno y senderismo en verano",
+        "Lugares históricos y monumentos": "Monasterio de Moraca",
+        "Gastronomía": "Prosciutto (Njeguški), Pastel Negro, Sopa de Pescado, Burek"
+      },
+      {
+        "Ciudad": "Perast",
+        "Atracciones": "Vistas montañosas de la bahía",
+        "Actividades": "Viaje en barco a Nuestra Señora de las Rocas",
+        "Lugares históricos y monumentos": "Iglesia de Nuestra Señora de las Rocas",
+        "Gastronomía": "Prosciutto (Njeguški), Pastel Negro, Sopa de Pescado, Burek"
+      },
+      {
+        "Ciudad": "Herceg Novi",
+        "Atracciones": "Parque Savina y Península de Luštica",
+        "Actividades": "Visitar fortalezas y escaleras interminables",
+        "Lugares históricos y monumentos": "Fortaleza Forte Mare",
+        "Gastronomía": "Prosciutto (Njeguški), Pastel Negro, Sopa de Pescado, Burek"
+      },
+      {
+        "Ciudad": "Ulcinj",
+        "Atracciones": "Gran lago y reserva de aves",
+        "Actividades": "Visitar la Playa Larga (Velika Plaža)",
+        "Lugares históricos y monumentos": "Iglesia de Ulcinj",
+        "Gastronomía": "Prosciutto (Njeguški), Pastel Negro, Sopa de Pescado, Burek"
+      },
+      {
+        "Ciudad": "Cetinje",
+        "Atracciones": "Parque Nacional Lovćen",
+        "Actividades": "Visitar museos y la antigua capital histórica",
+        "Lugares históricos y monumentos": "Monasterio de Cetinje",
+        "Gastronomía": "Prosciutto (Njeguški), Pastel Negro, Sopa de Pescado, Burek"
+      },
+      {
+        "Ciudad": "Tivat",
+        "Atracciones": "Gran Parque de la Ciudad (Veliki Gradski Park)",
+        "Actividades": "Caminar en Porto Montenegro (marina de lujo)",
+        "Lugares históricos y monumentos": "Monasterio de Savina",
+        "Gastronomía": "Prosciutto (Njeguški), Pastel Negro, Sopa de Pescado, Burek"
+      },
+      {
+        "Ciudad": "Kolašin",
+        "Atracciones": "Biogradska Gora (bosque primigenio)",
+        "Actividades": "Esquí y ecoturismo",
+        "Lugares históricos y monumentos": "Monasterio de Moraca",
+        "Gastronomía": "Prosciutto (Njeguški), Pastel Negro, Sopa de Pescado, Burek"
+      },
+      {
+        "Ciudad": "Lago Skadar",
+        "Atracciones": "Parque Nacional del Lago Skadar",
+        "Actividades": "Tours en barco para observación de aves",
+        "Lugares históricos y monumentos": "Monasterio de Vranjina",
+        "Gastronomía": "Prosciutto (Njeguški), Pastel Negro, Sopa de Pescado, Burek"
+      }
+    ],
+    "Parques y espacios verdes": [
+      "Bahía de Kotor (fiordo natural)",
+      "Isla Sveti Nikola",
+      "Parque Nacional Durmitor y Lago Negro",
+      "Vistas montañosas de la bahía",
+      "Parque Savina y Península de Luštica",
+      "Gran lago y reserva de aves",
+      "Parque Nacional Lovćen",
+      "Gran Parque de la Ciudad (Veliki Gradski Park)",
+      "Biogradska Gora (bosque primigenio)",
+      "Parque Nacional del Lago Skadar"
+    ]
+  },
+  {
+    "País": "Birmania (Myanmar)",
+    "Región": "Asia (Sudeste)",
+    "Descripción": "Un país del Sudeste Asiático, famoso por sus antiguos templos, impresionante naturaleza y cultura única.",
+    "Ciudades": [
+      {
+        "Ciudad": "Bagan",
+        "Atracciones": "Llanuras de Bagan y orillas del río Ayeyarwady",
+        "Actividades": "Globo aerostático sobre miles de templos antiguos",
+        "Lugares históricos y monumentos": "Templo Ananda, Templo Dhammayangyi",
+        "Gastronomía": "Ensalada de hojas de té (Laphet), Sopa de pescado (Mohinga), Curry birmano, Fideos Shan"
+      },
+      {
+        "Ciudad": "Yangon",
+        "Atracciones": "Lago Kandawgyi y Parque del Pueblo",
+        "Actividades": "Visitar la Pagoda Dorada Shwedagon",
+        "Lugares históricos y monumentos": "Pagoda Shwedagon, Mercado Bogyoke Aung San",
+        "Gastronomía": "Ensalada de hojas de té (Laphet), Sopa de pescado (Mohinga), Curry birmano, Fideos Shan"
+      },
+      {
+        "Ciudad": "Mandalay",
+        "Atracciones": "Colina de Mandalay y vistas panorámicas",
+        "Actividades": "Visitar el Palacio Real y el Puente U Bein",
+        "Lugares históricos y monumentos": "Palacio de Mandalay, Puente U Bein",
+        "Gastronomía": "Ensalada de hojas de té (Laphet), Sopa de pescado (Mohinga), Curry birmano, Fideos Shan"
+      },
+      {
+        "Ciudad": "Lago Inle",
+        "Atracciones": "Santuario de Humedales del Lago Inle",
+        "Actividades": "Observar pescadores tradicionales y jardines flotantes",
+        "Lugares históricos y monumentos": "Pagoda Phaung Daw Oo",
+        "Gastronomía": "Ensalada de hojas de té (Laphet), Sopa de pescado (Mohinga), Curry birmano, Fideos Shan"
+      },
+      {
+        "Ciudad": "Naypyidaw",
+        "Atracciones": "Jardín Herbal Nacional y Parque de Fuentes",
+        "Actividades": "Visitar la Pagoda Uppatasanti (la capital)",
+        "Lugares históricos y monumentos": "Pagoda Uppatasanti",
+        "Gastronomía": "Ensalada de hojas de té (Laphet), Sopa de pescado (Mohinga), Curry birmano, Fideos Shan"
+      },
+      {
+        "Ciudad": "Ngapali",
+        "Atracciones": "Playa Ngapali y palmeras",
+        "Actividades": "Relajarse en playas vírgenes",
+        "Lugares históricos y monumentos": "Playa Ngapali",
+        "Gastronomía": "Ensalada de hojas de té (Laphet), Sopa de pescado (Mohinga), Curry birmano, Fideos Shan"
+      },
+      {
+        "Ciudad": "Hpa-An",
+        "Atracciones": "Arrozales y montañas kársticas",
+        "Actividades": "Explorar la Cueva Saddan y la Montaña Zwegabin",
+        "Lugares históricos y monumentos": "Cuevas Saddan",
+        "Gastronomía": "Ensalada de hojas de té (Laphet), Sopa de pescado (Mohinga), Curry birmano, Fideos Shan"
+      },
+      {
+        "Ciudad": "Kalaw",
+        "Atracciones": "Bosques de pinos y colinas verdes",
+        "Actividades": "Senderismo entre aldeas y tribus",
+        "Lugares históricos y monumentos": "Aldeas tribales",
+        "Gastronomía": "Ensalada de hojas de té (Laphet), Sopa de pescado (Mohinga), Curry birmano, Fideos Shan"
+      },
+      {
+        "Ciudad": "Pyin Oo Lwin",
+        "Atracciones": "Jardines Nacionales Kandawgyi",
+        "Actividades": "Paseos en coche de caballos y visita a cataratas",
+        "Lugares históricos y monumentos": "Cataratas de Pyin Oo Lwin",
+        "Gastronomía": "Ensalada de hojas de té (Laphet), Sopa de pescado (Mohinga), Curry birmano, Fideos Shan"
+      },
+      {
+        "Ciudad": "Mrauk U",
+        "Atracciones": "Colinas del Estado Rakhine",
+        "Actividades": "Explorar antiguos templos de piedra",
+        "Lugares históricos y monumentos": "Templos de Mrauk U",
+        "Gastronomía": "Ensalada de hojas de té (Laphet), Sopa de pescado (Mohinga), Curry birmano, Fideos Shan"
+      }
+    ],
+    "Parques y espacios verdes": [
+      "Llanuras de Bagan y orillas del río Ayeyarwady",
+      "Lago Kandawgyi y Parque del Pueblo",
+      "Colina de Mandalay y vistas panorámicas",
+      "Santuario de Humedales del Lago Inle",
+      "Jardín Herbal Nacional y Parque de Fuentes",
+      "Playa Ngapali y palmeras",
+      "Arrozales y montañas kársticas",
+      "Bosques de pinos y colinas verdes",
+      "Jardines Nacionales Kandawgyi",
+      "Colinas del Estado Rakhine"
+    ]
+  },
+  {
+    "País": "México",
+    "Región": "América del Norte",
+    "Descripción": "Un país de América del Norte, famoso por su rica historia, vibrante cultura y hermosas playas.",
+    "Ciudades": [
+      {
+        "Ciudad": "Ciudad de México",
+        "Atracciones": "Bosque de Chapultepec (parque urbano más grande)",
+        "Actividades": "Visitar el Museo Frida Kahlo y el centro de la ciudad",
+        "Lugares históricos y monumentos": "Zócalo, Museo de Antropología",
+        "Gastronomía": "Tacos, Mole (salsa de chocolate y especias), Tachiladas, Guacamole, Tamales"
+      },
+      {
+        "Ciudad": "Cancún",
+        "Atracciones": "Playas del Caribe y parques Xcaret",
+        "Actividades": "Disfrutar de playas y vida nocturna",
+        "Lugares históricos y monumentos": "Ruinas de Chichén Itzá, ruinas de Tulum",
+        "Gastronomía": "Tacos, Mole (salsa de chocolate y especias), Tachiladas, Guacamole, Tamales"
+      },
+      {
+        "Ciudad": "Tulum",
+        "Atracciones": "Reserva de la Biosfera de Sian Ka'an",
+        "Actividades": "Visitar ruinas mayas costeras",
+        "Lugares históricos y monumentos": "Ruinas de Tulum",
+        "Gastronomía": "Tacos, Mole (salsa de chocolate y especias), Tachiladas, Guacamole, Tamales"
+      },
+      {
+        "Ciudad": "Oaxaca",
+        "Atracciones": "Cataratas petrificadas de Hierve el Agua",
+        "Actividades": "Probar comida tradicional y visitar mercados",
+        "Lugares históricos y monumentos": "Sitio arqueológico de Monte Albán",
+        "Gastronomía": "Tacos, Mole (salsa de chocolate y especias), Tachiladas, Guacamole, Tamales"
+      },
+      {
+        "Ciudad": "Guadalajara",
+        "Atracciones": "Bosque La Primavera y Lago de Chapala",
+        "Actividades": "Escuchar música mariachi y visitar Tequila",
+        "Lugares históricos y monumentos": "Centro Histórico de Guadalajara",
+        "Gastronomía": "Tacos, Mole (salsa de chocolate y especias), Tachiladas, Guacamole, Tamales"
+      },
+      {
+        "Ciudad": "Playa del Carmen",
+        "Atracciones": "Cenotes (sumideros de agua)",
+        "Actividades": "Pasear por la Quinta Avenida y buceo",
+        "Lugares históricos y monumentos": "Playa de Playa del Carmen",
+        "Gastronomía": "Tacos, Mole (salsa de chocolate y especias), Tachiladas, Guacamole, Tamales"
+      },
+      {
+        "Ciudad": "Cabo San Lucas",
+        "Atracciones": "Formación rocosa El Arco y playas",
+        "Actividades": "Observación de ballenas y viajes en barco",
+        "Lugares históricos y monumentos": "Formación rocosa El Arco",
+        "Gastronomía": "Tacos, Mole (salsa de chocolate y especias), Tachiladas, Guacamole, Tamales"
+      },
+      {
+        "Ciudad": "Mérida",
+        "Atracciones": "Reserva de Celestún (flamencos)",
+        "Actividades": "Explorar la cultura maya colonial",
+        "Lugares históricos y monumentos": "Catedral de Mérida",
+        "Gastronomía": "Tacos, Mole (salsa de chocolate y especias), Tachiladas, Guacamole, Tamales"
+      },
+      {
+        "Ciudad": "Puerto Vallarta",
+        "Atracciones": "Jardines Botánicos y montañas de la Sierra Madre",
+        "Actividades": "Pasear por el Malecón (paseo marítimo)",
+        "Lugares históricos y monumentos": "Iglesia de Nuestra Señora de Guadalupe",
+        "Gastronomía": "Tacos, Mole (salsa de chocolate y especias), Tachiladas, Guacamole, Tamales"
+      },
+      {
+        "Ciudad": "San Miguel de Allende",
+        "Atracciones": "Jardín Botánico El Charco del Ingenio",
+        "Actividades": "Pasear por calles coloridas e iglesias",
+        "Lugares históricos y monumentos": "Iglesia de San Miguel",
+        "Gastronomía": "Tacos, Mole (salsa de chocolate y especias), Tachiladas, Guacamole, Tamales"
+      }
+    ],
+    "Parques y espacios verdes": [
+      "Bosque de Chapultepec (parque urbano más grande)",
+      "Playas del Caribe y parques Xcaret",
+      "Reserva de la Biosfera de Sian Ka'an",
+      "Cataratas petrificadas de Hierve el Agua",
+      "Bosque La Primavera y Lago de Chapala",
+      "Cenotes (sumideros de agua)",
+      "Formación rocosa El Arco y playas",
+      "Reserva de Celestún (flamencos)",
+      "Jardines Botánicos y montañas de la Sierra Madre",
+      "Jardín Botánico El Charco del Ingenio"
+    ]
+  },
+  {
+    "País": "Micronesia",
+    "Región": "Oceanía",
+    "Descripción": "Una nación insular en el oeste del Océano Pacífico, que consiste en miles de pequeñas islas, famosa por sus arrecifes de coral y cultura tradicional.",
+    "Ciudades": [
+      {
+        "Ciudad": "Palikir (Pohnpei)",
+        "Atracciones": "Cataratas Kepirohi y montañas verdes",
+        "Actividades": "Visitar Nan Madol (Venecia del Pacífico)",
+        "Lugares históricos y monumentos": "Nan Madol (sitio de la UNESCO)",
+        "Gastronomía": "Pescado crudo con coco, Taro (taro), Fruta del pan, Pollo micronésico"
+      },
+      {
+        "Ciudad": "Colonia (Yap)",
+        "Atracciones": "Bosques de mangle y playas",
+        "Actividades": "Ver dinero de piedra gigante y bucear con mantarrayas",
+        "Lugares históricos y monumentos": "Dinero de piedra gigante",
+        "Gastronomía": "Pescado crudo con coco, Taro (taro), Fruta del pan, Pollo micronésico"
+      },
+      {
+        "Ciudad": "Laguna de Chuuk",
+        "Atracciones": "Islas tropicales deshabitadas",
+        "Actividades": "Bucear para explorar naufragios de barcos de guerra (mejor del mundo)",
+        "Lugares históricos y monumentos": "Naufragios de barcos de guerra",
+        "Gastronomía": "Pescado crudo con coco, Taro (taro), Fruta del pan, Pollo micronésico"
+      },
+      {
+        "Ciudad": "Kosrae",
+        "Atracciones": "Monte Finkol y jardines de coral",
+        "Actividades": "Explorar bosques de mangle en barco",
+        "Lugares históricos y monumentos": "Sitio arqueológico de Lelu",
+        "Gastronomía": "Pescado crudo con coco, Taro (taro), Fruta del pan, Pollo micronésico"
+      },
+      {
+        "Ciudad": "Isla Lelu",
+        "Atracciones": "Paisaje costero volcánico",
+        "Actividades": "Visitar ruinas antiguas de Lelu",
+        "Lugares históricos y monumentos": "Ruinas Antiguas de Lelu",
+        "Gastronomía": "Pescado crudo con coco, Taro (taro), Fruta del pan, Pollo micronésico"
+      },
+      {
+        "Ciudad": "Atolón Ant",
+        "Atracciones": "Reserva de la Biosfera de la UNESCO",
+        "Actividades": "Nadar y bucear en aguas claras",
+        "Lugares históricos y monumentos": "Reserva de la Biosfera de la UNESCO",
+        "Gastronomía": "Pescado crudo con coco, Taro (taro), Fruta del pan, Pollo micronésico"
+      },
+      {
+        "Ciudad": "Jabor",
+        "Atracciones": "Playas de arena blanca",
+        "Actividades": "Experimentar la vida tradicional en la isla",
+        "Lugares históricos y monumentos": "Aldea tradicional de Jabor",
+        "Gastronomía": "Pescado crudo con coco, Taro (taro), Fruta del pan, Pollo micronésico"
+      },
+      {
+        "Ciudad": "Mokil",
+        "Atracciones": "Lago costero turquesa",
+        "Actividades": "Pesca y vida sencilla",
+        "Lugares históricos y monumentos": "Lago Mokil",
+        "Gastronomía": "Pescado crudo con coco, Taro (taro), Fruta del pan, Pollo micronésico"
+      },
+      {
+        "Ciudad": "Pingelap",
+        "Atracciones": "Arrecifes de coral vírgenes",
+        "Actividades": "Aprender sobre el fenómeno de daltonismo de la isla",
+        "Lugares históricos y monumentos": "Arrecife de Coral de Pingelap",
+        "Gastronomía": "Pescado crudo con coco, Taro (taro), Fruta del pan, Pollo micronésico"
+      },
+      {
+        "Ciudad": "Nukuoro",
+        "Atracciones": "Bosques tropicales densos",
+        "Actividades": "Relajación completa lejos del mundo",
+        "Lugares históricos y monumentos": "Bosques tropicales de Nukuoro",
+        "Gastronomía": "Pescado crudo con coco, Taro (taro), Fruta del pan, Pollo micronésico"
+      }
+    ],
+    "Parques y espacios verdes": [
+      "Cataratas Kepirohi y montañas verdes",
+      "Bosques de mangle y playas",
+      "Islas tropicales deshabitadas",
+      "Monte Finkol y jardines de coral",
+      "Paisaje costero volcánico",
+      "Reserva de la Biosfera de la UNESCO",
+      "Playas de arena blanca",
+      "Lago costero turquesa",
+      "Arrecifes de coral vírgenes",
+      "Bosques tropicales densos"
+    ]
+  },
+  {
+    "País": "Namibia",
+    "Región": "África (Suroeste)",
+    "Descripción": "Un país del suroeste de África, famoso por sus vastos desiertos, playas y parques nacionales.",
+    "Ciudades": [
+      {
+        "Ciudad": "Windhoek",
+        "Atracciones": "Jardines del Parlamento y Parque Zoológico",
+        "Actividades": "Visitar Christuskirche y el Museo Nacional",
+        "Lugares históricos y monumentos": "Christuskirche, Alte Feste (Christuskirche)",
+        "Gastronomía": "Carne de oryx, Kapana (carne asada callejera), Tarta de leche, Pasteles ricos"
+      },
+      {
+        "Ciudad": "Swakopmund",
+        "Atracciones": "Desierto circundante y playa",
+        "Actividades": "Sandboard y paracaidismo",
+        "Lugares históricos y monumentos": "Puerto de Swakopmund, Estación de tren",
+        "Gastronomía": "Carne de oryx, Kapana (carne asada callejera), Tarta de leche, Pasteles ricos"
+      },
+      {
+        "Ciudad": "Parque Nacional Etosha",
+        "Atracciones": "Salinas y abrevaderos",
+        "Actividades": "Safari para ver rinocerontes y leones",
+        "Lugares históricos y monumentos": "Parque Nacional Etosha",
+        "Gastronomía": "Carne de oryx, Kapana (carne asada callejera), Tarta de leche, Pasteles ricos"
+      },
+      {
+        "Ciudad": "Sossusvlei",
+        "Atracciones": "Deadvlei y árboles petrificados",
+        "Actividades": "Escalar las dunas de arena roja (Big Daddy)",
+        "Lugares históricos y monumentos": "Deadvlei",
+        "Gastronomía": "Carne de oryx, Kapana (carne asada callejera), Tarta de leche, Pasteles ricos"
+      },
+      {
+        "Ciudad": "Walvis Bay",
+        "Atracciones": "Laguna costera y dunas de Sandwich Harbor",
+        "Actividades": "Observar flamencos y kayak",
+        "Lugares históricos y monumentos": "Puerto de Walvis Bay",
+        "Gastronomía": "Carne de oryx, Kapana (carne asada callejera), Tarta de leche, Pasteles ricos"
+      },
+      {
+        "Ciudad": "Lüderitz",
+        "Atracciones": "Costa rocosa y vientos fuertes",
+        "Actividades": "Visitar la ciudad fantasma de Kolmanskop",
+        "Lugares históricos y monumentos": "Ciudad Fantasma de Kolmanskop",
+        "Gastronomía": "Carne de oryx, Kapana (carne asada callejera), Tarta de leche, Pasteles ricos"
+      },
+      {
+        "Ciudad": "Cañón del Río Fish",
+        "Atracciones": "Formaciones rocosas del valle",
+        "Actividades": "Senderismo (segundo cañón más grande del mundo)",
+        "Lugares históricos y monumentos": "Cañón del Río Fish",
+        "Gastronomía": "Carne de oryx, Kapana (carne asada callejera), Tarta de leche, Pasteles ricos"
+      },
+      {
+        "Ciudad": "Damaraland",
+        "Atracciones": "Montaña Brandberg (la más alta de Namibia)",
+        "Actividades": "Ver elefantes del desierto y grabados rupestres",
+        "Lugares históricos y monumentos": "Montaña Brandberg, Grabados Rupestres",
+        "Gastronomía": "Carne de oryx, Kapana (carne asada callejera), Tarta de leche, Pasteles ricos"
+      },
+      {
+        "Ciudad": "Franja de Caprivi",
+        "Atracciones": "Ríos verdes y bosques (diferente del resto del desierto)",
+        "Actividades": "Viajes en barco por el río",
+        "Lugares históricos y monumentos": "Ríos de Caprivi",
+        "Gastronomía": "Carne de oryx, Kapana (carne asada callejera), Tarta de leche, Pasteles ricos"
+      },
+      {
+        "Ciudad": "Kaokoland",
+        "Atracciones": "Cataratas Epupa en la frontera",
+        "Actividades": "Conocer tribus Himba",
+        "Lugares históricos y monumentos": "Cataratas Epupa",
+        "Gastronomía": "Carne de oryx, Kapana (carne asada callejera), Tarta de leche, Pasteles ricos"
+      }
+    ],
+    "Parques y espacios verdes": [
+      "Jardines del Parlamento y Parque Zoológico",
+      "Desierto circundante y playa",
+      "Salinas y abrevaderos",
+      "Deadvlei y árboles petrificados",
+      "Laguna costera y dunas de Sandwich Harbor",
+      "Costa rocosa y vientos fuertes",
+      "Formaciones rocosas del valle",
+      "Montaña Brandberg (la más alta de Namibia)",
+      "Ríos verdes y bosques (diferente del resto del desierto)",
+      "Cataratas Epupa en la frontera"
+    ]
+  },
+  {
+    "País": "Nauru",
+    "Región": "Oceanía",
+    "Descripción": "Una pequeña isla en el Océano Pacífico, la nación insular más pequeña del mundo, famosa por sus minas de fosfato.",
+    "Ciudades": [
+      {
+        "Ciudad": "Yaren (Capital)",
+        "Atracciones": "Pozo Moqua",
+        "Actividades": "Visitar el edificio del Parlamento y restos de la Segunda Guerra Mundial",
+        "Lugares históricos y monumentos": "Edificio del Parlamento, Museo de Nauru",
+        "Gastronomía": "Pescado de coco, cerdo a la parrilla, platos chinos ampliamente disponibles"
+      },
+      {
+        "Ciudad": "Anibare",
+        "Atracciones": "Bahía de Anibare y vistas al mar",
+        "Actividades": "Nadar en la bahía de Anibare (mejor playa)",
+        "Lugares históricos y monumentos": "Bahía de Anibare",
+        "Gastronomía": "Pescado de coco, cerdo a la parrilla, platos chinos ampliamente disponibles"
+      },
+      {
+        "Ciudad": "Buada",
+        "Atracciones": "Laguna de Buada y vegetación tropical circundante",
+        "Actividades": "Caminar alrededor de la Laguna de Buada (agua dulce)",
+        "Lugares históricos y monumentos": "Laguna de Buada",
+        "Gastronomía": "Pescado de coco, cerdo a la parrilla, platos chinos ampliamente disponibles"
+      },
+      {
+        "Ciudad": "Meneng",
+        "Atracciones": "Arrecifes de coral costeros",
+        "Actividades": "Visitar el Hotel Meneng y sitios costeros",
+        "Lugares históricos y monumentos": "Hotel Meneng",
+        "Gastronomía": "Pescado de coco, cerdo a la parrilla, platos chinos ampliamente disponibles"
+      },
+      {
+        "Ciudad": "Meseta Central",
+        "Atracciones": "Extraño terreno de pináculos de piedra caliza",
+        "Actividades": "Explorar rastros de minería de fosfato (superficie lunar)",
+        "Lugares históricos y monumentos": "Minas de Fosfato",
+        "Gastronomía": "Pescado de coco, cerdo a la parrilla, platos chinos ampliamente disponibles"
+      },
+      {
+        "Ciudad": "Ijuw",
+        "Atracciones": "Colinas y tierras altas",
+        "Actividades": "Ver monumentos de guerra",
+        "Lugares históricos y monumentos": "Monumentos de Guerra",
+        "Gastronomía": "Pescado de coco, cerdo a la parrilla, platos chinos ampliamente disponibles"
+      },
+      {
+        "Ciudad": "Aiwo",
+        "Atracciones": "Franja costera oeste",
+        "Actividades": "Observar el puerto industrial y el movimiento de fosfato",
+        "Lugares históricos y monumentos": "Puerto Industrial",
+        "Gastronomía": "Pescado de coco, cerdo a la parrilla, platos chinos ampliamente disponibles"
+      },
+      {
+        "Ciudad": "Anetan",
+        "Atracciones": "Playas rocosas",
+        "Actividades": "Visitar sitios históricos locales",
+        "Lugares históricos y monumentos": "Sitios Históricos Locales",
+        "Gastronomía": "Pescado de coco, cerdo a la parrilla, platos chinos ampliamente disponibles"
+      },
+      {
+        "Ciudad": "Baiti",
+        "Atracciones": "Áreas verdes recuperadas",
+        "Actividades": "Explorar pequeñas aldeas locales",
+        "Lugares históricos y monumentos": "Pequeñas Aldeas Locales",
+        "Gastronomía": "Pescado de coco, cerdo a la parrilla, platos chinos ampliamente disponibles"
+      },
+      {
+        "Ciudad": "Nibok",
+        "Atracciones": "Vegetación dispersa entre rocas",
+        "Actividades": "Observar antiguas operaciones mineras",
+        "Lugares históricos y monumentos": "Antiguas Operaciones Mineras",
+        "Gastronomía": "Pescado de coco, cerdo a la parrilla, platos chinos ampliamente disponibles"
+      }
+    ],
+    "Parques y espacios verdes": [
+      "Pozo Moqua",
+      "Bahía de Anibare y vistas al mar",
+      "Laguna de Buada y vegetación tropical circundante",
+      "Arrecifes de coral costeros",
+      "Extraño terreno de pináculos de piedra caliza",
+      "Colinas y tierras altas",
+      "Franja costera oeste",
+      "Playas rocosas",
+      "Áreas verdes recuperadas",
+      "Vegetación dispersa entre rocas"
+    ]
+  },
+  {
+    "País": "Noruega",
+    "Región": "Europa (Norte)",
+    "Descripción": "Un país escandinavo, famoso por sus impresionantes fiordos, auroras boreales e históricas ciudades.",
+    "Ciudades": [
+      {
+        "Ciudad": "Oslo",
+        "Atracciones": "Parque de Esculturas Vigeland y bosques circundantes",
+        "Actividades": "Museo de Barcos Vikingos y Casa de la Ópera",
+        "Lugares históricos y monumentos": "Palacio Real, Museo de Arte Moderno",
+        "Gastronomía": "Salmón, Fårikål (cordero), Brunost (queso marrón), Gofres noruegos"
+      },
+      {
+        "Ciudad": "Bergen",
+        "Atracciones": "Siete montañas circundantes (Monte Fløyen)",
+        "Actividades": "Visitar el Muelle Hanseático de Bryggen y el mercado de pescado",
+        "Lugares históricos y monumentos": "Muelle Hanseático de Bryggen (sitio de la UNESCO)",
+        "Gastronomía": "Salmón, Fårikål (cordero), Brunost (queso marrón), Gofres noruegos"
+      },
+      {
+        "Ciudad": "Tromsø",
+        "Atracciones": "Montañas polares y fiordos del norte",
+        "Actividades": "Caza de auroras boreales y trineo",
+        "Lugares históricos y monumentos": "Catedral Ártica",
+        "Gastronomía": "Salmón, Fårikål (cordero), Brunost (queso marrón), Gofres noruegos"
+      },
+      {
+        "Ciudad": "Stavanger",
+        "Atracciones": "Fiordo de Lyse",
+        "Actividades": "Escalar la Roca del Púlpito",
+        "Lugares históricos y monumentos": "Catedral de Stavanger",
+        "Gastronomía": "Salmón, Fårikål (cordero), Brunost (queso marrón), Gofres noruegos"
+      },
+      {
+        "Ciudad": "Trondheim",
+        "Atracciones": "Río Nidelva y colinas verdes",
+        "Actividades": "Visitar la Catedral de Nidaros",
+        "Lugares históricos y monumentos": "Catedral de Nidaros",
+        "Gastronomía": "Salmón, Fårikål (cordero), Brunost (queso marrón), Gofres noruegos"
+      },
+      {
+        "Ciudad": "Ålesund",
+        "Atracciones": "Monte Aksla y vistas panorámicas",
+        "Actividades": "Observar la arquitectura Art Nouveau",
+        "Lugares históricos y monumentos": "Puerto de Ålesund",
+        "Gastronomía": "Salmón, Fårikål (cordero), Brunost (queso marrón), Gofres noruegos"
+      },
+      {
+        "Ciudad": "Islas Lofoten",
+        "Atracciones": "Montañas que se sumergen en el mar",
+        "Actividades": "Fotografía y pesca en aldeas pesqueras",
+        "Lugares históricos y monumentos": "Aldeas pesqueras tradicionales",
+        "Gastronomía": "Salmón, Fårikål (cordero), Brunost (queso marrón), Gofres noruegos"
+      },
+      {
+        "Ciudad": "Geiranger",
+        "Atracciones": "Cataratas de las Siete Hermanas",
+        "Actividades": "Crucero marítimo en el fiordo más hermoso del mundo (UNESCO)",
+        "Lugares históricos y monumentos": "Iglesia de Madera de Geiranger",
+        "Gastronomía": "Salmón, Fårikål (cordero), Brunost (queso marrón), Gofres noruegos"
+      },
+      {
+        "Ciudad": "Flåm",
+        "Atracciones": "Valle de Flåm y Fiordo de Aurlandsfjord",
+        "Actividades": "Viajar en el Ferrocarril de Flåm",
+        "Lugares históricos y monumentos": "Valle de Flåm",
+        "Gastronomía": "Salmón, Fårikål (cordero), Brunost (queso marrón), Gofres noruegos"
+      },
+      {
+        "Ciudad": "Svalbard",
+        "Atracciones": "Glaciares y tundra polar",
+        "Actividades": "Viajes para ver osos polares y cuevas de hielo",
+        "Lugares históricos y monumentos": "Ciudad de Longyearbyen",
+        "Gastronomía": "Salmón, Fårikål (cordero), Brunost (queso marrón), Gofres noruegos"
+      }
+    ],
+    "Parques y espacios verdes": [
+      "Parque de Esculturas Vigeland y bosques circundantes",
+      "Siete montañas circundantes (Monte Fløyen)",
+      "Montañas polares y fiordos del norte",
+      "Fiordo de Lyse",
+      "Río Nidelva y colinas verdes",
+      "Monte Aksla y vistas panorámicas",
+      "Montañas que se sumergen en el mar",
+      "Cataratas de las Siete Hermanas",
+      "Valle de Flåm y Fiordo de Aurlandsfjord",
+      "Glaciares y tundra polar"
+    ]
+  },
+  {
+    "País": "Austria",
+    "Región": "Europa (Central)",
+    "Descripción": "Un país centroeuropeo, famoso por sus Alpes, ciudades históricas y música clásica.",
+    "Ciudades": [
+      {
+        "Ciudad": "Viena",
+        "Atracciones": "Parque Prater y Bosques de Viena",
+        "Actividades": "Visitar el Palacio de Schönbrunn y la Ópera",
+        "Lugares históricos y monumentos": "Palacio de Schönbrunn, Casa de la Ópera",
+        "Gastronomía": "Wiener Schnitzel, Strudel de Manzana, Sachertorte, Ensalada de Patata"
+      },
+      {
+        "Ciudad": "Salzburgo",
+        "Atracciones": "Jardines de Mirabell y Alpes circundantes",
+        "Actividades": "Visitar la Fortaleza de Hohensalzburg y el lugar de nacimiento de Mozart",
+        "Lugares históricos y monumentos": "Fortaleza de Hohensalzburg, Casa Natal de Mozart",
+        "Gastronomía": "Wiener Schnitzel, Strudel de Manzana, Sachertorte, Ensalada de Patata"
+      },
+      {
+        "Ciudad": "Innsbruck",
+        "Atracciones": "Montañas Nordkette (acceso por teleférico)",
+        "Actividades": "Esquiar y visitar el Techo Dorado",
+        "Lugares históricos y monumentos": "Techo Dorado, Catedral de Innsbruck",
+        "Gastronomía": "Wiener Schnitzel, Strudel de Manzana, Sachertorte, Ensalada de Patata"
+      },
+      {
+        "Ciudad": "Hallstatt",
+        "Atracciones": "Lago de Hallstatt y altas montañas",
+        "Actividades": "Visitar la mina de sal y el pueblo pintoresco",
+        "Lugares históricos y monumentos": "Mina de Sal",
+        "Gastronomía": "Wiener Schnitzel, Strudel de Manzana, Sachertorte, Ensalada de Patata"
+      },
+      {
+        "Ciudad": "Graz",
+        "Atracciones": "Colina Schlossberg y jardines",
+        "Actividades": "Visitar la torre del reloj y la isla artificial",
+        "Lugares históricos y monumentos": "Torre del Reloj, Isla Artificial",
+        "Gastronomía": "Wiener Schnitzel, Strudel de Manzana, Sachertorte, Ensalada de Patata"
+      },
+      {
+        "Ciudad": "Zell am See",
+        "Atracciones": "Lago Zell y Montaña Schmittenhöhe",
+        "Actividades": "Nadar en el lago y patinar sobre hielo",
+        "Lugares históricos y monumentos": "Iglesia de Zell",
+        "Gastronomía": "Wiener Schnitzel, Strudel de Manzana, Sachertorte, Ensalada de Patata"
+      },
+      {
+        "Ciudad": "Linz",
+        "Atracciones": "Orillas del río Danubio y jardines botánicos",
+        "Actividades": "Visitar el museo electrónico Ars Electronica",
+        "Lugares históricos y monumentos": "Catedral de María",
+        "Gastronomía": "Wiener Schnitzel, Strudel de Manzana, Sachertorte, Ensalada de Patata"
+      },
+      {
+        "Ciudad": "Bad Gastein",
+        "Atracciones": "Catarata Gastein en el centro de la ciudad y parque nacional",
+        "Actividades": "Relajarse en aguas termales y cataratas",
+        "Lugares históricos y monumentos": "Catarata Gastein",
+        "Gastronomía": "Wiener Schnitzel, Strudel de Manzana, Sachertorte, Ensalada de Patata"
+      },
+      {
+        "Ciudad": "Valle de Wachau",
+        "Atracciones": "Río Danubio y colinas verdes",
+        "Actividades": "Cruceros por el río y visitas a viñedos",
+        "Lugares históricos y monumentos": "Viñedos",
+        "Gastronomía": "Wiener Schnitzel, Strudel de Manzana, Sachertorte, Ensalada de Patata"
+      },
+      {
+        "Ciudad": "Villach",
+        "Atracciones": "Parque Natural Dobratsch",
+        "Actividades": "Disfrutar de lagos cálidos en el sur",
+        "Lugares históricos y monumentos": "Lagos de Carintia",
+        "Gastronomía": "Wiener Schnitzel, Strudel de Manzana, Sachertorte, Ensalada de Patata"
+      }
+    ],
+    "Parques y espacios verdes": [
+      "Parque Prater y Bosques de Viena",
+      "Jardines de Mirabell y Alpes circundantes",
+      "Montañas Nordkette (acceso por teleférico)",
+      "Lago de Hallstatt y altas montañas",
+      "Colina Schlossberg y jardines",
+      "Lago Zell y Montaña Schmittenhöhe",
+      "Orillas del río Danubio y jardines botánicos",
+      "Catarata Gastein en el centro de la ciudad y parque nacional",
+      "Río Danubio y colinas verdes",
+      "Parque Natural Dobratsch"
+    ]
+  },
+  {
+    "País": "Níger",
+    "Región": "África (Oeste)",
+    "Descripción": "Un país sin litoral del África Occidental, famoso por sus desiertos, oasis y cultura tradicional.",
+    "Ciudades": [
+      {
+        "Ciudad": "Niamey",
+        "Atracciones": "Orillas del río Níger y bosque del Cinturón Verde",
+        "Actividades": "Visitar el Museo Nacional y el zoológico",
+        "Lugares históricos y monumentos": "Museo Nacional, Gran Mercado",
+        "Gastronomía": "Arroz Jollof, Domba (carne y masa), Cuscús nigeriano, Kilishi (carne seca)"
+      },
+      {
+        "Ciudad": "Agadez",
+        "Atracciones": "Montañas del Aire",
+        "Actividades": "Ver la Gran Mezquita de Barro y puerta del desierto",
+        "Lugares históricos y monumentos": "Gran Mezquita de Barro",
+        "Gastronomía": "Arroz Jollof, Domba (carne y masa), Cuscús nigeriano, Kilishi (carne seca)"
+      },
+      {
+        "Ciudad": "Zinder",
+        "Atracciones": "Formaciones rocosas circundantes",
+        "Actividades": "Explorar la arquitectura tradicional hausa",
+        "Lugares históricos y monumentos": "Gran Mezquita, Sultanato de Zinder",
+        "Gastronomía": "Arroz Jollof, Domba (carne y masa), Cuscús nigeriano, Kilishi (carne seca)"
+      },
+      {
+        "Ciudad": "Parque Nacional W",
+        "Atracciones": "Reserva natural transfronteriza (UNESCO)",
+        "Actividades": "Safari para ver vida silvestre",
+        "Lugares históricos y monumentos": "Parque Nacional W",
+        "Gastronomía": "Arroz Jollof, Domba (carne y masa), Cuscús nigeriano, Kilishi (carne seca)"
+      },
+      {
+        "Ciudad": "Arlit",
+        "Atracciones": "Vastas dunas de arena",
+        "Actividades": "Puerta de entrada al Desierto de Ténéré",
+        "Lugares históricos y monumentos": "Desierto de Ténéré",
+        "Gastronomía": "Arroz Jollof, Domba (carne y masa), Cuscús nigeriano, Kilishi (carne seca)"
+      },
+      {
+        "Ciudad": "Dosso",
+        "Atracciones": "Áreas de sabana y bosques",
+        "Actividades": "Centro cultural y reino tradicional",
+        "Lugares históricos y monumentos": "Reino Tradicional de Dosso",
+        "Gastronomía": "Arroz Jollof, Domba (carne y masa), Cuscús nigeriano, Kilishi (carne seca)"
+      },
+      {
+        "Ciudad": "Ayoro",
+        "Atracciones": "Islas del río Níger",
+        "Actividades": "Mercado de ganado y viajes fluviales para ver hipopótamos",
+        "Lugares históricos y monumentos": "Mercado de Ganado",
+        "Gastronomía": "Arroz Jollof, Domba (carne y masa), Cuscús nigeriano, Kilishi (carne seca)"
+      },
+      {
+        "Ciudad": "Maradi",
+        "Atracciones": "Bosques y granjas circundantes",
+        "Actividades": "Centro económico y agrícola",
+        "Lugares históricos y monumentos": "Mercado de Maradi",
+        "Gastronomía": "Arroz Jollof, Domba (carne y masa), Cuscús nigeriano, Kilishi (carne seca)"
+      },
+      {
+        "Ciudad": "Kouré",
+        "Atracciones": "Arbustos de acacia y llanuras",
+        "Actividades": "Ver las últimas manadas de jirafas del África Occidental",
+        "Lugares históricos y monumentos": "Reserva de Kouré",
+        "Gastronomía": "Arroz Jollof, Domba (carne y masa), Cuscús nigeriano, Kilishi (carne seca)"
+      },
+      {
+        "Ciudad": "Bilma",
+        "Atracciones": "Oasis de Bilma y Grandes Dunas de Arena",
+        "Actividades": "Observar caravanas tradicionales de sal",
+        "Lugares históricos y monumentos": "Oasis de Bilma",
+        "Gastronomía": "Arroz Jollof, Domba (carne y masa), Cuscús nigeriano, Kilishi (carne seca)"
+      }
+    ],
+    "Parques y espacios verdes": [
+      "Orillas del río Níger y bosque del Cinturón Verde",
+      "Montañas del Aire",
+      "Formaciones rocosas circundantes",
+      "Reserva natural transfronteriza (UNESCO)",
+      "Vastas dunas de arena",
+      "Áreas de sabana y bosques",
+      "Islas del río Níger",
+      "Bosques y granjas circundantes",
+      "Arbustos de acacia y llanuras",
+      "Oasis de Bilma y Grandes Dunas de Arena"
+    ]
+  },
+  {
+    "País": "Nigeria",
+    "Región": "África (Oeste)",
+    "Descripción": "Un país del África Occidental, famoso por su industria petrolera, diversidad cultural y vibrantes ciudades.",
+    "Ciudades": [
+      {
+        "Ciudad": "Lagos",
+        "Atracciones": "Playa Tarkwa Bay y Centro de Conservación de Lekki",
+        "Actividades": "Centro de Conservación de Lekki y Paseo Elevado",
+        "Lugares históricos y monumentos": "Isla Victoria, Mercado Africano",
+        "Gastronomía": "Arroz Jollof (Original), Fufu y Sopa Egusi, Suya (carne asada especiada), Ñame Machacado"
+      },
+      {
+        "Ciudad": "Abuya",
+        "Atracciones": "Parque del Milenio",
+        "Actividades": "Escalar la Roca Aso y visitar la Mezquita Nacional",
+        "Lugares históricos y monumentos": "Roca Aso, Mezquita Nacional",
+        "Gastronomía": "Arroz Jollof (Original), Fufu y Sopa Egusi, Suya (carne asada especiada), Ñame Machacado"
+      },
+      {
+        "Ciudad": "Calabar",
+        "Atracciones": "Parque Nacional del Río Cross (gorilas)",
+        "Actividades": "Festival de Calabar y Complejo Turístico de Tinapa",
+        "Lugares históricos y monumentos": "Museo de Calabar",
+        "Gastronomía": "Arroz Jollof (Original), Fufu y Sopa Egusi, Suya (carne asada especiada), Ñame Machacado"
+      },
+      {
+        "Ciudad": "Ibadán",
+        "Atracciones": "Colinas y bosques circundantes",
+        "Actividades": "Visitar los Jardines Agodi y el zoológico",
+        "Lugares históricos y monumentos": "Universidad de Ibadán",
+        "Gastronomía": "Arroz Jollof (Original), Fufu y Sopa Egusi, Suya (carne asada especiada), Ñame Machacado"
+      },
+      {
+        "Ciudad": "Kano",
+        "Atracciones": "Colinas Dala",
+        "Actividades": "Visitar las murallas de la ciudad antigua y pozos de tinte",
+        "Lugares históricos y monumentos": "Murallas de la Ciudad Antigua",
+        "Gastronomía": "Arroz Jollof (Original), Fufu y Sopa Egusi, Suya (carne asada especiada), Ñame Machacado"
+      },
+      {
+        "Ciudad": "Jos",
+        "Atracciones": "Cataratas Assop y Parque de Vida Silvestre",
+        "Actividades": "Disfrutar del clima moderado y museos",
+        "Lugares históricos y monumentos": "Museo Nacional",
+        "Gastronomía": "Arroz Jollof (Original), Fufu y Sopa Egusi, Suya (carne asada especiada), Ñame Machacado"
+      },
+      {
+        "Ciudad": "Enugu",
+        "Atracciones": "Lago Nike y Colinas Mikik",
+        "Actividades": "Festivales de máscaras y colinas de carbón",
+        "Lugares históricos y monumentos": "Palacio de Enugu",
+        "Gastronomía": "Arroz Jollof (Original), Fufu y Sopa Egusi, Suya (carne asada especiada), Ñame Machacado"
+      },
+      {
+        "Ciudad": "Port Harcourt",
+        "Atracciones": "Parque Turístico de Port Harcourt",
+        "Actividades": "Parques turísticos y actividades petroleras",
+        "Lugares históricos y monumentos": "Puerto de Port Harcourt",
+        "Gastronomía": "Arroz Jollof (Original), Fufu y Sopa Egusi, Suya (carne asada especiada), Ñame Machacado"
+      },
+      {
+        "Ciudad": "Osogbo",
+        "Atracciones": "Bosque Sagrado y Río",
+        "Actividades": "Visitar el Bosque Sagrado Osun-Osogbo (UNESCO)",
+        "Lugares históricos y monumentos": "Bosque Sagrado Osun-Osogbo",
+        "Gastronomía": "Arroz Jollof (Original), Fufu y Sopa Egusi, Suya (carne asada especiada), Ñame Machacado"
+      },
+      {
+        "Ciudad": "Yankari",
+        "Atracciones": "Manantiales Termales Wikki y Parque Yankari",
+        "Actividades": "Mejor reserva de safari de Nigeria",
+        "Lugares históricos y monumentos": "Parque Nacional Yankari",
+        "Gastronomía": "Arroz Jollof (Original), Fufu y Sopa Egusi, Suya (carne asada especiada), Ñame Machacado"
+      }
+    ],
+    "Parques y espacios verdes": [
+      "Playa Tarkwa Bay y Centro de Conservación de Lekki",
+      "Parque del Milenio",
+      "Parque Nacional del Río Cross (gorilas)",
+      "Colinas y bosques circundantes",
+      "Colinas Dala",
+      "Cataratas Assop y Parque de Vida Silvestre",
+      "Lago Nike y Colinas Mikik",
+      "Parque Turístico de Port Harcourt",
+      "Bosque Sagrado y Río",
+      "Manantiales Termales Wikki y Parque Yankari"
+    ]
+  },
+  {
+    "País": "Nicaragua",
+    "Región": "América Central",
+    "Descripción": "Un país de América Central, famoso por sus lagos, volcanes y canales.",
+    "Ciudades": [
+      {
+        "Ciudad": "Granada",
+        "Atracciones": "Lago Nicaragua y Volcán Mombacho",
+        "Actividades": "Arquitectura colonial y recorrido por las isletas",
+        "Lugares históricos y monumentos": "Ciudad Antigua, Catedral de Granada",
+        "Gastronomía": "Gallo Pinto (arroz y frijoles), Nacatamal, Vigorón, Queso Frito"
+      },
+      {
+        "Ciudad": "León",
+        "Atracciones": "Cadena Volcánica de Maribios",
+        "Actividades": "Descenso en tabla en el volcán Cerro Negro y catedral",
+        "Lugares históricos y monumentos": "Catedral de León, Museo de Leyendas y Tradiciones",
+        "Gastronomía": "Gallo Pinto (arroz y frijoles), Nacatamal, Vigorón, Queso Frito"
+      },
+      {
+        "Ciudad": "San Juan del Sur",
+        "Atracciones": "Playas y reservas marinas de tortugas",
+        "Actividades": "Surf y vida playera",
+        "Lugares históricos y monumentos": "Reserva La Vista",
+        "Gastronomía": "Gallo Pinto (arroz y frijoles), Nacatamal, Vigorón, Queso Frito"
+      },
+      {
+        "Ciudad": "Isla de Ometepe",
+        "Atracciones": "Reserva Charco Verde y manantiales",
+        "Actividades": "Escalar dos volcanes en medio de un lago",
+        "Lugares históricos y monumentos": "Volcán Concepción, Volcán Maderas",
+        "Gastronomía": "Gallo Pinto (arroz y frijoles), Nacatamal, Vigorón, Queso Frito"
+      },
+      {
+        "Ciudad": "Managua",
+        "Atracciones": "Lago Managua y Parque de la Laguna Tiscapa",
+        "Actividades": "Visitar el puerto antiguo (Salvador Allende)",
+        "Lugares históricos y monumentos": "Puerto Antiguo, Plaza de la Revolución",
+        "Gastronomía": "Gallo Pinto (arroz y frijoles), Nacatamal, Vigorón, Queso Frito"
+      },
+      {
+        "Ciudad": "Islas del Maíz",
+        "Atracciones": "Arrecifes de coral y playas turquesas",
+        "Actividades": "Buceo y relajación caribeña",
+        "Lugares históricos y monumentos": "Isla Grande del Maíz, Isla Pequeña del Maíz",
+        "Gastronomía": "Gallo Pinto (arroz y frijoles), Nacatamal, Vigorón, Queso Frito"
+      },
+      {
+        "Ciudad": "Matagalpa",
+        "Atracciones": "Reserva Selva Negra",
+        "Actividades": "Visitar fincas de café y bosques nubosos",
+        "Lugares históricos y monumentos": "Fincas de Café",
+        "Gastronomía": "Gallo Pinto (arroz y frijoles), Nacatamal, Vigorón, Queso Frito"
+      },
+      {
+        "Ciudad": "Estelí",
+        "Atracciones": "Reserva Natural Miraflores",
+        "Actividades": "Visitar fábricas de puros y cataratas",
+        "Lugares históricos y monumentos": "Fábricas de Puros",
+        "Gastronomía": "Gallo Pinto (arroz y frijoles), Nacatamal, Vigorón, Queso Frito"
+      },
+      {
+        "Ciudad": "Masaya",
+        "Atracciones": "Parque Nacional Volcán Masaya (lava visible)",
+        "Actividades": "Visitar mercado de artesanías y volcán activo",
+        "Lugares históricos y monumentos": "Volcán Masaya",
+        "Gastronomía": "Gallo Pinto (arroz y frijoles), Nacatamal, Vigorón, Queso Frito"
+      },
+      {
+        "Ciudad": "Río San Juan",
+        "Atracciones": "Reserva Biológica Indio Maíz",
+        "Actividades": "Viajes en barco por el bosque histórico",
+        "Lugares históricos y monumentos": "Reserva Biológica Indio Maíz",
+        "Gastronomía": "Gallo Pinto (arroz y frijoles), Nacatamal, Vigorón, Queso Frito"
+      }
+    ],
+    "Parques y espacios verdes": [
+      "Lago Nicaragua y Volcán Mombacho",
+      "Cadena Volcánica de Maribios",
+      "Playas y reservas marinas de tortugas",
+      "Reserva Charco Verde y manantiales",
+      "Lago Managua y Parque de la Laguna Tiscapa",
+      "Arrecifes de coral y playas turquesas",
+      "Reserva Selva Negra",
+      "Reserva Natural Miraflores",
+      "Parque Nacional Volcán Masaya (lava visible)",
+      "Reserva Biológica Indio Maíz"
+    ]
+  },
+  {
+    "País": "Nueva Zelanda",
+    "Región": "Oceanía",
+    "Descripción": "Una nación insular en el suroeste del Océano Pacífico, famosa por sus impresionantes paisajes, desde fiordos hasta montañas y playas.",
+    "Ciudades": [
+      {
+        "Ciudad": "Auckland",
+        "Atracciones": "Dominio del Volcán Rangitoto y Parque Cornwall",
+        "Actividades": "Escalar la Torre Sky y navegar en el puerto",
+        "Lugares históricos y monumentos": "Torre Sky, Museo de Auckland",
+        "Gastronomía": "Hāngi (cocción subterránea), Cordero Asado, Pavlova, Ostras de Bluff"
+      },
+      {
+        "Ciudad": "Queenstown",
+        "Atracciones": "Lago Wakatipu y cordillera Remarkables",
+        "Actividades": "Capital de la aventura (puente bungee) y esquí",
+        "Lugares históricos y monumentos": "Puente Colgante del Garganta Kawarau",
+        "Gastronomía": "Hāngi (cocción subterránea), Cordero Asado, Pavlova, Ostras de Bluff"
+      },
+      {
+        "Ciudad": "Rotorua",
+        "Atracciones": "Bosque Redwoods y Valle Volcánico Waimangu",
+        "Actividades": "Aguas termales y cultura maorí",
+        "Lugares históricos y monumentos": "Aldea Maorí Te Puia",
+        "Gastronomía": "Hāngi (cocción subterránea), Cordero Asado, Pavlova, Ostras de Bluff"
+      },
+      {
+        "Ciudad": "Wellington",
+        "Atracciones": "Jardín Botánico de Wellington y Santuario Zealandia",
+        "Actividades": "Visitar el Museo Te Papa y el Taller Weta",
+        "Lugares históricos y monumentos": "Museo Te Papa, Catedral de San Pablo",
+        "Gastronomía": "Hāngi (cocción subterránea), Cordero Asado, Pavlova, Ostras de Bluff"
+      },
+      {
+        "Ciudad": "Christchurch",
+        "Atracciones": "Parque Hagley y Jardines Botánicos",
+        "Actividades": "Paseos en bote por el río Avon y jardines",
+        "Lugares históricos y monumentos": "Catedral de Christchurch",
+        "Gastronomía": "Hāngi (cocción subterránea), Cordero Asado, Pavlova, Ostras de Bluff"
+      },
+      {
+        "Ciudad": "Fiordo Milford",
+        "Atracciones": "Parque Nacional Fiordland (cataratas y bosques)",
+        "Actividades": "Crucero marítimo en el famoso fiordo",
+        "Lugares históricos y monumentos": "Parque Nacional Fiordland",
+        "Gastronomía": "Hāngi (cocción subterránea), Cordero Asado, Pavlova, Ostras de Bluff"
+      },
+      {
+        "Ciudad": "Taupō",
+        "Atracciones": "Parque Nacional Tongariro (volcanes)",
+        "Actividades": "Visitar el Lago Taupō y las Cataratas Huka",
+        "Lugares históricos y monumentos": "Parque Nacional Tongariro",
+        "Gastronomía": "Hāngi (cocción subterránea), Cordero Asado, Pavlova, Ostras de Bluff"
+      },
+      {
+        "Ciudad": "Kaikōura",
+        "Atracciones": "Sendero de la Península de Kaikōura",
+        "Actividades": "Observación de ballenas y delfines",
+        "Lugares históricos y monumentos": "Península de Kaikōura",
+        "Gastronomía": "Hāngi (cocción subterránea), Cordero Asado, Pavlova, Ostras de Bluff"
+      },
+      {
+        "Ciudad": "Wanaka",
+        "Atracciones": "Lago Wanaka y Monte Roy",
+        "Actividades": "Fotografiar el árbol solitario y senderismo",
+        "Lugares históricos y monumentos": "Lago Wanaka",
+        "Gastronomía": "Hāngi (cocción subterránea), Cordero Asado, Pavlova, Ostras de Bluff"
+      },
+      {
+        "Ciudad": "Bahía de las Islas",
+        "Atracciones": "Islas verdes y playas aisladas",
+        "Actividades": "Nadar con delfines e historia",
+        "Lugares históricos y monumentos": "Isla Russell",
+        "Gastronomía": "Hāngi (cocción subterránea), Cordero Asado, Pavlova, Ostras de Bluff"
+      }
+    ],
+    "Parques y espacios verdes": [
+      "Dominio del Volcán Rangitoto y Parque Cornwall",
+      "Lago Wakatipu y cordillera Remarkables",
+      "Bosque Redwoods y Valle Volcánico Waimangu",
+      "Jardín Botánico de Wellington y Santuario Zealandia",
+      "Parque Hagley y Jardines Botánicos",
+      "Parque Nacional Fiordland (cataratas y bosques)",
+      "Parque Nacional Tongariro (volcanes)",
+      "Sendero de la Península de Kaikōura",
+      "Lago Wanaka y Monte Roy",
+      "Islas verdes y playas aisladas"
+    ]
+  },
+  {
+    "País": "Haití",
+    "Región": "América del Caribe",
+    "Descripción": "Un país de la región del Caribe, famoso por su rica historia, cultura única y hermosas playas.",
+    "Ciudades": [
+      {
+        "Ciudad": "Cap-Haïtien",
+        "Atracciones": "Playa Labadie (complejo privado y vistas)",
+        "Actividades": "Visitar la Ciudadela Laferrière (fortaleza más grande de las Américas)",
+        "Lugares históricos y monumentos": "Ciudadela Laferrière",
+        "Gastronomía": "Griot (cerdo frito), Arroz con Frijoles (Diri ak pwa), Sopa Joumou, Banan Peze"
+      },
+      {
+        "Ciudad": "Puerto Príncipe",
+        "Atracciones": "Parque Histórico de Campos de Caña de Azúcar",
+        "Actividades": "Visitar el Museo Nacional y el Mercado de Hierro",
+        "Lugares históricos y monumentos": "Museo Nacional, Mercado de Hierro",
+        "Gastronomía": "Griot (cerdo frito), Arroz con Frijoles (Diri ak pwa), Sopa Joumou, Banan Peze"
+      },
+      {
+        "Ciudad": "Jacmel",
+        "Atracciones": "Bassin Bleu (piscinas turquesas y cataratas)",
+        "Actividades": "Centro de arte y carnavales y arquitectura",
+        "Lugares históricos y monumentos": "Bassin Bleu",
+        "Gastronomía": "Griot (cerdo frito), Arroz con Frijoles (Diri ak pwa), Sopa Joumou, Banan Peze"
+      },
+      {
+        "Ciudad": "Île-à-Vache",
+        "Atracciones": "Playas vírgenes y palmeras",
+        "Actividades": "Relajarse en una isla remota y tranquila",
+        "Lugares históricos y monumentos": "Playas de Île-à-Vache",
+        "Gastronomía": "Griot (cerdo frito), Arroz con Frijoles (Diri ak pwa), Sopa Joumou, Banan Peze"
+      },
+      {
+        "Ciudad": "Les Cayes",
+        "Atracciones": "Playa Gelee y Cueva Marie-Jeanne",
+        "Actividades": "Puerta de entrada a las playas del sur y festival de música",
+        "Lugares históricos y monumentos": "Playa Gelee, Cueva Marie-Jeanne",
+        "Gastronomía": "Griot (cerdo frito), Arroz con Frijoles (Diri ak pwa), Sopa Joumou, Banan Peze"
+      },
+      {
+        "Ciudad": "Gonaïves",
+        "Atracciones": "Aguas termales y paisajes secos",
+        "Actividades": "Ciudad Histórica de la Independencia",
+        "Lugares históricos y monumentos": "Ciudad de la Independencia",
+        "Gastronomía": "Griot (cerdo frito), Arroz con Frijoles (Diri ak pwa), Sopa Joumou, Banan Peze"
+      },
+      {
+        "Ciudad": "Côte des Arcadins",
+        "Atracciones": "Arrecifes de coral costeros",
+        "Actividades": "Complejos turísticos playeros y deportes acuáticos",
+        "Lugares históricos y monumentos": "Playas de Côte des Arcadins",
+        "Gastronomía": "Griot (cerdo frito), Arroz con Frijoles (Diri ak pwa), Sopa Joumou, Banan Peze"
+      },
+      {
+        "Ciudad": "Lâogâne",
+        "Atracciones": "Pequeñas bahías y aguas claras",
+        "Actividades": "Aldea pesquera tradicional",
+        "Lugares históricos y monumentos": "Aldea Pesquera de Lâogâne",
+        "Gastronomía": "Griot (cerdo frito), Arroz con Frijoles (Diri ak pwa), Sopa Joumou, Banan Peze"
+      },
+      {
+        "Ciudad": "Fort-de-France",
+        "Atracciones": "Étang Saumâtre (lago salado)",
+        "Actividades": "Aldea de Artistas y herrería",
+        "Lugares históricos y monumentos": "Aldea de Artistas",
+        "Gastronomía": "Griot (cerdo frito), Arroz con Frijoles (Diri ak pwa), Sopa Joumou, Banan Peze"
+      },
+      {
+        "Ciudad": "Jérémie",
+        "Atracciones": "Montañas Macaya y bosques de cacao",
+        "Actividades": "Ciudad de los Poetas y casas antiguas",
+        "Lugares históricos y monumentos": "Montañas Macaya",
+        "Gastronomía": "Griot (cerdo frito), Arroz con Frijoles (Diri ak pwa), Sopa Joumou, Banan Peze"
+      }
+    ],
+    "Parques y espacios verdes": [
+      "Playa Labadie (complejo privado y vistas)",
+      "Parque Histórico de Campos de Caña de Azúcar",
+      "Bassin Bleu (piscinas turquesas y cataratas)",
+      "Playas vírgenes y palmeras",
+      "Playa Gelee y Cueva Marie-Jeanne",
+      "Aguas termales y paisajes secos",
+      "Arrecifes de coral costeros",
+      "Pequeñas bahías y aguas claras",
+      "Étang Saumâtre (lago salado)",
+      "Montañas Macaya y bosques de cacao"
+    ]
+  },
+  {
+    "País": "Honduras",
+    "Región": "América Central",
+    "Descripción": "Un país de América Central, famoso por sus selvas tropicales, ruinas mayas y playas del Caribe.",
+    "Ciudades": [
+      {
+        "Ciudad": "Roatán",
+        "Atracciones": "Jardines Carambola y Parque Gumbalimba",
+        "Actividades": "Bucear en el segundo arrecife de coral más grande del mundo",
+        "Lugares históricos y monumentos": "Parque Gumbalimba",
+        "Gastronomía": "Baleada (tortilla rellena), Sopa de Caracol, Carne Asada, Tamales de Maíz"
+      },
+      {
+        "Ciudad": "Ruinas de Copán",
+        "Atracciones": "Parque de Guacamayas y aguas termales",
+        "Actividades": "Explorar famosas ruinas mayas y esculturas",
+        "Lugares históricos y monumentos": "Ruinas de Copán",
+        "Gastronomía": "Baleada (tortilla rellena), Sopa de Caracol, Carne Asada, Tamales de Maíz"
+      },
+      {
+        "Ciudad": "Utila",
+        "Atracciones": "Colina Pumpkin y bosques de mangle",
+        "Actividades": "Aprender buceo económico y ver tiburones ballena",
+        "Lugares históricos y monumentos": "Isla Utila",
+        "Gastronomía": "Baleada (tortilla rellena), Sopa de Caracol, Carne Asada, Tamales de Maíz"
+      },
+      {
+        "Ciudad": "Tegucigalpa",
+        "Atracciones": "Parque Nacional La Tigra (bosque nuboso)",
+        "Actividades": "Visitar la Catedral de San Miguel y el Parque Picacho",
+        "Lugares históricos y monumentos": "Catedral de San Miguel",
+        "Gastronomía": "Baleada (tortilla rellena), Sopa de Caracol, Carne Asada, Tamales de Maíz"
+      },
+      {
+        "Ciudad": "La Ceiba",
+        "Atracciones": "Parque Nacional Pico Bonito (cataratas y bosques)",
+        "Actividades": "Capital del ecoturismo y rafting en ríos",
+        "Lugares históricos y monumentos": "Parque Nacional Pico Bonito",
+        "Gastronomía": "Baleada (tortilla rellena), Sopa de Caracol, Carne Asada, Tamales de Maíz"
+      },
+      {
+        "Ciudad": "Tela",
+        "Atracciones": "Jardín Botánico Lancetilla y Reserva Punta Sal",
+        "Actividades": "Jardines botánicos y playas del Caribe",
+        "Lugares históricos y monumentos": "Jardín Botánico Lancetilla",
+        "Gastronomía": "Baleada (tortilla rellena), Sopa de Caracol, Carne Asada, Tamales de Maíz"
+      },
+      {
+        "Ciudad": "Lago Yojoa",
+        "Atracciones": "Cataratas Pulhapanzak y lago",
+        "Actividades": "Observación de aves y kayak",
+        "Lugares históricos y monumentos": "Cataratas Pulhapanzak",
+        "Gastronomía": "Baleada (tortilla rellena), Sopa de Caracol, Carne Asada, Tamales de Maíz"
+      },
+      {
+        "Ciudad": "Islas Cayos Cochinos",
+        "Atracciones": "Reserva marina completamente virgen",
+        "Actividades": "Visitar aldeas locales y buceo aislado",
+        "Lugares históricos y monumentos": "Islas Cayos Cochinos",
+        "Gastronomía": "Baleada (tortilla rellena), Sopa de Caracol, Carne Asada, Tamales de Maíz"
+      },
+      {
+        "Ciudad": "Comayagua",
+        "Atracciones": "Montañas circundantes del valle",
+        "Actividades": "Ver el reloj más antiguo de las Américas y arquitectura",
+        "Lugares históricos y monumentos": "Reloj más antiguo de las Américas",
+        "Gastronomía": "Baleada (tortilla rellena), Sopa de Caracol, Carne Asada, Tamales de Maíz"
+      },
+      {
+        "Ciudad": "Gracias",
+        "Atracciones": "Parque Nacional Celaque (pico más alto)",
+        "Actividades": "Aguas termales y Fortaleza de San Cristóbal",
+        "Lugares históricos y monumentos": "Fortaleza de San Cristóbal",
+        "Gastronomía": "Baleada (tortilla rellena), Sopa de Caracol, Carne Asada, Tamales de Maíz"
+      }
+    ],
+    "Parques y espacios verdes": [
+      "Jardines Carambola y Parque Gumbalimba",
+      "Parque de Guacamayas y aguas termales",
+      "Colina Pumpkin y bosques de mangle",
+      "Parque Nacional La Tigra (bosque nuboso)",
+      "Parque Nacional Pico Bonito (cataratas y bosques)",
+      "Jardín Botánico Lancetilla y Reserva Punta Sal",
+      "Cataratas Pulhapanzak y lago",
+      "Reserva marina completamente virgen",
+      "Montañas circundantes del valle",
+      "Parque Nacional Celaque (pico más alto)"
+    ]
+  },
+  {
+    "País": "India",
+    "Región": "Asia (Sur)",
+    "Descripción": "Un país del sur de Asia, famoso por su historia antigua, diversidad cultural y famosos monumentos.",
+    "Ciudades": [
+      {
+        "Ciudad": "Nueva Delhi",
+        "Atracciones": "Jardines Lodi y Parque de los Ciervos",
+        "Actividades": "Fuerte Rojo, Qutub Minar y Puerta de la India",
+        "Lugares históricos y monumentos": "Fuerte Rojo, Qutub Minar, Puerta de la India",
+        "Gastronomía": "Biryani, Pollo con Mantequilla, Masala Dosa, Samosa, Té Chai"
+      },
+      {
+        "Ciudad": "Agra",
+        "Atracciones": "Jardín Mehtab Bagh (con vistas al Taj)",
+        "Actividades": "Visitar el Taj Mahal y el Fuerte",
+        "Lugares históricos y monumentos": "Taj Mahal, Fuerte de Agra",
+        "Gastronomía": "Biryani, Pollo con Mantequilla, Masala Dosa, Samosa, Té Chai"
+      },
+      {
+        "Ciudad": "Jaipur",
+        "Atracciones": "Jardín Sisodia Rani y lagos",
+        "Actividades": "Ciudad Rosa: Hawa Mahal y Fuerte Amer",
+        "Lugares históricos y monumentos": "Hawa Mahal, Fuerte Amer",
+        "Gastronomía": "Biryani, Pollo con Mantequilla, Masala Dosa, Samosa, Té Chai"
+      },
+      {
+        "Ciudad": "Bombay",
+        "Atracciones": "Parque Nacional Sanjay Gandhi (dentro de la ciudad)",
+        "Actividades": "Puerta de la India y Marine Drive",
+        "Lugares históricos y monumentos": "Puerta de la India, Marine Drive",
+        "Gastronomía": "Biryani, Pollo con Mantequilla, Masala Dosa, Samosa, Té Chai"
+      },
+      {
+        "Ciudad": "Goa",
+        "Atracciones": "Cataratas Dudhsagar y fincas de especias",
+        "Actividades": "Playas y vida nocturna e iglesias portuguesas",
+        "Lugares históricos y monumentos": "Iglesia Bom Jesus, Iglesia de Santa Catalina",
+        "Gastronomía": "Biryani, Pollo con Mantequilla, Masala Dosa, Samosa, Té Chai"
+      },
+      {
+        "Ciudad": "Kerala (Munnar)",
+        "Atracciones": "Plantaciones de té en Munnar y Thekkady",
+        "Actividades": "Recorrido en barca por las backwaters",
+        "Lugares históricos y monumentos": "Plantaciones de Té",
+        "Gastronomía": "Biryani, Pollo con Mantequilla, Masala Dosa, Samosa, Té Chai"
+      },
+      {
+        "Ciudad": "Varanasi",
+        "Atracciones": "Orillas sagradas del río",
+        "Actividades": "Rituales espirituales en el Ganges",
+        "Lugares históricos y monumentos": "Ghats del Ganges",
+        "Gastronomía": "Biryani, Pollo con Mantequilla, Masala Dosa, Samosa, Té Chai"
+      },
+      {
+        "Ciudad": "Udaipur",
+        "Atracciones": "Lago Pichola y Jardín Saheliyon Ki Bari",
+        "Actividades": "Ciudad de los Lagos y palacios flotantes",
+        "Lugares históricos y monumentos": "Palacio del Lago, Palacio de la Ciudad",
+        "Gastronomía": "Biryani, Pollo con Mantequilla, Masala Dosa, Samosa, Té Chai"
+      },
+      {
+        "Ciudad": "Rishikesh",
+        "Atracciones": "Faldas del Himalaya y bosques",
+        "Actividades": "Yoga y rafting en el Ganges",
+        "Lugares históricos y monumentos": "Puente Lakshman Jhula",
+        "Gastronomía": "Biryani, Pollo con Mantequilla, Masala Dosa, Samosa, Té Chai"
+      },
+      {
+        "Ciudad": "Ladakh (Leh)",
+        "Atracciones": "Lago Pangong y Valle de Nubra (desierto frío)",
+        "Actividades": "Visitar monasterios y vistas montañosas",
+        "Lugares históricos y monumentos": "Monasterio Hemis, Monasterio Thiksey",
+        "Gastronomía": "Biryani, Pollo con Mantequilla, Masala Dosa, Samosa, Té Chai"
+      }
+    ],
+    "Parques y espacios verdes": [
+      "Jardines Lodi y Parque de los Ciervos",
+      "Jardín Mehtab Bagh (con vistas al Taj)",
+      "Jardín Sisodia Rani y lagos",
+      "Parque Nacional Sanjay Gandhi (dentro de la ciudad)",
+      "Cataratas Dudhsagar y fincas de especias",
+      "Plantaciones de té en Munnar y Thekkady",
+      "Orillas sagradas del río",
+      "Faldas del Himalaya y bosques",
+      "Lago Pangong y Valle de Nubra (desierto frío)",
+      "Parque Nacional Sanjay Gandhi (dentro de la ciudad)"
+    ]
+  },
+  {
+    "País": "Hungría",
+    "Región": "Europa (Central)",
+    "Descripción": "Un país centroeuropeo, famoso por su capital Budapest, lagos y cultura única.",
+    "Ciudades": [
+      {
+        "Ciudad": "Budapest",
+        "Atracciones": "Isla Margarita (oasis verde en el Danubio)",
+        "Actividades": "Edificio del Parlamento y Baños Termales Széchenyi",
+        "Lugares históricos y monumentos": "Edificio del Parlamento, Castillo de Buda",
+        "Gastronomía": "Goulash (sopa de carne), Lángos (masa frita), Pollo al Paprika, Kürtőskalács (pastel de chimenea)"
+      },
+      {
+        "Ciudad": "Debrecen",
+        "Atracciones": "Parque Nacional Hortobágy (Grandes Llanuras)",
+        "Actividades": "Visitar la Gran Iglesia y Museo Déri",
+        "Lugares históricos y monumentos": "Gran Iglesia, Museo Déri",
+        "Gastronomía": "Goulash (sopa de carne), Lángos (masa frita), Pollo al Paprika, Kürtőskalács (pastel de chimenea)"
+      },
+      {
+        "Ciudad": "Eger",
+        "Atracciones": "Montañas Bükk y centros termales",
+        "Actividades": "Visitar la fortaleza y degustación de vinos (Valle de las Mujeres Hermosas)",
+        "Lugares históricos y monumentos": "Fortaleza de Eger",
+        "Gastronomía": "Goulash (sopa de carne), Lángos (masa frita), Pollo al Paprika, Kürtőskalács (pastel de chimenea)"
+      },
+      {
+        "Ciudad": "Lago Balaton",
+        "Atracciones": "Península de Tihany y campos de lavanda",
+        "Actividades": "Nadar y navegar (Mar Húngaro)",
+        "Lugares históricos y monumentos": "Abadía de Tihany",
+        "Gastronomía": "Goulash (sopa de carne), Lángos (masa frita), Pollo al Paprika, Kürtőskalács (pastel de chimenea)"
+      },
+      {
+        "Ciudad": "Pécs",
+        "Atracciones": "Montañas Mecsek y lagos",
+        "Actividades": "Iglesia Mezquita y porcelana",
+        "Lugares históricos y monumentos": "Iglesia Mezquita",
+        "Gastronomía": "Goulash (sopa de carne), Lángos (masa frita), Pollo al Paprika, Kürtőskalács (pastel de chimenea)"
+      },
+      {
+        "Ciudad": "Sopron",
+        "Atracciones": "Bosques Lővérek y Lago Fertő",
+        "Actividades": "Torre del Fuego y Ciudad Antigua",
+        "Lugares históricos y monumentos": "Torre del Fuego, Ciudad Antigua",
+        "Gastronomía": "Goulash (sopa de carne), Lángos (masa frita), Pollo al Paprika, Kürtőskalács (pastel de chimenea)"
+      },
+      {
+        "Ciudad": "Szentendre",
+        "Atracciones": "Orillas del río Danubio",
+        "Actividades": "Ciudad de artistas y museos al aire libre",
+        "Lugares históricos y monumentos": "Museos al aire libre",
+        "Gastronomía": "Goulash (sopa de carne), Lángos (masa frita), Pollo al Paprika, Kürtőskalács (pastel de chimenea)"
+      },
+      {
+        "Ciudad": "Győr",
+        "Atracciones": "Confluencia de tres ríos",
+        "Actividades": "Centro Barroco y parque acuático",
+        "Lugares históricos y monumentos": "Centro Barroco",
+        "Gastronomía": "Goulash (sopa de carne), Lángos (masa frita), Pollo al Paprika, Kürtőskalács (pastel de chimenea)"
+      },
+      {
+        "Ciudad": "Hévíz",
+        "Atracciones": "Jardines circundantes y nenúfares",
+        "Actividades": "Nadar en el lago termal más grande del mundo",
+        "Lugares históricos y monumentos": "Lago Hévíz",
+        "Gastronomía": "Goulash (sopa de carne), Lángos (masa frita), Pollo al Paprika, Kürtőskalács (pastel de chimenea)"
+      },
+      {
+        "Ciudad": "Tokaj",
+        "Atracciones": "Colinas de viñedos y confluencia de los ríos Tisza y Bodrog",
+        "Actividades": "Tours en viñedos históricos (UNESCO)",
+        "Lugares históricos y monumentos": "Viñedos",
+        "Gastronomía": "Goulash (sopa de carne), Lángos (masa frita), Pollo al Paprika, Kürtőskalács (pastel de chimenea)"
+      }
+    ],
+    "Parques y espacios verdes": [
+      "Isla Margarita (oasis verde en el Danubio)",
+      "Parque Nacional Hortobágy (Grandes Llanuras)",
+      "Montañas Bükk y centros termales",
+      "Península de Tihany y campos de lavanda",
+      "Montañas Mecsek y lagos",
+      "Bosques Lővérek y Lago Fertő",
+      "Orillas del río Danubio",
+      "Confluencia de tres ríos",
+      "Jardines circundantes y nenúfares",
+      "Colinas de viñedos y confluencia de los ríos Tisza y Bodrog"
+    ]
+  },
+  {
+    "País": "Países Bajos",
+    "Región": "Europa (Oeste)",
+    "Descripción": "Un país de Europa Occidental, famoso por sus canales, molinos de viento y flores.",
+    "Ciudades": [
+      {
+        "Ciudad": "Ámsterdam",
+        "Atracciones": "Parque Vondelpark y Bosque de Ámsterdam",
+        "Actividades": "Museo Rijksmuseum y recorridos por los canales",
+        "Lugares históricos y monumentos": "Museo Rijksmuseum, Museo Van Gogh",
+        "Gastronomía": "Arenque Crudo, Stroopwafel, Poffertjes (mini panqueques), Queso Holandés"
+      },
+      {
+        "Ciudad": "Róterdam",
+        "Atracciones": "Parque Kralingse Bos y Arboreto",
+        "Actividades": "Casas de Cubo y Puente Erasmus",
+        "Lugares históricos y monumentos": "Casas de Cubo, Puente Erasmus",
+        "Gastronomía": "Arenque Crudo, Stroopwafel, Poffertjes (mini panqueques), Queso Holandés"
+      },
+      {
+        "Ciudad": "La Haya",
+        "Atracciones": "Playa de Scheveningen y dunas de arena",
+        "Actividades": "Palacio de la Paz y Mauritshuis Museum",
+        "Lugares históricos y monumentos": "Palacio de la Paz, Mauritshuis Museum",
+        "Gastronomía": "Arenque Crudo, Stroopwafel, Poffertjes (mini panqueques), Queso Holandés"
+      },
+      {
+        "Ciudad": "Utrecht",
+        "Atracciones": "Jardines Botánicos y Parque Maxima",
+        "Actividades": "Escalar la Torre Dom y sentarse en cafés junto a los canales",
+        "Lugares históricos y monumentos": "Torre Dom",
+        "Gastronomía": "Arenque Crudo, Stroopwafel, Poffertjes (mini panqueques), Queso Holandés"
+      },
+      {
+        "Ciudad": "Giethoorn",
+        "Atracciones": "Parque Nacional De Weerribben-Wieden",
+        "Actividades": "Venecia Holandesa (solo barcos)",
+        "Lugares históricos y monumentos": "Parque Nacional De Weerribben-Wieden",
+        "Gastronomía": "Arenque Crudo, Stroopwafel, Poffertjes (mini panqueques), Queso Holandés"
+      },
+      {
+        "Ciudad": "Maastricht",
+        "Atracciones": "Colina St. Pietersberg",
+        "Actividades": "Cuevas subterráneas y ciudad antigua",
+        "Lugares históricos y monumentos": "Cuevas Subterráneas",
+        "Gastronomía": "Arenque Crudo, Stroopwafel, Poffertjes (mini panqueques), Queso Holandés"
+      },
+      {
+        "Ciudad": "Delft",
+        "Atracciones": "Parque Delftse Hout",
+        "Actividades": "Loza azul e iglesias",
+        "Lugares históricos y monumentos": "Fábrica de Loza Azul",
+        "Gastronomía": "Arenque Crudo, Stroopwafel, Poffertjes (mini panqueques), Queso Holandés"
+      },
+      {
+        "Ciudad": "Lisse (Keukenhof)",
+        "Atracciones": "Campos de tulipanes extensos",
+        "Actividades": "Visitar el jardín de flores más hermoso del mundo (primavera)",
+        "Lugares históricos y monumentos": "Jardín Keukenhof",
+        "Gastronomía": "Arenque Crudo, Stroopwafel, Poffertjes (mini panqueques), Queso Holandés"
+      },
+      {
+        "Ciudad": "Haarlem",
+        "Atracciones": "Parque Nacional Zuid-Kennemerland (dunas y playas)",
+        "Actividades": "Compras y museos",
+        "Lugares históricos y monumentos": "Museo Teylers",
+        "Gastronomía": "Arenque Crudo, Stroopwafel, Poffertjes (mini panqueques), Queso Holandés"
+      },
+      {
+        "Ciudad": "Islas Wadden (Texel)",
+        "Atracciones": "Dunas de arena y playas naturales",
+        "Actividades": "Caminar sobre lodos y observar focas",
+        "Lugares históricos y monumentos": "Islas Wadden",
+        "Gastronomía": "Arenque Crudo, Stroopwafel, Poffertjes (mini panqueques), Queso Holandés"
+      }
+    ],
+    "Parques y espacios verdes": [
+      "Parque Vondelpark y Bosque de Ámsterdam",
+      "Parque Kralingse Bos y Arboreto",
+      "Playa de Scheveningen y dunas de arena",
+      "Jardines Botánicos y Parque Maxima",
+      "Parque Nacional De Weerribben-Wieden",
+      "Colina St. Pietersberg",
+      "Parque Delftse Hout",
+      "Campos de tulipanes extensos",
+      "Parque Nacional Zuid-Kennemerland (dunas y playas)",
+      "Dunas de arena y playas naturales"
+    ]
+  },
+  {
+    "País": "Estados Unidos de América",
+    "Región": "América del Norte",
+    "Descripción": "Un vasto país con culturas y paisajes diversos desde soleadas playas hasta montañas nevadas y vibrantes ciudades.",
+    "Ciudades": [
+      {
+        "Ciudad": "Nueva York",
+        "Atracciones": "Central Park (Nueva York)",
+        "Actividades": "Ver espectáculos de Broadway, visitar museos",
+        "Lugares históricos y monumentos": "Estatua de la Libertad, Times Square",
+        "Gastronomía": "Hamburguesa y cheeseburger, Pastel de manzana, Alitas de búfalo, Pizza de Nueva York"
+      },
+      {
+        "Ciudad": "Los Ángeles",
+        "Atracciones": "Parque Griffith",
+        "Actividades": "Recorridos por estudios de cine",
+        "Lugares históricos y monumentos": "Letrero de Hollywood, Paseo de la Fama",
+        "Gastronomía": "Hamburguesa y cheeseburger, Pastel de manzana, Alitas de búfalo, Pizza de Nueva York"
+      },
+      {
+        "Ciudad": "Las Vegas",
+        "Atracciones": "Cañón Red Rock",
+        "Actividades": "Asistir a espectáculos de clase mundial",
+        "Lugares históricos y monumentos": "Fuentes del Bellagio, The Strip",
+        "Gastronomía": "Hamburguesa y cheeseburger, Pastel de manzana, Alitas de búfalo, Pizza de Nueva York"
+      },
+      {
+        "Ciudad": "Orlando",
+        "Atracciones": "Parques Disney World",
+        "Actividades": "Visitar parques temáticos (Disney)",
+        "Lugares históricos y monumentos": "Walt Disney World, Universal Studios",
+        "Gastronomía": "Hamburguesa y cheeseburger, Pastel de manzana, Alitas de búfalo, Pizza de Nueva York"
+      },
+      {
+        "Ciudad": "San Francisco",
+        "Atracciones": "Parque Golden Gate",
+        "Actividades": "Viajar en históricos tranvías",
+        "Lugares históricos y monumentos": "Puente Golden Gate, Alcatraz",
+        "Gastronomía": "Hamburguesa y cheeseburger, Pastel de manzana, Alitas de búfalo, Pizza de Nueva York"
+      },
+      {
+        "Ciudad": "Miami",
+        "Atracciones": "Jardín Fairchild",
+        "Actividades": "Disfrutar de la vida nocturna y las playas",
+        "Lugares históricos y monumentos": "South Beach, Distrito Art Deco",
+        "Gastronomía": "Hamburguesa y cheeseburger, Pastel de manzana, Alitas de búfalo, Pizza de Nueva York"
+      },
+      {
+        "Ciudad": "Chicago",
+        "Atracciones": "Parque Millennium (The Bean)",
+        "Actividades": "Recorridos arquitectónicos por el río",
+        "Lugares históricos y monumentos": "Parque Millennium (The Bean), Torre Willis",
+        "Gastronomía": "Hamburguesa y cheeseburger, Pastel de manzana, Alitas de búfalo, Pizza de Nueva York"
+      },
+      {
+        "Ciudad": "Washington DC",
+        "Atracciones": "Memorial del National Mall",
+        "Actividades": "Visitar museos nacionales gratuitos",
+        "Lugares históricos y monumentos": "Casa Blanca, Monumento a Lincoln",
+        "Gastronomía": "Hamburguesa y cheeseburger, Pastel de manzana, Alitas de búfalo, Pizza de Nueva York"
+      },
+      {
+        "Ciudad": "Honolulu",
+        "Atracciones": "Parque Waikiki",
+        "Actividades": "Surf y buceo",
+        "Lugares históricos y monumentos": "Playa Waikiki, Pearl Harbor",
+        "Gastronomía": "Hamburguesa y cheeseburger, Pastel de manzana, Alitas de búfalo, Pizza de Nueva York"
+      },
+      {
+        "Ciudad": "Nueva Orleans",
+        "Atracciones": "City Park",
+        "Actividades": "Escuchar música jazz en vivo",
+        "Lugares históricos y monumentos": "Barrio Francés, Bourbon Street",
+        "Gastronomía": "Hamburguesa y cheeseburger, Pastel de manzana, Alitas de búfalo, Pizza de Nueva York"
+      }
+    ],
+    "Parques y espacios verdes": [
+      "Parque Nacional Yellowstone (volcanes y manantiales)",
+      "Gran Cañón",
+      "Parque Nacional Yosemite",
+      "Central Park (Nueva York)",
+      "Parque Nacional Great Smoky Mountains"
+    ]
+  },
+  {
+    "País": "Japón",
+    "Región": "Asia (Este)",
+    "Descripción": "Una impresionante mezcla de antiguas tradiciones y tecnología moderna, con hermosa naturaleza y cultura única.",
+    "Ciudades": [
+      {
+        "Ciudad": "Tokio",
+        "Atracciones": "Parque Shinjuku Gyoen (Tokio)",
+        "Actividades": "Compras en Shibuya, visitar templos de Asakusa",
+        "Lugares históricos y monumentos": "Torre de Tokio, Cruce Shibuya",
+        "Gastronomía": "Sushi, Ramen, Tempura, Okonomiyaki"
+      },
+      {
+        "Ciudad": "Kioto",
+        "Atracciones": "Parque Nara (para ciervos)",
+        "Actividades": "Asistir a ceremonia del té, caminar en bosques de bambú",
+        "Lugares históricos y monumentos": "Kinkaku-ji (Pabellón Dorado), Fushimi Inari",
+        "Gastronomía": "Sushi, Ramen, Tempura, Okonomiyaki"
+      },
+      {
+        "Ciudad": "Osaka",
+        "Atracciones": "Parque Nacional Fuji-Hakone-Izu",
+        "Actividades": "Experimentar comida callejera en Dotonbori",
+        "Lugares históricos y monumentos": "Castillo de Osaka, Universal Studios",
+        "Gastronomía": "Sushi, Ramen, Tempura, Okonomiyaki"
+      },
+      {
+        "Ciudad": "Hiroshima",
+        "Atracciones": "Parque del Memorial de la Paz",
+        "Actividades": "Visitar memoriales de paz",
+        "Lugares históricos y monumentos": "Museo de la Paz, Isla Miyajima",
+        "Gastronomía": "Sushi, Ramen, Tempura, Okonomiyaki"
+      },
+      {
+        "Ciudad": "Nara",
+        "Atracciones": "Parque Nara (para ciervos)",
+        "Actividades": "Alimentar ciervos en el parque público",
+        "Lugares históricos y monumentos": "Templo Todai-ji (Gran Buda)",
+        "Gastronomía": "Sushi, Ramen, Tempura, Okonomiyaki"
+      },
+      {
+        "Ciudad": "Sapporo",
+        "Atracciones": "Parque Odori",
+        "Actividades": "Festival de la Nieve (invierno), probar ramen",
+        "Lugares históricos y monumentos": "Parque Odori, Museo de la Cerveza",
+        "Gastronomía": "Sushi, Ramen, Tempura, Okonomiyaki"
+      },
+      {
+        "Ciudad": "Fukuoka",
+        "Atracciones": "Parque Ohori",
+        "Actividades": "Visitar puestos de comida (yatai)",
+        "Lugares históricos y monumentos": "Torre de Fukuoka, Santuario Kushida",
+        "Gastronomía": "Sushi, Ramen, Tempura, Okonomiyaki"
+      },
+      {
+        "Ciudad": "Kobe",
+        "Atracciones": "Parque Nunobiki",
+        "Actividades": "Probar carne de Kobe, viajar en teleférico",
+        "Lugares históricos y monumentos": "Puerto de Kobe, Monte Rokko",
+        "Gastronomía": "Sushi, Ramen, Tempura, Okonomiyaki"
+      },
+      {
+        "Ciudad": "Okinawa",
+        "Atracciones": "Parque Conmemorativo de Okinawa",
+        "Actividades": "Bucear en arrecifes de coral",
+        "Lugares históricos y monumentos": "Castillo Shuri, Acuario Churaumi",
+        "Gastronomía": "Sushi, Ramen, Tempura, Okonomiyaki"
+      },
+      {
+        "Ciudad": "Nagoya",
+        "Atracciones": "Parque Higashiyama",
+        "Actividades": "Visitar museos de coches y tecnología",
+        "Lugares históricos y monumentos": "Castillo de Nagoya, Museo Toyota",
+        "Gastronomía": "Sushi, Ramen, Tempura, Okonomiyaki"
+      }
+    ],
+    "Parques y espacios verdes": [
+      "Parque Shinjuku Gyoen (Tokio)",
+      "Parque Nara (para ciervos)",
+      "Parque Nacional Fuji-Hakone-Izu",
+      "Arashiyama (bosque de bambú)",
+      "Jardín Kenroku-en",
+      "Parque del Memorial de la Paz",
+      "Parque Odori",
+      "Parque Ohori",
+      "Parque Norokyo",
+      "Parque Conmemorativo de Okinawa"
+    ]
+  },
+  {
+    "País": "Yemen",
+    "Región": "Asia (Oeste)",
+    "Descripción": "Cuna de antiguas civilizaciones árabes, caracterizado por sus ciudades históricas y naturaleza prístina especialmente en Socotra.",
+    "Ciudades": [
+      {
+        "Ciudad": "Sana'a Antigua",
+        "Atracciones": "Orillas del río Safiya",
+        "Actividades": "Caminar por mercados antiguos, ver arquitectura de barro",
+        "Lugares históricos y monumentos": "Bab Al-Yaman, Gran Mezquita",
+        "Gastronomía": "Saltah, Mandi, Fahsa, Bint Al-Sahn"
+      },
+      {
+        "Ciudad": "Socotra (Hadibu)",
+        "Atracciones": "Laguna Detwah",
+        "Actividades": "Ver Árboles de Sangre de Dragón, acampada",
+        "Lugares históricos y monumentos": "Laguna Detwah, Árboles de Sangre de Dragón",
+        "Gastronomía": "Saltah, Mandi, Fahsa, Bint Al-Sahn"
+      },
+      {
+        "Ciudad": "Shibam Hadramawt",
+        "Atracciones": "Valle de Hadramawt",
+        "Actividades": "Fotografiar rascacielos de barro",
+        "Lugares históricos y monumentos": "Ciudad Antigua (Manhattan del Desierto)",
+        "Gastronomía": "Saltah, Mandi, Fahsa, Bint Al-Sahn"
+      },
+      {
+        "Ciudad": "Adén",
+        "Atracciones": "Playas de Adén",
+        "Actividades": "Disfrutar de playas, visitar cisternas",
+        "Lugares históricos y monumentos": "Cisternas de Adén, Fortaleza de Sira",
+        "Gastronomía": "Saltah, Mandi, Fahsa, Bint Al-Sahn"
+      },
+      {
+        "Ciudad": "Taiz",
+        "Atracciones": "Jabal Saber",
+        "Actividades": "Visitar mezquitas históricas y fortalezas",
+        "Lugares históricos y monumentos": "Fortaleza de El Cairo, Mezquita Al-Mudhaffar",
+        "Gastronomía": "Saltah, Mandi, Fahsa, Bint Al-Sahn"
+      },
+      {
+        "Ciudad": "Zabid",
+        "Atracciones": "Valle de Zabid",
+        "Actividades": "Explorar historia islámica y científica",
+        "Lugares históricos y monumentos": "Gran Mezquita, Bibliotecas Históricas",
+        "Gastronomía": "Saltah, Mandi, Fahsa, Bint Al-Sahn"
+      },
+      {
+        "Ciudad": "Al-Mukalla",
+        "Atracciones": "Creek de Al-Mukalla",
+        "Actividades": "Caminar por el corniche, visitar museos",
+        "Lugares históricos y monumentos": "Palacio del Sultán Al-Qa'iti, Creek de Al-Mukalla",
+        "Gastronomía": "Saltah, Mandi, Fahsa, Bint Al-Sahn"
+      },
+      {
+        "Ciudad": "Ibb",
+        "Atracciones": "Wadi Ana",
+        "Actividades": "Disfrutar de paisajes verdes (Cinturón Verde)",
+        "Lugares históricos y monumentos": "Wadi Ana, Monte Rabi",
+        "Gastronomía": "Saltah, Mandi, Fahsa, Bint Al-Sahn"
+      },
+      {
+        "Ciudad": "Tarim",
+        "Atracciones": "Valle de Hadramawt",
+        "Actividades": "Visitar palacios y mezquitas del Valle de Hadramawt",
+        "Lugares históricos y monumentos": "Minarete Al-Muhdar (barro)",
+        "Gastronomía": "Saltah, Mandi, Fahsa, Bint Al-Sahn"
+      },
+      {
+        "Ciudad": "Al-Hudaydah",
+        "Atracciones": "Playas de Al-Hudaydah",
+        "Actividades": "Visitar el puerto y mercados populares",
+        "Lugares históricos y monumentos": "Bab Al-Mandab, Corniche",
+        "Gastronomía": "Saltah, Mandi, Fahsa, Bint Al-Sahn"
+      }
+    ],
+    "Parques y espacios verdes": [
+      "Reserva Natural Utmah",
+      "Hof (Al-Mahra - bosques estacionales)",
+      "Reserva Natural de Socotra",
+      "Wadi Dhahr (Sana'a)",
+      "Montañas Haraz (terrazas agrícolas)"
+    ]
+  },
+  {
+    "País": "Grecia",
+    "Región": "Europa (Sur)",
+    "Descripción": "Cuna de la civilización occidental, famosa por sus ruinas antiguas y encantadoras islas con edificios blancos y azules.",
+    "Ciudades": [
+      {
+        "Ciudad": "Atenas",
+        "Atracciones": "Jardín Nacional",
+        "Actividades": "Visitar sitios arqueológicos, caminar por Plaka",
+        "Lugares históricos y monumentos": "Acrópolis, Partenón",
+        "Gastronomía": "Musaka, Souvlaki, Ensalada Griega, Tzatziki"
+      },
+      {
+        "Ciudad": "Santorini (Fira)",
+        "Atracciones": "Playa Athinos",
+        "Actividades": "Observar atardeceres, tours en barco volcánico",
+        "Lugares históricos y monumentos": "Cúpulas Azules, Oia",
+        "Gastronomía": "Musaka, Souvlaki, Ensalada Griega, Tzatziki"
+      },
+      {
+        "Ciudad": "Miconos",
+        "Atracciones": "Playas Paradise",
+        "Actividades": "Vida nocturna, playas",
+        "Lugares históricos y monumentos": "Molinos de viento, Pequeña Venecia",
+        "Gastronomía": "Musaka, Souvlaki, Ensalada Griega, Tzatziki"
+      },
+      {
+        "Ciudad": "Tesalónica",
+        "Atracciones": "Bosque Seich Sou",
+        "Actividades": "Explorar historia bizantina y gastronomía",
+        "Lugares históricos y monumentos": "Torre Blanca, Arco de Galerio",
+        "Gastronomía": "Musaka, Souvlaki, Ensalada Griega, Tzatziki"
+      },
+      {
+        "Ciudad": "Rodes",
+        "Atracciones": "Playa Elli",
+        "Actividades": "Visitar el Palacio del Gran Maestre",
+        "Lugares históricos y monumentos": "Ciudad Antigua de Rodes, Valle de las Mariposas",
+        "Gastronomía": "Musaka, Souvlaki, Ensalada Griega, Tzatziki"
+      },
+      {
+        "Ciudad": "Corfú",
+        "Atracciones": "Parque Mon Repos",
+        "Actividades": "Caminar por la ciudad antigua (estilo italiano)",
+        "Lugares históricos y monumentos": "Fortaleza Antigua, Palacio Achilleion",
+        "Gastronomía": "Musaka, Souvlaki, Ensalada Griega, Tzatziki"
+      },
+      {
+        "Ciudad": "Nauplia",
+        "Atracciones": "Parque Karathona",
+        "Actividades": "Escalar fortalezas, relajarse en cafés",
+        "Lugares históricos y monumentos": "Fortaleza Palamidi, Fortaleza Bourtzi",
+        "Gastronomía": "Musaka, Souvlaki, Ensalada Griega, Tzatziki"
+      },
+      {
+        "Ciudad": "Heraklion (Creta)",
+        "Atracciones": "Parque Georgiadis",
+        "Actividades": "Visitar el Palacio Minoico de Knossos",
+        "Lugares históricos y monumentos": "Palacio de Knossos, Museo Arqueológico",
+        "Gastronomía": "Musaka, Souvlaki, Ensalada Griega, Tzatziki"
+      },
+      {
+        "Ciudad": "Patras",
+        "Atracciones": "Parque Agia",
+        "Actividades": "Asistir al carnaval anual",
+        "Lugares históricos y monumentos": "Fortaleza de Patras, Puente Rio-Antirrio",
+        "Gastronomía": "Musaka, Souvlaki, Ensalada Griega, Tzatziki"
+      },
+      {
+        "Ciudad": "Delfos",
+        "Atracciones": "Parque Delfos",
+        "Actividades": "Visitar el antiguo oráculo",
+        "Lugares históricos y monumentos": "Templo de Apolo, Teatro Antiguo",
+        "Gastronomía": "Musaka, Souvlaki, Ensalada Griega, Tzatziki"
+      }
+    ],
+    "Parques y espacios verdes": [
+      "Parque Nacional del Monte Olimpo",
+      "Garganta de Samaria (Creta)",
+      "Parque Nacional Parnitha",
+      "Lago Plastira",
+      "Parque Nacional Vikos-Aoos"
+    ]
+  },
+  {
+    "País": "Inglaterra",
+    "Región": "Europa (Oeste)",
+    "Descripción": "Parte del Reino Unido, combinando la bulliciosa historia de Londres con la tranquila campiña inglesa.",
+    "Ciudades": [
+      {
+        "Ciudad": "Londres",
+        "Atracciones": "Parque Hyde (Londres)",
+        "Actividades": "Viajar en la London Eye, visitar museos gratuitos",
+        "Lugares históricos y monumentos": "Big Ben, Torre de Londres",
+        "Gastronomía": "Pescado con Patatas Fritas, Desayuno Inglés, Té de la Tarde, Roast Beef"
+      },
+      {
+        "Ciudad": "Manchester",
+        "Atracciones": "Parque Heaton",
+        "Actividades": "Visitar estadios de fútbol, compras",
+        "Lugares históricos y monumentos": "Old Trafford, Northern Quarter",
+        "Gastronomía": "Pescado con Patatas Fritas, Desayuno Inglés, Té de la Tarde, Roast Beef"
+      },
+      {
+        "Ciudad": "Liverpool",
+        "Atracciones": "Parque Sefton",
+        "Actividades": "Seguir los pasos de The Beatles",
+        "Lugares históricos y monumentos": "Muelle Albert, Museo de los Beatles",
+        "Gastronomía": "Pescado con Patatas Fritas, Desayuno Inglés, Té de la Tarde, Roast Beef"
+      },
+      {
+        "Ciudad": "Bath",
+        "Atracciones": "Parque Sydney",
+        "Actividades": "Bañarse en los Baños Romanos",
+        "Lugares históricos y monumentos": "Baños Romanos, Royal Crescent",
+        "Gastronomía": "Pescado con Patatas Fritas, Desayuno Inglés, Té de la Tarde, Roast Beef"
+      },
+      {
+        "Ciudad": "Oxford",
+        "Atracciones": "Parques de la Universidad de Oxford",
+        "Actividades": "Visitar universidades históricas",
+        "Lugares históricos y monumentos": "Universidad de Oxford, Biblioteca Bodleian",
+        "Gastronomía": "Pescado con Patatas Fritas, Desayuno Inglés, Té de la Tarde, Roast Beef"
+      },
+      {
+        "Ciudad": "Cambridge",
+        "Atracciones": "Parques de la Universidad de Cambridge",
+        "Actividades": "Pasear en bote por el río",
+        "Lugares históricos y monumentos": "King's College, Puente Matemático",
+        "Gastronomía": "Pescado con Patatas Fritas, Desayuno Inglés, Té de la Tarde, Roast Beef"
+      },
+      {
+        "Ciudad": "York",
+        "Atracciones": "Jardines del Museo de York",
+        "Actividades": "Caminar sobre las murallas de la ciudad antigua",
+        "Lugares históricos y monumentos": "Minster de York, The Shambles",
+        "Gastronomía": "Pescado con Patatas Fritas, Desayuno Inglés, Té de la Tarde, Roast Beef"
+      },
+      {
+        "Ciudad": "Bristol",
+        "Atracciones": "Parque Brandon Hill",
+        "Actividades": "Ver el Puente Colgante de Clifton",
+        "Lugares históricos y monumentos": "Barco ss Great Britain",
+        "Gastronomía": "Pescado con Patatas Fritas, Desayuno Inglés, Té de la Tarde, Roast Beef"
+      },
+      {
+        "Ciudad": "Brighton",
+        "Atracciones": "Parque Brighton",
+        "Actividades": "Disfrutar de la playa y el paseo marítimo",
+        "Lugares históricos y monumentos": "Muelle de Brighton, Royal Pavilion",
+        "Gastronomía": "Pescado con Patatas Fritas, Desayuno Inglés, Té de la Tarde, Roast Beef"
+      },
+      {
+        "Ciudad": "Stratford",
+        "Atracciones": "Parque Stratford",
+        "Actividades": "Visitar el lugar de nacimiento de Shakespeare",
+        "Lugares históricos y monumentos": "Teatro Real de Shakespeare",
+        "Gastronomía": "Pescado con Patatas Fritas, Desayuno Inglés, Té de la Tarde, Roast Beef"
+      }
+    ],
+    "Parques y espacios verdes": [
+      "Parque Hyde (Londres)",
+      "Distrito de los Lagos",
+      "Jardines Botánicos Reales, Kew",
+      "Parque Nacional Peak District",
+      "Los Cotswolds (campiña)"
+    ]
+  },
+  {
+    "País": "Escocia",
+    "Región": "Europa (Norte)",
+    "Descripción": "Tierra de castillos y leyendas e impresionantes altas tierras verdes.",
+    "Ciudades": [
+      {
+        "Ciudad": "Edimburgo",
+        "Atracciones": "Parque Holyrood (Edimburgo)",
+        "Actividades": "Escalar Arthur's Seat, Festival de las Artes",
+        "Lugares históricos y monumentos": "Castillo de Edimburgo, Royal Mile",
+        "Gastronomía": "Haggis, Sopa Cullen Skink, Galletas Shortbread, Salmón Escocés"
+      },
+      {
+        "Ciudad": "Glasgow",
+        "Atracciones": "Parque Kelvingrove",
+        "Actividades": "Visitar museos de arte, compras",
+        "Lugares históricos y monumentos": "Catedral de Glasgow, Museo Kelvingrove",
+        "Gastronomía": "Haggis, Sopa Cullen Skink, Galletas Shortbread, Salmón Escocés"
+      },
+      {
+        "Ciudad": "Inverness",
+        "Atracciones": "Parque de las Islas Ness",
+        "Actividades": "Buscar el Monstruo del Lago Ness",
+        "Lugares históricos y monumentos": "Lago Ness, Castillo de Urquhart",
+        "Gastronomía": "Haggis, Sopa Cullen Skink, Galletas Shortbread, Salmón Escocés"
+      },
+      {
+        "Ciudad": "Aberdeen",
+        "Atracciones": "Parque Duthie",
+        "Actividades": "Ver edificios de granito",
+        "Lugares históricos y monumentos": "Parque Duthie, La Playa",
+        "Gastronomía": "Haggis, Sopa Cullen Skink, Galletas Shortbread, Salmón Escocés"
+      },
+      {
+        "Ciudad": "Dundee",
+        "Atracciones": "Parque Camperdown",
+        "Actividades": "Visitar el Museo de Diseño V&A",
+        "Lugares históricos y monumentos": "Barco Discovery",
+        "Gastronomía": "Haggis, Sopa Cullen Skink, Galletas Shortbread, Salmón Escocés"
+      },
+      {
+        "Ciudad": "Stirling",
+        "Atracciones": "Parque Kings",
+        "Actividades": "Explorar la historia de William Wallace",
+        "Lugares históricos y monumentos": "Monumento Wallace, Castillo de Stirling",
+        "Gastronomía": "Haggis, Sopa Cullen Skink, Galletas Shortbread, Salmón Escocés"
+      },
+      {
+        "Ciudad": "Fort William",
+        "Atracciones": "Parque Glenfinnan",
+        "Actividades": "Escalar la montaña Ben Nevis",
+        "Lugares históricos y monumentos": "Ben Nevis, Tren a Vapor Jacobita (Harry Potter)",
+        "Gastronomía": "Haggis, Sopa Cullen Skink, Galletas Shortbread, Salmón Escocés"
+      },
+      {
+        "Ciudad": "St Andrews",
+        "Atracciones": "Parque St Andrews",
+        "Actividades": "Visitar campos de golf históricos",
+        "Lugares históricos y monumentos": "Catedral en Ruinas, Universidad",
+        "Gastronomía": "Haggis, Sopa Cullen Skink, Galletas Shortbread, Salmón Escocés"
+      },
+      {
+        "Ciudad": "Oban",
+        "Atracciones": "Parque Oban",
+        "Actividades": "Comer marisco, viajes a islas",
+        "Lugares históricos y monumentos": "Torre McCaig",
+        "Gastronomía": "Haggis, Sopa Cullen Skink, Galletas Shortbread, Salmón Escocés"
+      },
+      {
+        "Ciudad": "Perth",
+        "Atracciones": "Parque Kings James",
+        "Actividades": "Visitar el Palacio Scone",
+        "Lugares históricos y monumentos": "Palacio Scone, Río Tay",
+        "Gastronomía": "Haggis, Sopa Cullen Skink, Galletas Shortbread, Salmón Escocés"
+      }
+    ],
+    "Parques y espacios verdes": [
+      "Parque Nacional Cairngorms",
+      "Loch Lomond y los Trossachs",
+      "Parque Holyrood (Edimburgo)",
+      "Isla de Skye (paisajes naturales)",
+      "Glen Coe (valle)"
+    ]
+  },
+  {
+    "País": "Gales",
+    "Región": "Europa (Oeste)",
+    "Descripción": "Tierra de castillos (la mayor densidad de castillos del mundo), costas agrestes y antigua lengua celta.",
+    "Ciudades": [
+      {
+        "Ciudad": "Cardiff",
+        "Atracciones": "Parque Bute",
+        "Actividades": "Visitar el castillo en el centro de la ciudad",
+        "Lugares históricos y monumentos": "Castillo de Cardiff, Bahía de Cardiff",
+        "Gastronomía": "Galletas Galesas, Cawl (sopa), Laverbread (alga marina), Queso Gales"
+      },
+      {
+        "Ciudad": "Swansea",
+        "Atracciones": "Parque Swansea",
+        "Actividades": "Disfrutar de las playas de la Península de Gower",
+        "Lugares históricos y monumentos": "Museo del Frente Marítimo, Bahía de Swansea",
+        "Gastronomía": "Galletas Galesas, Cawl (sopa), Laverbread (alga marina), Queso Gales"
+      },
+      {
+        "Ciudad": "St Davids",
+        "Atracciones": "Parque St Davids",
+        "Actividades": "Ciudad más pequeña de Gran Bretaña, visitar la catedral",
+        "Lugares históricos y monumentos": "Catedral de St Davids",
+        "Gastronomía": "Galletas Galesas, Cawl (sopa), Laverbread (alga marina), Queso Gales"
+      },
+      {
+        "Ciudad": "Conwy",
+        "Atracciones": "Parque Conwy",
+        "Actividades": "Caminar sobre las murallas de la ciudad",
+        "Lugares históricos y monumentos": "Castillo de Conwy, Casa más pequeña de Gran Bretaña",
+        "Gastronomía": "Galletas Galesas, Cawl (sopa), Laverbread (alga marina), Queso Gales"
+      },
+      {
+        "Ciudad": "Aberystwyth",
+        "Atracciones": "Parque Aberystwyth",
+        "Actividades": "Viajar en el ferrocarril de montaña, caminar por la costa",
+        "Lugares históricos y monumentos": "El Castillo, Biblioteca Nacional",
+        "Gastronomía": "Galletas Galesas, Cawl (sopa), Laverbread (alga marina), Queso Gales"
+      },
+      {
+        "Ciudad": "Caernarfon",
+        "Atracciones": "Parque Caernarfon",
+        "Actividades": "Visitar el castillo real",
+        "Lugares históricos y monumentos": "Castillo de Caernarfon (patrimonio mundial)",
+        "Gastronomía": "Galletas Galesas, Cawl (sopa), Laverbread (alga marina), Queso Gales"
+      },
+      {
+        "Ciudad": "Tenby",
+        "Atracciones": "Parque Tenby",
+        "Actividades": "Relajarse en playas coloridas",
+        "Lugares históricos y monumentos": "Playa del Castillo, Casas Coloridas",
+        "Gastronomía": "Galletas Galesas, Cawl (sopa), Laverbread (alga marina), Queso Gales"
+      },
+      {
+        "Ciudad": "Llangollen",
+        "Atracciones": "Parque Llangollen",
+        "Actividades": "Paseos en barco por el canal, festival de música",
+        "Lugares históricos y monumentos": "Acueducto Pontcysyllte",
+        "Gastronomía": "Galletas Galesas, Cawl (sopa), Laverbread (alga marina), Queso Gales"
+      },
+      {
+        "Ciudad": "Bangor",
+        "Atracciones": "Parque Bangor",
+        "Actividades": "Caminar por el largo paseo marítimo",
+        "Lugares históricos y monumentos": "Muelle de Bangor, Catedral de Bangor",
+        "Gastronomía": "Galletas Galesas, Cawl (sopa), Laverbread (alga marina), Queso Gales"
+      },
+      {
+        "Ciudad": "Hay-on-Wye",
+        "Atracciones": "Parque Hay-on-Wye",
+        "Actividades": "Visitar docenas de librerías de segunda mano",
+        "Lugares históricos y monumentos": "Castillo de Hay, Festival Literario",
+        "Gastronomía": "Galletas Galesas, Cawl (sopa), Laverbread (alga marina), Queso Gales"
+      }
+    ],
+    "Parques y espacios verdes": [
+      "Snowdonia (escalada en montaña)",
+      "Brecon Beacons (cataratas)",
+      "Costa de Pembrokeshire",
+      "Jardines Bodnant",
+      "Bosque Coed y Brenin"
+    ]
+  },
+  {
+    "País": "Irlanda",
+    "Región": "Europa (Oeste)",
+    "Descripción": "La Isla Esmeralda, famosa por su gente amigable, música tradicional y paisajes verdes interminables.",
+    "Ciudades": [
+      {
+        "Ciudad": "Dublín",
+        "Atracciones": "Parque Phoenix (Dublín)",
+        "Actividades": "Visitar la Biblioteca del Trinity College, zona de Temple Bar",
+        "Lugares históricos y monumentos": "Castillo de Dublín, Guinness Storehouse",
+        "Gastronomía": "Estofado Irlandés, Pan de Soda, Colcannon (patatas y col), Boxty (panqueca de patata)"
+      },
+      {
+        "Ciudad": "Cork",
+        "Atracciones": "Parque Fitzwilliam",
+        "Actividades": "Visitar el Mercado Inglés, tocar las campanas de Shandon",
+        "Lugares históricos y monumentos": "Cárcel de la Ciudad de Cork, Castillo de Blarney",
+        "Gastronomía": "Estofado Irlandés, Pan de Soda, Colcannon (patatas y col), Boxty (panqueca de patata)"
+      },
+      {
+        "Ciudad": "Galway",
+        "Atracciones": "Parque Eyre",
+        "Actividades": "Escuchar música callejera, festivales",
+        "Lugares históricos y monumentos": "Arco Español, La Catedral",
+        "Gastronomía": "Estofado Irlandés, Pan de Soda, Colcannon (patatas y col), Boxty (panqueca de patata)"
+      },
+      {
+        "Ciudad": "Killarney",
+        "Atracciones": "Parque Nacional Killarney",
+        "Actividades": "Paseos en coche de caballo, explorar el parque nacional",
+        "Lugares históricos y monumentos": "Casa Muckross, Desfiladero de Dunloe",
+        "Gastronomía": "Estofado Irlandés, Pan de Soda, Colcannon (patatas y col), Boxty (panqueca de patata)"
+      },
+      {
+        "Ciudad": "Limerick",
+        "Atracciones": "Parque Barnard",
+        "Actividades": "Visitar el Castillo del Rey Juan",
+        "Lugares históricos y monumentos": "Museo Hunt, Mercado de la Leche",
+        "Gastronomía": "Estofado Irlandés, Pan de Soda, Colcannon (patatas y col), Boxty (panqueca de patata)"
+      },
+      {
+        "Ciudad": "Waterford",
+        "Atracciones": "Parque Waterford",
+        "Actividades": "Visitar la fábrica de cristal, Barrio Vikingo",
+        "Lugares históricos y monumentos": "Torre de Reginald, Casa del Cristal de Waterford",
+        "Gastronomía": "Estofado Irlandés, Pan de Soda, Colcannon (patatas y col), Boxty (panqueca de patata)"
+      },
+      {
+        "Ciudad": "Kilkenny",
+        "Atracciones": "Parque Kilkenny",
+        "Actividades": "Explorar la ciudad medieval",
+        "Lugares históricos y monumentos": "Castillo de Kilkenny, Catedral de San Canicio",
+        "Gastronomía": "Estofado Irlandés, Pan de Soda, Colcannon (patatas y col), Boxty (panqueca de patata)"
+      },
+      {
+        "Ciudad": "Westport",
+        "Atracciones": "Parque Westport",
+        "Actividades": "Escalar la montaña Croagh Patrick, ciclismo",
+        "Lugares históricos y monumentos": "Casa Westport, La Bahía",
+        "Gastronomía": "Estofado Irlandés, Pan de Soda, Colcannon (patatas y col), Boxty (panqueca de patata)"
+      },
+      {
+        "Ciudad": "Dingle",
+        "Atracciones": "Parque Dingle",
+        "Actividades": "Viaje en barco para ver delfines",
+        "Lugares históricos y monumentos": "Península de Dingle, Slea Head Drive",
+        "Gastronomía": "Estofado Irlandés, Pan de Soda, Colcannon (patatas y col), Boxty (panqueca de patata)"
+      },
+      {
+        "Ciudad": "Sligo",
+        "Atracciones": "Parque Sligo",
+        "Actividades": "Explorar sitios de Yeats",
+        "Lugares históricos y monumentos": "Montaña Benbulben, Abadía de Sligo",
+        "Gastronomía": "Estofado Irlandés, Pan de Soda, Colcannon (patatas y col), Boxty (panqueca de patata)"
+      }
+    ],
+    "Parques y espacios verdes": [
+      "Parque Nacional Killarney",
+      "Acantilados de Moher (acantilados)",
+      "Parque Phoenix (Dublín)",
+      "Parque Nacional de las Montañas Wicklow",
+      "El Burren (naturaleza rocosa)"
+    ]
+  },
+  {
+    "País": "Tailandia",
+    "Región": "Asia (Sudeste)",
+    "Descripción": "Tierra de Sonrisas, un destino mundial de playas tropicales, templos dorados y deliciosa comida.",
+    "Ciudades": [
+      {
+        "Ciudad": "Bangkok",
+        "Atracciones": "Parque Lumphini",
+        "Actividades": "Viajar en tuk-tuks, visitar templos, compras",
+        "Lugares históricos y monumentos": "Gran Palacio, Templo Wat Arun",
+        "Gastronomía": "Pad Thai, Tom Yum (sopa), Som Tam (ensalada de papaya), Curry Verde"
+      },
+      {
+        "Ciudad": "Chiang Mai",
+        "Atracciones": "Parque Chiang Mai",
+        "Actividades": "Visitar santuarios de elefantes, templos de montaña",
+        "Lugares históricos y monumentos": "Doi Suthep, Ciudad Antigua",
+        "Gastronomía": "Pad Thai, Tom Yum (sopa), Som Tam (ensalada de papaya), Curry Verde"
+      },
+      {
+        "Ciudad": "Phuket",
+        "Atracciones": "Parque Phuket",
+        "Actividades": "Relajarse en playas, viajes en barco",
+        "Lugares históricos y monumentos": "Bahía Pan Nai, Playa Patong",
+        "Gastronomía": "Pad Thai, Tom Yum (sopa), Som Tam (ensalada de papaya), Curry Verde"
+      },
+      {
+        "Ciudad": "Ayutthaya",
+        "Atracciones": "Parque Ayutthaya",
+        "Actividades": "Explorar ruinas históricas antiguas",
+        "Lugares históricos y monumentos": "Parque Histórico de Ayutthaya",
+        "Gastronomía": "Pad Thai, Tom Yum (sopa), Som Tam (ensalada de papaya), Curry Verde"
+      },
+      {
+        "Ciudad": "Krabi",
+        "Atracciones": "Parque Krabi",
+        "Actividades": "Escalada en roca, natación en aguas turquesas",
+        "Lugares históricos y monumentos": "Playa Railay, Templo de la Cueva del Tigre",
+        "Gastronomía": "Pad Thai, Tom Yum (sopa), Som Tam (ensalada de papaya), Curry Verde"
+      },
+      {
+        "Ciudad": "Pattaya",
+        "Atracciones": "Parque Nong Nooch",
+        "Actividades": "Deportes acuáticos, jardines botánicos",
+        "Lugares históricos y monumentos": "Jardín Nong Nooch, Santuario de la Verdad",
+        "Gastronomía": "Pad Thai, Tom Yum (sopa), Som Tam (ensalada de papaya), Curry Verde"
+      },
+      {
+        "Ciudad": "Hua Hin",
+        "Atracciones": "Parque Hua Hin",
+        "Actividades": "Equitación en la playa, mercados nocturnos",
+        "Lugares históricos y monumentos": "Estación de Tren de Hua Hin, Mercado Nocturno",
+        "Gastronomía": "Pad Thai, Tom Yum (sopa), Som Tam (ensalada de papaya), Curry Verde"
+      },
+      {
+        "Ciudad": "Pai",
+        "Atracciones": "Parque Pai",
+        "Actividades": "Relajarse en aguas termales, naturaleza",
+        "Lugares históricos y monumentos": "Valle de Pai, Cataratas",
+        "Gastronomía": "Pad Thai, Tom Yum (sopa), Som Tam (ensalada de papaya), Curry Verde"
+      },
+      {
+        "Ciudad": "Kanchanaburi",
+        "Atracciones": "Parque Kanchanaburi",
+        "Actividades": "Visitar cataratas y sitios históricos",
+        "Lugares históricos y monumentos": "Puente sobre el Río Kwai, Cataratas Erawan",
+        "Gastronomía": "Pad Thai, Tom Yum (sopa), Som Tam (ensalada de papaya), Curry Verde"
+      },
+      {
+        "Ciudad": "Sukhothai",
+        "Atracciones": "Parque Sukhothai",
+        "Actividades": "Ciclismo entre ruinas",
+        "Lugares históricos y monumentos": "Parque Histórico de Sukhothai",
+        "Gastronomía": "Pad Thai, Tom Yum (sopa), Som Tam (ensalada de papaya), Curry Verde"
+      }
+    ],
+    "Parques y espacios verdes": [
+      "Parque Nacional Erawan (cataratas)",
+      "Parque Nacional Khao Sok (selva tropical)",
+      "Parque Nacional Doi Inthanon (pico más alto)",
+      "Bahía Maya (Phi Phi)",
+      "Parque Marino Mu Ko Ang Thong"
+    ]
+  },
+  {
+    "País": "Perú",
+    "Región": "América del Sur",
+    "Descripción": "Hogar de la gran civilización inca, imponentes montañas andinas y selvas amazónicas.",
+    "Ciudades": [
+      {
+        "Ciudad": "Lima",
+        "Atracciones": "Parque Larco",
+        "Actividades": "Probar cocina mundial, visitar museos",
+        "Lugares históricos y monumentos": "Plaza de Armas, Distrito de Miraflores",
+        "Gastronomía": "Ceviche, Lomo Saltado (carne salteada), Cuy (conejillo de indias), Ají de Gallina"
+      },
+      {
+        "Ciudad": "Cusco",
+        "Atracciones": "Parque Sapa",
+        "Actividades": "Explorar la capital inca, aclimatar a la altitud",
+        "Lugares históricos y monumentos": "Plaza de Armas, Sacsayhuamán",
+        "Gastronomía": "Ceviche, Lomo Saltado (carne salteada), Cuy (conejillo de indias), Ají de Gallina"
+      },
+      {
+        "Ciudad": "Machu Picchu (Aguas Calientes)",
+        "Atracciones": "Parque Machu Picchu",
+        "Actividades": "Visitar la ciudad perdida (maravilla del mundo)",
+        "Lugares históricos y monumentos": "Ruinas de Machu Picchu",
+        "Gastronomía": "Ceviche, Lomo Saltado (carne salteada), Cuy (conejillo de indias), Ají de Gallina"
+      },
+      {
+        "Ciudad": "Arequipa",
+        "Atracciones": "Parque Arequipa",
+        "Actividades": "Ver arquitectura blanca (Ciudad Blanca)",
+        "Lugares históricos y monumentos": "Monasterio de Santa Catalina, Volcán Misti",
+        "Gastronomía": "Ceviche, Lomo Saltado (carne salteada), Cuy (conejillo de indias), Ají de Gallina"
+      },
+      {
+        "Ciudad": "Puno",
+        "Atracciones": "Parque Puno",
+        "Actividades": "Visitar islas flotantes en el Lago Titicaca",
+        "Lugares históricos y monumentos": "Lago Titicaca, Islas Uros",
+        "Gastronomía": "Ceviche, Lomo Saltado (carne salteada), Cuy (conejillo de indias), Ají de Gallina"
+      },
+      {
+        "Ciudad": "Iquitos",
+        "Atracciones": "Parque Iquitos",
+        "Actividades": "Puerta de entrada a la Amazonía, viajes fluviales",
+        "Lugares históricos y monumentos": "Río Amazonas, Centro de Rescate de Manatíes",
+        "Gastronomía": "Ceviche, Lomo Saltado (carne salteada), Cuy (conejillo de indias), Ají de Gallina"
+      },
+      {
+        "Ciudad": "Nazca",
+        "Atracciones": "Parque Nazca",
+        "Actividades": "Sobrevolar misteriosas Líneas de Nazca",
+        "Lugares históricos y monumentos": "Geoglifos de las Líneas de Nazca",
+        "Gastronomía": "Ceviche, Lomo Saltado (carne salteada), Cuy (conejillo de indias), Ají de Gallina"
+      },
+      {
+        "Ciudad": "Paracas",
+        "Atracciones": "Parque Paracas",
+        "Actividades": "Tours en barco para ver vida marina",
+        "Lugares históricos y monumentos": "Reserva de Paracas, Islas Ballestas",
+        "Gastronomía": "Ceviche, Lomo Saltado (carne salteada), Cuy (conejillo de indias), Ají de Gallina"
+      },
+      {
+        "Ciudad": "Huaraz",
+        "Atracciones": "Parque Huaraz",
+        "Actividades": "Escalada en montaña y senderismo en los Andes",
+        "Lugares históricos y monumentos": "Parque Nacional Huascarán",
+        "Gastronomía": "Ceviche, Lomo Saltado (carne salteada), Cuy (conejillo de indias), Ají de Gallina"
+      },
+      {
+        "Ciudad": "Trujillo",
+        "Atracciones": "Parque Trujillo",
+        "Actividades": "Visitar sitios arqueológicos pre-incas de arcilla",
+        "Lugares históricos y monumentos": "Chan Chan, Templo del Sol y la Luna",
+        "Gastronomía": "Ceviche, Lomo Saltado (carne salteada), Cuy (conejillo de indias), Ají de Gallina"
+      }
+    ],
+    "Parques y espacios verdes": [
+      "Parque Nacional Manu (Amazonía)",
+      "Parque Nacional Huascarán",
+      "Cañón del Colca (cóndores)",
+      "Huacachina (oasis del desierto)",
+      "Reserva de Paracas"
+    ]
+  },
+  {
+    "País": "Bélgica",
+    "Región": "Europa (Oeste)",
+    "Descripción": "Corazón de Europa, famoso por sus ciudades históricas, chocolate de lujo y cómics.",
+    "Ciudades": [
+      {
+        "Ciudad": "Bruselas",
+        "Atracciones": "Parque de Bruselas",
+        "Actividades": "Visitar la Grand Place, sede de la UE",
+        "Lugares históricos y monumentos": "Grand Place, Atomium",
+        "Gastronomía": "Gofre Belga, Chocolate, Mejillones con Patatas Fritas, Patatas Fritas"
+      },
+      {
+        "Ciudad": "Brujas",
+        "Atracciones": "Parque de Brujas",
+        "Actividades": "Paseos en barco por los canales (Venecia del Norte)",
+        "Lugares históricos y monumentos": "Torre del Campanario, Lago del Amor",
+        "Gastronomía": "Gofre Belga, Chocolate, Mejillones con Patatas Fritas, Patatas Fritas"
+      },
+      {
+        "Ciudad": "Gante",
+        "Atracciones": "Parque de Gante",
+        "Actividades": "Ver castillos en el centro de la ciudad",
+        "Lugares históricos y monumentos": "Castillo de los Condes, Catedral de San Bavón",
+        "Gastronomía": "Gofre Belga, Chocolate, Mejillones con Patatas Fritas, Patatas Fritas"
+      },
+      {
+        "Ciudad": "Amberes",
+        "Atracciones": "Parque de Amberes",
+        "Actividades": "Visitar el distrito de diamantes, hermosa estación de tren",
+        "Lugares históricos y monumentos": "Catedral de Nuestra Señora, Museo del Diamante",
+        "Gastronomía": "Gofre Belga, Chocolate, Mejillones con Patatas Fritas, Patatas Fritas"
+      },
+      {
+        "Ciudad": "Lovaina",
+        "Atracciones": "Parque de Lovaina",
+        "Actividades": "Visitar la antigua universidad, plaza del mercado antiguo",
+        "Lugares históricos y monumentos": "Ayuntamiento, Biblioteca Universitaria",
+        "Gastronomía": "Gofre Belga, Chocolate, Mejillones con Patatas Fritas, Patatas Fritas"
+      },
+      {
+        "Ciudad": "Dinant",
+        "Atracciones": "Parque de Dinant",
+        "Actividades": "Teleférico a la fortaleza, lugar de nacimiento del saxofón",
+        "Lugares históricos y monumentos": "La Ciudadela, Roca Bayard",
+        "Gastronomía": "Gofre Belga, Chocolate, Mejillones con Patatas Fritas, Patatas Fritas"
+      },
+      {
+        "Ciudad": "Lieja",
+        "Atracciones": "Parque de Lieja",
+        "Actividades": "Escalar las escaleras Montagne de Bueren, probar gofres",
+        "Lugares históricos y monumentos": "Montaña de Bueren, Estación Guillemins",
+        "Gastronomía": "Gofre Belga, Chocolate, Mejillones con Patatas Fritas, Patatas Fritas"
+      },
+      {
+        "Ciudad": "Malinas",
+        "Atracciones": "Parque de Malinas",
+        "Actividades": "Visitar la Torre de San Rumoldo",
+        "Lugares históricos y monumentos": "Museo del Juguete, Catedral",
+        "Gastronomía": "Gofre Belga, Chocolate, Mejillones con Patatas Fritas, Patatas Fritas"
+      },
+      {
+        "Ciudad": "Namur",
+        "Atracciones": "Parque de Namur",
+        "Actividades": "Explorar la fortaleza en la confluencia de dos ríos",
+        "Lugares históricos y monumentos": "Fortaleza de Namur",
+        "Gastronomía": "Gofre Belga, Chocolate, Mejillones con Patatas Fritas, Patatas Fritas"
+      },
+      {
+        "Ciudad": "Ostende",
+        "Atracciones": "Parque de Ostende",
+        "Actividades": "Disfrutar de la playa del norte",
+        "Lugares históricos y monumentos": "Paseo Marítimo, Museos Marítimos",
+        "Gastronomía": "Gofre Belga, Chocolate, Mejillones con Patatas Fritas, Patatas Fritas"
+      }
+    ],
+    "Parques y espacios verdes": [
+      "Hallerbos (Bosque de las Campanillas Azules)",
+      "Parque Nacional Hoge Kempen",
+      "Jardines del Castillo de Freÿr",
+      "Parque Natural Zwin (costa)",
+      "Jardín Botánico de Meise"
+    ]
+  },
+  {
+    "País": "Polonia",
+    "Región": "Europa (Central)",
+    "Descripción": "Historia rica, ciudades coloridas restauradas bellamente y naturaleza diversa desde lagos hasta montañas.",
+    "Ciudades": [
+      {
+        "Ciudad": "Cracovia",
+        "Atracciones": "Parque Cracovia",
+        "Actividades": "Visitar la plaza principal, mina de sal",
+        "Lugares históricos y monumentos": "Castillo de Wawel, Lonja de los Paños",
+        "Gastronomía": "Pierogi (empanadillas), Bigos (estofado de cazador), Żurek (sopa de centeno agrio), Kielbasa (salchicha)"
+      },
+      {
+        "Ciudad": "Varsovia",
+        "Atracciones": "Parque Łazienki (Varsovia)",
+        "Actividades": "Explorar la ciudad antigua restaurada",
+        "Lugares históricos y monumentos": "Castillo Real, Palacio de la Cultura y la Ciencia",
+        "Gastronomía": "Pierogi (empanadillas), Bigos (estofado de cazador), Żurek (sopa de centeno agrio), Kielbasa (salchicha)"
+      },
+      {
+        "Ciudad": "Gdansk",
+        "Atracciones": "Parque Gdansk",
+        "Actividades": "Caminar en el puerto histórico, comprar ámbar",
+        "Lugares históricos y monumentos": "Fuente de Neptuno, Grúa Antigua",
+        "Gastronomía": "Pierogi (empanadillas), Bigos (estofado de cazador), Żurek (sopa de centeno agrio), Kielbasa (salchicha)"
+      },
+      {
+        "Ciudad": "Wrocław",
+        "Atracciones": "Parque Wrocław",
+        "Actividades": "Buscar estatuas de enanos de bronce",
+        "Lugares históricos y monumentos": "Plaza del Mercado, Centennial Hall",
+        "Gastronomía": "Pierogi (empanadillas), Bigos (estofado de cazador), Żurek (sopa de centeno agrio), Kielbasa (salchicha)"
+      },
+      {
+        "Ciudad": "Poznan",
+        "Atracciones": "Parque Poznan",
+        "Actividades": "Ver los cabritos mecánicos del reloj del ayuntamiento",
+        "Lugares históricos y monumentos": "Ayuntamiento, Plaza del Mercado Antiguo",
+        "Gastronomía": "Pierogi (empanadillas), Bigos (estofado de cazador), Żurek (sopa de centeno agrio), Kielbasa (salchicha)"
+      },
+      {
+        "Ciudad": "Zakopane",
+        "Atracciones": "Parque Zakopane",
+        "Actividades": "Esquiar en invierno, senderismo en montaña en verano",
+        "Lugares históricos y monumentos": "Montañas Tatra, Calle Krupówki",
+        "Gastronomía": "Pierogi (empanadillas), Bigos (estofado de cazador), Żurek (sopa de centeno agrio), Kielbasa (salchicha)"
+      },
+      {
+        "Ciudad": "Torun",
+        "Atracciones": "Parque Torun",
+        "Actividades": "Probar pan de jengibre, lugar de nacimiento de Copérnico",
+        "Lugares históricos y monumentos": "Ciudad Antigua Gótica",
+        "Gastronomía": "Pierogi (empanadillas), Bigos (estofado de cazador), Żurek (sopa de centeno agrio), Kielbasa (salchicha)"
+      },
+      {
+        "Ciudad": "Lublin",
+        "Atracciones": "Parque Lublin",
+        "Actividades": "Visitar el castillo y la tranquila ciudad antigua",
+        "Lugares históricos y monumentos": "Castillo de Lublin",
+        "Gastronomía": "Pierogi (empanadillas), Bigos (estofado de cazador), Żurek (sopa de centeno agrio), Kielbasa (salchicha)"
+      },
+      {
+        "Ciudad": "Szczecin",
+        "Atracciones": "Parque Szczecin",
+        "Actividades": "Visitar el castillo de los duques",
+        "Lugares históricos y monumentos": "Wały Chrobrego (Malecónes de Chrobry)",
+        "Gastronomía": "Pierogi (empanadillas), Bigos (estofado de cazador), Żurek (sopa de centeno agrio), Kielbasa (salchicha)"
+      },
+      {
+        "Ciudad": "Katowice",
+        "Atracciones": "Parque Katowice",
+        "Actividades": "Explorar arquitectura moderna y minas antiguas",
+        "Lugares históricos y monumentos": "Museo de Silesia, Spodek",
+        "Gastronomía": "Pierogi (empanadillas), Bigos (estofado de cazador), Żurek (sopa de centeno agrio), Kielbasa (salchicha)"
+      }
+    ],
+    "Parques y espacios verdes": [
+      "Bosque de Białowieża (bosque más antiguo de Europa)",
+      "Parque Nacional Tatra (montañas)",
+      "Distrito de los Lagos Masurianos",
+      "Parque Nacional Słowiński (dunas de arena)",
+      "Parque Łazienki (Varsovia)"
+    ]
+  },
+  {
+    "País": "Panamá",
+    "Región": "América del Norte y Central",
+    "Descripción": "Puente entre continentes, famoso por su famoso canal, rascacielos y selvas tropicales.",
+    "Ciudades": [
+      {
+        "Ciudad": "Ciudad de Panamá",
+        "Atracciones": "Parque Metropolitano",
+        "Actividades": "Visitar el canal, caminar por Casco Viejo",
+        "Lugares históricos y monumentos": "Canal de Panamá (Esclusas Miraflores), Ciudad Antigua",
+        "Gastronomía": "Ceviche, Sancocho (sopa de pollo), Arroz con Pollo, Hojaldres (pan frito)"
+      },
+      {
+        "Ciudad": "Bocas del Toro",
+        "Atracciones": "Parque Bocas",
+        "Actividades": "Surf, relajarse en islas",
+        "Lugares históricos y monumentos": "Playa de Estrellas de Mar, Isla Principal",
+        "Gastronomía": "Ceviche, Sancocho (sopa de pollo), Arroz con Pollo, Hojaldres (pan frito)"
+      },
+      {
+        "Ciudad": "Boquete",
+        "Atracciones": "Parque Boquete",
+        "Actividades": "Escalar el Volcán Barú, probar café",
+        "Lugares históricos y monumentos": "Volcán Barú, Fincas de Café",
+        "Gastronomía": "Ceviche, Sancocho (sopa de pollo), Arroz con Pollo, Hojaldres (pan frito)"
+      },
+      {
+        "Ciudad": "David",
+        "Atracciones": "Parque David",
+        "Actividades": "Centro comercial y puerta de entrada a las montañas",
+        "Lugares históricos y monumentos": "Parque Miguel de Cervantes",
+        "Gastronomía": "Ceviche, Sancocho (sopa de pollo), Arroz con Pollo, Hojaldres (pan frito)"
+      },
+      {
+        "Ciudad": "Colón",
+        "Atracciones": "Parque Colón",
+        "Actividades": "Compras en la zona franca, visitar fuertes",
+        "Lugares históricos y monumentos": "Fortaleza de San Lorenzo, Canal",
+        "Gastronomía": "Ceviche, Sancocho (sopa de pollo), Arroz con Pollo, Hojaldres (pan frito)"
+      },
+      {
+        "Ciudad": "Portobelo",
+        "Atracciones": "Parque Portobelo",
+        "Actividades": "Explorar fortalezas históricas y buceo",
+        "Lugares históricos y monumentos": "Casa de la Aduana, Iglesia del Cristo Negro",
+        "Gastronomía": "Ceviche, Sancocho (sopa de pollo), Arroz con Pollo, Hojaldres (pan frito)"
+      },
+      {
+        "Ciudad": "Santa Catalina",
+        "Atracciones": "Parque Santa Catalina",
+        "Actividades": "Surf y buceo en la Isla Coiba",
+        "Lugares históricos y monumentos": "Playa Estero",
+        "Gastronomía": "Ceviche, Sancocho (sopa de pollo), Arroz con Pollo, Hojaldres (pan frito)"
+      },
+      {
+        "Ciudad": "El Valle de Antón",
+        "Atracciones": "Parque El Valle",
+        "Actividades": "Visitar el mercado en cráter volcánico extinto",
+        "Lugares históricos y monumentos": "Indio Dormido (montaña), Zoológico",
+        "Gastronomía": "Ceviche, Sancocho (sopa de pollo), Arroz con Pollo, Hojaldres (pan frito)"
+      },
+      {
+        "Ciudad": "Chitré",
+        "Atracciones": "Parque Chitré",
+        "Actividades": "Explorar cultura tradicional y festivales",
+        "Lugares históricos y monumentos": "Catedral San Juan Bautista",
+        "Gastronomía": "Ceviche, Sancocho (sopa de pollo), Arroz con Pollo, Hojaldres (pan frito)"
+      },
+      {
+        "Ciudad": "Islas San Blas",
+        "Atracciones": "Parque San Blas",
+        "Actividades": "Vivir con tribus Kuna, playas vírgenes",
+        "Lugares históricos y monumentos": "Islas de Coral",
+        "Gastronomía": "Ceviche, Sancocho (sopa de pollo), Arroz con Pollo, Hojaldres (pan frito)"
+      }
+    ],
+    "Parques y espacios verdes": [
+      "Parque Nacional Coiba (buceo)",
+      "Parque Nacional Soberanía (aves)",
+      "Parque Volcán Barú",
+      "Parque Natural Metropolitano",
+      "Archipiélago de Bocas del Toro"
+    ]
+  },
+  {
+    "País": "Otros Países Seleccionados",
+    "Región": "África",
+    "Descripción": "Una selección de países adicionales de tu lista: Benín, Botsuana, Burkina Faso, Burundi, Belice, Bahamas, Antigua, Bangladesh, Bután, Bolivia, Bulgaria.",
+    "Ciudades": [
+      {
+        "Ciudad": "Botsuana - Gaborone",
+        "Atracciones": "Reserva de Gaborone",
+        "Actividades": "Safari y reservas naturales",
+        "Lugares históricos y monumentos": "Reserva de Gaborone",
+        "Gastronomía": "Seswaa (carne de Botsuana)"
+      },
+      {
+        "Ciudad": "Belice - Ciudad de Belice",
+        "Atracciones": "Museo de Belice",
+        "Actividades": "Bucear en el Gran Agujero Azul",
+        "Lugares históricos y monumentos": "Museo de Belice",
+        "Gastronomía": "Buñuelos de caracol (Belice)"
+      },
+      {
+        "Ciudad": "Bahamas - Nasáu",
+        "Atracciones": "Isla Paraíso",
+        "Actividades": "Playas y complejos turísticos",
+        "Lugares históricos y monumentos": "Isla Paraíso",
+        "Gastronomía": "Ensalada de caracol (Bahamas)"
+      },
+      {
+        "Ciudad": "Bolivia - La Paz",
+        "Atracciones": "Mercado de las Brujas",
+        "Actividades": "Viaje en teleférico (Mi Teleferico)",
+        "Lugares históricos y monumentos": "Mercado de las Brujas",
+        "Gastronomía": "Salteñas (Bolivia)"
+      },
+      {
+        "Ciudad": "Bulgaria - Sofía",
+        "Atracciones": "Parque de Sofía",
+        "Actividades": "Visitar catedrales ortodoxas",
+        "Lugares históricos y monumentos": "Catedral Alexander Nevsky",
+        "Gastronomía": "Banitsa (Bulgaria)"
+      },
+      {
+        "Ciudad": "Bangladesh - Daca",
+        "Atracciones": "Parque de Daca",
+        "Actividades": "Visitar fuertes y mercados abarrotados",
+        "Lugares históricos y monumentos": "Fuerte Lalbagh",
+        "Gastronomía": "Biryani (Bangladesh)"
+      },
+      {
+        "Ciudad": "Bután - Timbu",
+        "Atracciones": "Parque de Timbu",
+        "Actividades": "Visitar monasterios de montaña",
+        "Lugares históricos y monumentos": "Estatua de Buda Dordenma",
+        "Gastronomía": "Ema Datshi (Bután)"
+      },
+      {
+        "Ciudad": "Benín - Cotonú",
+        "Atracciones": "Parque de Cotonú",
+        "Actividades": "Visitar mercados y playas",
+        "Lugares históricos y monumentos": "Fundación Zinsou",
+        "Gastronomía": "Akassa (Benín)"
+      },
+      {
+        "Ciudad": "Burkina Faso - Uagadugú",
+        "Atracciones": "Parque de Uagadugú",
+        "Actividades": "Festivales de cine y artesanías",
+        "Lugares históricos y monumentos": "Aldea de Artesanos",
+        "Gastronomía": "Tô (Burkina Faso)"
+      },
+      {
+        "Ciudad": "Antigua - St. John's",
+        "Atracciones": "Parque de St. John's",
+        "Actividades": "Playas de arena blanca",
+        "Lugares históricos y monumentos": "Catedral de St. John's",
+        "Gastronomía": "Fungee (Antigua)"
+      }
+    ],
+    "Parques y espacios verdes": [
+      "Delta del Okavango (Botsuana)",
+      "Gran Agujero Azul (Belice)",
+      "Salar de Uyuni (Bolivia - salar)",
+      "Parque Nacional Rila (Bulgaria)",
+      "Bosque Sundarbans (Bangladesh)"
+    ]
+  }
+]

@@ -1,0 +1,927 @@
+[
+  {
+    "Pays": "Azerbaïdjan",
+    "Villes": [
+      {
+        "Ville": "Bakou",
+        "Monuments_historiques_et_architecturaux": "La Vieille ville (İçəri Şəhər), la Tour de la Vierge, le Palais des Chahs de Chirvan, les Tours de la Flamme, le Centre Heydar Aliyev, la Place des Fontaines, Mini Venise, le Musée du Tapis.",
+        "Spécialités_culinaires_locales": "Le Plov, le Kebab azerbaïdjanais, les Dushbara.",
+        "Espaces_verts_et_paysages": "Le Parc national de Bakou (Boulevard), le parc de Javanshir, le parc Dynamo, les paysages côtiers de la mer Caspienne."
+      },
+      {
+        "Ville": "Gandja",
+        "Monuments_historiques_et_architecturaux": "La région de Nizami Gandjavi, les mosquées historiques, les mausolées.",
+        "Spécialités_culinaires_locales": "Le Plov, le Kebab, les Dushbara.",
+        "Espaces_verts_et_paysages": "De beaux jardins (mentionnés dans le dossier), la rivière Gandja Tchay, et les zones rurales verdoyantes environnantes."
+      },
+      {
+        "Ville": "Chaki",
+        "Monuments_historiques_et_architecturaux": "Le Palais des Khans de Chaki, le marché local de l'artisanat, le théâtre.",
+        "Spécialités_culinaires_locales": "La cuisine distinctive de Chaki, le Plov.",
+        "Espaces_verts_et_paysages": "Le Petit Caucase, les forêts de Chaki, et la nature campagne verte."
+      },
+      {
+        "Ville": "Qabala",
+        "Monuments_historiques_et_architecturaux": "(La vieille ville, la mosquée de Qabala).",
+        "Spécialités_culinaires_locales": "Le Plov, le Kebab.",
+        "Espaces_verts_et_paysages": "Le Grand Caucase du Nord, des paysages à couper le souffle, le lac de Nohur (Nohur Göl)."
+      },
+      {
+        "Ville": "Quba",
+        "Monuments_historiques_et_architecturaux": "Les régions montagneuses, la mosquée de montagne.",
+        "Spécialités_culinaires_locales": "Le Plov, le Kebab.",
+        "Espaces_verts_et_paysages": "Les régions montagneuses, les jardins naturels, la forêt de Qırmızı Qəsəbə (Red Kasaba) et la rivière Gudyalchay."
+      },
+      {
+        "Ville": "Lankaran",
+        "Monuments_historiques_et_architecturaux": "La forteresse historique de Lankaran, le phare.",
+        "Spécialités_culinaires_locales": "Le Plov, le Kebab.",
+        "Espaces_verts_et_paysages": "Les zones côtières de la mer Caspienne, le parc national de Hyrcan (Hyrcan National Park) à proximité."
+      },
+      {
+        "Ville": "Sumqayit",
+        "Monuments_historiques_et_architecturaux": "Les grands bâtiments industriels, la tour de l'horloge.",
+        "Spécialités_culinaires_locales": "Le Plov, le Kebab.",
+        "Espaces_verts_et_paysages": "Les plages de Sumqayit sur la mer Caspienne, et la place Fakhaddin Asadov (parc central)."
+      },
+      {
+        "Ville": "Mingachevir",
+        "Monuments_historiques_et_architecturaux": "Les monuments anciens et historiques, le réservoir d'eau.",
+        "Spécialités_culinaires_locales": "Le Plov, le Kebab.",
+        "Espaces_verts_et_paysages": "La rivière Kura, le grand réservoir de Mingachevir (réservoir d'eau), et les espaces verts sur les rives du fleuve."
+      },
+      {
+        "Ville": "Khankendi",
+        "Monuments_historiques_et_architecturaux": "Les sites historiques de la région, la mosquée.",
+        "Spécialités_culinaires_locales": "Le Plov, le Kebab.",
+        "Espaces_verts_et_paysages": "Les vallées et les montagnes environnantes (surtout la région de Dashaltyn), et les paysages montagneux."
+      },
+      {
+        "Ville": "Gazakh",
+        "Monuments_historiques_et_architecturaux": "Les bâtiments et monuments architecturaux de la région.",
+        "Spécialités_culinaires_locales": "Le Plov, le Kebab.",
+        "Espaces_verts_et_paysages": "La rivière Kura, les vastes plaines de Gazakh, et les zones rurales fertiles."
+      }
+    ]
+  },
+  {
+    "Pays": "Arménie",
+    "Villes": [
+      {
+        "Ville": "Erevan",
+        "Monuments_historiques_et_architecturaux": "La Place de la République, le complexe Cascade, le Matenadaran, l'Opéra, la Mosquée Bleue, la distillerie de brandy Erevan, la rue Nord, le Musée d'histoire de l'Arménie.",
+        "Spécialités_culinaires_locales": "Le Harissa, le Khorovats, le pain Lavash, le Dolma, le Mantı.",
+        "Espaces_verts_et_paysages": "Le Parc des Amoureux (Lovers' Park), le parc Victoria, et les vastes places et les vues sur le mont Ararat."
+      },
+      {
+        "Ville": "Gyumri",
+        "Monuments_historiques_et_architecturaux": "Les bâtiments historiques et la rue Roustavéli.",
+        "Spécialités_culinaires_locales": "Le Harissa, le Khorovats, le pain Lavash.",
+        "Espaces_verts_et_paysages": "Les parcs publics et les paysages des plaines et des hauteurs entourant la ville."
+      },
+      {
+        "Ville": "Etchmiadzin",
+        "Monuments_historiques_et_architecturaux": "La cathédrale d'Etchmiadzin, le Palais de Pierre.",
+        "Spécialités_culinaires_locales": "Le Harissa, le Khorovats, le pain Lavash.",
+        "Espaces_verts_et_paysages": "Les espaces verts et les places entourant les monuments religieux et les prairies verdoyantes."
+      },
+      {
+        "Ville": "Sevan",
+        "Monuments_historiques_et_architecturaux": "Le complexe monastique de Sevanavank.",
+        "Spécialités_culinaires_locales": "Le poisson de rivière, le Khorovats.",
+        "Espaces_verts_et_paysages": "Le lac Sevan (le plus grand lac), ses plages de sable et ses eaux claires."
+      },
+      {
+        "Ville": "Goris",
+        "Monuments_historiques_et_architecturaux": "Les anciens bâtiments en pierre.",
+        "Spécialités_culinaires_locales": "Le Harissa, le Khorovats.",
+        "Espaces_verts_et_paysages": "Sa situation entre les montagnes du Zagros, les paysages à couper le souffle, et les zones de grottes naturelles."
+      },
+      {
+        "Ville": "Kapan",
+        "Monuments_historiques_et_architecturaux": "Les monuments historiques.",
+        "Spécialités_culinaires_locales": "Le Harissa, le Khorovats.",
+        "Espaces_verts_et_paysages": "Les montagnes du Zagros et les zones vertes, la nature magnifique, la rivière Voghtchi."
+      },
+      {
+        "Ville": "Odzun",
+        "Monuments_historiques_et_architecturaux": "Les monuments historiques et culturels, l'église d'Odzun.",
+        "Spécialités_culinaires_locales": "Le Harissa, le Khorovats.",
+        "Espaces_verts_et_paysages": "Les vallées et les montagnes, et les villages ruraux à la nature tranquille."
+      },
+      {
+        "Ville": "Dilijan",
+        "Monuments_historiques_et_architecturaux": "Le musée de Dilijan.",
+        "Spécialités_culinaires_locales": "Le Harissa, le Khorovats.",
+        "Espaces_verts_et_paysages": "Le parc national de Dilijan (nature magnifique), surnommé la 'Suisse arménienne'."
+      },
+      {
+        "Ville": "Ararat",
+        "Monuments_historiques_et_architecturaux": "La distillerie de brandy Ararat, le musée Ararat.",
+        "Spécialités_culinaires_locales": "Le Harissa, le Khorovats.",
+        "Espaces_verts_et_paysages": "Les vues panoramiques sur le mont Ararat (visible depuis la région), et les zones de plaine."
+      },
+      {
+        "Ville": "Aghavnadzor",
+        "Monuments_historiques_et_architecturaux": "(un village historique).",
+        "Spécialités_culinaires_locales": "Le Jingyalov Hats.",
+        "Espaces_verts_et_paysages": "Le parc historique de Bjni (un parc tranquille), et des forêts et des collines."
+      }
+    ]
+  },
+  {
+    "Pays": "Australie",
+    "Villes": [
+      {
+        "Ville": "Sydney",
+        "Monuments_historiques_et_architecturaux": "L'Opéra de Sydney, le Harbour Bridge, le quartier The Rocks, Cadmans Cottage.",
+        "Spécialités_culinaires_locales": "Les tourtes à la viande, les steaks grillés, le poulet Parmigiana, le viande de kangourou, la soupe à la citrouille.",
+        "Espaces_verts_et_paysages": "Les plages de Bondi et Manly, les Jardins Botaniques Royaux (Royal Botanic Garden), le parc Hyde Park."
+      },
+      {
+        "Ville": "Melbourne",
+        "Monuments_historiques_et_architecturaux": "La Galerie nationale de Victoria, le Queen Victoria Market, les fresques murales et les graffitis.",
+        "Spécialités_culinaires_locales": "Les tourtes à la viande, le poulet Parmigiana, les Lamingtons.",
+        "Espaces_verts_et_paysages": "Le parc Fitzroy, les Jardins Botaniques Royaux (Royal Botanic Gardens), la rivière Yarra."
+      },
+      {
+        "Ville": "Gold Coast",
+        "Monuments_historiques_et_architecturaux": "Le parc Sea World, le parc Movie World.",
+        "Spécialités_culinaires_locales": "Les tourtes à la viande, les steaks grillés.",
+        "Espaces_verts_et_paysages": "Les plages de surf, et le parc national de Springbrook (à proximité), et les Waterfall Mountains."
+      },
+      {
+        "Ville": "Brisbane",
+        "Monuments_historiques_et_architecturaux": "Les galeries d'art, South Bank Parklands.",
+        "Spécialités_culinaires_locales": "La soupe à la citrouille.",
+        "Espaces_verts_et_paysages": "Le parc national du Queensland, la rivière Brisbane, et les Jardins Botaniques de Brisbane (Brisbane Botanic Gardens)."
+      },
+      {
+        "Ville": "Newcastle",
+        "Monuments_historiques_et_architecturaux": "L'architecture historique.",
+        "Spécialités_culinaires_locales": "Les tourtes à la viande.",
+        "Espaces_verts_et_paysages": "Les spots de surf, les montagnes et les fermes environnantes, le parc public Blackbutt."
+      },
+      {
+        "Ville": "Perth",
+        "Monuments_historiques_et_architecturaux": "La tour Bell.",
+        "Spécialités_culinaires_locales": "Le poisson grillé et frit.",
+        "Espaces_verts_et_paysages": "Le parc Kings Park, la rivière Swan, les plages magnifiques, et les forêts de Jarrah."
+      },
+      {
+        "Ville": "Adélaïde",
+        "Monuments_historiques_et_architecturaux": "Le Musée d'Australie-Méridionale.",
+        "Spécialités_culinaires_locales": "Les tourtes à la viande.",
+        "Espaces_verts_et_paysages": "La région viticole de la vallée de Barossa, les Adelaide Hills, et les plages de la péninsule de Fleurieu."
+      },
+      {
+        "Ville": "Hobart",
+        "Monuments_historiques_et_architecturaux": "Les sites touristiques et historiques de Tasmanie.",
+        "Spécialités_culinaires_locales": "Rechercher des plats",
+        "Espaces_verts_et_paysages": "Les zones naturelles magnifiques, et l'ascension du mont Wellington...."
+      }
+    ]
+  },
+  {
+    "Pays": "Afghanistan",
+    "Villes": [
+      {
+        "Ville": "Kaboul",
+        "Monuments_historiques_et_architecturaux": "Le palais Darul Aman, la Mosquée Bleue (Khawaja Abd Allah Ansari), le Musée National, le palais de Babur.",
+        "Spécialités_culinaires_locales": "Le Qabuli Palaw, le Kebab afghan, l'Ashak, le Bolani, le Qorma.",
+        "Espaces_verts_et_paysages": "Le palais de Babur (avec ses jardins), les montagnes de l'Hindou Kouch (qui entourent la ville), le jardin de Chahr-e Ara."
+      },
+      {
+        "Ville": "Kandahar",
+        "Monuments_historiques_et_architecturaux": "Le mausolée d'Ahmad Shah Durrani, la Khirqah Sharif, le Chehel Zina, le mausolée de Mirwais.",
+        "Spécialités_culinaires_locales": "Le Qabuli Palaw, le Kebab afghan.",
+        "Espaces_verts_et_paysages": "L'exploration des vignobles et des cultures de safran, la rivière Arghandab, et les plaines fertiles."
+      },
+      {
+        "Ville": "Hérat",
+        "Monuments_historiques_et_architecturaux": "La Grande Mosquée, le mausolée de Khwaja Abdullah Ansari, les vestiges d'anciennes mosquées et écoles.",
+        "Spécialités_culinaires_locales": "Le Qabuli Palaw, le Kebab afghan.",
+        "Espaces_verts_et_paysages": "La rivière Hari Rud, les vallées environnantes verdoyantes, et les zones agricoles."
+      },
+      {
+        "Ville": "Bâmiyân",
+        "Monuments_historiques_et_architecturaux": "La vallée de Bâmiyân, les temples bouddhistes anciens (y compris l'emplacement des bouddhas détruits).",
+        "Spécialités_culinaires_locales": "Le Qabuli Palaw.",
+        "Espaces_verts_et_paysages": "La vallée de Bâmiyân et sa beauté naturelle, les temples bouddhistes anciens (dans un paysage montagneux)."
+      },
+      {
+        "Ville": "Badghis",
+        "Monuments_historiques_et_architecturaux": "Shah Maqsood.",
+        "Spécialités_culinaires_locales": "Le Qabuli Palaw, le Kebab afghan.",
+        "Espaces_verts_et_paysages": "Les zones rurales et les plaines montagneuses environnantes, et les paysages fertiles."
+      }
+    ]
+  },
+  {
+    "Pays": "Albanie",
+    "Villes": [
+      {
+        "Ville": "Tirana",
+        "Monuments_historiques_et_architecturaux": "La place Skanderbeg, le Musée national d'histoire de Tirana, la tour de l'Horloge, la montagne Dajti.",
+        "Spécialités_culinaires_locales": "Le Byrek (tourte), le Tavë kosi (agneau).",
+        "Espaces_verts_et_paysages": "Le Grand Parc de Tirana, les berges de la rivière Erzen."
+      },
+      {
+        "Ville": "Berat",
+        "Monuments_historiques_et_architecturaux": "Le château historique de Berat, la vieille ville.",
+        "Spécialités_culinaires_locales": "Le Byrek, le Tavë kosi.",
+        "Espaces_verts_et_paysages": "Les vues sur la rivière Osum, et les montagnes de Tomorr."
+      },
+      {
+        "Ville": "Vlorë",
+        "Monuments_historiques_et_architecturaux": "Le château de Vlorë, le musée de Vlorë, la Grande Mosquée de Vlorë, la vieille ville.",
+        "Spécialités_culinaires_locales": "Le Byrek, le Tavë kosi.",
+        "Espaces_verts_et_paysages": "Les plages de la mer Adriatique, les contreforts de Llogara, et le parc naturel de Karaburun."
+      },
+      {
+        "Ville": "Durrës",
+        "Monuments_historiques_et_architecturaux": "L'amphithéâtre romain de Durrës, le château historique de Durrës.",
+        "Spécialités_culinaires_locales": "Les fruits de mer, le Byrek.",
+        "Espaces_verts_et_paysages": "La plage de Durrës, et les forêts côtières de Durrës."
+      },
+      {
+        "Ville": "Shkodër",
+        "Monuments_historiques_et_architecturaux": "Le château de Rozafa.",
+        "Spécialités_culinaires_locales": "Le Byrek, le Tavë kosi.",
+        "Espaces_verts_et_paysages": "Le lac de Shkodër (le plus grand lac d'Europe du Sud), les Alpes albanaises."
+      },
+      {
+        "Ville": "Korçë",
+        "Monuments_historiques_et_architecturaux": "(Un centre culturel et historique important).",
+        "Spécialités_culinaires_locales": "Le Byrek, le Tavë kosi.",
+        "Espaces_verts_et_paysages": "Le parc public de Korçë, et le parc national de Drenovë (à proximité)."
+      },
+      {
+        "Ville": "Durrës",
+        "Monuments_historiques_et_architecturaux": "L'église de Durrës.",
+        "Spécialités_culinaires_locales": "Le Byrek, le Tavë kosi.",
+        "Espaces_verts_et_paysages": "Les villages côtiers et les paysages montagneux environnants, et les plages de la mer Ionienne."
+      }
+    ]
+  },
+  {
+    "Pays": "Allemagne",
+    "Villes": [
+      {
+        "Ville": "Heidelberg",
+        "Monuments_historiques_et_architecturaux": "Le château de Heidelberg, le Vieux Pont, la rue Hauptstrasse.",
+        "Spécialités_culinaires_locales": "Les Spätzle, les Rouladen.",
+        "Espaces_verts_et_paysages": "Le Chemin des Philosophes, les forêts entourant le château de Heidelberg, la rivière Neckar."
+      },
+      {
+        "Ville": "Dresde",
+        "Monuments_historiques_et_architecturaux": "Les monuments baroques (Zwinger), les bâtiments historiques.",
+        "Spécialités_culinaires_locales": "Les saucisses, les Rouladen.",
+        "Espaces_verts_et_paysages": "Le parc de Saxon Switzerland (à proximité), et les jardins entourant l'Elbe."
+      },
+      {
+        "Ville": "Fribourg-en-Brisgau",
+        "Monuments_historiques_et_architecturaux": "La cathédrale de Fribourg (Freiburger Münster), la Schwabentor, la colline du Schlossberg (colline des vues).",
+        "Spécialités_culinaires_locales": "Les galettes de pommes de terre frites.",
+        "Espaces_verts_et_paysages": "La Forêt-Noire (Schwarzwald) environnante, et la colline du Schlossberg."
+      },
+      {
+        "Ville": "Bonn",
+        "Monuments_historiques_et_architecturaux": "La maison de Beethoven, le Bonner Münster.",
+        "Spécialités_culinaires_locales": "Le Schnitzel, les saucisses.",
+        "Espaces_verts_et_paysages": "Le parc Rheinaue (Rheinaue Park), et les berges du Rhin."
+      },
+      {
+        "Ville": "Wiesbaden",
+        "Monuments_historiques_et_architecturaux": "Le Kurhaus, le Nerobergbahn, la Wilhelmstrasse.",
+        "Spécialités_culinaires_locales": "Les saucisses, le Schnitzel.",
+        "Espaces_verts_et_paysages": "Le parc Kurpark (Kurpark), la colline du Neroberg (Neroberg), et les sources romaines."
+      }
+    ]
+  },
+  {
+    "Pays": "Angola",
+    "Villes": [
+      {
+        "Ville": "Luanda",
+        "Monuments_historiques_et_architecturaux": "Le mausolée Dr. António Agostinho Neto, l'église Nossa Senhora dos Remédios, le musée de la Monnaie, le Musée National d'Anthropologie.",
+        "Spécialités_culinaires_locales": "Le Muamba de galinha, le Funge de carolo, le Quizaca, le Caruru, le Mufete.",
+        "Espaces_verts_et_paysages": "La baie de Luanda, l'île de Mussulo (plages), le parc national de Kissama (à proximité)."
+      },
+      {
+        "Ville": "M'banza-Kongo",
+        "Monuments_historiques_et_architecturaux": "Les sites historiques (site de l'UNESCO).",
+        "Spécialités_culinaires_locales": "Le Muamba de galinha, le Funge de carolo.",
+        "Espaces_verts_et_paysages": "Les zones environnantes et les forêts tropicales, et la nature vierge."
+      },
+      {
+        "Ville": "Malanje",
+        "Monuments_historiques_et_architecturaux": "Les monuments historiques.",
+        "Spécialités_culinaires_locales": "Le Muamba de galinha, le Funge de carolo.",
+        "Espaces_verts_et_paysages": "Les chutes de Kalandula, la rivière Lucala, la réserve naturelle de Milando."
+      },
+      {
+        "Ville": "Benguela",
+        "Monuments_historiques_et_architecturaux": "Le Musée National d'Anthropologie, la ville historique.",
+        "Spécialités_culinaires_locales": "Les fruits de mer.",
+        "Espaces_verts_et_paysages": "Les plages de sable, et les vues sur l'océan Atlantique."
+      },
+      {
+        "Ville": "Lobito",
+        "Monuments_historiques_et_architecturaux": "Les monuments culturels et historiques, le port maritime.",
+        "Spécialités_culinaires_locales": "Le Muamba de galinha, le Funge de carolo.",
+        "Espaces_verts_et_paysages": "La nature côtière autour du port, et les montagnes proches."
+      }
+    ]
+  },
+  {
+    "Pays": "Uruguay",
+    "Villes": [
+      {
+        "Ville": "Montevideo",
+        "Monuments_historiques_et_architecturaux": "La place de l'Indépendance, le palacio Salvo, le marché du port, le théâtre Solís.",
+        "Spécialités_culinaires_locales": "L'Asado (barbecue), le Chivito (sandwich à la viande), le Pastel de carne.",
+        "Espaces_verts_et_paysages": "La Rambla de Montevideo (le front de mer), le parc Batlle y Ordóñez."
+      },
+      {
+        "Ville": "Punta del Este",
+        "Monuments_historiques_et_architecturaux": "Le port de Punta del Este, La Mano (la célèbre sculpture), l'île de Lobos (pour les lions de mer).",
+        "Spécialités_culinaires_locales": "L'Asado, le Chivito.",
+        "Espaces_verts_et_paysages": "Les plages et stations balnéaires de luxe sur l'océan Atlantique."
+      },
+      {
+        "Ville": "Piriápolis",
+        "Monuments_historiques_et_architecturaux": "La colline Pan de Azúcar, le palacio Villa Argentina.",
+        "Spécialités_culinaires_locales": "L'Asado, le Chivito.",
+        "Espaces_verts_et_paysages": "Une station balnéaire célèbre, des collines et des paysages, y compris la colline de San Antonio."
+      },
+      {
+        "Ville": "Salto",
+        "Monuments_historiques_et_architecturaux": "(Un centre agricole).",
+        "Spécialités_culinaires_locales": "L'Asado, le Chivito.",
+        "Espaces_verts_et_paysages": "Les sources thermales de Arapey, les sources thermales de Daymán, la rivière Uruguay."
+      },
+      {
+        "Ville": "La Paloma",
+        "Monuments_historiques_et_architecturaux": "Le phare de La Paloma.",
+        "Spécialités_culinaires_locales": "L'Asado, le Chivito.",
+        "Espaces_verts_et_paysages": "Une plage et une station balnéaire sur l'Atlantique, et la lagune de Rocha (à proximité)."
+      },
+      {
+        "Ville": "Punta del Diablo",
+        "Monuments_historiques_et_architecturaux": "(Un petit village de pêcheurs).",
+        "Spécialités_culinaires_locales": "L'Asado, le Chivito.",
+        "Espaces_verts_et_paysages": "De belles plages de sable, et la nature environnante vierge."
+      }
+    ]
+  },
+  {
+    "Pays": "Ouzbékistan",
+    "Villes": [
+      {
+        "Ville": "Tachkent",
+        "Monuments_historiques_et_architecturaux": "La place Amir Timur, le complexe Khast Imam, la médersa Barak-Khan.",
+        "Spécialités_culinaires_locales": "Le Plov, le Chachlik (kebab), les Samsa.",
+        "Espaces_verts_et_paysages": "Les canaux d'eau, le parc Babur, et les espaces verts urbains."
+      },
+      {
+        "Ville": "Samarcande",
+        "Monuments_historiques_et_architecturaux": "La place Registan, le mausolée de Gur-e Amir, la mosquée Bibi-Khanym.",
+        "Spécialités_culinaires_locales": "Le Plov, le Chachlik, les Samsa.",
+        "Espaces_verts_et_paysages": "La place Registan (site archéologique), les banlieues verdoyantes de Samarcande."
+      },
+      {
+        "Ville": "Boukhara",
+        "Monuments_historiques_et_architecturaux": "Le complexe Poi Kalyan, le mausolée des Samanides, la vieille ville de Boukhara.",
+        "Spécialités_culinaires_locales": "Le Plov, le Chachlik, les Samsa.",
+        "Espaces_verts_et_paysages": "Le bassin Lyab-i Hauz (zone d'eau et de jardins)."
+      },
+      {
+        "Ville": "Khorezm",
+        "Monuments_historiques_et_architecturaux": "La forteresse d'Itchan Kala à Khiva (à proximité), les mausolées et mosquées.",
+        "Spécialités_culinaires_locales": "Le Plov, le Chachlik, les Samsa.",
+        "Espaces_verts_et_paysages": "Les zones agricoles autour de l'Amou Daria."
+      },
+      {
+        "Ville": "Namangan",
+        "Monuments_historiques_et_architecturaux": "(Une grande ville avec des vestiges et des monuments historiques).",
+        "Spécialités_culinaires_locales": "Le Plov, le Chachlik, les Manti.",
+        "Espaces_verts_et_paysages": "Les zones agricoles fertiles, et la proximité du Syr Daria."
+      },
+      {
+        "Ville": "Andijan",
+        "Monuments_historiques_et_architecturaux": "(Une grande ville avec des vestiges et des monuments historiques).",
+        "Spécialités_culinaires_locales": "Le Plov, le Chachlik, les Samsa.",
+        "Espaces_verts_et_paysages": "Les vallées fertiles et les zones agricoles de la vallée de Ferghana."
+      }
+    ]
+  },
+  {
+    "Pays": "Ukraine",
+    "Villes": [
+      {
+        "Ville": "Kiev",
+        "Monuments_historiques_et_architecturaux": "La laure des grottes de Kiev, la cathédrale Sainte-Sophie, la place de l'Indépendance, la Porte d'Or, le Musée national d'histoire de l'Ukraine.",
+        "Spécialités_culinaires_locales": "Le bortsch (soupe à betterave), les Varenyky (raviolis farcis), la Kotleta (galette hachée), le Holubtsi (chou farci), les Pyrohy (pâté au four).",
+        "Espaces_verts_et_paysages": "Les jardins botaniques nationaux, les berges du Dniepr."
+      },
+      {
+        "Ville": "Kharkiv",
+        "Monuments_historiques_et_architecturaux": "La place de la Liberté, le parc Gorky, la cathédrale de l'Annonciation, le musée des Beaux-Arts.",
+        "Spécialités_culinaires_locales": "Le bortsch, les Varenyky.",
+        "Espaces_verts_et_paysages": "Le parc Gorky (central), les forêts environnantes."
+      },
+      {
+        "Ville": "Odessa",
+        "Monuments_historiques_et_architecturaux": "L'Opéra national d'Odessa, le Potemkine, la rue Deribasovska.",
+        "Spécialités_culinaires_locales": "Le Salo (graisse de porc salée), les Blinis (crêpes).",
+        "Espaces_verts_et_paysages": "Le tourisme côtier sur la mer Noire, la plage d'Arkadia."
+      },
+      {
+        "Ville": "Lviv",
+        "Monuments_historiques_et_architecturaux": "La place du Marché, l'Opéra de Lviv, la Haute Colline du Château.",
+        "Spécialités_culinaires_locales": "Le bortsch, le café.",
+        "Espaces_verts_et_paysages": "Le parc de la Haute Colline du Château, les parcs urbains."
+      },
+      {
+        "Ville": "Dnipro",
+        "Monuments_historiques_et_architecturaux": "Le Quai, le musée de l'Espace, l'île Monastyrsky.",
+        "Spécialités_culinaires_locales": "Le bortsch.",
+        "Espaces_verts_et_paysages": "Le Quai sur les berges du Dniepr, les parcs de la ville."
+      },
+      {
+        "Ville": "Donetsk",
+        "Monuments_historiques_et_architecturaux": "Le parc de Chevtchenko, la place Lénine, le musée régional.",
+        "Spécialités_culinaires_locales": "Le bortsch.",
+        "Espaces_verts_et_paysages": "Le parc de Chevtchenko, les plaines de l'Est."
+      },
+      {
+        "Ville": "Sébastopol",
+        "Monuments_historiques_et_architecturaux": "La péninsule de Crimée, la Panorama de la défense de Sébastopol, Chersonèse.",
+        "Spécialités_culinaires_locales": "Le bortsch, les fruits de mer.",
+        "Espaces_verts_et_paysages": "La péninsule de Crimée (mont Aï-Petri), le tourisme maritime."
+      },
+      {
+        "Ville": "Zaporijjia",
+        "Monuments_historiques_et_architecturaux": "L'île de Khortytsia, le musée des Cosaques de Zaporijjia, la plage de Zaporijjia.",
+        "Spécialités_culinaires_locales": "Le bortsch.",
+        "Espaces_verts_et_paysages": "L'île de Khortytsia (la plus grande île fluviale), le fleuve Dniepr."
+      },
+      {
+        "Ville": "Mykolaïv",
+        "Monuments_historiques_et_architecturaux": "L'observatoire astronomique de Mykolaïv, le quai de Mykolaïv, le musée de la construction navale.",
+        "Spécialités_culinaires_locales": "Le bortsch.",
+        "Espaces_verts_et_paysages": "L'observatoire astronomique (zones vertes environnantes), les plaines de la mer Noire."
+      },
+      {
+        "Ville": "Kostiantynivka",
+        "Monuments_historiques_et_architecturaux": "Le parc des bains de la princesse Olga, le musée de la pierre.",
+        "Spécialités_culinaires_locales": "Le bortsch, les Deruny (galettes de pommes de terre).",
+        "Espaces_verts_et_paysages": "Le parc des bains de la princesse Olga, les zones rurales."
+      }
+    ]
+  },
+  {
+    "Pays": "Érythrée",
+    "Villes": [
+      {
+        "Ville": "Asmara",
+        "Monuments_historiques_et_architecturaux": "La cathédrale Saint-Joseph, le bâtiment de l'Opéra, le cinéma Impero.",
+        "Spécialités_culinaires_locales": "Le Zigni (ragoût de viande), l'Injera (pain levé), le Tsebhi (viande coupée et frite).",
+        "Espaces_verts_et_paysages": "De magnifiques jardins et espaces verts, les hauts plateaux érythréens."
+      },
+      {
+        "Ville": "Massaoua",
+        "Monuments_historiques_et_architecturaux": "Le port historique de Massaoua, la mosquée Sheikh Hanafi, les îles Dahlak.",
+        "Spécialités_culinaires_locales": "Le Zigni, l'Injera, les fruits de mer.",
+        "Espaces_verts_et_paysages": "Les plages de la mer Rouge, l'île verte (Sheikh Saeed)."
+      },
+      {
+        "Ville": "Keren",
+        "Monuments_historiques_et_architecturaux": "Le marché aux chameaux, le fort Bezin, le mausolée de Mariam Dechrit.",
+        "Spécialités_culinaires_locales": "Le Zigni, l'Injera.",
+        "Espaces_verts_et_paysages": "Les montagnes de granit environnantes, les paysages enchanteurs."
+      },
+      {
+        "Ville": "Dekemhare",
+        "Monuments_historiques_et_architecturaux": "L'architecture coloniale italienne, l'église catholique.",
+        "Spécialités_culinaires_locales": "Le Zigni, l'Injera.",
+        "Espaces_verts_et_paysages": "L'architecture italienne rurale, les plaines environnantes."
+      },
+      {
+        "Ville": "Adi Keyh",
+        "Monuments_historiques_et_architecturaux": "Les vestiges archéologiques, le musée d'Adi Keyh, Metera (à proximité).",
+        "Spécialités_culinaires_locales": "Le Zigni, l'Injera.",
+        "Espaces_verts_et_paysages": "Les vestiges archéologiques dans les hauts plateaux, les paysages montagneux."
+      },
+      {
+        "Ville": "Teseney",
+        "Monuments_historiques_et_architecturaux": "La rivière Teseney, la ville frontalière, le marché en plein air.",
+        "Spécialités_culinaires_locales": "Le Zigni, l'Injera.",
+        "Espaces_verts_et_paysages": "La rivière Teseney, les zones vertes de l'ouest."
+      },
+      {
+        "Ville": "Qondar",
+        "Monuments_historiques_et_architecturaux": "Les villages côtiers, les plages de la mer Rouge, les paysages.",
+        "Spécialités_culinaires_locales": "Le Zigni, l'Injera, le poisson.",
+        "Espaces_verts_et_paysages": "Les villages côtiers, les plages de la mer Rouge."
+      },
+      {
+        "Ville": "Agordat",
+        "Monuments_historiques_et_architecturaux": "Le marché principal, les anciens sites militaires.",
+        "Spécialités_culinaires_locales": "Le Zigni, l'Injera.",
+        "Espaces_verts_et_paysages": "Les zones de plaine, les arbres denses sur les berges des rivières."
+      },
+      {
+        "Ville": "Mendefera",
+        "Monuments_historiques_et_architecturaux": "Les anciens sites archéologiques (Metera à proximité), les collines.",
+        "Spécialités_culinaires_locales": "Le Zigni, l'Injera.",
+        "Espaces_verts_et_paysages": "Les anciens vestiges (Metera), les zones agricoles des hauts plateaux."
+      },
+      {
+        "Ville": "Barentu",
+        "Monuments_historiques_et_architecturaux": "La ville minière, les vastes zones de plaine.",
+        "Spécialités_culinaires_locales": "Le Zigni, l'Injera.",
+        "Espaces_verts_et_paysages": "La nature des plaines, les rivières et les zones de pâturage."
+      }
+    ]
+  },
+  {
+    "Pays": "Espagne",
+    "Villes": [
+      {
+        "Ville": "Madrid",
+        "Monuments_historiques_et_architecturaux": "Le Palais Royal, le musée du Prado, la Plaza Mayor.",
+        "Spécialités_culinaires_locales": "La Paella, les Tapas, le Gaspacho, les Churros.",
+        "Espaces_verts_et_paysages": "Le parc du Retiro, le Jardin botanique royal, le parc Casa de Campo."
+      },
+      {
+        "Ville": "Barcelone",
+        "Monuments_historiques_et_architecturaux": "La Sagrada Familia, le quartier gothique, la rue La Rambla.",
+        "Spécialités_culinaires_locales": "Les Fideuà, le Pan tumaca, la Crème Catalane.",
+        "Espaces_verts_et_paysages": "Le parc Güell, la montagne de Montserrat, les plages de la Méditerranée."
+      },
+      {
+        "Ville": "Séville",
+        "Monuments_historiques_et_architecturaux": "L'Alcazar de Séville, la cathédrale de Séville, la Plaza de España.",
+        "Spécialités_culinaires_locales": "La Paella Valenciana, le Salmorejo.",
+        "Espaces_verts_et_paysages": "Les jardins de l'Alcazar, le parc María Luisa."
+      },
+      {
+        "Ville": "Valence",
+        "Monuments_historiques_et_architecturaux": "La Cité des Arts et des Sciences, le marché central, la cathédrale de Valence.",
+        "Spécialités_culinaires_locales": "La Paella (originale), la Fabada, l'Horchata.",
+        "Espaces_verts_et_paysages": "La Cité des Arts et des Sciences (vues sur l'eau), le parc de Turia."
+      },
+      {
+        "Ville": "Malaga",
+        "Monuments_historiques_et_architecturaux": "L'Alcazaba, le château de Gibralfaro, le musée Picasso.",
+        "Spécialités_culinaires_locales": "Le Pescaíto frit, les Boquerones (anchois frits).",
+        "Espaces_verts_et_paysages": "Les plages de la Costa del Sol, l'Alcazaba (vues panoramiques)."
+      },
+      {
+        "Ville": "Cordoue",
+        "Monuments_historiques_et_architecturaux": "La Mosquée-Cathédrale (La Mezquita), le quartier juif, le palais de Viana.",
+        "Spécialités_culinaires_locales": "Le Salmorejo, le Flamenquín.",
+        "Espaces_verts_et_paysages": "Les jardins de l'Alcazar, les patios de la Mosquée-Cathédrale."
+      },
+      {
+        "Ville": "Grenade",
+        "Monuments_historiques_et_architecturaux": "L'Alhambra, le Generalife, le quartier de l'Albaicín.",
+        "Spécialités_culinaires_locales": "Les Patatas a lo pobre, le Rabo de toro.",
+        "Espaces_verts_et_paysages": "L'Alhambra et le Generalife (jardins d'eau et campagnards)."
+      },
+      {
+        "Ville": "Bilbao",
+        "Monuments_historiques_et_architecturaux": "Le musée Guggenheim, le Casco Viejo (vieille ville), le pont Zubizuri.",
+        "Spécialités_culinaires_locales": "Les Pintxos, le Bacalao.",
+        "Espaces_verts_et_paysages": "Les falaises côtières, le parc de Doña Casilda Iturrizar."
+      },
+      {
+        "Ville": "Alicante",
+        "Monuments_historiques_et_architecturaux": "Le château de Santa Bárbara, la plage del Postiguet, le musée de l'Aguera.",
+        "Spécialités_culinaires_locales": "L'Arroz a banda, le Turron (bonbon).",
+        "Espaces_verts_et_paysages": "Les plages de la Costa Blanca, la montagne Benacantil (vues panoramiques)."
+      },
+      {
+        "Ville": "Las Palmas",
+        "Monuments_historiques_et_architecturaux": "Le volcan Teide (Tenerife), la plage de Las Canteras, Vegueta.",
+        "Spécialités_culinaires_locales": "Les Papas arrugadas, le Mojo (sauce).",
+        "Espaces_verts_et_paysages": "Le volcan Teide, la plage de Las Canteras."
+      },
+      {
+        "Ville": "Marbella",
+        "Monuments_historiques_et_architecturaux": "Le port de Banús, la plage Playa de la Fontanilla, la vieille ville.",
+        "Spécialités_culinaires_locales": "La Paella, les Tapas, les fruits de mer.",
+        "Espaces_verts_et_paysages": "Le Paseo Marítimo ombragé, les plages de sable luxueuses."
+      },
+      {
+        "Ville": "Tolède",
+        "Monuments_historiques_et_architecturaux": "La cathédrale de Tolède, la synagogue Santa María la Blanca, le pont de Alcántara.",
+        "Spécialités_culinaires_locales": "La Carcamusa (ragoût), le Mazapán (pâtisseries aux amandes).",
+        "Espaces_verts_et_paysages": "Les berges du Tage, les zones rurales environnantes."
+      }
+    ]
+  },
+  {
+    "Pays": "Estonie",
+    "Villes": [
+      {
+        "Ville": "Tallinn",
+        "Monuments_historiques_et_architecturaux": "La Vieille Ville (patrimoine mondial), la cathédrale Alexandre Nevski, la tour Saint-Olaf.",
+        "Spécialités_culinaires_locales": "Le Verivorst (boudin noir), le Leib (pain de seigle).",
+        "Espaces_verts_et_paysages": "Le parc de Kadriorg, les falaises côtières (Pakri)."
+      },
+      {
+        "Ville": "Tartu",
+        "Monuments_historiques_et_architecturaux": "L'université de Tartu, le pont des Baisers, le musée d'Art.",
+        "Spécialités_culinaires_locales": "Le Verivorst, le Leib.",
+        "Espaces_verts_et_paysages": "Le jardin botanique de Tartu, les paysages de la rivière."
+      },
+      {
+        "Ville": "Pärnu",
+        "Monuments_historiques_et_architecturaux": "Les plages de Pärnu, ses stations thermales, le parc de Pärnu.",
+        "Spécialités_culinaires_locales": "Le Verivorst, le Leib.",
+        "Espaces_verts_et_paysages": "La plage de sable de Pärnu, les stations thermales près des forêts."
+      },
+      {
+        "Ville": "Narva",
+        "Monuments_historiques_et_architecturaux": "Le château de Narva (Hermann), le musée d'Art, les zones frontalières.",
+        "Spécialités_culinaires_locales": "Le Verivorst, le Leib.",
+        "Espaces_verts_et_paysages": "Le château de Narva (vues sur la rivière), les zones frontalières vertes."
+      },
+      {
+        "Ville": "Kohtla-Järve",
+        "Monuments_historiques_et_architecturaux": "Le musée du pétrole de Kohtla-Järve, la zone d'affaires.",
+        "Spécialités_culinaires_locales": "Le Verivorst, le Leib.",
+        "Espaces_verts_et_paysages": "Les zones industrielles (schiste bitumineux) et les forêts environnantes."
+      }
+    ]
+  },
+  {
+    "Pays": "Eswatini",
+    "Villes": [
+      {
+        "Ville": "Mbabane",
+        "Monuments_historiques_et_architecturaux": "Le bâtiment du Parlement, le marché de Mbabane.",
+        "Spécialités_culinaires_locales": "Le Sishwala, l'Inkhundla.",
+        "Espaces_verts_et_paysages": "La vallée d'Ezulwini (à proximité), les zones de collines verdoyantes."
+      },
+      {
+        "Ville": "Manzini",
+        "Monuments_historiques_et_architecturaux": "Le palais royal, le Musée national, le parc royal de Lobamba.",
+        "Spécialités_culinaires_locales": "Le Sishwala, l'Inkhundla.",
+        "Espaces_verts_et_paysages": "Le parc royal de Lobamba, les hauts plateaux montagneux."
+      },
+      {
+        "Ville": "Big Bend",
+        "Monuments_historiques_et_architecturaux": "Les plantations de canne à sucre, la rivière Usutu, le pont de Big Bend.",
+        "Spécialités_culinaires_locales": "Le Sishwala, l'Inkhundla.",
+        "Espaces_verts_et_paysages": "Les plantations de canne à sucre, la rivière Usutu (paysages aquatiques)."
+      },
+      {
+        "Ville": "Siteki",
+        "Monuments_historiques_et_architecturaux": "Le complexe industriel, le centre commercial.",
+        "Spécialités_culinaires_locales": "Le Sishwala, l'Inkhundla.",
+        "Espaces_verts_et_paysages": "La zone industrielle, la nature rurale."
+      }
+    ]
+  },
+  {
+    "Pays": "Indonésie",
+    "Villes": [
+      {
+        "Ville": "Jakarta",
+        "Monuments_historiques_et_architecturaux": "Le Monument National (Monas), la Vieille Ville (Kota Tua), le musée de Jakarta.",
+        "Spécialités_culinaires_locales": "Le Nasi Goreng, le Satay, le Gado-gado.",
+        "Espaces_verts_et_paysages": "Le parc Taman Mini Indonesia Indah, le parc Ancol Dreamland."
+      },
+      {
+        "Ville": "Surabaya",
+        "Monuments_historiques_et_architecturaux": "Le monument aux héros de Surabaya, la mosquée Cheng Ho, le musée maritime.",
+        "Spécialités_culinaires_locales": "Le Nasi Goreng, le Satay, le Rujak Cingur.",
+        "Espaces_verts_et_paysages": "Le parc Bungkul, la nature verdoyante de Java Est."
+      },
+      {
+        "Ville": "Medan",
+        "Monuments_historiques_et_architecturaux": "La Grande Mosquée Al-Mashun, le palais Maimun, le lac Toba (à proximité).",
+        "Spécialités_culinaires_locales": "Le Nasi Goreng, le Satay, le Soto Medan.",
+        "Espaces_verts_et_paysages": "Le mont Sinabung (volcan actif), le parc Bundha."
+      },
+      {
+        "Ville": "Makassar",
+        "Monuments_historiques_et_architecturaux": "Fort Rotterdam, la plage Losari, l'île de Somba Opu.",
+        "Spécialités_culinaires_locales": "Le Nasi Goreng, le Satay, le Coto Makassar (bœuf).",
+        "Espaces_verts_et_paysages": "Fort Rotterdam (vues maritimes), la nature côtière."
+      }
+    ]
+  },
+  {
+    "Pays": "Italie",
+    "Villes": [
+      {
+        "Ville": "Rome",
+        "Monuments_historiques_et_architecturaux": "Le Colisée, le Forum Romain, le Vatican, la fontaine de Trevi.",
+        "Spécialités_culinaires_locales": "Les Spaghetti à la Carbonara, les Spaghetti Cacio e Pepe, la Pizza Romana.",
+        "Espaces_verts_et_paysages": "Les jardins de Villa Borghèse, les jardins du Pincio."
+      },
+      {
+        "Ville": "Milan",
+        "Monuments_historiques_et_architecturaux": "La cathédrale Duomo di Milano, la Galleria Vittorio Emanuele II, le théâtre La Scala.",
+        "Spécialités_culinaires_locales": "Le Risotto à la Milanaise, la Cotoletta (veau).",
+        "Espaces_verts_et_paysages": "Le parc Sempione, les canaux de la Navigli."
+      },
+      {
+        "Ville": "Naples",
+        "Monuments_historiques_et_architecturaux": "Le centre historique de Naples, le palais de Capodimonte, Pompéi (à proximité).",
+        "Spécialités_culinaires_locales": "La Pizza Napolitaine originale, la Sfogliatella (pâtisserie).",
+        "Espaces_verts_et_paysages": "Le Vésuve (surplombant la ville), la côte amalfitaine."
+      },
+      {
+        "Ville": "Bologne",
+        "Monuments_historiques_et_architecturaux": "La Piazza Maggiore, les Deux Tours, la fontaine de Neptune.",
+        "Spécialités_culinaires_locales": "Le Ragù à la Bolognaise (sauce), les Tortellini.",
+        "Espaces_verts_et_paysages": "Les jardins Margherita (parcs urbains), les plaines vertes du Pô."
+      }
+    ]
+  },
+  {
+    "Pays": "Argentine",
+    "Villes": [
+      {
+        "Ville": "Buenos Aires",
+        "Monuments_historiques_et_architecturaux": "La place de Mai, le quartier de La Boca, la tombe d'Eva Perón (au cimetière de la Recoleta).",
+        "Spécialités_culinaires_locales": "L'Asado, les Empanadas, les Alfajors (bonbons).",
+        "Espaces_verts_et_paysages": "Le parc de Palermo (Bosques de Palermo), la réserve écologique."
+      },
+      {
+        "Ville": "Mendoza",
+        "Monuments_historiques_et_architecturaux": "La place de l'Indépendance, le musée d'histoire nationale.",
+        "Spécialités_culinaires_locales": "L'Asado, les Empanadas, le vin Malbec.",
+        "Espaces_verts_et_paysages": "Le parc General San Martín, les vignobles de Mendoza."
+      },
+      {
+        "Ville": "San Carlos de Bariloche",
+        "Monuments_historiques_et_architecturaux": "Le centre-ville (de style européen).",
+        "Spécialités_culinaires_locales": "L'Asado, les Empanadas, le chocolat de Patagonie.",
+        "Espaces_verts_et_paysages": "Le lac Nahuel Huapi, les Alpes argentines."
+      },
+      {
+        "Ville": "Salta",
+        "Monuments_historiques_et_architecturaux": "Le musée d'archéologie de haute montagne, la cathédrale de Salta, le quartier San Bernardo.",
+        "Spécialités_culinaires_locales": "L'Asado, les Empanadas, les Tamales.",
+        "Espaces_verts_et_paysages": "Les Andes du nord, la vallée de Lerma."
+      },
+      {
+        "Ville": "Neuquén",
+        "Monuments_historiques_et_architecturaux": "Le musée de Neuquén, la rivière Neuquén, le parc Centenario.",
+        "Spécialités_culinaires_locales": "L'Asado, les Empanadas.",
+        "Espaces_verts_et_paysages": "La rivière Neuquén, la nature du nord de la Patagonie."
+      }
+    ]
+  },
+  {
+    "Pays": "Jordanie",
+    "Villes": [
+      {
+        "Ville": "Amman",
+        "Monuments_historiques_et_architecturaux": "Le théâtre romain d'Amman, la citadelle de Jabal al-Qal'a, le musée jordanien des antiquités, la rue Rainbow.",
+        "Spécialités_culinaires_locales": "Le Mansaf, le Maqluba, le Knafeh.",
+        "Espaces_verts_et_paysages": "Les jardins royaux de Hussein, les banlieues d'Amman avec des vues montagneuses."
+      },
+      {
+        "Ville": "Pétra",
+        "Monuments_historiques_et_architecturaux": "Le Trésor (Al-Khazneh), le Monastère (Ad-Deir), la rue à colonnades.",
+        "Spécialités_culinaires_locales": "Le Mansaf, le Zarb (barbecue enterré).",
+        "Espaces_verts_et_paysages": "Wadi Musa (nature rocheuse et sculptures)."
+      },
+      {
+        "Ville": "Aqaba",
+        "Monuments_historiques_et_architecturaux": "Le fort mamelouk d'Aqaba, le musée des antiquités d'Aqaba, le souk d'Aqaba.",
+        "Spécialités_culinaires_locales": "Les fruits de mer, le Sayadieh (poisson), le Mansaf.",
+        "Espaces_verts_et_paysages": "La mer Rouge (plages et corail pour la plongée)."
+      },
+      {
+        "Ville": "Wadi Rum",
+        "Monuments_historiques_et_architecturaux": "Montagnes de sable et de roche, inscriptions anciennes, tentes bédouines.",
+        "Spécialités_culinaires_locales": "Le Zarb, le Mansaf.",
+        "Espaces_verts_et_paysages": "Les dunes de sable, les montagnes de roche et de sable."
+      }
+    ]
+  },
+  {
+    "Pays": "Émirats Arabis Unis",
+    "Villes": [
+      {
+        "Ville": "Dubaï",
+        "Monuments_historiques_et_architecturaux": "Burj Khalifa, Burj Al Arab, Dubai Mall, Global Village, Dubaï Creek (la vieille ville).",
+        "Spécialités_culinaires_locales": "Le Harees, le Majboos, les Luqaimat.",
+        "Espaces_verts_et_paysages": "Le Dubai Miracle Garden, les plages de Jumeirah, le lac Al Qudra (à proximité)."
+      },
+      {
+        "Ville": "Abou Dabi",
+        "Monuments_historiques_et_architecturaux": "La grande mosquée Cheikh Zayed, le musée du Louvre Abou Dabi, le palais Emirates.",
+        "Spécialités_culinaires_locales": "Le Harees, le Majboos, les Luqaimat.",
+        "Espaces_verts_et_paysages": "La Corniche d'Abou Dabi, le parc de la Capitale, l'île de Yas (zones vertes), la montagne Hafeet."
+      },
+      {
+        "Ville": "Oumm al Qaïwaïn",
+        "Monuments_historiques_et_architecturaux": "Dreamland Aqua Park, l'île d'Al Sinniyah, la vieille ville.",
+        "Spécialités_culinaires_locales": "Le Harees, le Majboos, les Luqaimat.",
+        "Espaces_verts_et_paysages": "Les plages d'Umm Al Quwain, les zones de palétuviers (Mangrove)."
+      }
+    ]
+  },
+  {
+    "Pays": "Équateur",
+    "Villes": [
+      {
+        "Ville": "Quito",
+        "Monuments_historiques_et_architecturaux": "Le centre historique (patrimoine mondial), la ligne équinoxiale (Mitad del Mundo), le mont Pichincha.",
+        "Spécialités_culinaires_locales": "Le Ceviche, le Locro de Papa (soupe de pommes de terre), la Fritada.",
+        "Espaces_verts_et_paysages": "Le parc Metropolitano, les Andes environnantes, la vallée de Quito."
+      },
+      {
+        "Ville": "Guayaquil",
+        "Monuments_historiques_et_architecturaux": "Le Malecón 2000, le quartier Las Peñas, le parc des Iguanes (Parque de las Iguanas).",
+        "Spécialités_culinaires_locales": "Le Ceviche, le Locro de Papa, l'Arroz con salsa.",
+        "Espaces_verts_et_paysages": "Le parc historique de Guayaquil, les zones côtières."
+      },
+      {
+        "Ville": "Tena",
+        "Monuments_historiques_et_architecturaux": "Le parc d'Amazoonico, la rivière Misahuallí, la forêt amazonienne.",
+        "Spécialités_culinaires_locales": "Le Ceviche, le Locro de Papa.",
+        "Espaces_verts_et_paysages": "Le parc d'Amazoonico (forêt tropicale), la rivière Misahuallí."
+      }
+    ]
+  },
+  {
+    "Pays": "Irlande",
+    "Villes": [
+      {
+        "Ville": "Dublin",
+        "Monuments_historiques_et_architecturaux": "Le château de Dublin, le Trinity College (bibliothèque), la cathédrale Saint-Patrick.",
+        "Spécialités_culinaires_locales": "L'Irish Stew (ragoût irlandais), le Colcannon (purée de pommes de terre), le pain de soda.",
+        "Espaces_verts_et_paysages": "Le parc St Stephen's Green, les jardins de Powerscourt (à proximité)."
+      },
+      {
+        "Ville": "Cork",
+        "Monuments_historiques_et_architecturaux": "Le English Market, la cathédrale Saint-Finbarr, la Cork City Gaol.",
+        "Spécialités_culinaires_locales": "L'Irish Stew, le Colcannon.",
+        "Espaces_verts_et_paysages": "Le parc Fitzgerald, la rivière Lee, les zones côtières."
+      },
+      {
+        "Ville": "Galway",
+        "Monuments_historiques_et_architecturaux": "L'arc Spanish Arch, la place Eyre Square, le château de Dunguaire (à proximité).",
+        "Spécialités_culinaires_locales": "L'Irish Stew, le Colcannon.",
+        "Espaces_verts_et_paysages": "Le parc central, le front de la baie de Galway, et la nature du comté de Clare."
+      },
+      {
+        "Ville": "Athlone",
+        "Monuments_historiques_et_architecturaux": "Le château d'Athlone, l'église Saint-Pierre-et-Saint-Paul, le vieux pont.",
+        "Spécialités_culinaires_locales": "L'Irish Stew, le Colcannon.",
+        "Espaces_verts_et_paysages": "Le lac Lough Ree, le château d'Athlone (vues sur la rivière)."
+      }
+    ]
+  },
+  {
+    "Pays": "Islande",
+    "Villes": [
+      {
+        "Ville": "Reykjavik",
+        "Monuments_historiques_et_architecturaux": "L'église Hallgrímskirkja, Harpa, le vieux port de Reykjavik, le Lagon Bleu (à proximité).",
+        "Spécialités_culinaires_locales": "Le Hangikjöt (agneau fumé), le Skyr (yaourt), le poisson frais.",
+        "Espaces_verts_et_paysages": "Les parcs géothermiques, les jardins urbains, les paysages côtiers."
+      },
+      {
+        "Ville": "Seyðisfjörður",
+        "Monuments_historiques_et_architecturaux": "L'architecture colorée, le musée d'art, les chutes de Fossá.",
+        "Spécialités_culinaires_locales": "Le Hangikjöt, le Skyr.",
+        "Espaces_verts_et_paysages": "Les aurores boréales (vues nocturnes), le fjord de l'Est."
+      }
+    ]
+  },
+  {
+    "Pays": "Éthiopie",
+    "Villes": [
+      {
+        "Ville": "Addis-Abeba",
+        "Monuments_historiques_et_architecturaux": "Le Musée National, la cathédrale de la Sainte-Trinité, le palais de Menelik II.",
+        "Spécialités_culinaires_locales": "L'Injera (pain levé), le Wot (ragoût épicé), le Tibs (viande coupée et frite), le Doro Wot (ragoût de poulet).",
+        "Espaces_verts_et_paysages": "Le parc de l'Unité nationale, la montagne Entoto (vues panoramiques)."
+      },
+      {
+        "Ville": "Lalibela",
+        "Monuments_historiques_et_architecturaux": "Les églises monolithiques de Lalibela (patrimoine mondial), l'église Saint-Georges.",
+        "Spécialités_culinaires_locales": "L'Injera, le Wot, le Tibs.",
+        "Espaces_verts_et_paysages": "Les formations rocheuses entourant les églises, les hauts plateaux."
+      },
+      {
+        "Ville": "Aksoum",
+        "Monuments_historiques_et_architecturaux": "Les stèles (stèles majeures), le parc des stèles, le palais de la Reine de Saba.",
+        "Spécialités_culinaires_locales": "L'Injera, le Wot.",
+        "Espaces_verts_et_paysages": "Les vastes zones archéologiques, et les paysages montagneux."
+      }
+    ]
+  }
+]

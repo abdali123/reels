@@ -1,0 +1,3141 @@
+[
+  {
+    "Country": "Mauritania",
+    "Region": "Northwest Africa",
+    "Description": "A desert country rich in desert culture and ancient history, known for traditional shipbuilding and UNESCO-listed ancient cities.",
+    "Cities": [
+      {
+        "City": "Nouakchott",
+        "Attractions": "Fishermen's Beach and Coastal Reserves",
+        "Activities": "Visit the port fish market, explore local markets",
+        "Landmarks_and_Historical_Places": "The Grand Mosque, National Museum",
+        "Cuisines": "Couscous, Marou and Fish (rice and fish), Al-Manshiyah (lamb meat), Zareeg drink, Bulghman"
+      },
+      {
+        "City": "Chinguetti",
+        "Attractions": "Golden surrounding desert dunes",
+        "Activities": "Explore ancient libraries and manuscripts, desert safari trips",
+        "Landmarks_and_Historical_Places": "Ancient City of Chinguetti (UNESCO site)",
+        "Cuisines": "Couscous, Marou and Fish (rice and fish), Al-Manshiyah (lamb meat), Zareeg drink, Bulghman"
+      },
+      {
+        "City": "Ouadane",
+        "Attractions": "Heart of the Great Sahara and Adrar Plateau",
+        "Activities": "Visit the ancient city and fortress, watch desert stars at night",
+        "Landmarks_and_Historical_Places": "Ancient City of Ouadane (UNESCO site), Ouadane Library",
+        "Cuisines": "Couscous, Marou and Fish (rice and fish), Al-Manshiyah (lamb meat), Zareeg drink, Bulghman"
+      },
+      {
+        "City": "Néma",
+        "Attractions": "Eastern region hills",
+        "Activities": "Gateway to eastern Mauritania and traditional markets",
+        "Landmarks_and_Historical_Places": "Meat Market, Colonial Buildings",
+        "Cuisines": "Couscous, Marou and Fish (rice and fish), Al-Manshiyah (lamb meat), Zareeg drink, Bulghman"
+      },
+      {
+        "City": "Nouadhibou",
+        "Attractions": "Cap Blanc Seal Reserve (Ras Nouadhibou)",
+        "Activities": "Watch shipwrecks and water sports, fishing",
+        "Landmarks_and_Historical_Places": "Fishing Port, Nouadhibou Lighthouse",
+        "Cuisines": "Couscous, Marou and Fish (rice and fish), Al-Manshiyah (lamb meat), Zareeg drink, Bulghman"
+      },
+      {
+        "City": "Tichitt",
+        "Attractions": "Isolated oases",
+        "Activities": "Walk through ancient stone architecture, explore the desert",
+        "Landmarks_and_Historical_Places": "Ancient City of Tichitt (UNESCO site)",
+        "Cuisines": "Couscous, Marou and Fish (rice and fish), Al-Manshiyah (lamb meat), Zareeg drink, Bulghman"
+      },
+      {
+        "City": "Atar",
+        "Attractions": "Palm oases and rocky mountains",
+        "Activities": "Starting point for desert trips, explore mountains",
+        "Landmarks_and_Historical_Places": "Atar Fortress, Weekly Market",
+        "Cuisines": "Couscous, Marou and Fish (rice and fish), Al-Manshiyah (lamb meat), Zareeg drink, Bulghman"
+      },
+      {
+        "City": "Rosso",
+        "Attractions": "Green banks of the Senegal River",
+        "Activities": "Ferry trips across the Senegal River, bird watching",
+        "Landmarks_and_Historical_Places": "Old City of Rosso, Central Market",
+        "Cuisines": "Couscous, Marou and Fish (rice and fish), Al-Manshiyah (lamb meat), Zareeg drink, Bulghman"
+      },
+      {
+        "City": "Kaédi",
+        "Attractions": "Flooded agricultural lands",
+        "Activities": "Learn about diverse riverbank cultures, watch traditional agriculture",
+        "Landmarks_and_Historical_Places": "Surrounding villages, riverbanks",
+        "Cuisines": "Couscous, Marou and Fish (rice and fish), Al-Manshiyah (lamb meat), Zareeg drink, Bulghman"
+      },
+      {
+        "City": "Banc d'Arguin",
+        "Attractions": "Banc d'Arguin National Park (intersection of desert and ocean)",
+        "Activities": "Migratory bird watching (UNESCO site), photography",
+        "Landmarks_and_Historical_Places": "Banc d'Arguin National Park",
+        "Cuisines": "Couscous, Marou and Fish (rice and fish), Al-Manshiyah (lamb meat), Zareeg drink, Bulghman"
+      }
+    ],
+    "Parks_and_Green_Spaces": [
+      "Fishermen's Beach and Coastal Reserves",
+      "Golden surrounding desert dunes",
+      "Heart of the Great Sahara and Adrar Plateau",
+      "Eastern region hills",
+      "Cap Blanc Seal Reserve (Ras Nouadhibou)",
+      "Isolated oases",
+      "Palm oases and rocky mountains",
+      "Green banks of the Senegal River",
+      "Flooded agricultural lands",
+      "Banc d'Arguin National Park (intersection of desert and ocean)"
+    ]
+  },
+  {
+    "Country": "Mauritius",
+    "Region": "Africa (East)",
+    "Description": "A tropical island in the Indian Ocean, famous for its white sand beaches, colorful coral reefs, and cultural diversity.",
+    "Cities": [
+      {
+        "City": "Port Louis",
+        "Attractions": "Famous Pamplemousses Botanical Gardens",
+        "Activities": "Shopping at Caudan Waterfront market, visiting museums",
+        "Landmarks_and_Historical_Places": "Fashion Museum, Central Market",
+        "Cuisines": "Dal puri, fish curry, fried noodles (mine frit), palm salad, pigeon peas"
+      },
+      {
+        "City": "Grand Baie",
+        "Attractions": "Public La Cuvette Beach",
+        "Activities": "Sailing and water sports and nightlife",
+        "Landmarks_and_Historical_Places": "Cap Malheureux Church",
+        "Cuisines": "Dal puri, fish curry, fried noodles (mine frit), palm salad, pigeon peas"
+      },
+      {
+        "City": "Flic en Flac",
+        "Attractions": "Coral reefs and long beaches",
+        "Activities": "Diving and swimming with dolphins",
+        "Landmarks_and_Historical_Places": "Flic en Flac Lighthouse",
+        "Cuisines": "Dal puri, fish curry, fried noodles (mine frit), palm salad, pigeon peas"
+      },
+      {
+        "City": "Le Morne",
+        "Attractions": "Le Morne Peninsula and landscapes",
+        "Activities": "Climbing Le Morne Brabant Mountain (UNESCO)",
+        "Landmarks_and_Historical_Places": "Le Morne Brabant Mountain",
+        "Cuisines": "Dal puri, fish curry, fried noodles (mine frit), palm salad, pigeon peas"
+      },
+      {
+        "City": "Belle Mare",
+        "Attractions": "Frédérica Nature Reserve",
+        "Activities": "Safari trips and luxury golf",
+        "Landmarks_and_Historical_Places": "Belle Mare Resort",
+        "Cuisines": "Dal puri, fish curry, fried noodles (mine frit), palm salad, pigeon peas"
+      },
+      {
+        "City": "Chamarel",
+        "Attractions": "Chamarel Falls and Colored Earth Park",
+        "Activities": "Visit the Seven Colored Earth and rum factory",
+        "Landmarks_and_Historical_Places": "Seven Colored Earth, Chamarel Falls",
+        "Cuisines": "Dal puri, fish curry, fried noodles (mine frit), palm salad, pigeon peas"
+      },
+      {
+        "City": "Mahébourg",
+        "Attractions": "Blue Bay Marine Park",
+        "Activities": "Visit the Maritime Museum and popular market",
+        "Landmarks_and_Historical_Places": "Mahébourg Maritime Museum",
+        "Cuisines": "Dal puri, fish curry, fried noodles (mine frit), palm salad, pigeon peas"
+      },
+      {
+        "City": "Tamarin",
+        "Attractions": "Tamarin Falls and river mouth",
+        "Activities": "Surfing and dolphin watching",
+        "Landmarks_and_Historical_Places": "Tamarin Falls",
+        "Cuisines": "Dal puri, fish curry, fried noodles (mine frit), palm salad, pigeon peas"
+      },
+      {
+        "City": "Curepipe",
+        "Attractions": "Trou aux Cerfs volcanic crater",
+        "Activities": "Visit ship models and shopping",
+        "Landmarks_and_Historical_Places": "Trou aux Cerfs volcanic crater",
+        "Cuisines": "Dal puri, fish curry, fried noodles (mine frit), palm salad, pigeon peas"
+      },
+      {
+        "City": "Black River",
+        "Attractions": "Black River Gorges National Park (rainforest)",
+        "Activities": "Deep sea fishing",
+        "Landmarks_and_Historical_Places": "Black River Gorges National Park",
+        "Cuisines": "Dal puri, fish curry, fried noodles (mine frit), palm salad, pigeon peas"
+      }
+    ],
+    "Parks_and_Green_Spaces": [
+      "Famous Pamplemousses Botanical Gardens",
+      "Public La Cuvette Beach",
+      "Coral reefs and long beaches",
+      "Le Morne Peninsula and landscapes",
+      "Frédérica Nature Reserve",
+      "Chamarel Falls and Colored Earth Park",
+      "Blue Bay Marine Park",
+      "Tamarin Falls and river mouth",
+      "Trou aux Cerfs volcanic crater",
+      "Black River Gorges National Park (rainforest)"
+    ]
+  },
+  {
+    "Country": "Mozambique",
+    "Region": "Africa (Southeast)",
+    "Description": "A coastal country in southeast Africa, famous for its pristine beaches, coral reefs, and Portuguese cultural influences.",
+    "Cities": [
+      {
+        "City": "Maputo",
+        "Attractions": "Tunduru Botanical Garden",
+        "Activities": "Visit the train station and central market",
+        "Landmarks_and_Historical_Places": "São Sebastião Fortress, Nossa Senhora da Conceição Cathedral",
+        "Cuisines": "Grilled Piri Piri Prawns, Matapa (cassava leaves), Portuguese bread (pãozinho), Zambesi Chicken"
+      },
+      {
+        "City": "Bazaruto Archipelago",
+        "Attractions": "National Marine Park and dugong protection",
+        "Activities": "Snorkeling and deep diving (best destination)",
+        "Landmarks_and_Historical_Places": "São Paulo Ruins",
+        "Cuisines": "Grilled Piri Piri Prawns, Matapa (cassava leaves), Portuguese bread (pãozinho), Zambesi Chicken"
+      },
+      {
+        "City": "Tofo",
+        "Attractions": "Open sandy beaches of Tofo",
+        "Activities": "Swimming with whale sharks",
+        "Landmarks_and_Historical_Places": "Barra do Tofo Lighthouse",
+        "Cuisines": "Grilled Piri Piri Prawns, Matapa (cassava leaves), Portuguese bread (pãozinho), Zambesi Chicken"
+      },
+      {
+        "City": "Mozambique Island",
+        "Attractions": "Rocky beaches and turquoise waters",
+        "Activities": "Explore colonial history (UNESCO site)",
+        "Landmarks_and_Historical_Places": "Mozambique Island Museum, São Sebastião Fortress",
+        "Cuisines": "Grilled Piri Piri Prawns, Matapa (cassava leaves), Portuguese bread (pãozinho), Zambesi Chicken"
+      },
+      {
+        "City": "Beira",
+        "Attractions": "Macuti Beach",
+        "Activities": "Visit the lighthouse and old cathedral",
+        "Landmarks_and_Historical_Places": "São Paulo Cathedral, Beira Lighthouse",
+        "Cuisines": "Grilled Piri Piri Prawns, Matapa (cassava leaves), Portuguese bread (pãozinho), Zambesi Chicken"
+      },
+      {
+        "City": "Ilha de Moçambique",
+        "Attractions": "Coastal bird reserves",
+        "Activities": "Gateway to islands and horse riding",
+        "Landmarks_and_Historical_Places": "St. Anthony's Church",
+        "Cuisines": "Grilled Piri Piri Prawns, Matapa (cassava leaves), Portuguese bread (pãozinho), Zambesi Chicken"
+      },
+      {
+        "City": "Gorongosa",
+        "Attractions": "Gorongosa National Park (huge environmental diversity)",
+        "Activities": "Safari trips to see lions and elephants",
+        "Landmarks_and_Historical_Places": "Gorongosa National Park",
+        "Cuisines": "Grilled Piri Piri Prawns, Matapa (cassava leaves), Portuguese bread (pãozinho), Zambesi Chicken"
+      },
+      {
+        "City": "Pemba",
+        "Attractions": "Wimbe Beach and Bay",
+        "Activities": "Relax in luxury resorts",
+        "Landmarks_and_Historical_Places": "Pemba Hills",
+        "Cuisines": "Grilled Piri Piri Prawns, Matapa (cassava leaves), Portuguese bread (pãozinho), Zambesi Chicken"
+      },
+      {
+        "City": "Quirimbas Archipelago",
+        "Attractions": "Quirimbas National Park (mangrove forests)",
+        "Activities": "Sailing on traditional dhows",
+        "Landmarks_and_Historical_Places": "Traditional fishing villages",
+        "Cuisines": "Grilled Piri Piri Prawns, Matapa (cassava leaves), Portuguese bread (pãozinho), Zambesi Chicken"
+      },
+      {
+        "City": "Inhambane",
+        "Attractions": "Waterfront and calm bay",
+        "Activities": "Visit historical markets",
+        "Landmarks_and_Historical_Places": "Nossa Senhora da Palma Church",
+        "Cuisines": "Grilled Piri Piri Prawns, Matapa (cassava leaves), Portuguese bread (pãozinho), Zambesi Chicken"
+      }
+    ],
+    "Parks_and_Green_Spaces": [
+      "Tunduru Botanical Garden",
+      "National Marine Park and dugong protection",
+      "Open sandy beaches of Tofo",
+      "Rocky beaches and turquoise waters",
+      "Macuti Beach",
+      "Coastal bird reserves",
+      "Gorongosa National Park (huge environmental diversity)",
+      "Wimbe Beach and Bay",
+      "Quirimbas National Park (mangrove forests)",
+      "Waterfront and calm bay"
+    ]
+  },
+  {
+    "Country": "Moldova",
+    "Region": "Europe (East)",
+    "Description": "A small landlocked European country, famous for its stunning landscapes, vineyards, and rich history.",
+    "Cities": [
+      {
+        "City": "Chișinău",
+        "Attractions": "Stefan cel Mare Central Park",
+        "Activities": "Tour the city center and cathedral",
+        "Landmarks_and_Historical_Places": "Triumphal Arch, Nativity Cathedral",
+        "Cuisines": "Mămăligă (corn porridge), Sarmale (stuffed cabbage leaves), Plăcintă (pies), Zama soup"
+      },
+      {
+        "City": "Orheiul Vechi",
+        "Attractions": "Răut River Valley and stunning landscapes",
+        "Activities": "Visit the rock-hewn monastery complex",
+        "Landmarks_and_Historical_Places": "Orheiul Vechi Monastery",
+        "Cuisines": "Mămăligă (corn porridge), Sarmale (stuffed cabbage leaves), Plăcintă (pies), Zama soup"
+      },
+      {
+        "City": "Cricova",
+        "Attractions": "Surrounding vineyards",
+        "Activities": "Tour the largest underground wine cellars",
+        "Landmarks_and_Historical_Places": "Wine Museum",
+        "Cuisines": "Mămăligă (corn porridge), Sarmale (stuffed cabbage leaves), Plăcintă (pies), Zama soup"
+      },
+      {
+        "City": "Tiraspol",
+        "Attractions": "Pobeda (Victory) Park and Dniester River banks",
+        "Activities": "Experience a return to the Soviet era (Transnistria)",
+        "Landmarks_and_Historical_Places": "Soviet Memorial, Tiraspol Fortress",
+        "Cuisines": "Mămăligă (corn porridge), Sarmale (stuffed cabbage leaves), Plăcintă (pies), Zama soup"
+      },
+      {
+        "City": "Soroca",
+        "Attractions": "Forests and Dniester River banks",
+        "Activities": "Visit the historical Soroca Fortress",
+        "Landmarks_and_Historical_Places": "Soroca Fortress",
+        "Cuisines": "Mămăligă (corn porridge), Sarmale (stuffed cabbage leaves), Plăcintă (pies), Zama soup"
+      },
+      {
+        "City": "Mileștii Mici",
+        "Attractions": "Hills planted with vineyards",
+        "Activities": "Visit the underground wine city (Guinness Book)",
+        "Landmarks_and_Historical_Places": "Wine Museum",
+        "Cuisines": "Mămăligă (corn porridge), Sarmale (stuffed cabbage leaves), Plăcintă (pies), Zama soup"
+      },
+      {
+        "City": "Bender (Tighina)",
+        "Attractions": "River parks",
+        "Activities": "Explore the old Ottoman fortress",
+        "Landmarks_and_Historical_Places": "Bender Fortress",
+        "Cuisines": "Mămăligă (corn porridge), Sarmale (stuffed cabbage leaves), Plăcintă (pies), Zama soup"
+      },
+      {
+        "City": "Saharna",
+        "Attractions": "Saharna Waterfalls and surrounding forests",
+        "Activities": "Pilgrimage to the Holy Trinity Monastery",
+        "Landmarks_and_Historical_Places": "Saharna Monastery",
+        "Cuisines": "Mămăligă (corn porridge), Sarmale (stuffed cabbage leaves), Plăcintă (pies), Zama soup"
+      },
+      {
+        "City": "Tipova",
+        "Attractions": "Tipova Nature Reserve and waterfalls",
+        "Activities": "Hiking and visiting the rock monastery",
+        "Landmarks_and_Historical_Places": "Tipova Monastery",
+        "Cuisines": "Mămăligă (corn porridge), Sarmale (stuffed cabbage leaves), Plăcintă (pies), Zama soup"
+      },
+      {
+        "City": "Găgăuzia",
+        "Attractions": "Southern steppes and rural landscapes",
+        "Activities": "Explore the unique Turkish Christian culture",
+        "Landmarks_and_Historical_Places": "Găgăuzia Museum",
+        "Cuisines": "Mămăligă (corn porridge), Sarmale (stuffed cabbage leaves), Plăcintă (pies), Zama soup"
+      }
+    ],
+    "Parks_and_Green_Spaces": [
+      "Stefan cel Mare Central Park",
+      "Răut River Valley and stunning landscapes",
+      "Surrounding vineyards",
+      "Pobeda (Victory) Park and Dniester River banks",
+      "Forests and Dniester River banks",
+      "Hills planted with vineyards",
+      "River parks",
+      "Saharna Waterfalls and surrounding forests",
+      "Tipova Nature Reserve and waterfalls",
+      "Southern steppes and rural landscapes"
+    ]
+  },
+  {
+    "Country": "Monaco",
+    "Region": "Europe (West)",
+    "Description": "A small principality on the French Riviera coast, famous for luxury, Monte Carlo Casino, and Formula 1 races.",
+    "Cities": [
+      {
+        "City": "Monte Carlo",
+        "Attractions": "Peaceful Japanese Gardens",
+        "Activities": "Visit the famous casino and opera house",
+        "Landmarks_and_Historical_Places": "Monte Carlo Casino, Opera House",
+        "Cuisines": "Barbaguian (fried pastries), Fougasse (sweet bread), Stockfish (dried fish), Niçoise Salad"
+      },
+      {
+        "City": "Monaco-Ville",
+        "Attractions": "Saint Martin Gardens overlooking the sea",
+        "Activities": "Visit the Prince's Palace and old town",
+        "Landmarks_and_Historical_Places": "Prince's Palace, Monaco Cathedral",
+        "Cuisines": "Barbaguian (fried pastries), Fougasse (sweet bread), Stockfish (dried fish), Niçoise Salad"
+      },
+      {
+        "City": "La Condamine",
+        "Attractions": "Princess Antoinette Park (olive trees)",
+        "Activities": "Stroll through Hercules Port for yachts",
+        "Landmarks_and_Historical_Places": "Hercules Port",
+        "Cuisines": "Barbaguian (fried pastries), Fougasse (sweet bread), Stockfish (dried fish), Niçoise Salad"
+      },
+      {
+        "City": "Fontvieille",
+        "Attractions": "Princess Grace Rose Garden",
+        "Activities": "Visit the car museum and ball games",
+        "Landmarks_and_Historical_Places": "Louis II Stadium",
+        "Cuisines": "Barbaguian (fried pastries), Fougasse (sweet bread), Stockfish (dried fish), Niçoise Salad"
+      },
+      {
+        "City": "Larvotto",
+        "Attractions": "Marine Reserve and sandy beach",
+        "Activities": "Enjoy the public beach and clubs",
+        "Landmarks_and_Historical_Places": "Larvotto Museum",
+        "Cuisines": "Barbaguian (fried pastries), Fougasse (sweet bread), Stockfish (dried fish), Niçoise Salad"
+      },
+      {
+        "City": "Jardin Exotique",
+        "Attractions": "Exotic Garden (succulent plants)",
+        "Activities": "Explore underground caves (Grotte de l'Observatoire)",
+        "Landmarks_and_Historical_Places": "Exotic Garden",
+        "Cuisines": "Barbaguian (fried pastries), Fougasse (sweet bread), Stockfish (dried fish), Niçoise Salad"
+      },
+      {
+        "City": "Moneghetti",
+        "Attractions": "Paths overlooking the principality",
+        "Activities": "Explore the northern mountainous borders",
+        "Landmarks_and_Historical_Places": "Moneghetti Gardens",
+        "Cuisines": "Barbaguian (fried pastries), Fougasse (sweet bread), Stockfish (dried fish), Niçoise Salad"
+      },
+      {
+        "City": "La Rousse",
+        "Attractions": "Vertical green spaces",
+        "Activities": "Shopping and skyscraper watching",
+        "Landmarks_and_Historical_Places": "Skyscrapers",
+        "Cuisines": "Barbaguian (fried pastries), Fougasse (sweet bread), Stockfish (dried fish), Niçoise Salad"
+      },
+      {
+        "City": "Port of Monaco",
+        "Attractions": "Seaside promenade",
+        "Activities": "Attend the annual yacht show",
+        "Landmarks_and_Historical_Places": "Port of Monaco",
+        "Cuisines": "Barbaguian (fried pastries), Fougasse (sweet bread), Stockfish (dried fish), Niçoise Salad"
+      },
+      {
+        "City": "Oceanographic Museum",
+        "Attractions": "Located on a rocky cliff overlooking the sea",
+        "Activities": "Watch huge fish tanks",
+        "Landmarks_and_Historical_Places": "Oceanographic Museum",
+        "Cuisines": "Barbaguian (fried pastries), Fougasse (sweet bread), Stockfish (dried fish), Niçoise Salad"
+      }
+    ],
+    "Parks_and_Green_Spaces": [
+      "Peaceful Japanese Gardens",
+      "Saint Martin Gardens overlooking the sea",
+      "Princess Antoinette Park (olive trees)",
+      "Princess Grace Rose Garden",
+      "Marine Reserve and sandy beach",
+      "Exotic Garden (succulent plants)",
+      "Paths overlooking the principality",
+      "Vertical green spaces",
+      "Seaside promenade",
+      "Located on a rocky cliff overlooking the sea"
+    ]
+  },
+  {
+    "Country": "Montenegro (Black Mountain)",
+    "Region": "Europe (Southeast)",
+    "Description": "A small country on the Adriatic coast, famous for its high mountains, coastal bays, and ancient cities.",
+    "Cities": [
+      {
+        "City": "Kotor",
+        "Attractions": "Kotor Bay (natural fjord)",
+        "Activities": "Climb the fortress and walk through the old town",
+        "Landmarks_and_Historical_Places": "Old Town Walls, Saint Tryphon Cathedral",
+        "Cuisines": "Prosciutto (Njeguški), Black Cake, Fish Soup, Burek"
+      },
+      {
+        "City": "Budva",
+        "Attractions": "Sveti Nikola Island",
+        "Activities": "Nightlife and ancient beaches",
+        "Landmarks_and_Historical_Places": "Old Town, Budva Fortress",
+        "Cuisines": "Prosciutto (Njeguški), Black Cake, Fish Soup, Burek"
+      },
+      {
+        "City": "Žabljak",
+        "Attractions": "Durmitor National Park and Black Lake",
+        "Activities": "Skiing in winter and hiking in summer",
+        "Landmarks_and_Historical_Places": "Moraca Monastery",
+        "Cuisines": "Prosciutto (Njeguški), Black Cake, Fish Soup, Burek"
+      },
+      {
+        "City": "Perast",
+        "Attractions": "Mountain views of the bay",
+        "Activities": "Boat trip to Our Lady of the Rocks",
+        "Landmarks_and_Historical_Places": "Our Lady of the Rocks Church",
+        "Cuisines": "Prosciutto (Njeguški), Black Cake, Fish Soup, Burek"
+      },
+      {
+        "City": "Herceg Novi",
+        "Attractions": "Savina Park and Luštica Peninsula",
+        "Activities": "Visit fortresses and endless stairs",
+        "Landmarks_and_Historical_Places": "Forte Mare Fortress",
+        "Cuisines": "Prosciutto (Njeguški), Black Cake, Fish Soup, Burek"
+      },
+      {
+        "City": "Ulcinj",
+        "Attractions": "Large lake and bird reserve",
+        "Activities": "Visit the Long Beach (Velika Plaža)",
+        "Landmarks_and_Historical_Places": "Ulcinj Church",
+        "Cuisines": "Prosciutto (Njeguški), Black Cake, Fish Soup, Burek"
+      },
+      {
+        "City": "Cetinje",
+        "Attractions": "Lovćen National Park",
+        "Activities": "Visit museums and the old historical capital",
+        "Landmarks_and_Historical_Places": "Cetinje Monastery",
+        "Cuisines": "Prosciutto (Njeguški), Black Cake, Fish Soup, Burek"
+      },
+      {
+        "City": "Tivat",
+        "Attractions": "Big City Park (Veliki Gradski Park)",
+        "Activities": "Walk in Porto Montenegro (luxury marina)",
+        "Landmarks_and_Historical_Places": "Savina Monastery",
+        "Cuisines": "Prosciutto (Njeguški), Black Cake, Fish Soup, Burek"
+      },
+      {
+        "City": "Kolašin",
+        "Attractions": "Biogradska Gora (primeval forest)",
+        "Activities": "Skiing and ecotourism",
+        "Landmarks_and_Historical_Places": "Moraca Monastery",
+        "Cuisines": "Prosciutto (Njeguški), Black Cake, Fish Soup, Burek"
+      },
+      {
+        "City": "Lake Skadar",
+        "Attractions": "Lake Skadar National Park",
+        "Activities": "Boat tours for bird watching",
+        "Landmarks_and_Historical_Places": "Vranjina Monastery",
+        "Cuisines": "Prosciutto (Njeguški), Black Cake, Fish Soup, Burek"
+      }
+    ],
+    "Parks_and_Green_Spaces": [
+      "Kotor Bay (natural fjord)",
+      "Sveti Nikola Island",
+      "Durmitor National Park and Black Lake",
+      "Mountain views of the bay",
+      "Savina Park and Luštica Peninsula",
+      "Large lake and bird reserve",
+      "Lovćen National Park",
+      "Big City Park (Veliki Gradski Park)",
+      "Biogradska Gora (primeval forest)",
+      "Lake Skadar National Park"
+    ]
+  },
+  {
+    "Country": "Myanmar (Burma)",
+    "Region": "Asia (Southeast)",
+    "Description": "A country in Southeast Asia, famous for its ancient temples, stunning nature, and unique culture.",
+    "Cities": [
+      {
+        "City": "Bagan",
+        "Attractions": "Bagan Plains and Ayeyarwady River banks",
+        "Activities": "Hot air ballooning over thousands of ancient temples",
+        "Landmarks_and_Historical_Places": "Ananda Temple, Dhammayangyi Temple",
+        "Cuisines": "Tea leaf salad (Laphet), Fish soup (Mohinga), Burmese curry, Shan noodles"
+      },
+      {
+        "City": "Yangon",
+        "Attractions": "Kandawgyi Lake and People's Park",
+        "Activities": "Visit the Shwedagon Golden Pagoda",
+        "Landmarks_and_Historical_Places": "Shwedagon Pagoda, Bogyoke Aung San Market",
+        "Cuisines": "Tea leaf salad (Laphet), Fish soup (Mohinga), Burmese curry, Shan noodles"
+      },
+      {
+        "City": "Mandalay",
+        "Attractions": "Mandalay Hill and panoramic views",
+        "Activities": "Visit the Royal Palace and U Bein Bridge",
+        "Landmarks_and_Historical_Places": "Mandalay Palace, U Bein Bridge",
+        "Cuisines": "Tea leaf salad (Laphet), Fish soup (Mohinga), Burmese curry, Shan noodles"
+      },
+      {
+        "City": "Inle Lake",
+        "Attractions": "Inle Lake Wetland Sanctuary",
+        "Activities": "Watch traditional fishermen and floating gardens",
+        "Landmarks_and_Historical_Places": "Phaung Daw Oo Pagoda",
+        "Cuisines": "Tea leaf salad (Laphet), Fish soup (Mohinga), Burmese curry, Shan noodles"
+      },
+      {
+        "City": "Naypyidaw",
+        "Attractions": "National Herbal Garden and Fountain Park",
+        "Activities": "Visit Uppatasanti Pagoda (the capital)",
+        "Landmarks_and_Historical_Places": "Uppatasanti Pagoda",
+        "Cuisines": "Tea leaf salad (Laphet), Fish soup (Mohinga), Burmese curry, Shan noodles"
+      },
+      {
+        "City": "Ngapali",
+        "Attractions": "Ngapali Beach and palm trees",
+        "Activities": "Relax on pristine beaches",
+        "Landmarks_and_Historical_Places": "Ngapali Beach",
+        "Cuisines": "Tea leaf salad (Laphet), Fish soup (Mohinga), Burmese curry, Shan noodles"
+      },
+      {
+        "City": "Hpa-An",
+        "Attractions": "Rice fields and karst mountains",
+        "Activities": "Explore Saddan Cave and Mount Zwegabin",
+        "Landmarks_and_Historical_Places": "Saddan Caves",
+        "Cuisines": "Tea leaf salad (Laphet), Fish soup (Mohinga), Burmese curry, Shan noodles"
+      },
+      {
+        "City": "Kalaw",
+        "Attractions": "Pine forests and green hills",
+        "Activities": "Trekking between villages and tribes",
+        "Landmarks_and_Historical_Places": "Tribal villages",
+        "Cuisines": "Tea leaf salad (Laphet), Fish soup (Mohinga), Burmese curry, Shan noodles"
+      },
+      {
+        "City": "Pyin Oo Lwin",
+        "Attractions": "National Kandawgyi Gardens",
+        "Activities": "Horse carriage rides and visiting waterfalls",
+        "Landmarks_and_Historical_Places": "Pyin Oo Lwin Waterfalls",
+        "Cuisines": "Tea leaf salad (Laphet), Fish soup (Mohinga), Burmese curry, Shan noodles"
+      },
+      {
+        "City": "Mrauk U",
+        "Attractions": "Rakhine State hills",
+        "Activities": "Explore ancient stone temples",
+        "Landmarks_and_Historical_Places": "Mrauk U Temples",
+        "Cuisines": "Tea leaf salad (Laphet), Fish soup (Mohinga), Burmese curry, Shan noodles"
+      }
+    ],
+    "Parks_and_Green_Spaces": [
+      "Bagan Plains and Ayeyarwady River banks",
+      "Kandawgyi Lake and People's Park",
+      "Mandalay Hill and panoramic views",
+      "Inle Lake Wetland Sanctuary",
+      "National Herbal Garden and Fountain Park",
+      "Ngapali Beach and palm trees",
+      "Rice fields and karst mountains",
+      "Pine forests and green hills",
+      "National Kandawgyi Gardens",
+      "Rakhine State hills"
+    ]
+  },
+  {
+    "Country": "Mexico",
+    "Region": "North America",
+    "Description": "A country in North America, famous for its rich history, vibrant culture, and beautiful beaches.",
+    "Cities": [
+      {
+        "City": "Mexico City",
+        "Attractions": "Chapultepec Forest (largest urban park)",
+        "Activities": "Visit Frida Kahlo Museum and city center",
+        "Landmarks_and_Historical_Places": "Zócalo, Anthropology Museum",
+        "Cuisines": "Tacos, Mole (chocolate and spice sauce), Tachiladas, Guacamole, Tamales"
+      },
+      {
+        "City": "Cancún",
+        "Attractions": "Caribbean beaches and Xcaret parks",
+        "Activities": "Enjoy beaches and nightlife",
+        "Landmarks_and_Historical_Places": "Chichén Itzá ruins, Tulum ruins",
+        "Cuisines": "Tacos, Mole (chocolate and spice sauce), Tachiladas, Guacamole, Tamales"
+      },
+      {
+        "City": "Tulum",
+        "Attractions": "Sian Ka'an Biosphere Reserve",
+        "Activities": "Visit seaside Mayan ruins",
+        "Landmarks_and_Historical_Places": "Tulum Ruins",
+        "Cuisines": "Tacos, Mole (chocolate and spice sauce), Tachiladas, Guacamole, Tamales"
+      },
+      {
+        "City": "Oaxaca",
+        "Attractions": "Petrified Hierve el Agua Waterfalls",
+        "Activities": "Taste traditional food and visit markets",
+        "Landmarks_and_Historical_Places": "Monte Albán archaeological site",
+        "Cuisines": "Tacos, Mole (chocolate and spice sauce), Tachiladas, Guacamole, Tamales"
+      },
+      {
+        "City": "Guadalajara",
+        "Attractions": "La Primavera Forest and Lake Chapala",
+        "Activities": "Listen to mariachi music and visit Tequila",
+        "Landmarks_and_Historical_Places": "Guadalajara Historic Center",
+        "Cuisines": "Tacos, Mole (chocolate and spice sauce), Tachiladas, Guacamole, Tamales"
+      },
+      {
+        "City": "Playa del Carmen",
+        "Attractions": "Cenotes (water sinkholes)",
+        "Activities": "Stroll down Fifth Avenue and diving",
+        "Landmarks_and_Historical_Places": "Playa del Carmen Beach",
+        "Cuisines": "Tacos, Mole (chocolate and spice sauce), Tachiladas, Guacamole, Tamales"
+      },
+      {
+        "City": "Cabo San Lucas",
+        "Attractions": "El Arco (The Arch) rock formation and beaches",
+        "Activities": "Whale watching and boat trips",
+        "Landmarks_and_Historical_Places": "El Arco (The Arch) rock formation",
+        "Cuisines": "Tacos, Mole (chocolate and spice sauce), Tachiladas, Guacamole, Tamales"
+      },
+      {
+        "City": "Mérida",
+        "Attractions": "Celestún Reserve (flamingos)",
+        "Activities": "Explore colonial Mayan culture",
+        "Landmarks_and_Historical_Places": "Mérida Cathedral",
+        "Cuisines": "Tacos, Mole (chocolate and spice sauce), Tachiladas, Guacamole, Tamales"
+      },
+      {
+        "City": "Puerto Vallarta",
+        "Attractions": "Botanical Gardens and Sierra Madre mountains",
+        "Activities": "Stroll along the Malecón (seaside promenade)",
+        "Landmarks_and_Historical_Places": "Our Lady of Guadalupe Church",
+        "Cuisines": "Tacos, Mole (chocolate and spice sauce), Tachiladas, Guacamole, Tamales"
+      },
+      {
+        "City": "San Miguel de Allende",
+        "Attractions": "El Charco del Ingenio Botanical Garden",
+        "Activities": "Wander through colorful streets and churches",
+        "Landmarks_and_Historical_Places": "San Miguel Church",
+        "Cuisines": "Tacos, Mole (chocolate and spice sauce), Tachiladas, Guacamole, Tamales"
+      }
+    ],
+    "Parks_and_Green_Spaces": [
+      "Chapultepec Forest (largest urban park)",
+      "Caribbean beaches and Xcaret parks",
+      "Sian Ka'an Biosphere Reserve",
+      "Petrified Hierve el Agua Waterfalls",
+      "La Primavera Forest and Lake Chapala",
+      "Cenotes (water sinkholes)",
+      "El Arco (The Arch) rock formation and beaches",
+      "Celestún Reserve (flamingos)",
+      "Botanical Gardens and Sierra Madre mountains",
+      "El Charco del Ingenio Botanical Garden"
+    ]
+  },
+  {
+    "Country": "Micronesia",
+    "Region": "Oceania",
+    "Description": "An island nation in the western Pacific Ocean, consisting of thousands of small islands, famous for its coral reefs and traditional culture.",
+    "Cities": [
+      {
+        "City": "Palikir (Pohnpei)",
+        "Attractions": "Kepirohi Waterfalls and green mountains",
+        "Activities": "Visit Nan Madol (Venice of the Pacific)",
+        "Landmarks_and_Historical_Places": "Nan Madol (UNESCO site)",
+        "Cuisines": "Raw fish with coconut, Taro (taro), Breadfruit, Micronesian chicken"
+      },
+      {
+        "City": "Colonia (Yap)",
+        "Attractions": "Mangrove forests and beaches",
+        "Activities": "See giant stone money and dive with manta rays",
+        "Landmarks_and_Historical_Places": "Giant stone money",
+        "Cuisines": "Raw fish with coconut, Taro (taro), Breadfruit, Micronesian chicken"
+      },
+      {
+        "City": "Chuuk Lagoon",
+        "Attractions": "Uninhabited tropical islands",
+        "Activities": "Dive to explore warship wrecks (world's best)",
+        "Landmarks_and_Historical_Places": "Warship Wrecks",
+        "Cuisines": "Raw fish with coconut, Taro (taro), Breadfruit, Micronesian chicken"
+      },
+      {
+        "City": "Kosrae",
+        "Attractions": "Mount Finkol and coral gardens",
+        "Activities": "Explore mangrove forests by boat",
+        "Landmarks_and_Historical_Places": "Lelu archaeological site",
+        "Cuisines": "Raw fish with coconut, Taro (taro), Breadfruit, Micronesian chicken"
+      },
+      {
+        "City": "Lelu Island",
+        "Attractions": "Volcanic coastal scenery",
+        "Activities": "Visit ancient Lelu ruins",
+        "Landmarks_and_Historical_Places": "Ancient Lelu Ruins",
+        "Cuisines": "Raw fish with coconut, Taro (taro), Breadfruit, Micronesian chicken"
+      },
+      {
+        "City": "Ant Atoll",
+        "Attractions": "UNESCO Biosphere Reserve",
+        "Activities": "Swimming and diving in clear waters",
+        "Landmarks_and_Historical_Places": "UNESCO Biosphere Reserve",
+        "Cuisines": "Raw fish with coconut, Taro (taro), Breadfruit, Micronesian chicken"
+      },
+      {
+        "City": "Jabor",
+        "Attractions": "White sand beaches",
+        "Activities": "Experience traditional island life",
+        "Landmarks_and_Historical_Places": "Traditional Jabor Village",
+        "Cuisines": "Raw fish with coconut, Taro (taro), Breadfruit, Micronesian chicken"
+      },
+      {
+        "City": "Mokil",
+        "Attractions": "Turquoise coastal lake",
+        "Activities": "Fishing and simple life",
+        "Landmarks_and_Historical_Places": "Mokil Lake",
+        "Cuisines": "Raw fish with coconut, Taro (taro), Breadfruit, Micronesian chicken"
+      },
+      {
+        "City": "Pingelap",
+        "Attractions": "Pristine coral reefs",
+        "Activities": "Learn about the island's color blindness phenomenon",
+        "Landmarks_and_Historical_Places": "Pingelap Coral Reef",
+        "Cuisines": "Raw fish with coconut, Taro (taro), Breadfruit, Micronesian chicken"
+      },
+      {
+        "City": "Nukuoro",
+        "Attractions": "Dense tropical forests",
+        "Activities": "Complete relaxation away from the world",
+        "Landmarks_and_Historical_Places": "Nukuoro Tropical Forests",
+        "Cuisines": "Raw fish with coconut, Taro (taro), Breadfruit, Micronesian chicken"
+      }
+    ],
+    "Parks_and_Green_Spaces": [
+      "Kepirohi Waterfalls and green mountains",
+      "Mangrove forests and beaches",
+      "Uninhabited tropical islands",
+      "Mount Finkol and coral gardens",
+      "Volcanic coastal scenery",
+      "UNESCO Biosphere Reserve",
+      "White sand beaches",
+      "Turquoise coastal lake",
+      "Pristine coral reefs",
+      "Dense tropical forests"
+    ]
+  },
+  {
+    "Country": "Namibia",
+    "Region": "Africa (Southwest)",
+    "Description": "A country in southwest Africa, famous for its vast deserts, beaches, and national parks.",
+    "Cities": [
+      {
+        "City": "Windhoek",
+        "Attractions": "Parliament Gardens and Zoo Park",
+        "Activities": "Visit Christuskirche and the National Museum",
+        "Landmarks_and_Historical_Places": "Christuskirche, Alte Feste (Christuskirche)",
+        "Cuisines": "Oryx meat, Kapana (street-grilled meat), Milk Tart, Rich Pastries"
+      },
+      {
+        "City": "Swakopmund",
+        "Attractions": "Surrounding desert and beach",
+        "Activities": "Sandboarding and skydiving",
+        "Landmarks_and_Historical_Places": "Swakopmund Port, Train Station",
+        "Cuisines": "Oryx meat, Kapana (street-grilled meat), Milk Tart, Rich Pastries"
+      },
+      {
+        "City": "Etosha National Park",
+        "Attractions": "Salt pans and waterholes",
+        "Activities": "Safari to see rhinos and lions",
+        "Landmarks_and_Historical_Places": "Etosha National Park",
+        "Cuisines": "Oryx meat, Kapana (street-grilled meat), Milk Tart, Rich Pastries"
+      },
+      {
+        "City": "Sossusvlei",
+        "Attractions": "Deadvlei and petrified trees",
+        "Activities": "Climb the red sand dunes (Big Daddy)",
+        "Landmarks_and_Historical_Places": "Deadvlei",
+        "Cuisines": "Oryx meat, Kapana (street-grilled meat), Milk Tart, Rich Pastries"
+      },
+      {
+        "City": "Walvis Bay",
+        "Attractions": "Coastal lagoon and Sandwich Harbor dunes",
+        "Activities": "Watch flamingos and kayak",
+        "Landmarks_and_Historical_Places": "Walvis Bay Port",
+        "Cuisines": "Oryx meat, Kapana (street-grilled meat), Milk Tart, Rich Pastries"
+      },
+      {
+        "City": "Lüderitz",
+        "Attractions": "Rocky coast and strong winds",
+        "Activities": "Visit Kolmanskop ghost town",
+        "Landmarks_and_Historical_Places": "Kolmanskop Ghost Town",
+        "Cuisines": "Oryx meat, Kapana (street-grilled meat), Milk Tart, Rich Pastries"
+      },
+      {
+        "City": "Fish River Canyon",
+        "Attractions": "Valley rock formations",
+        "Activities": "Hiking (second largest canyon in the world)",
+        "Landmarks_and_Historical_Places": "Fish River Canyon",
+        "Cuisines": "Oryx meat, Kapana (street-grilled meat), Milk Tart, Rich Pastries"
+      },
+      {
+        "City": "Damaraland",
+        "Attractions": "Brandberg Mountain (highest in Namibia)",
+        "Activities": "See desert elephants and rock engravings",
+        "Landmarks_and_Historical_Places": "Brandberg Mountain, Rock Engravings",
+        "Cuisines": "Oryx meat, Kapana (street-grilled meat), Milk Tart, Rich Pastries"
+      },
+      {
+        "City": "Caprivi Strip",
+        "Attractions": "Green rivers and forests (different from the rest of the desert)",
+        "Activities": "River boat trips",
+        "Landmarks_and_Historical_Places": "Caprivi Rivers",
+        "Cuisines": "Oryx meat, Kapana (street-grilled meat), Milk Tart, Rich Pastries"
+      },
+      {
+        "City": "Kaokoland",
+        "Attractions": "Epupa Falls on the border",
+        "Activities": "Meet Himba tribes",
+        "Landmarks_and_Historical_Places": "Epupa Falls",
+        "Cuisines": "Oryx meat, Kapana (street-grilled meat), Milk Tart, Rich Pastries"
+      }
+    ],
+    "Parks_and_Green_Spaces": [
+      "Parliament Gardens and Zoo Park",
+      "Surrounding desert and beach",
+      "Salt pans and waterholes",
+      "Deadvlei and petrified trees",
+      "Coastal lagoon and Sandwich Harbor dunes",
+      "Rocky coast and strong winds",
+      "Valley rock formations",
+      "Brandberg Mountain (highest in Namibia)",
+      "Green rivers and forests (different from the rest of the desert)",
+      "Epupa Falls on the border"
+    ]
+  },
+  {
+    "Country": "Nauru",
+    "Region": "Oceania",
+    "Description": "A small island in the Pacific Ocean, the smallest island nation in the world, famous for its phosphate mines.",
+    "Cities": [
+      {
+        "City": "Yaren (Capital)",
+        "Attractions": "Moqua Well",
+        "Activities": "Visit the Parliament building and WWII remains",
+        "Landmarks_and_Historical_Places": "Parliament Building, Nauru Museum",
+        "Cuisines": "Coconut fish, grilled pork, widely available Chinese dishes"
+      },
+      {
+        "City": "Anibare",
+        "Attractions": "Anibare Bay and sea views",
+        "Activities": "Swim in Anibare Bay (best beach)",
+        "Landmarks_and_Historical_Places": "Anibare Bay",
+        "Cuisines": "Coconut fish, grilled pork, widely available Chinese dishes"
+      },
+      {
+        "City": "Buada",
+        "Attractions": "Buada Lagoon and surrounding tropical vegetation",
+        "Activities": "Walk around Buada Lagoon (fresh water)",
+        "Landmarks_and_Historical_Places": "Buada Lagoon",
+        "Cuisines": "Coconut fish, grilled pork, widely available Chinese dishes"
+      },
+      {
+        "City": "Meneng",
+        "Attractions": "Coastal coral reefs",
+        "Activities": "Visit Meneng Hotel and coastal sites",
+        "Landmarks_and_Historical_Places": "Meneng Hotel",
+        "Cuisines": "Coconut fish, grilled pork, widely available Chinese dishes"
+      },
+      {
+        "City": "Central Plateau",
+        "Attractions": "Strange limestone pinnacle terrain",
+        "Activities": "Explore phosphate mining traces (moon surface)",
+        "Landmarks_and_Historical_Places": "Phosphate Mines",
+        "Cuisines": "Coconut fish, grilled pork, widely available Chinese dishes"
+      },
+      {
+        "City": "Ijuw",
+        "Attractions": "Hills and highlands",
+        "Activities": "See war memorials",
+        "Landmarks_and_Historical_Places": "War Memorials",
+        "Cuisines": "Coconut fish, grilled pork, widely available Chinese dishes"
+      },
+      {
+        "City": "Aiwo",
+        "Attractions": "West coast strip",
+        "Activities": "Watch the industrial port and phosphate movement",
+        "Landmarks_and_Historical_Places": "Industrial Port",
+        "Cuisines": "Coconut fish, grilled pork, widely available Chinese dishes"
+      },
+      {
+        "City": "Anetan",
+        "Attractions": "Rocky beaches",
+        "Activities": "Visit local historical sites",
+        "Landmarks_and_Historical_Places": "Local Historical Sites",
+        "Cuisines": "Coconut fish, grilled pork, widely available Chinese dishes"
+      },
+      {
+        "City": "Baiti",
+        "Attractions": "Reclaimed green areas",
+        "Activities": "Explore small local villages",
+        "Landmarks_and_Historical_Places": "Small Local Villages",
+        "Cuisines": "Coconut fish, grilled pork, widely available Chinese dishes"
+      },
+      {
+        "City": "Nibok",
+        "Attractions": "Vegetation scattered among rocks",
+        "Activities": "Watch old mining operations",
+        "Landmarks_and_Historical_Places": "Old Mining Operations",
+        "Cuisines": "Coconut fish, grilled pork, widely available Chinese dishes"
+      }
+    ],
+    "Parks_and_Green_Spaces": [
+      "Moqua Well",
+      "Anibare Bay and sea views",
+      "Buada Lagoon and surrounding tropical vegetation",
+      "Coastal coral reefs",
+      "Strange limestone pinnacle terrain",
+      "Hills and highlands",
+      "West coast strip",
+      "Rocky beaches",
+      "Reclaimed green areas",
+      "Vegetation scattered among rocks"
+    ]
+  },
+  {
+    "Country": "Norway",
+    "Region": "Europe (North)",
+    "Description": "A Scandinavian country, famous for its stunning fjords, northern lights, and historic cities.",
+    "Cities": [
+      {
+        "City": "Oslo",
+        "Attractions": "Vigeland Sculpture Park and surrounding forests",
+        "Activities": "Viking Ship Museum and Opera House",
+        "Landmarks_and_Historical_Places": "Royal Palace, Museum of Modern Art",
+        "Cuisines": "Salmon, Fårikål (lamb), Brunost (brown cheese), Norwegian Waffles"
+      },
+      {
+        "City": "Bergen",
+        "Attractions": "Seven surrounding mountains (Mount Fløyen)",
+        "Activities": "Visit Bryggen Hanseatic Wharf and fish market",
+        "Landmarks_and_Historical_Places": "Bryggen Hanseatic Wharf (UNESCO site)",
+        "Cuisines": "Salmon, Fårikål (lamb), Brunost (brown cheese), Norwegian Waffles"
+      },
+      {
+        "City": "Tromsø",
+        "Attractions": "Polar mountains and northern fjords",
+        "Activities": "Northern Lights hunting and sledding",
+        "Landmarks_and_Historical_Places": "Arctic Cathedral",
+        "Cuisines": "Salmon, Fårikål (lamb), Brunost (brown cheese), Norwegian Waffles"
+      },
+      {
+        "City": "Stavanger",
+        "Attractions": "Lysefjord",
+        "Activities": "Climb Pulpit Rock",
+        "Landmarks_and_Historical_Places": "Stavanger Cathedral",
+        "Cuisines": "Salmon, Fårikål (lamb), Brunost (brown cheese), Norwegian Waffles"
+      },
+      {
+        "City": "Trondheim",
+        "Attractions": "Nidelva River and green hills",
+        "Activities": "Visit Nidaros Cathedral",
+        "Landmarks_and_Historical_Places": "Nidaros Cathedral",
+        "Cuisines": "Salmon, Fårikål (lamb), Brunost (brown cheese), Norwegian Waffles"
+      },
+      {
+        "City": "Ålesund",
+        "Attractions": "Mount Aksla and panoramic views",
+        "Activities": "Watch Art Nouveau architecture",
+        "Landmarks_and_Historical_Places": "Port of Ålesund",
+        "Cuisines": "Salmon, Fårikål (lamb), Brunost (brown cheese), Norwegian Waffles"
+      },
+      {
+        "City": "Lofoten Islands",
+        "Attractions": "Mountains plunging into the sea",
+        "Activities": "Photography and fishing in fishing villages",
+        "Landmarks_and_Historical_Places": "Traditional fishing villages",
+        "Cuisines": "Salmon, Fårikål (lamb), Brunost (brown cheese), Norwegian Waffles"
+      },
+      {
+        "City": "Geiranger",
+        "Attractions": "Seven Sisters Waterfalls",
+        "Activities": "Sea cruise in the world's most beautiful fjord (UNESCO)",
+        "Landmarks_and_Historical_Places": "Geiranger Wooden Church",
+        "Cuisines": "Salmon, Fårikål (lamb), Brunost (brown cheese), Norwegian Waffles"
+      },
+      {
+        "City": "Flåm",
+        "Attractions": "Flåm Valley and Aurlandsfjord",
+        "Activities": "Ride the Flåm Railway",
+        "Landmarks_and_Historical_Places": "Flåm Valley",
+        "Cuisines": "Salmon, Fårikål (lamb), Brunost (brown cheese), Norwegian Waffles"
+      },
+      {
+        "City": "Svalbard",
+        "Attractions": "Glaciers and polar tundra",
+        "Activities": "Polar bear trips and ice caves",
+        "Landmarks_and_Historical_Places": "Longyearbyen City",
+        "Cuisines": "Salmon, Fårikål (lamb), Brunost (brown cheese), Norwegian Waffles"
+      }
+    ],
+    "Parks_and_Green_Spaces": [
+      "Vigeland Sculpture Park and surrounding forests",
+      "Seven surrounding mountains (Mount Fløyen)",
+      "Polar mountains and northern fjords",
+      "Lysefjord",
+      "Nidelva River and green hills",
+      "Mount Aksla and panoramic views",
+      "Mountains plunging into the sea",
+      "Seven Sisters Waterfalls",
+      "Flåm Valley and Aurlandsfjord",
+      "Glaciers and polar tundra"
+    ]
+  },
+  {
+    "Country": "Austria",
+    "Region": "Europe (Central)",
+    "Description": "A Central European country, famous for its Alps, historic cities, and classical music.",
+    "Cities": [
+      {
+        "City": "Vienna",
+        "Attractions": "Prater Park and Vienna Woods",
+        "Activities": "Visit Schönbrunn Palace and Opera",
+        "Landmarks_and_Historical_Places": "Schönbrunn Palace, Opera House",
+        "Cuisines": "Wiener Schnitzel, Apple Strudel, Sachertorte, Potato Salad"
+      },
+      {
+        "City": "Salzburg",
+        "Attractions": "Mirabell Gardens and surrounding Alps",
+        "Activities": "Visit Hohensalzburg Fortress and Mozart's birthplace",
+        "Landmarks_and_Historical_Places": "Hohensalzburg Fortress, Mozart's Birthplace",
+        "Cuisines": "Wiener Schnitzel, Apple Strudel, Sachertorte, Potato Salad"
+      },
+      {
+        "City": "Innsbruck",
+        "Attractions": "Nordkette Mountains (cable car access)",
+        "Activities": "Skiing and visit the Golden Roof",
+        "Landmarks_and_Historical_Places": "Golden Roof, Innsbruck Cathedral",
+        "Cuisines": "Wiener Schnitzel, Apple Strudel, Sachertorte, Potato Salad"
+      },
+      {
+        "City": "Hallstatt",
+        "Attractions": "Hallstatt Lake and high mountains",
+        "Activities": "Visit salt mine and picturesque village",
+        "Landmarks_and_Historical_Places": "Salt Mine",
+        "Cuisines": "Wiener Schnitzel, Apple Strudel, Sachertorte, Potato Salad"
+      },
+      {
+        "City": "Graz",
+        "Attractions": "Schlossberg Hill and gardens",
+        "Activities": "Visit the clock tower and artificial island",
+        "Landmarks_and_Historical_Places": "Clock Tower, Artificial Island",
+        "Cuisines": "Wiener Schnitzel, Apple Strudel, Sachertorte, Potato Salad"
+      },
+      {
+        "City": "Zell am See",
+        "Attractions": "Lake Zell and Schmittenhöhe Mountain",
+        "Activities": "Swimming in the lake and ice skating",
+        "Landmarks_and_Historical_Places": "Zell Church",
+        "Cuisines": "Wiener Schnitzel, Apple Strudel, Sachertorte, Potato Salad"
+      },
+      {
+        "City": "Linz",
+        "Attractions": "Danube River banks and botanical gardens",
+        "Activities": "Visit the electronic Ars Electronica Museum",
+        "Landmarks_and_Historical_Places": "Maria Cathedral",
+        "Cuisines": "Wiener Schnitzel, Apple Strudel, Sachertorte, Potato Salad"
+      },
+      {
+        "City": "Bad Gastein",
+        "Attractions": "Gastein Waterfall in the city center and national park",
+        "Activities": "Relax in hot springs and waterfall",
+        "Landmarks_and_Historical_Places": "Gastein Waterfall",
+        "Cuisines": "Wiener Schnitzel, Apple Strudel, Sachertorte, Potato Salad"
+      },
+      {
+        "City": "Wachau Valley",
+        "Attractions": "Danube River and green hills",
+        "Activities": "River cruises and vineyard visits",
+        "Landmarks_and_Historical_Places": "Vineyards",
+        "Cuisines": "Wiener Schnitzel, Apple Strudel, Sachertorte, Potato Salad"
+      },
+      {
+        "City": "Villach",
+        "Attractions": "Dobratsch Nature Park",
+        "Activities": "Enjoy warm lakes in the south",
+        "Landmarks_and_Historical_Places": "Carinthian Lakes",
+        "Cuisines": "Wiener Schnitzel, Apple Strudel, Sachertorte, Potato Salad"
+      }
+    ],
+    "Parks_and_Green_Spaces": [
+      "Prater Park and Vienna Woods",
+      "Mirabell Gardens and surrounding Alps",
+      "Nordkette Mountains (cable car access)",
+      "Hallstatt Lake and high mountains",
+      "Schlossberg Hill and gardens",
+      "Lake Zell and Schmittenhöhe Mountain",
+      "Danube River banks and botanical gardens",
+      "Gastein Waterfall in the city center and national park",
+      "Danube River and green hills",
+      "Dobratsch Nature Park"
+    ]
+  },
+  {
+    "Country": "Niger",
+    "Region": "Africa (West)",
+    "Description": "A landlocked country in West Africa, famous for its deserts, oases, and traditional culture.",
+    "Cities": [
+      {
+        "City": "Niamey",
+        "Attractions": "Niger River banks and Green Belt forest",
+        "Activities": "Visit the National Museum and zoo",
+        "Landmarks_and_Historical_Places": "National Museum, Grand Market",
+        "Cuisines": "Jollof Rice, Domba (meat and dough), Niger Couscous, Kilishi (dried meat)"
+      },
+      {
+        "City": "Agadez",
+        "Attractions": "Air Mountains",
+        "Activities": "See the Great Mud Mosque and desert gateway",
+        "Landmarks_and_Historical_Places": "Great Mud Mosque",
+        "Cuisines": "Jollof Rice, Domba (meat and dough), Niger Couscous, Kilishi (dried meat)"
+      },
+      {
+        "City": "Zinder",
+        "Attractions": "Surrounding rock formations",
+        "Activities": "Explore traditional Hausa architecture",
+        "Landmarks_and_Historical_Places": "Great Mosque, Zinder Sultanate",
+        "Cuisines": "Jollof Rice, Domba (meat and dough), Niger Couscous, Kilishi (dried meat)"
+      },
+      {
+        "City": "W National Park",
+        "Attractions": "Transboundary nature reserve (UNESCO)",
+        "Activities": "Safari to see wildlife",
+        "Landmarks_and_Historical_Places": "W National Park",
+        "Cuisines": "Jollof Rice, Domba (meat and dough), Niger Couscous, Kilishi (dried meat)"
+      },
+      {
+        "City": "Arlit",
+        "Attractions": "Vast sand dunes",
+        "Activities": "Gateway to the Ténéré Desert",
+        "Landmarks_and_Historical_Places": "Ténéré Desert",
+        "Cuisines": "Jollof Rice, Domba (meat and dough), Niger Couscous, Kilishi (dried meat)"
+      },
+      {
+        "City": "Dosso",
+        "Attractions": "Savanna and forest areas",
+        "Activities": "Cultural center and traditional kingdom",
+        "Landmarks_and_Historical_Places": "Dosso Traditional Kingdom",
+        "Cuisines": "Jollof Rice, Domba (meat and dough), Niger Couscous, Kilishi (dried meat)"
+      },
+      {
+        "City": "Ayoro",
+        "Attractions": "Niger River islands",
+        "Activities": "Cattle market and river trips to see hippos",
+        "Landmarks_and_Historical_Places": "Cattle Market",
+        "Cuisines": "Jollof Rice, Domba (meat and dough), Niger Couscous, Kilishi (dried meat)"
+      },
+      {
+        "City": "Maradi",
+        "Attractions": "Surrounding forests and farms",
+        "Activities": "Economic and agricultural center",
+        "Landmarks_and_Historical_Places": "Maradi Market",
+        "Cuisines": "Jollof Rice, Domba (meat and dough), Niger Couscous, Kilishi (dried meat)"
+      },
+      {
+        "City": "Kouré",
+        "Attractions": "Acacia bushes and plains",
+        "Activities": "See the last giraffe herds in West Africa",
+        "Landmarks_and_Historical_Places": "Kouré Reserve",
+        "Cuisines": "Jollof Rice, Domba (meat and dough), Niger Couscous, Kilishi (dried meat)"
+      },
+      {
+        "City": "Bilma",
+        "Attractions": "Bilma Oasis and Great Sand Dunes",
+        "Activities": "Watch traditional salt caravans",
+        "Landmarks_and_Historical_Places": "Bilma Oasis",
+        "Cuisines": "Jollof Rice, Domba (meat and dough), Niger Couscous, Kilishi (dried meat)"
+      }
+    ],
+    "Parks_and_Green_Spaces": [
+      "Niger River banks and Green Belt forest",
+      "Air Mountains",
+      "Surrounding rock formations",
+      "Transboundary nature reserve (UNESCO)",
+      "Vast sand dunes",
+      "Savanna and forest areas",
+      "Niger River islands",
+      "Surrounding forests and farms",
+      "Acacia bushes and plains",
+      "Bilma Oasis and Great Sand Dunes"
+    ]
+  },
+  {
+    "Country": "Nigeria",
+    "Region": "Africa (West)",
+    "Description": "A country in West Africa, famous for its oil industry, cultural diversity, and vibrant cities.",
+    "Cities": [
+      {
+        "City": "Lagos",
+        "Attractions": "Tarkwa Bay Beach and Lekki Conservation Center",
+        "Activities": "Lekki Conservation Center and Canopy Walk",
+        "Landmarks_and_Historical_Places": "Victoria Island, African Market",
+        "Cuisines": "Jollof Rice (Original), Fufu and Egusi Soup, Suya (spicy grilled meat), Pounded Yam"
+      },
+      {
+        "City": "Abuja",
+        "Attractions": "Millennium Park",
+        "Activities": "Climb Aso Rock and visit the National Mosque",
+        "Landmarks_and_Historical_Places": "Aso Rock, National Mosque",
+        "Cuisines": "Jollof Rice (Original), Fufu and Egusi Soup, Suya (spicy grilled meat), Pounded Yam"
+      },
+      {
+        "City": "Calabar",
+        "Attractions": "Cross River National Park (gorillas)",
+        "Activities": "Calabar Festival and Tinapa Resort",
+        "Landmarks_and_Historical_Places": "Calabar Museum",
+        "Cuisines": "Jollof Rice (Original), Fufu and Egusi Soup, Suya (spicy grilled meat), Pounded Yam"
+      },
+      {
+        "City": "Ibadan",
+        "Attractions": "Surrounding hills and forests",
+        "Activities": "Visit Agodi Gardens and zoo",
+        "Landmarks_and_Historical_Places": "University of Ibadan",
+        "Cuisines": "Jollof Rice (Original), Fufu and Egusi Soup, Suya (spicy grilled meat), Pounded Yam"
+      },
+      {
+        "City": "Kano",
+        "Attractions": "Dala Hills",
+        "Activities": "Visit old city walls and dye pits",
+        "Landmarks_and_Historical_Places": "Old City Walls",
+        "Cuisines": "Jollof Rice (Original), Fufu and Egusi Soup, Suya (spicy grilled meat), Pounded Yam"
+      },
+      {
+        "City": "Jos",
+        "Attractions": "Assop Waterfalls and Wildlife Park",
+        "Activities": "Enjoy moderate weather and museums",
+        "Landmarks_and_Historical_Places": "National Museum",
+        "Cuisines": "Jollof Rice (Original), Fufu and Egusi Soup, Suya (spicy grilled meat), Pounded Yam"
+      },
+      {
+        "City": "Enugu",
+        "Attractions": "Nike Lake and Mikik Hills",
+        "Activities": "Masquerade festivals and coal hills",
+        "Landmarks_and_Historical_Places": "Enugu Palace",
+        "Cuisines": "Jollof Rice (Original), Fufu and Egusi Soup, Suya (spicy grilled meat), Pounded Yam"
+      },
+      {
+        "City": "Port Harcourt",
+        "Attractions": "Port Harcourt Tourist Park",
+        "Activities": "Tourist parks and oil activities",
+        "Landmarks_and_Historical_Places": "Port Harcourt Port",
+        "Cuisines": "Jollof Rice (Original), Fufu and Egusi Soup, Suya (spicy grilled meat), Pounded Yam"
+      },
+      {
+        "City": "Osogbo",
+        "Attractions": "Sacred Grove and River",
+        "Activities": "Visit Osun-Osogbo Sacred Grove (UNESCO)",
+        "Landmarks_and_Historical_Places": "Osun-Osogbo Sacred Grove",
+        "Cuisines": "Jollof Rice (Original), Fufu and Egusi Soup, Suya (spicy grilled meat), Pounded Yam"
+      },
+      {
+        "City": "Yankari",
+        "Attractions": "Wikki Warm Springs and Yankari Park",
+        "Activities": "Best safari reserve in Nigeria",
+        "Landmarks_and_Historical_Places": "Yankari National Park",
+        "Cuisines": "Jollof Rice (Original), Fufu and Egusi Soup, Suya (spicy grilled meat), Pounded Yam"
+      }
+    ],
+    "Parks_and_Green_Spaces": [
+      "Tarkwa Bay Beach and Lekki Conservation Center",
+      "Millennium Park",
+      "Cross River National Park (gorillas)",
+      "Surrounding hills and forests",
+      "Dala Hills",
+      "Assop Waterfalls and Wildlife Park",
+      "Nike Lake and Mikik Hills",
+      "Port Harcourt Tourist Park",
+      "Sacred Grove and River",
+      "Wikki Warm Springs and Yankari Park"
+    ]
+  },
+  {
+    "Country": "Nicaragua",
+    "Region": "Central America",
+    "Description": "A country in Central America, famous for its lakes, volcanoes, and canals.",
+    "Cities": [
+      {
+        "City": "Granada",
+        "Attractions": "Lake Nicaragua and Mombacho Volcano",
+        "Activities": "Colonial architecture and Islets tour",
+        "Landmarks_and_Historical_Places": "Old City, Granada Cathedral",
+        "Cuisines": "Gallo Pinto (rice and beans), Nacatamal, Vigorón, Fried Cheese"
+      },
+      {
+        "City": "León",
+        "Attractions": "Maribios Volcano Chain",
+        "Activities": "Volcano boarding on Cerro Negro and cathedral",
+        "Landmarks_and_Historical_Places": "León Cathedral, Museum of Legends and Traditions",
+        "Cuisines": "Gallo Pinto (rice and beans), Nacatamal, Vigorón, Fried Cheese"
+      },
+      {
+        "City": "San Juan del Sur",
+        "Attractions": "Beaches and turtle marine reserves",
+        "Activities": "Surfing and beach life",
+        "Landmarks_and_Historical_Places": "La Vista Reserve",
+        "Cuisines": "Gallo Pinto (rice and beans), Nacatamal, Vigorón, Fried Cheese"
+      },
+      {
+        "City": "Ometepe Island",
+        "Attractions": "Charco Verde Reserve and water springs",
+        "Activities": "Climb two volcanoes in the middle of a lake",
+        "Landmarks_and_Historical_Places": "Concepción Volcano, Maderas Volcano",
+        "Cuisines": "Gallo Pinto (rice and beans), Nacatamal, Vigorón, Fried Cheese"
+      },
+      {
+        "City": "Managua",
+        "Attractions": "Lake Managua and Tiscapa Lagoon Park",
+        "Activities": "Visit the old port (Salvador Allende)",
+        "Landmarks_and_Historical_Places": "Old Port, Plaza de la Revolución",
+        "Cuisines": "Gallo Pinto (rice and beans), Nacatamal, Vigorón, Fried Cheese"
+      },
+      {
+        "City": "Corn Islands",
+        "Attractions": "Coral reefs and turquoise beaches",
+        "Activities": "Diving and Caribbean relaxation",
+        "Landmarks_and_Historical_Places": "Big Corn Island, Little Corn Island",
+        "Cuisines": "Gallo Pinto (rice and beans), Nacatamal, Vigorón, Fried Cheese"
+      },
+      {
+        "City": "Matagalpa",
+        "Attractions": "Selva Negra Reserve",
+        "Activities": "Visit coffee farms and cloud forests",
+        "Landmarks_and_Historical_Places": "Coffee Farms",
+        "Cuisines": "Gallo Pinto (rice and beans), Nacatamal, Vigorón, Fried Cheese"
+      },
+      {
+        "City": "Estelí",
+        "Attractions": "Miraflores Nature Reserve",
+        "Activities": "Visit cigar factories and waterfalls",
+        "Landmarks_and_Historical_Places": "Cigar Factories",
+        "Cuisines": "Gallo Pinto (rice and beans), Nacatamal, Vigorón, Fried Cheese"
+      },
+      {
+        "City": "Masaya",
+        "Attractions": "Masaya Volcano National Park (visible lava)",
+        "Activities": "Visit handicraft market and active volcano",
+        "Landmarks_and_Historical_Places": "Masaya Volcano",
+        "Cuisines": "Gallo Pinto (rice and beans), Nacatamal, Vigorón, Fried Cheese"
+      },
+      {
+        "City": "Río San Juan",
+        "Attractions": "Indio Maíz Biological Reserve",
+        "Activities": "Boat trips through historical forest",
+        "Landmarks_and_Historical_Places": "Indio Maíz Biological Reserve",
+        "Cuisines": "Gallo Pinto (rice and beans), Nacatamal, Vigorón, Fried Cheese"
+      }
+    ],
+    "Parks_and_Green_Spaces": [
+      "Lake Nicaragua and Mombacho Volcano",
+      "Maribios Volcano Chain",
+      "Beaches and turtle marine reserves",
+      "Charco Verde Reserve and water springs",
+      "Lake Managua and Tiscapa Lagoon Park",
+      "Coral reefs and turquoise beaches",
+      "Selva Negra Reserve",
+      "Miraflores Nature Reserve",
+      "Masaya Volcano National Park (visible lava)",
+      "Indio Maíz Biological Reserve"
+    ]
+  },
+  {
+    "Country": "New Zealand",
+    "Region": "Oceania",
+    "Description": "An island nation in the southwestern Pacific Ocean, famous for its stunning landscapes, from fjords to mountains and beaches.",
+    "Cities": [
+      {
+        "City": "Auckland",
+        "Attractions": "Rangitoto Volcano Domain and Cornwall Park",
+        "Activities": "Climb Sky Tower and sail in the harbor",
+        "Landmarks_and_Historical_Places": "Sky Tower, Auckland Museum",
+        "Cuisines": "Hāngi (underground cooking), Roast Lamb, Pavlova, Bluff Oysters"
+      },
+      {
+        "City": "Queenstown",
+        "Attractions": "Lake Wakatipu and Remarkables mountain range",
+        "Activities": "Adventure capital (bungee jumping) and skiing",
+        "Landmarks_and_Historical_Places": "Kawarau Gorge Suspension Bridge",
+        "Cuisines": "Hāngi (underground cooking), Roast Lamb, Pavlova, Bluff Oysters"
+      },
+      {
+        "City": "Rotorua",
+        "Attractions": "Redwoods Forest and Waimangu Volcanic Valley",
+        "Activities": "Hot springs and Māori culture",
+        "Landmarks_and_Historical_Places": "Te Puia Māori Village",
+        "Cuisines": "Hāngi (underground cooking), Roast Lamb, Pavlova, Bluff Oysters"
+      },
+      {
+        "City": "Wellington",
+        "Attractions": "Wellington Botanic Garden and Zealandia Sanctuary",
+        "Activities": "Visit Te Papa Museum and Weta Workshop",
+        "Landmarks_and_Historical_Places": "Te Papa Museum, St. Paul's Cathedral",
+        "Cuisines": "Hāngi (underground cooking), Roast Lamb, Pavlova, Bluff Oysters"
+      },
+      {
+        "City": "Christchurch",
+        "Attractions": "Hagley Park and Botanic Gardens",
+        "Activities": "Punting on the Avon River and gardens",
+        "Landmarks_and_Historical_Places": "Christchurch Cathedral",
+        "Cuisines": "Hāngi (underground cooking), Roast Lamb, Pavlova, Bluff Oysters"
+      },
+      {
+        "City": "Milford Sound",
+        "Attractions": "Fiordland National Park (waterfalls and forests)",
+        "Activities": "Sea cruise in the famous fjord",
+        "Landmarks_and_Historical_Places": "Fiordland National Park",
+        "Cuisines": "Hāngi (underground cooking), Roast Lamb, Pavlova, Bluff Oysters"
+      },
+      {
+        "City": "Taupō",
+        "Attractions": "Tongariro National Park (volcanoes)",
+        "Activities": "Visit Lake Taupō and Huka Falls",
+        "Landmarks_and_Historical_Places": "Tongariro National Park",
+        "Cuisines": "Hāngi (underground cooking), Roast Lamb, Pavlova, Bluff Oysters"
+      },
+      {
+        "City": "Kaikōura",
+        "Attractions": "Kaikōura Peninsula Walkway",
+        "Activities": "Whale and dolphin watching",
+        "Landmarks_and_Historical_Places": "Kaikōura Peninsula",
+        "Cuisines": "Hāngi (underground cooking), Roast Lamb, Pavlova, Bluff Oysters"
+      },
+      {
+        "City": "Wanaka",
+        "Attractions": "Lake Wanaka and Mount Roy",
+        "Activities": "Photograph the lone tree and hiking",
+        "Landmarks_and_Historical_Places": "Lake Wanaka",
+        "Cuisines": "Hāngi (underground cooking), Roast Lamb, Pavlova, Bluff Oysters"
+      },
+      {
+        "City": "Bay of Islands",
+        "Attractions": "Green islands and isolated beaches",
+        "Activities": "Swimming with dolphins and history",
+        "Landmarks_and_Historical_Places": "Russell Island",
+        "Cuisines": "Hāngi (underground cooking), Roast Lamb, Pavlova, Bluff Oysters"
+      }
+    ],
+    "Parks_and_Green_Spaces": [
+      "Rangitoto Volcano Domain and Cornwall Park",
+      "Lake Wakatipu and Remarkables mountain range",
+      "Redwoods Forest and Waimangu Volcanic Valley",
+      "Wellington Botanic Garden and Zealandia Sanctuary",
+      "Hagley Park and Botanic Gardens",
+      "Fiordland National Park (waterfalls and forests)",
+      "Tongariro National Park (volcanoes)",
+      "Kaikōura Peninsula Walkway",
+      "Lake Wanaka and Mount Roy",
+      "Green islands and isolated beaches"
+    ]
+  },
+  {
+    "Country": "Haiti",
+    "Region": "Caribbean America",
+    "Description": "A country in the Caribbean region, famous for its rich history, unique culture, and beautiful beaches.",
+    "Cities": [
+      {
+        "City": "Cap-Haïtien",
+        "Attractions": "Labadie Beach (private resort and views)",
+        "Activities": "Visit Citadelle Laferrière (largest fortress in the Americas)",
+        "Landmarks_and_Historical_Places": "Citadelle Laferrière",
+        "Cuisines": "Griot (fried pork), Rice and Beans (Diri ak pwa), Soup Joumou, Banan Peze"
+      },
+      {
+        "City": "Port-au-Prince",
+        "Attractions": "Historical Sugar Cane Fields Park",
+        "Activities": "Visit the National Museum and Iron Market",
+        "Landmarks_and_Historical_Places": "National Museum, Iron Market",
+        "Cuisines": "Griot (fried pork), Rice and Beans (Diri ak pwa), Soup Joumou, Banan Peze"
+      },
+      {
+        "City": "Jacmel",
+        "Attractions": "Bassin Bleu (turquoise pools and waterfalls)",
+        "Activities": "Art center and carnivals and architecture",
+        "Landmarks_and_Historical_Places": "Bassin Bleu",
+        "Cuisines": "Griot (fried pork), Rice and Beans (Diri ak pwa), Soup Joumou, Banan Peze"
+      },
+      {
+        "City": "Île-à-Vache",
+        "Attractions": "Pristine beaches and coconut trees",
+        "Activities": "Relax on a remote and quiet island",
+        "Landmarks_and_Historical_Places": "Île-à-Vache Beaches",
+        "Cuisines": "Griot (fried pork), Rice and Beans (Diri ak pwa), Soup Joumou, Banan Peze"
+      },
+      {
+        "City": "Les Cayes",
+        "Attractions": "Gelee Beach and Marie-Jeanne Cave",
+        "Activities": "Gateway to southern beaches and music festival",
+        "Landmarks_and_Historical_Places": "Gelee Beach, Marie-Jeanne Cave",
+        "Cuisines": "Griot (fried pork), Rice and Beans (Diri ak pwa), Soup Joumou, Banan Peze"
+      },
+      {
+        "City": "Gonaïves",
+        "Attractions": "Hot springs and dry landscapes",
+        "Activities": "Historical Independence City",
+        "Landmarks_and_Historical_Places": "Independence City",
+        "Cuisines": "Griot (fried pork), Rice and Beans (Diri ak pwa), Soup Joumou, Banan Peze"
+      },
+      {
+        "City": "Côte des Arcadins",
+        "Attractions": "Coastal coral reefs",
+        "Activities": "Beach resorts and water sports",
+        "Landmarks_and_Historical_Places": "Côte des Arcadins Beaches",
+        "Cuisines": "Griot (fried pork), Rice and Beans (Diri ak pwa), Soup Joumou, Banan Peze"
+      },
+      {
+        "City": "Lâogâne",
+        "Attractions": "Small bays and clear waters",
+        "Activities": "Traditional fishing village",
+        "Landmarks_and_Historical_Places": "Lâogâne Fishing Village",
+        "Cuisines": "Griot (fried pork), Rice and Beans (Diri ak pwa), Soup Joumou, Banan Peze"
+      },
+      {
+        "City": "Fort-de-France",
+        "Attractions": "Étang Saumâtre (salt lake)",
+        "Activities": "Artists' Village and ironwork",
+        "Landmarks_and_Historical_Places": "Artists' Village",
+        "Cuisines": "Griot (fried pork), Rice and Beans (Diri ak pwa), Soup Joumou, Banan Peze"
+      },
+      {
+        "City": "Jérémie",
+        "Attractions": "Macaya Mountains and cocoa forests",
+        "Activities": "City of Poets and old houses",
+        "Landmarks_and_Historical_Places": "Macaya Mountains",
+        "Cuisines": "Griot (fried pork), Rice and Beans (Diri ak pwa), Soup Joumou, Banan Peze"
+      }
+    ],
+    "Parks_and_Green_Spaces": [
+      "Labadie Beach (private resort and views)",
+      "Historical Sugar Cane Fields Park",
+      "Bassin Bleu (turquoise pools and waterfalls)",
+      "Pristine beaches and coconut trees",
+      "Gelee Beach and Marie-Jeanne Cave",
+      "Hot springs and dry landscapes",
+      "Coastal coral reefs",
+      "Small bays and clear waters",
+      "Étang Saumâtre (salt lake)",
+      "Macaya Mountains and cocoa forests"
+    ]
+  },
+  {
+    "Country": "Honduras",
+    "Region": "Central America",
+    "Description": "A country in Central America, famous for its rainforests, Mayan ruins, and Caribbean beaches.",
+    "Cities": [
+      {
+        "City": "Roatán",
+        "Attractions": "Carambola Gardens and Gumbalimba Park",
+        "Activities": "Dive in the world's second-largest coral reef",
+        "Landmarks_and_Historical_Places": "Gumbalimba Park",
+        "Cuisines": "Baleada (stuffed tortilla), Conch Soup, Carne Asada, Corn Tamales"
+      },
+      {
+        "City": "Copán Ruinas",
+        "Attractions": "Macaw Park and hot springs",
+        "Activities": "Explore famous Mayan ruins and sculptures",
+        "Landmarks_and_Historical_Places": "Copán Ruins",
+        "Cuisines": "Baleada (stuffed tortilla), Conch Soup, Carne Asada, Corn Tamales"
+      },
+      {
+        "City": "Utila",
+        "Attractions": "Pumpkin Hill and mangrove forests",
+        "Activities": "Learn cheap diving and watch whale sharks",
+        "Landmarks_and_Historical_Places": "Utila Island",
+        "Cuisines": "Baleada (stuffed tortilla), Conch Soup, Carne Asada, Corn Tamales"
+      },
+      {
+        "City": "Tegucigalpa",
+        "Attractions": "La Tigra National Park (cloud forest)",
+        "Activities": "Visit San Miguel Cathedral and Picacho Park",
+        "Landmarks_and_Historical_Places": "San Miguel Cathedral",
+        "Cuisines": "Baleada (stuffed tortilla), Conch Soup, Carne Asada, Corn Tamales"
+      },
+      {
+        "City": "La Ceiba",
+        "Attractions": "Pico Bonito National Park (waterfalls and forests)",
+        "Activities": "Ecotourism capital and river rafting",
+        "Landmarks_and_Historical_Places": "Pico Bonito National Park",
+        "Cuisines": "Baleada (stuffed tortilla), Conch Soup, Carne Asada, Corn Tamales"
+      },
+      {
+        "City": "Tela",
+        "Attractions": "Lancetilla Botanical Garden and Punta Sal Reserve",
+        "Activities": "Botanical gardens and Caribbean beaches",
+        "Landmarks_and_Historical_Places": "Lancetilla Botanical Garden",
+        "Cuisines": "Baleada (stuffed tortilla), Conch Soup, Carne Asada, Corn Tamales"
+      },
+      {
+        "City": "Lake Yojoa",
+        "Attractions": "Pulhapanzak Waterfalls and lake",
+        "Activities": "Bird watching and kayaking",
+        "Landmarks_and_Historical_Places": "Pulhapanzak Waterfalls",
+        "Cuisines": "Baleada (stuffed tortilla), Conch Soup, Carne Asada, Corn Tamales"
+      },
+      {
+        "City": "Cayos Cochinos Islands",
+        "Attractions": "Completely pristine marine reserve",
+        "Activities": "Visit local villages and isolated diving",
+        "Landmarks_and_Historical_Places": "Cayos Cochinos Islands",
+        "Cuisines": "Baleada (stuffed tortilla), Conch Soup, Carne Asada, Corn Tamales"
+      },
+      {
+        "City": "Comayagua",
+        "Attractions": "Mountains surrounding the valley",
+        "Activities": "See the oldest clock in the Americas and architecture",
+        "Landmarks_and_Historical_Places": "Oldest clock in the Americas",
+        "Cuisines": "Baleada (stuffed tortilla), Conch Soup, Carne Asada, Corn Tamales"
+      },
+      {
+        "City": "Gracias",
+        "Attractions": "Celaque National Park (highest peak)",
+        "Activities": "Hot springs and San Cristóbal Fortress",
+        "Landmarks_and_Historical_Places": "San Cristóbal Fortress",
+        "Cuisines": "Baleada (stuffed tortilla), Conch Soup, Carne Asada, Corn Tamales"
+      }
+    ],
+    "Parks_and_Green_Spaces": [
+      "Carambola Gardens and Gumbalimba Park",
+      "Macaw Park and hot springs",
+      "Pumpkin Hill and mangrove forests",
+      "La Tigra National Park (cloud forest)",
+      "Pico Bonito National Park (waterfalls and forests)",
+      "Lancetilla Botanical Garden and Punta Sal Reserve",
+      "Pulhapanzak Waterfalls and lake",
+      "Completely pristine marine reserve",
+      "Mountains surrounding the valley",
+      "Celaque National Park (highest peak)"
+    ]
+  },
+  {
+    "Country": "India",
+    "Region": "Asia (South)",
+    "Description": "A country in South Asia, famous for its ancient history, cultural diversity, and famous landmarks.",
+    "Cities": [
+      {
+        "City": "New Delhi",
+        "Attractions": "Lodi Gardens and Deer Park",
+        "Activities": "Red Fort, Qutub Minar, and India Gate",
+        "Landmarks_and_Historical_Places": "Red Fort, Qutub Minar, India Gate",
+        "Cuisines": "Biryani, Butter Chicken, Masala Dosa, Samosa, Chai Tea"
+      },
+      {
+        "City": "Agra",
+        "Attractions": "Mehtab Bagh Garden (overlooking the Taj)",
+        "Activities": "Visit Taj Mahal and Fort",
+        "Landmarks_and_Historical_Places": "Taj Mahal, Agra Fort",
+        "Cuisines": "Biryani, Butter Chicken, Masala Dosa, Samosa, Chai Tea"
+      },
+      {
+        "City": "Jaipur",
+        "Attractions": "Sisodia Rani Garden and lakes",
+        "Activities": "Pink City: Hawa Mahal and Amer Fort",
+        "Landmarks_and_Historical_Places": "Hawa Mahal, Amer Fort",
+        "Cuisines": "Biryani, Butter Chicken, Masala Dosa, Samosa, Chai Tea"
+      },
+      {
+        "City": "Mumbai",
+        "Attractions": "Sanjay Gandhi National Park (within the city)",
+        "Activities": "Gateway of India and Marine Drive",
+        "Landmarks_and_Historical_Places": "Gateway of India, Marine Drive",
+        "Cuisines": "Biryani, Butter Chicken, Masala Dosa, Samosa, Chai Tea"
+      },
+      {
+        "City": "Goa",
+        "Attractions": "Dudhsagar Waterfalls and spice farms",
+        "Activities": "Beaches and nightlife and Portuguese churches",
+        "Landmarks_and_Historical_Places": "Bom Jesus Church, St. Catherine's Church",
+        "Cuisines": "Biryani, Butter Chicken, Masala Dosa, Samosa, Chai Tea"
+      },
+      {
+        "City": "Kerala (Munnar)",
+        "Attractions": "Tea plantations in Munnar and Thekkady",
+        "Activities": "Backwaters houseboat tour",
+        "Landmarks_and_Historical_Places": "Tea Plantations",
+        "Cuisines": "Biryani, Butter Chicken, Masala Dosa, Samosa, Chai Tea"
+      },
+      {
+        "City": "Varanasi",
+        "Attractions": "Sacred riverbanks",
+        "Activities": "Spiritual rituals on the Ganges",
+        "Landmarks_and_Historical_Places": "Ganges Ghats",
+        "Cuisines": "Biryani, Butter Chicken, Masala Dosa, Samosa, Chai Tea"
+      },
+      {
+        "City": "Udaipur",
+        "Attractions": "Lake Pichola and Saheliyon Ki Bari Garden",
+        "Activities": "City of Lakes and floating palaces",
+        "Landmarks_and_Historical_Places": "Lake Palace, City Palace",
+        "Cuisines": "Biryani, Butter Chicken, Masala Dosa, Samosa, Chai Tea"
+      },
+      {
+        "City": "Rishikesh",
+        "Attractions": "Himalayan foothills and forests",
+        "Activities": "Yoga and rafting on the Ganges",
+        "Landmarks_and_Historical_Places": "Lakshman Jhula Bridge",
+        "Cuisines": "Biryani, Butter Chicken, Masala Dosa, Samosa, Chai Tea"
+      },
+      {
+        "City": "Ladakh (Leh)",
+        "Attractions": "Pangong Lake and Nubra Valley (cold desert)",
+        "Activities": "Visit monasteries and mountain views",
+        "Landmarks_and_Historical_Places": "Hemis Monastery, Thiksey Monastery",
+        "Cuisines": "Biryani, Butter Chicken, Masala Dosa, Samosa, Chai Tea"
+      }
+    ],
+    "Parks_and_Green_Spaces": [
+      "Lodi Gardens and Deer Park",
+      "Mehtab Bagh Garden (overlooking the Taj)",
+      "Sisodia Rani Garden and lakes",
+      "Sanjay Gandhi National Park (within the city)",
+      "Dudhsagar Waterfalls and spice farms",
+      "Tea plantations in Munnar and Thekkady",
+      "Sacred riverbanks",
+      "Himalayan foothills and forests",
+      "Pangong Lake and Nubra Valley (cold desert)",
+      "Sanjay Gandhi National Park (within the city)"
+    ]
+  },
+  {
+    "Country": "Hungary",
+    "Region": "Europe (Central)",
+    "Description": "A Central European country, famous for its capital Budapest, lakes, and unique culture.",
+    "Cities": [
+      {
+        "City": "Budapest",
+        "Attractions": "Margaret Island (green oasis in the Danube)",
+        "Activities": "Parliament Building and Széchenyi Thermal Baths",
+        "Landmarks_and_Historical_Places": "Parliament Building, Buda Castle",
+        "Cuisines": "Goulash (meat soup), Lángos (fried dough), Paprika Chicken, Kürtőskalács (chimney cake)"
+      },
+      {
+        "City": "Debrecen",
+        "Attractions": "Hortobágy National Park (Great Plains)",
+        "Activities": "Visit the Great Church and Déri Museum",
+        "Landmarks_and_Historical_Places": "Great Church, Déri Museum",
+        "Cuisines": "Goulash (meat soup), Lángos (fried dough), Paprika Chicken, Kürtőskalács (chimney cake)"
+      },
+      {
+        "City": "Eger",
+        "Attractions": "Bükk Mountains and thermal resorts",
+        "Activities": "Visit the fortress and wine tasting (Valley of Beautiful Women)",
+        "Landmarks_and_Historical_Places": "Eger Fortress",
+        "Cuisines": "Goulash (meat soup), Lángos (fried dough), Paprika Chicken, Kürtőskalács (chimney cake)"
+      },
+      {
+        "City": "Lake Balaton",
+        "Attractions": "Tihany Peninsula and lavender fields",
+        "Activities": "Swimming and sailing (Hungarian Sea)",
+        "Landmarks_and_Historical_Places": "Tihany Abbey",
+        "Cuisines": "Goulash (meat soup), Lángos (fried dough), Paprika Chicken, Kürtőskalács (chimney cake)"
+      },
+      {
+        "City": "Pécs",
+        "Attractions": "Mecsek Mountains and lakes",
+        "Activities": "Mosque Church and porcelain",
+        "Landmarks_and_Historical_Places": "Mosque Church",
+        "Cuisines": "Goulash (meat soup), Lángos (fried dough), Paprika Chicken, Kürtőskalács (chimney cake)"
+      },
+      {
+        "City": "Sopron",
+        "Attractions": "Lővérek forests and Fertő Lake",
+        "Activities": "Fire Tower and Old Town",
+        "Landmarks_and_Historical_Places": "Fire Tower, Old Town",
+        "Cuisines": "Goulash (meat soup), Lángos (fried dough), Paprika Chicken, Kürtőskalács (chimney cake)"
+      },
+      {
+        "City": "Szentendre",
+        "Attractions": "Danube River banks",
+        "Activities": "Artists' town and open-air museums",
+        "Landmarks_and_Historical_Places": "Open-air Museums",
+        "Cuisines": "Goulash (meat soup), Lángos (fried dough), Paprika Chicken, Kürtőskalács (chimney cake)"
+      },
+      {
+        "City": "Győr",
+        "Attractions": "Confluence of three rivers",
+        "Activities": "Baroque Center and water park",
+        "Landmarks_and_Historical_Places": "Baroque Center",
+        "Cuisines": "Goulash (meat soup), Lángos (fried dough), Paprika Chicken, Kürtőskalács (chimney cake)"
+      },
+      {
+        "City": "Hévíz",
+        "Attractions": "Surrounding gardens and water lilies",
+        "Activities": "Swim in the world's largest thermal lake",
+        "Landmarks_and_Historical_Places": "Lake Hévíz",
+        "Cuisines": "Goulash (meat soup), Lángos (fried dough), Paprika Chicken, Kürtőskalács (chimney cake)"
+      },
+      {
+        "City": "Tokaj",
+        "Attractions": "Vineyard hills and confluence of Tisza and Bodrog rivers",
+        "Activities": "Tours in historical vineyards (UNESCO)",
+        "Landmarks_and_Historical_Places": "Vineyards",
+        "Cuisines": "Goulash (meat soup), Lángos (fried dough), Paprika Chicken, Kürtőskalács (chimney cake)"
+      }
+    ],
+    "Parks_and_Green_Spaces": [
+      "Margaret Island (green oasis in the Danube)",
+      "Hortobágy National Park (Great Plains)",
+      "Bükk Mountains and thermal resorts",
+      "Tihany Peninsula and lavender fields",
+      "Mecsek Mountains and lakes",
+      "Lővérek forests and Fertő Lake",
+      "Danube River banks",
+      "Confluence of three rivers",
+      "Surrounding gardens and water lilies",
+      "Vineyard hills and confluence of Tisza and Bodrog rivers"
+    ]
+  },
+  {
+    "Country": "Netherlands",
+    "Region": "Europe (West)",
+    "Description": "A Western European country, famous for its canals, windmills, and flowers.",
+    "Cities": [
+      {
+        "City": "Amsterdam",
+        "Attractions": "Vondelpark and Amsterdam Forest",
+        "Activities": "Rijksmuseum and canal tours",
+        "Landmarks_and_Historical_Places": "Rijksmuseum, Van Gogh Museum",
+        "Cuisines": "Raw Herring, Stroopwafel, Poffertjes (mini pancakes), Dutch Cheese"
+      },
+      {
+        "City": "Rotterdam",
+        "Attractions": "Kralingse Bos Park and Arboretum",
+        "Activities": "Cube Houses and Erasmus Bridge",
+        "Landmarks_and_Historical_Places": "Cube Houses, Erasmus Bridge",
+        "Cuisines": "Raw Herring, Stroopwafel, Poffertjes (mini pancakes), Dutch Cheese"
+      },
+      {
+        "City": "The Hague",
+        "Attractions": "Scheveningen Beach and sand dunes",
+        "Activities": "Peace Palace and Mauritshuis Museum",
+        "Landmarks_and_Historical_Places": "Peace Palace, Mauritshuis Museum",
+        "Cuisines": "Raw Herring, Stroopwafel, Poffertjes (mini pancakes), Dutch Cheese"
+      },
+      {
+        "City": "Utrecht",
+        "Attractions": "Botanical Gardens and Maxima Park",
+        "Activities": "Climb the Dom Tower and sit in canal cafes",
+        "Landmarks_and_Historical_Places": "Dom Tower",
+        "Cuisines": "Raw Herring, Stroopwafel, Poffertjes (mini pancakes), Dutch Cheese"
+      },
+      {
+        "City": "Giethoorn",
+        "Attractions": "De Weerribben-Wieden National Park",
+        "Activities": "Dutch Venice (boats only)",
+        "Landmarks_and_Historical_Places": "De Weerribben-Wieden National Park",
+        "Cuisines": "Raw Herring, Stroopwafel, Poffertjes (mini pancakes), Dutch Cheese"
+      },
+      {
+        "City": "Maastricht",
+        "Attractions": "St. Pietersberg Hill",
+        "Activities": "Underground caves and old town",
+        "Landmarks_and_Historical_Places": "Underground Caves",
+        "Cuisines": "Raw Herring, Stroopwafel, Poffertjes (mini pancakes), Dutch Cheese"
+      },
+      {
+        "City": "Delft",
+        "Attractions": "Delftse Hout Park",
+        "Activities": "Blue pottery and churches",
+        "Landmarks_and_Historical_Places": "Blue Pottery Factory",
+        "Cuisines": "Raw Herring, Stroopwafel, Poffertjes (mini pancakes), Dutch Cheese"
+      },
+      {
+        "City": "Lisse (Keukenhof)",
+        "Attractions": "Extending tulip fields",
+        "Activities": "Visit the world's most beautiful flower garden (spring)",
+        "Landmarks_and_Historical_Places": "Keukenhof Garden",
+        "Cuisines": "Raw Herring, Stroopwafel, Poffertjes (mini pancakes), Dutch Cheese"
+      },
+      {
+        "City": "Haarlem",
+        "Attractions": "Zuid-Kennemerland National Park (dunes and beaches)",
+        "Activities": "Shopping and museums",
+        "Landmarks_and_Historical_Places": "Teylers Museum",
+        "Cuisines": "Raw Herring, Stroopwafel, Poffertjes (mini pancakes), Dutch Cheese"
+      },
+      {
+        "City": "Wadden Islands (Texel)",
+        "Attractions": "Sand dunes and natural beaches",
+        "Activities": "Mudflat walking and seal watching",
+        "Landmarks_and_Historical_Places": "Wadden Islands",
+        "Cuisines": "Raw Herring, Stroopwafel, Poffertjes (mini pancakes), Dutch Cheese"
+      }
+    ],
+    "Parks_and_Green_Spaces": [
+      "Vondelpark and Amsterdam Forest",
+      "Kralingse Bos Park and Arboretum",
+      "Scheveningen Beach and sand dunes",
+      "Botanical Gardens and Maxima Park",
+      "De Weerribben-Wieden National Park",
+      "St. Pietersberg Hill",
+      "Delftse Hout Park",
+      "Extending tulip fields",
+      "Zuid-Kennemerland National Park (dunes and beaches)",
+      "Sand dunes and natural beaches"
+    ]
+  },
+  {
+    "Country": "United States of America",
+    "Region": "North America",
+    "Description": "A vast country with diverse cultures and landscapes from sunny beaches to snowy mountains and vibrant cities.",
+    "Cities": [
+      {
+        "City": "New York",
+        "Attractions": "Central Park (New York)",
+        "Activities": "Watch Broadway shows, visit museums",
+        "Landmarks_and_Historical_Places": "Statue of Liberty, Times Square",
+        "Cuisines": "Burger and cheeseburger, Apple pie, Buffalo wings, New York pizza"
+      },
+      {
+        "City": "Los Angeles",
+        "Attractions": "Griffith Park",
+        "Activities": "Tour movie studios",
+        "Landmarks_and_Historical_Places": "Hollywood Sign, Walk of Fame",
+        "Cuisines": "Burger and cheeseburger, Apple pie, Buffalo wings, New York pizza"
+      },
+      {
+        "City": "Las Vegas",
+        "Attractions": "Red Rock Canyon",
+        "Activities": "Attend world-class entertainment shows",
+        "Landmarks_and_Historical_Places": "Bellagio Fountains, The Strip",
+        "Cuisines": "Burger and cheeseburger, Apple pie, Buffalo wings, New York pizza"
+      },
+      {
+        "City": "Orlando",
+        "Attractions": "Disney World Parks",
+        "Activities": "Visit theme parks (Disney)",
+        "Landmarks_and_Historical_Places": "Walt Disney World, Universal Studios",
+        "Cuisines": "Burger and cheeseburger, Apple pie, Buffalo wings, New York pizza"
+      },
+      {
+        "City": "San Francisco",
+        "Attractions": "Golden Gate Park",
+        "Activities": "Ride historic cable cars",
+        "Landmarks_and_Historical_Places": "Golden Gate Bridge, Alcatraz",
+        "Cuisines": "Burger and cheeseburger, Apple pie, Buffalo wings, New York pizza"
+      },
+      {
+        "City": "Miami",
+        "Attractions": "Fairchild Garden",
+        "Activities": "Enjoy nightlife and beaches",
+        "Landmarks_and_Historical_Places": "South Beach, Art Deco District",
+        "Cuisines": "Burger and cheeseburger, Apple pie, Buffalo wings, New York pizza"
+      },
+      {
+        "City": "Chicago",
+        "Attractions": "Millennium Park (The Bean)",
+        "Activities": "Architecture river tours",
+        "Landmarks_and_Historical_Places": "Millennium Park (The Bean), Willis Tower",
+        "Cuisines": "Burger and cheeseburger, Apple pie, Buffalo wings, New York pizza"
+      },
+      {
+        "City": "Washington DC",
+        "Attractions": "National Mall Memorial",
+        "Activities": "Visit free national museums",
+        "Landmarks_and_Historical_Places": "White House, Lincoln Memorial",
+        "Cuisines": "Burger and cheeseburger, Apple pie, Buffalo wings, New York pizza"
+      },
+      {
+        "City": "Honolulu",
+        "Attractions": "Waikiki Park",
+        "Activities": "Surfing and diving",
+        "Landmarks_and_Historical_Places": "Waikiki Beach, Pearl Harbor",
+        "Cuisines": "Burger and cheeseburger, Apple pie, Buffalo wings, New York pizza"
+      },
+      {
+        "City": "New Orleans",
+        "Attractions": "City Park",
+        "Activities": "Listen to live jazz music",
+        "Landmarks_and_Historical_Places": "French Quarter, Bourbon Street",
+        "Cuisines": "Burger and cheeseburger, Apple pie, Buffalo wings, New York pizza"
+      }
+    ],
+    "Parks_and_Green_Spaces": [
+      "Yellowstone National Park (volcanoes and springs)",
+      "Grand Canyon",
+      "Yosemite National Park",
+      "Central Park (New York)",
+      "Great Smoky Mountains National Park"
+    ]
+  },
+  {
+    "Country": "Japan",
+    "Region": "Asia (East)",
+    "Description": "A stunning blend of ancient traditions and modern technology, with beautiful nature and unique culture.",
+    "Cities": [
+      {
+        "City": "Tokyo",
+        "Attractions": "Shinjuku Gyoen Park (Tokyo)",
+        "Activities": "Shopping in Shibuya, visit Asakusa temples",
+        "Landmarks_and_Historical_Places": "Tokyo Tower, Shibuya Crossing",
+        "Cuisines": "Sushi, Ramen, Tempura, Okonomiyaki"
+      },
+      {
+        "City": "Kyoto",
+        "Attractions": "Nara Park (for deer)",
+        "Activities": "Attend tea ceremony, walk in bamboo forests",
+        "Landmarks_and_Historical_Places": "Kinkaku-ji (Golden Pavilion), Fushimi Inari",
+        "Cuisines": "Sushi, Ramen, Tempura, Okonomiyaki"
+      },
+      {
+        "City": "Osaka",
+        "Attractions": "Fuji-Hakone-Izu National Park",
+        "Activities": "Experience street food in Dotonbori",
+        "Landmarks_and_Historical_Places": "Osaka Castle, Universal Studios",
+        "Cuisines": "Sushi, Ramen, Tempura, Okonomiyaki"
+      },
+      {
+        "City": "Hiroshima",
+        "Attractions": "Peace Memorial Park",
+        "Activities": "Visit peace memorials",
+        "Landmarks_and_Historical_Places": "Peace Museum, Miyajima Island",
+        "Cuisines": "Sushi, Ramen, Tempura, Okonomiyaki"
+      },
+      {
+        "City": "Nara",
+        "Attractions": "Nara Park (for deer)",
+        "Activities": "Feed deer in the public park",
+        "Landmarks_and_Historical_Places": "Todai-ji Temple (Great Buddha)",
+        "Cuisines": "Sushi, Ramen, Tempura, Okonomiyaki"
+      },
+      {
+        "City": "Sapporo",
+        "Attractions": "Odori Park",
+        "Activities": "Snow Festival (winter), taste ramen",
+        "Landmarks_and_Historical_Places": "Odori Park, Beer Museum",
+        "Cuisines": "Sushi, Ramen, Tempura, Okonomiyaki"
+      },
+      {
+        "City": "Fukuoka",
+        "Attractions": "Ohori Park",
+        "Activities": "Visit food stalls (yatai)",
+        "Landmarks_and_Historical_Places": "Fukuoka Tower, Kushida Shrine",
+        "Cuisines": "Sushi, Ramen, Tempura, Okonomiyaki"
+      },
+      {
+        "City": "Kobe",
+        "Attractions": "Nunobiki Park",
+        "Activities": "Taste Kobe beef, ride ropeway",
+        "Landmarks_and_Historical_Places": "Kobe Port, Mount Rokko",
+        "Cuisines": "Sushi, Ramen, Tempura, Okonomiyaki"
+      },
+      {
+        "City": "Okinawa",
+        "Attractions": "Okinawa Memorial Park",
+        "Activities": "Diving in coral reefs",
+        "Landmarks_and_Historical_Places": "Shuri Castle, Churaumi Aquarium",
+        "Cuisines": "Sushi, Ramen, Tempura, Okonomiyaki"
+      },
+      {
+        "City": "Nagoya",
+        "Attractions": "Higashiyama Park",
+        "Activities": "Visit car and technology museums",
+        "Landmarks_and_Historical_Places": "Nagoya Castle, Toyota Museum",
+        "Cuisines": "Sushi, Ramen, Tempura, Okonomiyaki"
+      }
+    ],
+    "Parks_and_Green_Spaces": [
+      "Shinjuku Gyoen Park (Tokyo)",
+      "Nara Park (for deer)",
+      "Fuji-Hakone-Izu National Park",
+      "Arashiyama (bamboo forest)",
+      "Kenroku-en Garden",
+      "Peace Memorial Park",
+      "Odori Park",
+      "Ohori Park",
+      "Norokyo Park",
+      "Okinawa Memorial Park"
+    ]
+  },
+  {
+    "Country": "Yemen",
+    "Region": "Asia (West)",
+    "Description": "Cradle of ancient Arab civilizations, characterized by its historic cities and pristine nature especially in Socotra.",
+    "Cities": [
+      {
+        "City": "Old Sana'a",
+        "Attractions": "Safiya River banks",
+        "Activities": "Walk through old markets, see mud architecture",
+        "Landmarks_and_Historical_Places": "Bab Al-Yaman, Great Mosque",
+        "Cuisines": "Saltah, Mandi, Fahsa, Bint Al-Sahn"
+      },
+      {
+        "City": "Socotra (Hadibu)",
+        "Attractions": "Detwah Lagoon",
+        "Activities": "See Dragon's Blood Trees, camping",
+        "Landmarks_and_Historical_Places": "Detwah Lagoon, Dragon's Blood Trees",
+        "Cuisines": "Saltah, Mandi, Fahsa, Bint Al-Sahn"
+      },
+      {
+        "City": "Shibam Hadramawt",
+        "Attractions": "Hadramawt Valley",
+        "Activities": "Photograph mud skyscrapers",
+        "Landmarks_and_Historical_Places": "Old City (Manhattan of the Desert)",
+        "Cuisines": "Saltah, Mandi, Fahsa, Bint Al-Sahn"
+      },
+      {
+        "City": "Aden",
+        "Attractions": "Aden Beaches",
+        "Activities": "Enjoy beaches, visit cisterns",
+        "Landmarks_and_Historical_Places": "Aden Cisterns, Sira Fortress",
+        "Cuisines": "Saltah, Mandi, Fahsa, Bint Al-Sahn"
+      },
+      {
+        "City": "Taiz",
+        "Attractions": "Jabal Saber",
+        "Activities": "Visit historical mosques and fortresses",
+        "Landmarks_and_Historical_Places": "Cairo Fortress, Al-Mudhaffar Mosque",
+        "Cuisines": "Saltah, Mandi, Fahsa, Bint Al-Sahn"
+      },
+      {
+        "City": "Zabid",
+        "Attractions": "Zabid Valley",
+        "Activities": "Explore Islamic and scientific history",
+        "Landmarks_and_Historical_Places": "Great Mosque, Historical Libraries",
+        "Cuisines": "Saltah, Mandi, Fahsa, Bint Al-Sahn"
+      },
+      {
+        "City": "Al-Mukalla",
+        "Attractions": "Al-Mukalla Creek",
+        "Activities": "Walk on the corniche, visit museums",
+        "Landmarks_and_Historical_Places": "Al-Qa'iti Sultan Palace, Al-Mukalla Creek",
+        "Cuisines": "Saltah, Mandi, Fahsa, Bint Al-Sahn"
+      },
+      {
+        "City": "Ibb",
+        "Attractions": "Wadi Ana",
+        "Activities": "Enjoy green landscapes (Green Belt)",
+        "Landmarks_and_Historical_Places": "Wadi Ana, Mount Rabi",
+        "Cuisines": "Saltah, Mandi, Fahsa, Bint Al-Sahn"
+      },
+      {
+        "City": "Tarim",
+        "Attractions": "Hadramawt Valley",
+        "Activities": "Visit palaces and mosques of Hadramawt Valley",
+        "Landmarks_and_Historical_Places": "Al-Muhdar Minaret (mud)",
+        "Cuisines": "Saltah, Mandi, Fahsa, Bint Al-Sahn"
+      },
+      {
+        "City": "Al-Hudaydah",
+        "Attractions": "Al-Hudaydah Beaches",
+        "Activities": "Visit the port and popular markets",
+        "Landmarks_and_Historical_Places": "Bab Al-Mandab, Corniche",
+        "Cuisines": "Saltah, Mandi, Fahsa, Bint Al-Sahn"
+      }
+    ],
+    "Parks_and_Green_Spaces": [
+      "Utmah Nature Reserve",
+      "Hof (Al-Mahra - seasonal forests)",
+      "Socotra Nature Reserve",
+      "Wadi Dhahr (Sana'a)",
+      "Haraz Mountains (agricultural terraces)"
+    ]
+  },
+  {
+    "Country": "Greece",
+    "Region": "Europe (South)",
+    "Description": "Cradle of Western civilization, famous for its ancient ruins and enchanting islands with white and blue buildings.",
+    "Cities": [
+      {
+        "City": "Athens",
+        "Attractions": "National Garden",
+        "Activities": "Visit archaeological sites, walk in Plaka",
+        "Landmarks_and_Historical_Places": "Acropolis, Parthenon",
+        "Cuisines": "Moussaka, Souvlaki, Greek Salad, Tzatziki"
+      },
+      {
+        "City": "Santorini (Fira)",
+        "Attractions": "Athinos Beach",
+        "Activities": "Watch sunsets, volcanic boat tours",
+        "Landmarks_and_Historical_Places": "Blue Domes, Oia",
+        "Cuisines": "Moussaka, Souvlaki, Greek Salad, Tzatziki"
+      },
+      {
+        "City": "Mykonos",
+        "Attractions": "Paradise Beaches",
+        "Activities": "Nightlife, beaches",
+        "Landmarks_and_Historical_Places": "Windmills, Little Venice",
+        "Cuisines": "Moussaka, Souvlaki, Greek Salad, Tzatziki"
+      },
+      {
+        "City": "Thessaloniki",
+        "Attractions": "Seich Sou Forest",
+        "Activities": "Explore Byzantine history and cuisine",
+        "Landmarks_and_Historical_Places": "White Tower, Arch of Galerius",
+        "Cuisines": "Moussaka, Souvlaki, Greek Salad, Tzatziki"
+      },
+      {
+        "City": "Rhodes",
+        "Attractions": "Elli Beach",
+        "Activities": "Visit the Palace of the Grand Master",
+        "Landmarks_and_Historical_Places": "Rhodes Old Town, Valley of Butterflies",
+        "Cuisines": "Moussaka, Souvlaki, Greek Salad, Tzatziki"
+      },
+      {
+        "City": "Corfu",
+        "Attractions": "Mon Repos Park",
+        "Activities": "Walk in the old town (Italian style)",
+        "Landmarks_and_Historical_Places": "Old Fortress, Achilleion Palace",
+        "Cuisines": "Moussaka, Souvlaki, Greek Salad, Tzatziki"
+      },
+      {
+        "City": "Nafplio",
+        "Attractions": "Karathona Park",
+        "Activities": "Climb fortresses, relax in cafes",
+        "Landmarks_and_Historical_Places": "Palamidi Fortress, Bourtzi Fortress",
+        "Cuisines": "Moussaka, Souvlaki, Greek Salad, Tzatziki"
+      },
+      {
+        "City": "Heraklion (Crete)",
+        "Attractions": "Georgiadis Park",
+        "Activities": "Visit Minoan Knossos Palace",
+        "Landmarks_and_Historical_Places": "Knossos Palace, Archaeological Museum",
+        "Cuisines": "Moussaka, Souvlaki, Greek Salad, Tzatziki"
+      },
+      {
+        "City": "Patras",
+        "Attractions": "Agia Park",
+        "Activities": "Attend the annual carnival",
+        "Landmarks_and_Historical_Places": "Patras Fortress, Rio-Antirrio Bridge",
+        "Cuisines": "Moussaka, Souvlaki, Greek Salad, Tzatziki"
+      },
+      {
+        "City": "Delphi",
+        "Attractions": "Delphi Park",
+        "Activities": "Visit the ancient oracle site",
+        "Landmarks_and_Historical_Places": "Temple of Apollo, Ancient Theater",
+        "Cuisines": "Moussaka, Souvlaki, Greek Salad, Tzatziki"
+      }
+    ],
+    "Parks_and_Green_Spaces": [
+      "Mount Olympus National Park",
+      "Samaria Gorge (Crete)",
+      "Parnitha National Park",
+      "Lake Plastira",
+      "Vikos-Aoos National Park"
+    ]
+  },
+  {
+    "Country": "England",
+    "Region": "Europe (West)",
+    "Description": "Part of the United Kingdom, combining the bustling history of London with the tranquil English countryside.",
+    "Cities": [
+      {
+        "City": "London",
+        "Attractions": "Hyde Park (London)",
+        "Activities": "Ride the London Eye, visit free museums",
+        "Landmarks_and_Historical_Places": "Big Ben, Tower of London",
+        "Cuisines": "Fish and Chips, English Breakfast, Afternoon Tea, Roast Beef"
+      },
+      {
+        "City": "Manchester",
+        "Attractions": "Heaton Park",
+        "Activities": "Visit football stadiums, shopping",
+        "Landmarks_and_Historical_Places": "Old Trafford, Northern Quarter",
+        "Cuisines": "Fish and Chips, English Breakfast, Afternoon Tea, Roast Beef"
+      },
+      {
+        "City": "Liverpool",
+        "Attractions": "Sefton Park",
+        "Activities": "Follow in the footsteps of The Beatles",
+        "Landmarks_and_Historical_Places": "Albert Dock, Beatles Museum",
+        "Cuisines": "Fish and Chips, English Breakfast, Afternoon Tea, Roast Beef"
+      },
+      {
+        "City": "Bath",
+        "Attractions": "Sydney Park",
+        "Activities": "Bathe in Roman Baths",
+        "Landmarks_and_Historical_Places": "Roman Baths, Royal Crescent",
+        "Cuisines": "Fish and Chips, English Breakfast, Afternoon Tea, Roast Beef"
+      },
+      {
+        "City": "Oxford",
+        "Attractions": "Oxford University Parks",
+        "Activities": "Visit historic universities",
+        "Landmarks_and_Historical_Places": "Oxford University, Bodleian Library",
+        "Cuisines": "Fish and Chips, English Breakfast, Afternoon Tea, Roast Beef"
+      },
+      {
+        "City": "Cambridge",
+        "Attractions": "Cambridge University Parks",
+        "Activities": "Punting on the River",
+        "Landmarks_and_Historical_Places": "King's College, Mathematical Bridge",
+        "Cuisines": "Fish and Chips, English Breakfast, Afternoon Tea, Roast Beef"
+      },
+      {
+        "City": "York",
+        "Attractions": "York Museum Gardens",
+        "Activities": "Walk on ancient city walls",
+        "Landmarks_and_Historical_Places": "York Minster, The Shambles",
+        "Cuisines": "Fish and Chips, English Breakfast, Afternoon Tea, Roast Beef"
+      },
+      {
+        "City": "Bristol",
+        "Attractions": "Brandon Hill Park",
+        "Activities": "See Clifton Suspension Bridge",
+        "Landmarks_and_Historical_Places": "ss Great Britain ship",
+        "Cuisines": "Fish and Chips, English Breakfast, Afternoon Tea, Roast Beef"
+      },
+      {
+        "City": "Brighton",
+        "Attractions": "Brighton Park",
+        "Activities": "Enjoy the beach and seaside promenade",
+        "Landmarks_and_Historical_Places": "Brighton Pier, Royal Pavilion",
+        "Cuisines": "Fish and Chips, English Breakfast, Afternoon Tea, Roast Beef"
+      },
+      {
+        "City": "Stratford",
+        "Attractions": "Stratford Park",
+        "Activities": "Visit Shakespeare's birthplace",
+        "Landmarks_and_Historical_Places": "Shakespeare's Royal Theatre",
+        "Cuisines": "Fish and Chips, English Breakfast, Afternoon Tea, Roast Beef"
+      }
+    ],
+    "Parks_and_Green_Spaces": [
+      "Hyde Park (London)",
+      "Lake District",
+      "Royal Botanic Gardens, Kew",
+      "Peak District National Park",
+      "The Cotswolds (countryside)"
+    ]
+  },
+  {
+    "Country": "Scotland",
+    "Region": "Europe (North)",
+    "Description": "Land of castles and legends and stunning green highlands.",
+    "Cities": [
+      {
+        "City": "Edinburgh",
+        "Attractions": "Holyrood Park (Edinburgh)",
+        "Activities": "Climb Arthur's Seat, Arts Festival",
+        "Landmarks_and_Historical_Places": "Edinburgh Castle, Royal Mile",
+        "Cuisines": "Haggis, Cullen Skink Soup, Shortbread Biscuits, Scottish Salmon"
+      },
+      {
+        "City": "Glasgow",
+        "Attractions": "Kelvingrove Park",
+        "Activities": "Visit art museums, shopping",
+        "Landmarks_and_Historical_Places": "Glasgow Cathedral, Kelvingrove Museum",
+        "Cuisines": "Haggis, Cullen Skink Soup, Shortbread Biscuits, Scottish Salmon"
+      },
+      {
+        "City": "Inverness",
+        "Attractions": "Ness Islands Park",
+        "Activities": "Search for the Loch Ness Monster",
+        "Landmarks_and_Historical_Places": "Loch Ness, Urquhart Castle",
+        "Cuisines": "Haggis, Cullen Skink Soup, Shortbread Biscuits, Scottish Salmon"
+      },
+      {
+        "City": "Aberdeen",
+        "Attractions": "Duthie Park",
+        "Activities": "See granite buildings",
+        "Landmarks_and_Historical_Places": "Duthie Park, The Beach",
+        "Cuisines": "Haggis, Cullen Skink Soup, Shortbread Biscuits, Scottish Salmon"
+      },
+      {
+        "City": "Dundee",
+        "Attractions": "Camperdown Park",
+        "Activities": "Visit V&A Design Museum",
+        "Landmarks_and_Historical_Places": "Discovery Ship",
+        "Cuisines": "Haggis, Cullen Skink Soup, Shortbread Biscuits, Scottish Salmon"
+      },
+      {
+        "City": "Stirling",
+        "Attractions": "Kings Park",
+        "Activities": "Explore William Wallace history",
+        "Landmarks_and_Historical_Places": "Wallace Monument, Stirling Castle",
+        "Cuisines": "Haggis, Cullen Skink Soup, Shortbread Biscuits, Scottish Salmon"
+      },
+      {
+        "City": "Fort William",
+        "Attractions": "Glenfinnan Park",
+        "Activities": "Climb Ben Nevis mountain",
+        "Landmarks_and_Historical_Places": "Ben Nevis, Jacobite Steam Train (Harry Potter)",
+        "Cuisines": "Haggis, Cullen Skink Soup, Shortbread Biscuits, Scottish Salmon"
+      },
+      {
+        "City": "St Andrews",
+        "Attractions": "St Andrews Park",
+        "Activities": "Visit historic golf courses",
+        "Landmarks_and_Historical_Places": "Ruined Cathedral, University",
+        "Cuisines": "Haggis, Cullen Skink Soup, Shortbread Biscuits, Scottish Salmon"
+      },
+      {
+        "City": "Oban",
+        "Attractions": "Oban Park",
+        "Activities": "Eat seafood, island trips",
+        "Landmarks_and_Historical_Places": "McCaig's Tower",
+        "Cuisines": "Haggis, Cullen Skink Soup, Shortbread Biscuits, Scottish Salmon"
+      },
+      {
+        "City": "Perth",
+        "Attractions": "Kings James Park",
+        "Activities": "Visit Scone Palace",
+        "Landmarks_and_Historical_Places": "Scone Palace, River Tay",
+        "Cuisines": "Haggis, Cullen Skink Soup, Shortbread Biscuits, Scottish Salmon"
+      }
+    ],
+    "Parks_and_Green_Spaces": [
+      "Cairngorms National Park",
+      "Loch Lomond and The Trossachs",
+      "Holyrood Park (Edinburgh)",
+      "Isle of Skye (natural scenery)",
+      "Glen Coe (valley)"
+    ]
+  },
+  {
+    "Country": "Wales",
+    "Region": "Europe (West)",
+    "Description": "Land of castles (highest density of castles in the world), rugged coastlines and ancient Celtic language.",
+    "Cities": [
+      {
+        "City": "Cardiff",
+        "Attractions": "Bute Park",
+        "Activities": "Visit the castle in the city center",
+        "Landmarks_and_Historical_Places": "Cardiff Castle, Cardiff Bay",
+        "Cuisines": "Welsh Cakes, Cawl (soup), Laverbread (seaweed), Welsh Cheese"
+      },
+      {
+        "City": "Swansea",
+        "Attractions": "Swansea Park",
+        "Activities": "Enjoy Gower Peninsula beaches",
+        "Landmarks_and_Historical_Places": "Waterfront Museum, Swansea Bay",
+        "Cuisines": "Welsh Cakes, Cawl (soup), Laverbread (seaweed), Welsh Cheese"
+      },
+      {
+        "City": "St Davids",
+        "Attractions": "St Davids Park",
+        "Activities": "Smallest city in Britain, visit the cathedral",
+        "Landmarks_and_Historical_Places": "St Davids Cathedral",
+        "Cuisines": "Welsh Cakes, Cawl (soup), Laverbread (seaweed), Welsh Cheese"
+      },
+      {
+        "City": "Conwy",
+        "Attractions": "Conwy Park",
+        "Activities": "Walk on city walls",
+        "Landmarks_and_Historical_Places": "Conwy Castle, Smallest House in Britain",
+        "Cuisines": "Welsh Cakes, Cawl (soup), Laverbread (seaweed), Welsh Cheese"
+      },
+      {
+        "City": "Aberystwyth",
+        "Attractions": "Aberystwyth Park",
+        "Activities": "Ride the mountain railway, coastal walking",
+        "Landmarks_and_Historical_Places": "The Castle, National Library",
+        "Cuisines": "Welsh Cakes, Cawl (soup), Laverbread (seaweed), Welsh Cheese"
+      },
+      {
+        "City": "Caernarfon",
+        "Attractions": "Caernarfon Park",
+        "Activities": "Visit the royal castle",
+        "Landmarks_and_Historical_Places": "Caernarfon Castle (world heritage)",
+        "Cuisines": "Welsh Cakes, Cawl (soup), Laverbread (seaweed), Welsh Cheese"
+      },
+      {
+        "City": "Tenby",
+        "Attractions": "Tenby Park",
+        "Activities": "Relax on colorful beaches",
+        "Landmarks_and_Historical_Places": "Castle Beach, Colorful Houses",
+        "Cuisines": "Welsh Cakes, Cawl (soup), Laverbread (seaweed), Welsh Cheese"
+      },
+      {
+        "City": "Llangollen",
+        "Attractions": "Llangollen Park",
+        "Activities": "Canal boat rides, music festival",
+        "Landmarks_and_Historical_Places": "Pontcysyllte Aqueduct",
+        "Cuisines": "Welsh Cakes, Cawl (soup), Laverbread (seaweed), Welsh Cheese"
+      },
+      {
+        "City": "Bangor",
+        "Attractions": "Bangor Park",
+        "Activities": "Walk on the long seaside promenade",
+        "Landmarks_and_Historical_Places": "Bangor Pier, Bangor Cathedral",
+        "Cuisines": "Welsh Cakes, Cawl (soup), Laverbread (seaweed), Welsh Cheese"
+      },
+      {
+        "City": "Hay-on-Wye",
+        "Attractions": "Hay-on-Wye Park",
+        "Activities": "Visit dozens of used bookstores",
+        "Landmarks_and_Historical_Places": "Hay Castle, Literature Festival",
+        "Cuisines": "Welsh Cakes, Cawl (soup), Laverbread (seaweed), Welsh Cheese"
+      }
+    ],
+    "Parks_and_Green_Spaces": [
+      "Snowdonia (mountain climbing)",
+      "Brecon Beacons (waterfalls)",
+      "Pembrokeshire Coast",
+      "Bodnant Gardens",
+      "Coed y Brenin Forest"
+    ]
+  },
+  {
+    "Country": "Ireland",
+    "Region": "Europe (West)",
+    "Description": "The Emerald Isle, famous for its friendly people, traditional music, and endless green landscapes.",
+    "Cities": [
+      {
+        "City": "Dublin",
+        "Attractions": "Phoenix Park (Dublin)",
+        "Activities": "Visit Trinity College Library, Temple Bar area",
+        "Landmarks_and_Historical_Places": "Dublin Castle, Guinness Storehouse",
+        "Cuisines": "Irish Stew, Soda Bread, Colcannon (potatoes and cabbage), Boxty (potato pancake)"
+      },
+      {
+        "City": "Cork",
+        "Attractions": "Fitzwilliam Park",
+        "Activities": "Visit English Market, ring Shandon Bells",
+        "Landmarks_and_Historical_Places": "Cork City Gaol, Blarney Castle",
+        "Cuisines": "Irish Stew, Soda Bread, Colcannon (potatoes and cabbage), Boxty (potato pancake)"
+      },
+      {
+        "City": "Galway",
+        "Attractions": "Eyre Park",
+        "Activities": "Listen to street music, festivals",
+        "Landmarks_and_Historical_Places": "Spanish Arch, The Cathedral",
+        "Cuisines": "Irish Stew, Soda Bread, Colcannon (potatoes and cabbage), Boxty (potato pancake)"
+      },
+      {
+        "City": "Killarney",
+        "Attractions": "Killarney National Park",
+        "Activities": "Horse-drawn carriage rides, explore national park",
+        "Landmarks_and_Historical_Places": "Muckross House, Dunloe Gap",
+        "Cuisines": "Irish Stew, Soda Bread, Colcannon (potatoes and cabbage), Boxty (potato pancake)"
+      },
+      {
+        "City": "Limerick",
+        "Attractions": "Barnard Park",
+        "Activities": "Visit King John's Castle",
+        "Landmarks_and_Historical_Places": "Hunt Museum, Milk Market",
+        "Cuisines": "Irish Stew, Soda Bread, Colcannon (potatoes and cabbage), Boxty (potato pancake)"
+      },
+      {
+        "City": "Waterford",
+        "Attractions": "Waterford Park",
+        "Activities": "Visit Crystal factory, Viking Quarter",
+        "Landmarks_and_Historical_Places": "Reginald's Tower, House of Waterford Crystal",
+        "Cuisines": "Irish Stew, Soda Bread, Colcannon (potatoes and cabbage), Boxty (potato pancake)"
+      },
+      {
+        "City": "Kilkenny",
+        "Attractions": "Kilkenny Park",
+        "Activities": "Explore medieval city",
+        "Landmarks_and_Historical_Places": "Kilkenny Castle, St. Canice's Cathedral",
+        "Cuisines": "Irish Stew, Soda Bread, Colcannon (potatoes and cabbage), Boxty (potato pancake)"
+      },
+      {
+        "City": "Westport",
+        "Attractions": "Westport Park",
+        "Activities": "Climb Croagh Patrick mountain, cycling",
+        "Landmarks_and_Historical_Places": "Westport House, The Bay",
+        "Cuisines": "Irish Stew, Soda Bread, Colcannon (potatoes and cabbage), Boxty (potato pancake)"
+      },
+      {
+        "City": "Dingle",
+        "Attractions": "Dingle Park",
+        "Activities": "Boat trip to see dolphins",
+        "Landmarks_and_Historical_Places": "Dingle Peninsula, Slea Head Drive",
+        "Cuisines": "Irish Stew, Soda Bread, Colcannon (potatoes and cabbage), Boxty (potato pancake)"
+      },
+      {
+        "City": "Sligo",
+        "Attractions": "Sligo Park",
+        "Activities": "Explore Yeats sites",
+        "Landmarks_and_Historical_Places": "Benbulben Mountain, Sligo Abbey",
+        "Cuisines": "Irish Stew, Soda Bread, Colcannon (potatoes and cabbage), Boxty (potato pancake)"
+      }
+    ],
+    "Parks_and_Green_Spaces": [
+      "Killarney National Park",
+      "Cliffs of Moher (cliffs)",
+      "Phoenix Park (Dublin)",
+      "Wicklow Mountains National Park",
+      "The Burren (rocky nature)"
+    ]
+  },
+  {
+    "Country": "Thailand",
+    "Region": "Asia (Southeast)",
+    "Description": "Land of Smiles, a world destination for tropical beaches, golden temples, and delicious food.",
+    "Cities": [
+      {
+        "City": "Bangkok",
+        "Attractions": "Lumphini Park",
+        "Activities": "Ride tuk-tuks, visit temples, shopping",
+        "Landmarks_and_Historical_Places": "Grand Palace, Wat Arun Temple",
+        "Cuisines": "Pad Thai, Tom Yum (soup), Som Tam (papaya salad), Green Curry"
+      },
+      {
+        "City": "Chiang Mai",
+        "Attractions": "Chiang Mai Park",
+        "Activities": "Visit elephant sanctuaries, mountain temples",
+        "Landmarks_and_Historical_Places": "Doi Suthep, Old City",
+        "Cuisines": "Pad Thai, Tom Yum (soup), Som Tam (papaya salad), Green Curry"
+      },
+      {
+        "City": "Phuket",
+        "Attractions": "Phuket Park",
+        "Activities": "Relax on beaches, boat trips",
+        "Landmarks_and_Historical_Places": "Pan Nai Bay, Patong Beach",
+        "Cuisines": "Pad Thai, Tom Yum (soup), Som Tam (papaya salad), Green Curry"
+      },
+      {
+        "City": "Ayutthaya",
+        "Attractions": "Ayutthaya Park",
+        "Activities": "Explore ancient historical ruins",
+        "Landmarks_and_Historical_Places": "Ayutthaya Historical Park",
+        "Cuisines": "Pad Thai, Tom Yum (soup), Som Tam (papaya salad), Green Curry"
+      },
+      {
+        "City": "Krabi",
+        "Attractions": "Krabi Park",
+        "Activities": "Rock climbing, swimming in turquoise waters",
+        "Landmarks_and_Historical_Places": "Railay Beach, Tiger Cave Temple",
+        "Cuisines": "Pad Thai, Tom Yum (soup), Som Tam (papaya salad), Green Curry"
+      },
+      {
+        "City": "Pattaya",
+        "Attractions": "Nong Nooch Park",
+        "Activities": "Water sports, botanical gardens",
+        "Landmarks_and_Historical_Places": "Nong Nooch Garden, Sanctuary of Truth",
+        "Cuisines": "Pad Thai, Tom Yum (soup), Som Tam (papaya salad), Green Curry"
+      },
+      {
+        "City": "Hua Hin",
+        "Attractions": "Hua Hin Park",
+        "Activities": "Horse riding on the beach, night markets",
+        "Landmarks_and_Historical_Places": "Hua Hin Railway Station, Night Market",
+        "Cuisines": "Pad Thai, Tom Yum (soup), Som Tam (papaya salad), Green Curry"
+      },
+      {
+        "City": "Pai",
+        "Attractions": "Pai Park",
+        "Activities": "Relax in hot springs, nature",
+        "Landmarks_and_Historical_Places": "Pai Valley, Waterfalls",
+        "Cuisines": "Pad Thai, Tom Yum (soup), Som Tam (papaya salad), Green Curry"
+      },
+      {
+        "City": "Kanchanaburi",
+        "Attractions": "Kanchanaburi Park",
+        "Activities": "Visit waterfalls and historical sites",
+        "Landmarks_and_Historical_Places": "Bridge over River Kwai, Erawan Waterfalls",
+        "Cuisines": "Pad Thai, Tom Yum (soup), Som Tam (papaya salad), Green Curry"
+      },
+      {
+        "City": "Sukhothai",
+        "Attractions": "Sukhothai Park",
+        "Activities": "Bicycle riding among ruins",
+        "Landmarks_and_Historical_Places": "Sukhothai Historical Park",
+        "Cuisines": "Pad Thai, Tom Yum (soup), Som Tam (papaya salad), Green Curry"
+      }
+    ],
+    "Parks_and_Green_Spaces": [
+      "Erawan National Park (waterfalls)",
+      "Khao Sok National Park (rainforest)",
+      "Doi Inthanon National Park (highest peak)",
+      "Maya Bay (Phi Phi)",
+      "Mu Ko Ang Thong Marine Park"
+    ]
+  },
+  {
+    "Country": "Peru",
+    "Region": "South America",
+    "Description": "Home of the great Inca civilization, towering Andes mountains, and Amazon rainforests.",
+    "Cities": [
+      {
+        "City": "Lima",
+        "Attractions": "Larco Park",
+        "Activities": "Taste world cuisine, visit museums",
+        "Landmarks_and_Historical_Places": "Plaza de Armas, Miraflores District",
+        "Cuisines": "Ceviche, Lomo Saltado (stir-fried beef), Cuy (guinea pig), Ají de Gallina"
+      },
+      {
+        "City": "Cusco",
+        "Attractions": "Sapa Park",
+        "Activities": "Explore Inca capital, acclimatize to altitude",
+        "Landmarks_and_Historical_Places": "Plaza de Armas, Sacsayhuamán",
+        "Cuisines": "Ceviche, Lomo Saltado (stir-fried beef), Cuy (guinea pig), Ají de Gallina"
+      },
+      {
+        "City": "Machu Picchu (Aguas Calientes)",
+        "Attractions": "Machu Picchu Park",
+        "Activities": "Visit the lost city (world wonder)",
+        "Landmarks_and_Historical_Places": "Machu Picchu Ruins",
+        "Cuisines": "Ceviche, Lomo Saltado (stir-fried beef), Cuy (guinea pig), Ají de Gallina"
+      },
+      {
+        "City": "Arequipa",
+        "Attractions": "Arequipa Park",
+        "Activities": "See white architecture (White City)",
+        "Landmarks_and_Historical_Places": "Santa Catalina Monastery, Misti Volcano",
+        "Cuisines": "Ceviche, Lomo Saltado (stir-fried beef), Cuy (guinea pig), Ají de Gallina"
+      },
+      {
+        "City": "Puno",
+        "Attractions": "Puno Park",
+        "Activities": "Visit floating islands on Lake Titicaca",
+        "Landmarks_and_Historical_Places": "Lake Titicaca, Uros Islands",
+        "Cuisines": "Ceviche, Lomo Saltado (stir-fried beef), Cuy (guinea pig), Ají de Gallina"
+      },
+      {
+        "City": "Iquitos",
+        "Attractions": "Iquitos Park",
+        "Activities": "Gateway to Amazon, river trips",
+        "Landmarks_and_Historical_Places": "Amazon River, Manatee Rescue Center",
+        "Cuisines": "Ceviche, Lomo Saltado (stir-fried beef), Cuy (guinea pig), Ají de Gallina"
+      },
+      {
+        "City": "Nazca",
+        "Attractions": "Nazca Park",
+        "Activities": "Fly over mysterious Nazca Lines",
+        "Landmarks_and_Historical_Places": "Nazca Lines Geoglyphs",
+        "Cuisines": "Ceviche, Lomo Saltado (stir-fried beef), Cuy (guinea pig), Ají de Gallina"
+      },
+      {
+        "City": "Paracas",
+        "Attractions": "Paracas Park",
+        "Activities": "Boat tours to see marine life",
+        "Landmarks_and_Historical_Places": "Paracas Reserve, Ballestas Islands",
+        "Cuisines": "Ceviche, Lomo Saltado (stir-fried beef), Cuy (guinea pig), Ají de Gallina"
+      },
+      {
+        "City": "Huaraz",
+        "Attractions": "Huaraz Park",
+        "Activities": "Mountain climbing and Andes hiking",
+        "Landmarks_and_Historical_Places": "Huascarán National Park",
+        "Cuisines": "Ceviche, Lomo Saltado (stir-fried beef), Cuy (guinea pig), Ají de Gallina"
+      },
+      {
+        "City": "Trujillo",
+        "Attractions": "Trujillo Park",
+        "Activities": "Visit pre-Inca clay archaeological sites",
+        "Landmarks_and_Historical_Places": "Chan Chan, Temple of the Sun and Moon",
+        "Cuisines": "Ceviche, Lomo Saltado (stir-fried beef), Cuy (guinea pig), Ají de Gallina"
+      }
+    ],
+    "Parks_and_Green_Spaces": [
+      "Manu National Park (Amazon)",
+      "Huascarán National Park",
+      "Colca Canyon (condors)",
+      "Huacachina (desert oasis)",
+      "Paracas Reserve"
+    ]
+  },
+  {
+    "Country": "Belgium",
+    "Region": "Europe (West)",
+    "Description": "Heart of Europe, famous for its historic cities, luxury chocolate, and comic books.",
+    "Cities": [
+      {
+        "City": "Brussels",
+        "Attractions": "Brussels Park",
+        "Activities": "Visit Grand Place, EU headquarters",
+        "Landmarks_and_Historical_Places": "Grand Place, Atomium",
+        "Cuisines": "Belgian Waffle, Chocolate, Mussels Frites, French Fries"
+      },
+      {
+        "City": "Bruges",
+        "Attractions": "Bruges Park",
+        "Activities": "Canal boat rides (Venice of the North)",
+        "Landmarks_and_Historical_Places": "Belfry Tower, Lake of Love",
+        "Cuisines": "Belgian Waffle, Chocolate, Mussels Frites, French Fries"
+      },
+      {
+        "City": "Ghent",
+        "Attractions": "Ghent Park",
+        "Activities": "See castles in the city center",
+        "Landmarks_and_Historical_Places": "Gravensteen Castle, St. Bavo's Cathedral",
+        "Cuisines": "Belgian Waffle, Chocolate, Mussels Frites, French Fries"
+      },
+      {
+        "City": "Antwerp",
+        "Attractions": "Antwerp Park",
+        "Activities": "Visit diamond district, beautiful train station",
+        "Landmarks_and_Historical_Places": "Cathedral of Our Lady, Diamond Museum",
+        "Cuisines": "Belgian Waffle, Chocolate, Mussels Frites, French Fries"
+      },
+      {
+        "City": "Leuven",
+        "Attractions": "Leuven Park",
+        "Activities": "Visit old university, old market square",
+        "Landmarks_and_Historical_Places": "Town Hall, University Library",
+        "Cuisines": "Belgian Waffle, Chocolate, Mussels Frites, French Fries"
+      },
+      {
+        "City": "Dinant",
+        "Attractions": "Dinant Park",
+        "Activities": "Cable car to fortress, birthplace of saxophone",
+        "Landmarks_and_Historical_Places": "The Citadel, Bayard Rock",
+        "Cuisines": "Belgian Waffle, Chocolate, Mussels Frites, French Fries"
+      },
+      {
+        "City": "Liège",
+        "Attractions": "Liège Park",
+        "Activities": "Climb Montagne de Bueren stairs, taste waffles",
+        "Landmarks_and_Historical_Places": "Montagne de Bueren, Guillemins Station",
+        "Cuisines": "Belgian Waffle, Chocolate, Mussels Frites, French Fries"
+      },
+      {
+        "City": "Mechelen",
+        "Attractions": "Mechelen Park",
+        "Activities": "Visit St. Rumbold's Tower",
+        "Landmarks_and_Historical_Places": "Toy Museum, Cathedral",
+        "Cuisines": "Belgian Waffle, Chocolate, Mussels Frites, French Fries"
+      },
+      {
+        "City": "Namur",
+        "Attractions": "Namur Park",
+        "Activities": "Explore the fortress at the confluence of two rivers",
+        "Landmarks_and_Historical_Places": "Namur Fortress",
+        "Cuisines": "Belgian Waffle, Chocolate, Mussels Frites, French Fries"
+      },
+      {
+        "City": "Ostend",
+        "Attractions": "Ostend Park",
+        "Activities": "Enjoy the northern beach",
+        "Landmarks_and_Historical_Places": "Seaside Promenade, Maritime Museums",
+        "Cuisines": "Belgian Waffle, Chocolate, Mussels Frites, French Fries"
+      }
+    ],
+    "Parks_and_Green_Spaces": [
+      "Hallerbos (Bluebell Forest)",
+      "Hoge Kempen National Park",
+      "Freÿr Castle Gardens",
+      "Zwin Nature Park (coast)",
+      "Meise Botanical Garden"
+    ]
+  },
+  {
+    "Country": "Poland",
+    "Region": "Europe (Central)",
+    "Description": "Rich history, beautifully restored colorful cities, and diverse nature from lakes to mountains.",
+    "Cities": [
+      {
+        "City": "Kraków",
+        "Attractions": "Kraków Park",
+        "Activities": "Visit main square, salt mine",
+        "Landmarks_and_Historical_Places": "Wawel Castle, Cloth Hall",
+        "Cuisines": "Pierogi (dumplings), Bigos (hunter's stew), Żurek (sour rye soup), Kielbasa (sausage)"
+      },
+      {
+        "City": "Warsaw",
+        "Attractions": "Łazienki Park (Warsaw)",
+        "Activities": "Explore restored old town",
+        "Landmarks_and_Historical_Places": "Royal Castle, Palace of Culture and Science",
+        "Cuisines": "Pierogi (dumplings), Bigos (hunter's stew), Żurek (sour rye soup), Kielbasa (sausage)"
+      },
+      {
+        "City": "Gdańsk",
+        "Attractions": "Gdańsk Park",
+        "Activities": "Walk in historic port, buy amber",
+        "Landmarks_and_Historical_Places": "Neptune Fountain, Old Crane",
+        "Cuisines": "Pierogi (dumplings), Bigos (hunter's stew), Żurek (sour rye soup), Kielbasa (sausage)"
+      },
+      {
+        "City": "Wrocław",
+        "Attractions": "Wrocław Park",
+        "Activities": "Search for bronze dwarf statues",
+        "Landmarks_and_Historical_Places": "Market Square, Centennial Hall",
+        "Cuisines": "Pierogi (dumplings), Bigos (hunter's stew), Żurek (sour rye soup), Kielbasa (sausage)"
+      },
+      {
+        "City": "Poznań",
+        "Attractions": "Poznań Park",
+        "Activities": "Watch mechanical goats at the town hall clock",
+        "Landmarks_and_Historical_Places": "Town Hall, Old Market Square",
+        "Cuisines": "Pierogi (dumplings), Bigos (hunter's stew), Żurek (sour rye soup), Kielbasa (sausage)"
+      },
+      {
+        "City": "Zakopane",
+        "Attractions": "Zakopane Park",
+        "Activities": "Skiing in winter, mountain hiking in summer",
+        "Landmarks_and_Historical_Places": "Tatra Mountains, Krupówki Street",
+        "Cuisines": "Pierogi (dumplings), Bigos (hunter's stew), Żurek (sour rye soup), Kielbasa (sausage)"
+      },
+      {
+        "City": "Toruń",
+        "Attractions": "Toruń Park",
+        "Activities": "Taste gingerbread, Copernicus birthplace",
+        "Landmarks_and_Historical_Places": "Gothic Old Town",
+        "Cuisines": "Pierogi (dumplings), Bigos (hunter's stew), Żurek (sour rye soup), Kielbasa (sausage)"
+      },
+      {
+        "City": "Lublin",
+        "Attractions": "Lublin Park",
+        "Activities": "Visit the castle and quiet old town",
+        "Landmarks_and_Historical_Places": "Lublin Castle",
+        "Cuisines": "Pierogi (dumplings), Bigos (hunter's stew), Żurek (sour rye soup), Kielbasa (sausage)"
+      },
+      {
+        "City": "Szczecin",
+        "Attractions": "Szczecin Park",
+        "Activities": "Visit dukes' castle",
+        "Landmarks_and_Historical_Places": "Wały Chrobrego (Chrobry Embankments)",
+        "Cuisines": "Pierogi (dumplings), Bigos (hunter's stew), Żurek (sour rye soup), Kielbasa (sausage)"
+      },
+      {
+        "City": "Katowice",
+        "Attractions": "Katowice Park",
+        "Activities": "Explore modern architecture and old mines",
+        "Landmarks_and_Historical_Places": "Silesian Museum, Spodek",
+        "Cuisines": "Pierogi (dumplings), Bigos (hunter's stew), Żurek (sour rye soup), Kielbasa (sausage)"
+      }
+    ],
+    "Parks_and_Green_Spaces": [
+      "Białowieża Forest (Europe's oldest forest)",
+      "Tatra National Park (mountains)",
+      "Masurian Lake District",
+      "Słowiński National Park (sand dunes)",
+      "Łazienki Park (Warsaw)"
+    ]
+  },
+  {
+    "Country": "Panama",
+    "Region": "North and Central America",
+    "Description": "Bridge between continents, famous for its famous canal, skyscrapers, and tropical rainforests.",
+    "Cities": [
+      {
+        "City": "Panama City",
+        "Attractions": "Metropolitan Park",
+        "Activities": "Visit the canal, walk through Casco Viejo",
+        "Landmarks_and_Historical_Places": "Panama Canal (Miraflores Locks), Old Town",
+        "Cuisines": "Ceviche, Sancocho (chicken soup), Arroz con Pollo (rice and chicken), Hojaldres (fried bread)"
+      },
+      {
+        "City": "Bocas del Toro",
+        "Attractions": "Bocas Park",
+        "Activities": "Surfing, relax on islands",
+        "Landmarks_and_Historical_Places": "Starfish Beach, Main Island",
+        "Cuisines": "Ceviche, Sancocho (chicken soup), Arroz con Pollo (rice and chicken), Hojaldres (fried bread)"
+      },
+      {
+        "City": "Boquete",
+        "Attractions": "Boquete Park",
+        "Activities": "Climb Barú Volcano, taste coffee",
+        "Landmarks_and_Historical_Places": "Barú Volcano, Coffee Farms",
+        "Cuisines": "Ceviche, Sancocho (chicken soup), Arroz con Pollo (rice and chicken), Hojaldres (fried bread)"
+      },
+      {
+        "City": "David",
+        "Attractions": "David Park",
+        "Activities": "Shopping center and mountain gateway",
+        "Landmarks_and_Historical_Places": "Miguel de Cervantes Park",
+        "Cuisines": "Ceviche, Sancocho (chicken soup), Arroz con Pollo (rice and chicken), Hojaldres (fried bread)"
+      },
+      {
+        "City": "Colón",
+        "Attractions": "Colón Park",
+        "Activities": "Shopping in the free zone, visit forts",
+        "Landmarks_and_Historical_Places": "San Lorenzo Fortress, Canal",
+        "Cuisines": "Ceviche, Sancocho (chicken soup), Arroz con Pollo (rice and chicken), Hojaldres (fried bread)"
+      },
+      {
+        "City": "Portobelo",
+        "Attractions": "Portobelo Park",
+        "Activities": "Explore historical fortresses and diving",
+        "Landmarks_and_Historical_Places": "Customs House, Black Christ Church",
+        "Cuisines": "Ceviche, Sancocho (chicken soup), Arroz con Pollo (rice and chicken), Hojaldres (fried bread)"
+      },
+      {
+        "City": "Santa Catalina",
+        "Attractions": "Santa Catalina Park",
+        "Activities": "Surfing and diving at Coiba Island",
+        "Landmarks_and_Historical_Places": "Estero Beach",
+        "Cuisines": "Ceviche, Sancocho (chicken soup), Arroz con Pollo (rice and chicken), Hojaldres (fried bread)"
+      },
+      {
+        "City": "El Valle de Antón",
+        "Attractions": "El Valle Park",
+        "Activities": "Visit market in extinct volcanic crater",
+        "Landmarks_and_Historical_Places": "Sleeping Indian (mountain), Zoo",
+        "Cuisines": "Ceviche, Sancocho (chicken soup), Arroz con Pollo (rice and chicken), Hojaldres (fried bread)"
+      },
+      {
+        "City": "Chitré",
+        "Attractions": "Chitré Park",
+        "Activities": "Explore traditional culture and festivals",
+        "Landmarks_and_Historical_Places": "San Juan Bautista Cathedral",
+        "Cuisines": "Ceviche, Sancocho (chicken soup), Arroz con Pollo (rice and chicken), Hojaldres (fried bread)"
+      },
+      {
+        "City": "San Blas Islands",
+        "Attractions": "San Blas Park",
+        "Activities": "Live with Kuna tribes, pristine beaches",
+        "Landmarks_and_Historical_Places": "Coral Islands",
+        "Cuisines": "Ceviche, Sancocho (chicken soup), Arroz con Pollo (rice and chicken), Hojaldres (fried bread)"
+      }
+    ],
+    "Parks_and_Green_Spaces": [
+      "Coiba National Park (diving)",
+      "Soberanía National Park (birds)",
+      "Barú Volcano Park",
+      "Metropolitan Nature Park",
+      "Bocas del Toro Archipelago"
+    ]
+  },
+  {
+    "Country": "Other Selected Countries",
+    "Region": "Africa",
+    "Description": "A selection of additional countries from your list: Benin, Botswana, Burkina Faso, Burundi, Belize, Bahamas, Antigua, Bangladesh, Bhutan, Bolivia, Bulgaria.",
+    "Cities": [
+      {
+        "City": "Botswana - Gaborone",
+        "Attractions": "Gaborone Reserve",
+        "Activities": "Safari and nature reserves",
+        "Landmarks_and_Historical_Places": "Gaborone Reserve",
+        "Cuisines": "Seswaa (Botswana meat)"
+      },
+      {
+        "City": "Belize - Belize City",
+        "Attractions": "Belize Museum",
+        "Activities": "Diving in the Great Blue Hole",
+        "Landmarks_and_Historical_Places": "Belize Museum",
+        "Cuisines": "Conch fritters (Belize)"
+      },
+      {
+        "City": "Bahamas - Nassau",
+        "Attractions": "Paradise Island",
+        "Activities": "Beaches and resorts",
+        "Landmarks_and_Historical_Places": "Paradise Island",
+        "Cuisines": "Conch salad (Bahamas)"
+      },
+      {
+        "City": "Bolivia - La Paz",
+        "Attractions": "Witches' Market",
+        "Activities": "Cable car ride (Mi Teleferico)",
+        "Landmarks_and_Historical_Places": "Witches' Market",
+        "Cuisines": "Salteñas (Bolivia)"
+      },
+      {
+        "City": "Bulgaria - Sofia",
+        "Attractions": "Sofia Park",
+        "Activities": "Visit Orthodox cathedrals",
+        "Landmarks_and_Historical_Places": "Alexander Nevsky Cathedral",
+        "Cuisines": "Banitsa (Bulgaria)"
+      },
+      {
+        "City": "Bangladesh - Dhaka",
+        "Attractions": "Dhaka Park",
+        "Activities": "Visit forts and crowded markets",
+        "Landmarks_and_Historical_Places": "Lalbagh Fort",
+        "Cuisines": "Biryani (Bangladesh)"
+      },
+      {
+        "City": "Bhutan - Thimphu",
+        "Attractions": "Thimphu Park",
+        "Activities": "Visit mountain monasteries",
+        "Landmarks_and_Historical_Places": "Buddha Dordenma Statue",
+        "Cuisines": "Ema Datshi (Bhutan)"
+      },
+      {
+        "City": "Benin - Cotonou",
+        "Attractions": "Cotonou Park",
+        "Activities": "Visit markets and beaches",
+        "Landmarks_and_Historical_Places": "Zinsou Foundation",
+        "Cuisines": "Akassa (Benin)"
+      },
+      {
+        "City": "Burkina Faso - Ouagadougou",
+        "Attractions": "Ouagadougou Park",
+        "Activities": "Film festivals and crafts",
+        "Landmarks_and_Historical_Places": "Artisan Village",
+        "Cuisines": "Tô (Burkina Faso)"
+      },
+      {
+        "City": "Antigua - St. John's",
+        "Attractions": "St. John's Park",
+        "Activities": "White sand beaches",
+        "Landmarks_and_Historical_Places": "St. John's Cathedral",
+        "Cuisines": "Fungee (Antigua)"
+      }
+    ],
+    "Parks_and_Green_Spaces": [
+      "Okavango Delta (Botswana)",
+      "Great Blue Hole (Belize)",
+      "Salar de Uyuni (Bolivia - salt flat)",
+      "Rila National Park (Bulgaria)",
+      "Sundarbans Forest (Bangladesh)"
+    ]
+  }
+]

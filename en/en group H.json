@@ -1,0 +1,1098 @@
+{
+  "Data": [
+    {
+      "Country": "Gabon",
+      "Cities": [
+        {
+          "Main City": "Libreville",
+          "Prominent Historical and Architectural Landmarks": "Saint Michael's Church with its carved wooden columns, the modern-style Presidential Palace.",
+          "Most Important Tourist Activities and Experiences": "Strolling along the peaceful ocean corniche, visiting the Gabonese Museum of Arts and Traditions, shopping in the bustling Mont-Bouët market.",
+          "Green Spaces and Landscapes": "The small Bonsuang park within the city, the city's secluded beaches.",
+          "Famous Local Dishes": "Nyembwe (chicken in palm nut sauce) with cooked plantains, fresh grilled fish on the beach."
+        },
+        {
+          "Main City": "Port-Gentil",
+          "Prominent Historical and Architectural Landmarks": "Saint Louis Cathedral, the colonial city center.",
+          "Most Important Tourist Activities and Experiences": "Enjoying L'Escale beach, dolphin-watching tours, fishing in the Atlantic Ocean.",
+          "Green Spaces and Landscapes": "Mangrove forests around the city, Ogooué Bay.",
+          "Famous Local Dishes": "Fresh oysters and seasoned carp, fried cassava cakes."
+        },
+        {
+          "Main City": "Franceville",
+          "Prominent Historical and Architectural Landmarks": "Old government buildings, the local central market.",
+          "Most Important Tourist Activities and Experiences": "Visiting the Omar Bongo statue, exploring the highlands of the Haut-Ogooué region, hiking on forest trails.",
+          "Green Spaces and Landscapes": "Monda park with its open views, the surrounding green hills.",
+          "Famous Local Dishes": "Smoked meat (especially venison) with pumpkin seed sauce."
+        },
+        {
+          "Main City": "Oyem",
+          "Prominent Historical and Architectural Landmarks": "Traditional small churches, rustic wooden houses.",
+          "Most Important Tourist Activities and Experiences": "Experiencing the local Fang culture, visiting the fresh agricultural produce market.",
+          "Green Spaces and Landscapes": "Forest areas near the borders of Cameroon and Equatorial Guinea.",
+          "Famous Local Dishes": "Cooked peanuts with rice, sweet grilled bananas."
+        },
+        {
+          "Main City": "Lambaréné",
+          "Prominent Historical and Architectural Landmarks": "Albert Schweitzer Hospital (an important historical medical site), riverside houses.",
+          "Most Important Tourist Activities and Experiences": "Historical tour of the Albert Schweitzer Hospital, boat tours on Lake Ogooué.",
+          "Green Spaces and Landscapes": "The interconnected lake system around the city, the hospital's botanical garden.",
+          "Famous Local Dishes": "River Tilapia, Odika vegetable stew."
+        },
+        {
+          "Main City": "Moanda",
+          "Prominent Historical and Architectural Landmarks": "Remains of old mines (industrial tourism).",
+          "Most Important Tourist Activities and Experiences": "Visiting the manganese mining complex, exploring the surrounding hills and villages.",
+          "Green Spaces and Landscapes": "Grassy hill savanna.",
+          "Famous Local Dishes": "African vegetable stew with chicken, boiled cassava."
+        },
+        {
+          "Main City": "Tchibanga",
+          "Prominent Historical and Architectural Landmarks": "Traditional buildings of the Bunu tribe.",
+          "Most Important Tourist Activities and Experiences": "Visiting the Ibinda Caves, hiking in the savanna.",
+          "Green Spaces and Landscapes": "Ibinda Caves, savanna forest.",
+          "Famous Local Dishes": "Mokabi dish (stuffed banana leaves), mashed bananas."
+        },
+        {
+          "Main City": "Makokou",
+          "Prominent Historical and Architectural Landmarks": "Makokou Bridge.",
+          "Most Important Tourist Activities and Experiences": "Starting point for Ivindo National Park, river boat trips.",
+          "Green Spaces and Landscapes": "Ivindo River, surrounding rainforests.",
+          "Famous Local Dishes": "Seasoned river fish, fresh forest fruits."
+        },
+        {
+          "Main City": "Koulamoutou",
+          "Prominent Historical and Architectural Landmarks": "Koulamoutou Market.",
+          "Most Important Tourist Activities and Experiences": "Visiting the nearby Boundolo Waterfalls, hiking in mountain forests.",
+          "Green Spaces and Landscapes": "Boundolo Waterfalls, Monda valleys.",
+          "Famous Local Dishes": "Kebondo (meat and bean dish), rice with vegetables."
+        },
+        {
+          "Main City": "Gamba",
+          "Prominent Historical and Architectural Landmarks": "Gamba Research Station.",
+          "Most Important Tourist Activities and Experiences": "Ecotourism to see elephants on the beach, relaxing on the quiet coasts.",
+          "Green Spaces and Landscapes": "Loango National Park (very close), Lake Gamba.",
+          "Famous Local Dishes": "Grilled seafood, chicken buried in the sand."
+        }
+      ]
+    },
+    {
+      "Country": "Madagascar",
+      "Cities": [
+        {
+          "Main City": "Antananarivo",
+          "Prominent Historical and Architectural Landmarks": "Rova Palace (complex of royal palaces), Avenue de l'Indépendance.",
+          "Most Important Tourist Activities and Experiences": "Exploring the Queen's Palace (Rova), visiting the Zoma Market, strolling around Lake Anosy.",
+          "Green Spaces and Landscapes": "Lemur Park (a short distance away), Tsimbazaza Zoo.",
+          "Famous Local Dishes": "Romazava (meat and vegetable stew in broth), Ravitoto (cassava leaf stew with meat)."
+        },
+        {
+          "Main City": "Nosy Be",
+          "Prominent Historical and Architectural Landmarks": "Mount Passot (highest point), the Des Sasques lighthouse.",
+          "Most Important Tourist Activities and Experiences": "Diving and snorkeling in the Mitsio Archipelago, fishing in the Indian Ocean, visiting Amatovaka beaches.",
+          "Green Spaces and Landscapes": "Bemokoandro beach, Lokobe National Park.",
+          "Famous Local Dishes": "Seafood curry with coconut, fresh pineapple."
+        },
+        {
+          "Main City": "Antsirabe",
+          "Prominent Historical and Architectural Landmarks": "Our Lady of La Salette Cathedral, the colonial train station.",
+          "Most Important Tourist Activities and Experiences": "Riding traditional 'pousse-pousse' rickshaws, visiting the volcanic lakes (Lac Andraikiba), craft workshops.",
+          "Green Spaces and Landscapes": "Lake Andraikiba, the hills of Antsirabe.",
+          "Famous Local Dishes": "Koba (sweet rice and peanut cake), banana cake."
+        },
+        {
+          "Main City": "Morondava",
+          "Prominent Historical and Architectural Landmarks": "Traditional markets in the city.",
+          "Most Important Tourist Activities and Experiences": "Visiting the Avenue of the Baobabs at sunset, relaxing on Baobab Beach.",
+          "Green Spaces and Landscapes": "The famous Avenue of the Baobabs.",
+          "Famous Local Dishes": "Morondava's famous prawn dish, Sarimalona (braised meat)."
+        },
+        {
+          "Main City": "Toliara",
+          "Prominent Historical and Architectural Landmarks": "The Ethnological Museum.",
+          "Most Important Tourist Activities and Experiences": "Visiting the Antsokay Arboretum, exploring the coral reefs in Saint-Augustin Bay.",
+          "Green Spaces and Landscapes": "Reniala (plant) park, Ifaty beach.",
+          "Famous Local Dishes": "Dried fish with rice, fish soup."
+        },
+        {
+          "Main City": "Fianarantsoa",
+          "Prominent Historical and Architectural Landmarks": "Old Fianarantsoa city.",
+          "Most Important Tourist Activities and Experiences": "Train journey through the rainforest, visiting vineyards in the south.",
+          "Green Spaces and Landscapes": "Mountainous countryside views, city gardens.",
+          "Famous Local Dishes": "Local Temoro wine, Malagasy pancakes."
+        },
+        {
+          "Main City": "Mahajanga",
+          "Prominent Historical and Architectural Landmarks": "Mahajanga Mosque, the Cyclone Baobab.",
+          "Most Important Tourist Activities and Experiences": "Enjoying Amborovy beach, visiting the giant baobab tree in the city center.",
+          "Green Spaces and Landscapes": "Amborovy beach, Betsiboka River.",
+          "Famous Local Dishes": "Masikita (meat skewers), seafood."
+        },
+        {
+          "Main City": "Diego Suarez",
+          "Prominent Historical and Architectural Landmarks": "Diego Suarez Lighthouse.",
+          "Most Important Tourist Activities and Experiences": "Visiting the bays of Diego, enjoying the beauty of Ramena beach.",
+          "Green Spaces and Landscapes": "The three bays of Diego Suarez, Sugarloaf Mountain.",
+          "Famous Local Dishes": "Grilled large prawns, coconut fish soup."
+        },
+        {
+          "Main City": "Île Sainte-Marie",
+          "Prominent Historical and Architectural Landmarks": "Historical pirate cemetery.",
+          "Most Important Tourist Activities and Experiences": "Whale watching (July-September), diving in pirate shipwrecks.",
+          "Green Spaces and Landscapes": "White sandy beaches, the island's forests.",
+          "Famous Local Dishes": "Fish with delicious vanilla sauce, fresh lychee fruit."
+        },
+        {
+          "Main City": "Fort Dauphin",
+          "Prominent Historical and Architectural Landmarks": "The old fort.",
+          "Most Important Tourist Activities and Experiences": "Surfing on nearby beaches, visiting Lanano Lake.",
+          "Green Spaces and Landscapes": "Lanano Lake, Anosy Mountains.",
+          "Famous Local Dishes": "Langouste (rock lobster), fresh mango."
+        }
+      ]
+    },
+    {
+      "Country": "Morocco",
+      "Cities": [
+        {
+          "Main City": "Marrakech",
+          "Prominent Historical and Architectural Landmarks": "Jemaa el-Fnaa square, Bahia Palace, Ben Youssef Madrasa.",
+          "Most Important Tourist Activities and Experiences": "Wandering through Jemaa el-Fnaa square at night, visiting the Majorelle Garden, haggling in the souks of the old city.",
+          "Green Spaces and Landscapes": "Majorelle Garden (the blue garden), Menara Gardens, olive grove.",
+          "Famous Local Dishes": "Marrakchi Tanjia slow-cooked in a traditional oven, tagine with vegetables and lamb."
+        },
+        {
+          "Main City": "Casablanca",
+          "Prominent Historical and Architectural Landmarks": "Hassan II Mosque (tallest minaret in the world), Sacré-Cœur Cathedral.",
+          "Most Important Tourist Activities and Experiences": "Visiting the Hassan II Mosque (the city's icon), strolling along the Ain Diab corniche, exploring the Habous district.",
+          "Green Spaces and Landscapes": "Ain Diab corniche, Arab League Park.",
+          "Famous Local Dishes": "Traditional Moroccan couscous, seafood dishes on the corniche."
+        },
+        {
+          "Main City": "Fes",
+          "Prominent Historical and Architectural Landmarks": "University of Al-Qarawiyyin, traditional tanneries (Chouara), Bab Boujloud gate.",
+          "Most Important Tourist Activities and Experiences": "Walking through the maze of the old city (Fes el-Bali), watching the traditional tanneries, visiting the University of Al-Qarawiyyin.",
+          "Green Spaces and Landscapes": "Andalusian Gardens, panoramic views from Borj Fes Nord.",
+          "Famous Local Dishes": "Bastilla (almond and chicken pie), Khlii (preserved and dried meat)."
+        },
+        {
+          "Main City": "Chefchaouen",
+          "Prominent Historical and Architectural Landmarks": "Outa el Hammam square, the Kasbah (old fort).",
+          "Most Important Tourist Activities and Experiences": "Photographing the enchanting blue alleys, shopping for wool handicrafts, hiking to Akchour waterfalls.",
+          "Green Spaces and Landscapes": "Akchour waterfalls, Talassemtane National Park.",
+          "Famous Local Dishes": "Fresh local goat cheese, Besara (fava bean soup)."
+        },
+        {
+          "Main City": "Tangier",
+          "Prominent Historical and Architectural Landmarks": "Kasbah of Tangier, Grand Théâtre.",
+          "Most Important Tourist Activities and Experiences": "Visiting the Caves of Hercules, watching the meeting of the Mediterranean and Atlantic at Cape Spartel, walking in the Kasbah.",
+          "Green Spaces and Landscapes": "Caves of Hercules, Cape Spartel.",
+          "Famous Local Dishes": "Northern-style fish soup, Paella (Spanish influence)."
+        },
+        {
+          "Main City": "Rabat",
+          "Prominent Historical and Architectural Landmarks": "Hassan Tower, Kasbah of the Udayas, Mausoleum of Mohammed V.",
+          "Most Important Tourist Activities and Experiences": "Visiting Hassan Tower and the Mausoleum, strolling through the blue and white Kasbah of the Udayas, exploring the ruins of Chellah.",
+          "Green Spaces and Landscapes": "National Zoological Garden, The Exotic Gardens of Bouknadel.",
+          "Famous Local Dishes": "Rfissa (a popular dish with chicken and lentils), various Moroccan pastries."
+        },
+        {
+          "Main City": "Agadir",
+          "Prominent Historical and Architectural Landmarks": "Agadir Oufella Kasbah (panoramic view), Souk El Had.",
+          "Most Important Tourist Activities and Experiences": "Enjoying the large Agadir beach, visiting the Agadir Oufella Kasbah, shopping at Souk El Had.",
+          "Green Spaces and Landscapes": "Agadir beach, Birds Valley.",
+          "Famous Local Dishes": "Fresh grilled fish dishes, Amlou oil (almonds, honey, and argan)."
+        },
+        {
+          "Main City": "Essaouira",
+          "Prominent Historical and Architectural Landmarks": "Ramparts of Essaouira, the old port of Essaouira.",
+          "Most Important Tourist Activities and Experiences": "Walking in the medina and the port, watching the sunset from the ramparts, surfing.",
+          "Green Spaces and Landscapes": "Essaouira beach, Mogador islands.",
+          "Famous Local Dishes": "Grilled sardines in the port, argan oil dishes."
+        },
+        {
+          "Main City": "Meknes",
+          "Prominent Historical and Architectural Landmarks": "Bab Mansour (the monumental gate), Mausoleum of Moulay Ismail.",
+          "Most Important Tourist Activities and Experiences": "Visiting Bab Mansour, exploring the Sahrij Swani basin, taking a day trip to the Roman ruins of Volubilis.",
+          "Green Spaces and Landscapes": "Sahrij Swani basin, Meknes gardens.",
+          "Famous Local Dishes": "Tagine with pickled olives and lemon, Meknesi olives."
+        },
+        {
+          "Main City": "Ouarzazate",
+          "Prominent Historical and Architectural Landmarks": "Taourirt Kasbah, Film Studios (Hollywood of Africa).",
+          "Most Important Tourist Activities and Experiences": "Visiting the film studios, exploring the Taourirt Kasbah, a trip to Aït Benhaddou Kasbah (UNESCO site).",
+          "Green Spaces and Landscapes": "Nearby oases of the Draa Valley, views of the High Atlas.",
+          "Famous Local Dishes": "Traditional Tannour bread, lamb barbecue."
+        }
+      ]
+    },
+    {
+      "Country": "Brazil",
+      "Cities": [
+        {
+          "Main City": "Rio de Janeiro",
+          "Prominent Historical and Architectural Landmarks": "Christ the Redeemer statue, Sugarloaf Mountain, the Lapa district (colonial architecture).",
+          "Most Important Tourist Activities and Experiences": "Visiting Christ the Redeemer, taking the cable car to Sugarloaf Mountain, relaxing on Copacabana beach.",
+          "Green Spaces and Landscapes": "Copacabana and Ipanema beaches, Tijuca National Park (a rainforest within the city).",
+          "Famous Local Dishes": "Feijoada (black bean stew), the classic Caipirinha drink."
+        },
+        {
+          "Main City": "São Paulo",
+          "Prominent Historical and Architectural Landmarks": "São Paulo Panoramic Building, São Paulo Cathedral.",
+          "Most Important Tourist Activities and Experiences": "Visiting the art museum (MASP), strolling down Paulista Avenue, attending a show at the Municipal Theatre.",
+          "Green Spaces and Landscapes": "Ibirapuera Park, Botanical Gardens.",
+          "Famous Local Dishes": "Brazilian pizza (thick crust), the giant mortadella sandwich at the local market."
+        },
+        {
+          "Main City": "Salvador",
+          "Prominent Historical and Architectural Landmarks": "The colorful historic Pelourinho district (UNESCO site), Lacerda Elevator.",
+          "Most Important Tourist Activities and Experiences": "Exploring the colorful historic Pelourinho district, watching capoeira shows, riding the Lacerda Elevator.",
+          "Green Spaces and Landscapes": "Porto da Barra beaches, Lake Atrassão.",
+          "Famous Local Dishes": "Acarajé (fried bean cake), Moqueca (fish coconut stew)."
+        },
+        {
+          "Main City": "Foz do Iguaçu",
+          "Prominent Historical and Architectural Landmarks": "Itaipu Dam (one of the largest dams in the world).",
+          "Most Important Tourist Activities and Experiences": "Exploring the Iguaçu Falls from the Brazilian side, visiting the Bird Park (Parque das Aves).",
+          "Green Spaces and Landscapes": "Iguaçu National Park, the Bird Park.",
+          "Famous Local Dishes": "Grilled Dourado fish, Churrasco (barbecue)."
+        },
+        {
+          "Main City": "Manaus",
+          "Prominent Historical and Architectural Landmarks": "Amazon Theatre, Adolfo Lisboa Market.",
+          "Most Important Tourist Activities and Experiences": "Boat trips in the Amazon rainforest, witnessing the Meeting of the Waters (Negro and Solimões rivers), visiting the Amazon Theatre.",
+          "Green Spaces and Landscapes": "The Meeting of the Waters, nearby Amazon reserves.",
+          "Famous Local Dishes": "Grilled Tambaqui fish, Tacacá soup (shrimp with cassava)."
+        },
+        {
+          "Main City": "Brasília",
+          "Prominent Historical and Architectural Landmarks": "Brasília Cathedral, National Congress building.",
+          "Most Important Tourist Activities and Experiences": "Visiting the space-age Brasília Cathedral, walking around the Three Powers Square, visiting the Juscelino Kubitschek Bridge.",
+          "Green Spaces and Landscapes": "Paranoá Lake, Brasília National Park.",
+          "Famous Local Dishes": "Barbecue (Churrasco), Central-West dishes."
+        },
+        {
+          "Main City": "Recife",
+          "Prominent Historical and Architectural Landmarks": "Historic city of Olinda (near Recife), Centro Cultural Cais do Sertão.",
+          "Most Important Tourist Activities and Experiences": "Exploring the old city (Recife Antigo), enjoying Boa Viagem beach, visiting craft workshops.",
+          "Green Spaces and Landscapes": "Boa Viagem beach, Capibaribe River.",
+          "Famous Local Dishes": "Bolo de Rolo (local cake), seafood fish."
+        },
+        {
+          "Main City": "Florianópolis",
+          "Prominent Historical and Architectural Landmarks": "Hercílio Luz Bridge.",
+          "Most Important Tourist Activities and Experiences": "Surfing at Praia Mole beach, sandboarding at Joaquina.",
+          "Green Spaces and Landscapes": "Lagoa da Conceição lagoon, Campeche beach.",
+          "Famous Local Dishes": "Fresh oysters (the main dish), fresh mango."
+        },
+        {
+          "Main City": "Gramado",
+          "Prominent Historical and Architectural Landmarks": "São Pedro Church.",
+          "Most Important Tourist Activities and Experiences": "Visiting Snowland, strolling around Negro Lake, tasting handmade chocolates.",
+          "Green Spaces and Landscapes": "Negro Lake, Mini Mundo.",
+          "Famous Local Dishes": "Fondue (Swiss influence), hot chocolate."
+        },
+        {
+          "Main City": "Fortaleza",
+          "Prominent Historical and Architectural Landmarks": "José de Alencar Theatre, Fortress of Nossa Senhora da Assunção.",
+          "Most Important Tourist Activities and Experiences": "Enjoying Futuro beach, visiting Dragão do Mar Cultural Center, shopping for handicrafts.",
+          "Green Spaces and Landscapes": "Futuro beach, Iracema beach.",
+          "Famous Local Dishes": "Grilled lobster, Baião de Dois (rice and beans)."
+        }
+      ]
+    },
+    {
+      "Country": "Bulgaria",
+      "Cities": [
+        {
+          "Main City": "Sofia",
+          "Prominent Historical and Architectural Landmarks": "Alexander Nevsky Cathedral, Saint George Rotunda (the oldest), Banya Bashi Mosque.",
+          "Most Important Tourist Activities and Experiences": "Visiting Alexander Nevsky Cathedral, taking the cable car to Vitosha Mountain, shopping on Vitosha Street.",
+          "Green Spaces and Landscapes": "Vitosha Mountain (easily accessible), Borisova Gradina Park.",
+          "Famous Local Dishes": "Shopska Salad (cucumber, tomato, Bulgarian cheese), Banitsa (savory pastry)."
+        },
+        {
+          "Main City": "Plovdiv",
+          "Prominent Historical and Architectural Landmarks": "Ancient Roman Theatre, the Old Town, Dzhumaya Mosque.",
+          "Most Important Tourist Activities and Experiences": "Visiting the Ancient Roman Theatre, walking in the artistic Kapana district, exploring the Old Town.",
+          "Green Spaces and Landscapes": "The Seven Hills (including the city's hills), Maritsa River.",
+          "Famous Local Dishes": "Tarator (cold yogurt soup), Kavarma (meat stew in a clay pot)."
+        },
+        {
+          "Main City": "Varna",
+          "Prominent Historical and Architectural Landmarks": "Varna Archaeological Museum (world's oldest gold), Dormition of the Mother of God Cathedral.",
+          "Most Important Tourist Activities and Experiences": "Relaxing on the beach, visiting the Archaeological Museum, strolling through the Sea Garden.",
+          "Green Spaces and Landscapes": "The Sea Garden, Black Sea beaches.",
+          "Famous Local Dishes": "Black Sea tilapia, mussels with garlic."
+        },
+        {
+          "Main City": "Burgas",
+          "Prominent Historical and Architectural Landmarks": "Burgas Sea Garden, Saint Saints Church.",
+          "Most Important Tourist Activities and Experiences": "Visiting the Sand Festival (in summer), walking in the Sea Garden, visiting Atanasovsko Lake for birdwatching.",
+          "Green Spaces and Landscapes": "Atanasovsko Lake, the Sea Garden.",
+          "Famous Local Dishes": "Tsatsa (small fried fish), seafood dishes."
+        },
+        {
+          "Main City": "Veliko Tarnovo",
+          "Prominent Historical and Architectural Landmarks": "Tsarevets Fortress, Samovodska Charshia street.",
+          "Most Important Tourist Activities and Experiences": "Visiting Tsarevets Fortress, walking on the craftsmen's street, watching the 'Sound and Light' show at night.",
+          "Green Spaces and Landscapes": "Yantra River, surrounding mountain views.",
+          "Famous Local Dishes": "Pork and potato stew, traditional Patatnik bread."
+        },
+        {
+          "Main City": "Nesebar",
+          "Prominent Historical and Architectural Landmarks": "Ancient Byzantine churches, the old fortress walls.",
+          "Most Important Tourist Activities and Experiences": "Walking in the old peninsula (UNESCO site), visiting the ancient Byzantine churches.",
+          "Green Spaces and Landscapes": "Nearby Sunny Beach, the Black Sea.",
+          "Famous Local Dishes": "Fresh seafood, local white wine."
+        },
+        {
+          "Main City": "Bansko",
+          "Prominent Historical and Architectural Landmarks": "Holy Trinity Church, Velio Tarnovo square.",
+          "Most Important Tourist Activities and Experiences": "Skiing (in winter), hiking in the Pirin Mountains (in summer).",
+          "Green Spaces and Landscapes": "Pirin Mountains National Park, Bansko Lake.",
+          "Famous Local Dishes": "Kapama (traditional slow-cooked stew), Chomlek (meat stew in a pot)."
+        },
+        {
+          "Main City": "Sozopol",
+          "Prominent Historical and Architectural Landmarks": "Historic wooden houses, the old port.",
+          "Most Important Tourist Activities and Experiences": "Exploring the old wooden town, relaxing on quiet beaches.",
+          "Green Spaces and Landscapes": "Sozopol beaches, St. Ivan Island.",
+          "Famous Local Dishes": "Fig jam (regional specialty), grilled fish."
+        },
+        {
+          "Main City": "Ruse",
+          "Prominent Historical and Architectural Landmarks": "Freedom Square, the New Age building.",
+          "Most Important Tourist Activities and Experiences": "Walking along the Danube River, exploring the Austrian Baroque architecture.",
+          "Green Spaces and Landscapes": "Danube River, Svoboda Park.",
+          "Famous Local Dishes": "Danube fish soup, pork dishes."
+        },
+        {
+          "Main City": "Kazanlak",
+          "Prominent Historical and Architectural Landmarks": "Thracian Tomb (UNESCO site), Rose Museum.",
+          "Most Important Tourist Activities and Experiences": "Visiting the Rose Museum, exploring Thracian tombs, attending the Rose Festival (May-June).",
+          "Green Spaces and Landscapes": "The Valley of Roses, the Balkan Mountains.",
+          "Famous Local Dishes": "Rose jam, rose liqueur."
+        }
+      ]
+    },
+    {
+      "Country": "Bosnia and Herzegovina",
+      "Cities": [
+        {
+          "Main City": "Sarajevo",
+          "Prominent Historical and Architectural Landmarks": "Ottoman Baščaršija market, Latin Bridge, Gazi Husrev-beg Mosque.",
+          "Most Important Tourist Activities and Experiences": "Wandering through the Ottoman Baščaršija market, visiting the Latin Bridge, taking the cable car to Trebević mountain.",
+          "Green Spaces and Landscapes": "Trebević mountain (accessible by cable car), the river, Vrelo Bosne park.",
+          "Famous Local Dishes": "Bosnian ćevapi in somun bread, Burek (pastry filled with meat or cheese)."
+        },
+        {
+          "Main City": "Mostar",
+          "Prominent Historical and Architectural Landmarks": "The Old Bridge (Stari Most), old Ottoman houses.",
+          "Most Important Tourist Activities and Experiences": "Watching divers from the Old Bridge (Stari Most), exploring the old bazaar, visiting the War Museum.",
+          "Green Spaces and Landscapes": "The emerald Neretva River, riverside gardens.",
+          "Famous Local Dishes": "Dolma (stuffed vegetables), Tufahija (traditional pumpkin dessert)."
+        },
+        {
+          "Main City": "Banja Luka",
+          "Prominent Historical and Architectural Landmarks": "Kastel Fortress, Ferhadija Mosque.",
+          "Most Important Tourist Activities and Experiences": "Visiting Kastel Fortress, rafting on the Vrbas River, visiting Ferhadija Mosque.",
+          "Green Spaces and Landscapes": "Vrbas River, Banja Luka gardens.",
+          "Famous Local Dishes": "Banja Luka ćevapi, local Trappista cheese."
+        },
+        {
+          "Main City": "Blagaj",
+          "Prominent Historical and Architectural Landmarks": "The Dervish monastery carved into the rock.",
+          "Most Important Tourist Activities and Experiences": "Visiting the Dervish monastery, seeing the source of the Buna River.",
+          "Green Spaces and Landscapes": "The source of the Buna River, the surrounding cliffs.",
+          "Famous Local Dishes": "Fresh trout, veal roast."
+        },
+        {
+          "Main City": "Trebinje",
+          "Prominent Historical and Architectural Landmarks": "Arslanagić Bridge, the Old Town.",
+          "Most Important Tourist Activities and Experiences": "Walking on the Arslanagić Bridge, visiting Hercegovačka Gračanica monastery, tasting local wine.",
+          "Green Spaces and Landscapes": "Trebišnjica River, Gračanica church (panoramic view).",
+          "Famous Local Dishes": "Cheese in oil, pršut (cured ham)."
+        },
+        {
+          "Main City": "Jajce",
+          "Prominent Historical and Architectural Landmarks": "The Royal Fortress, Saint Luke's Cathedral.",
+          "Most Important Tourist Activities and Experiences": "Seeing the large waterfall in the city center, visiting the Royal Fortress, exploring the watermills.",
+          "Green Spaces and Landscapes": "Jajce Waterfall, Pliva Lake, watermills.",
+          "Famous Local Dishes": "Zeljanica (cheese pie), ćevapi."
+        },
+        {
+          "Main City": "Travnik",
+          "Prominent Historical and Architectural Landmarks": "The colorful Travnik Fortress, the colorful mosque.",
+          "Most Important Tourist Activities and Experiences": "Visiting the colorful Travnik Fortress, exploring the colorful mosque, visiting Ivo Andrić's house.",
+          "Green Spaces and Landscapes": "Lašva River, surrounding mountains.",
+          "Famous Local Dishes": "Vlašić cheese, Travnik ćevapi."
+        },
+        {
+          "Main City": "Konjic",
+          "Prominent Historical and Architectural Landmarks": "Tito's nuclear bunker (Ark D-0).",
+          "Most Important Tourist Activities and Experiences": "Taking photos at the Ottoman bridge, visiting Tito's nuclear bunker.",
+          "Green Spaces and Landscapes": "Neretva River, rugged mountains.",
+          "Famous Local Dishes": "Grilled river fish, cornmeal porridge (bura)."
+        },
+        {
+          "Main City": "Višegrad",
+          "Prominent Historical and Architectural Landmarks": "Mehmed Paša Sokolović Bridge (UNESCO), Andrićgrad.",
+          "Most Important Tourist Activities and Experiences": "Walking on the Mehmed Paša Sokolović Bridge (Drina Bridge), visiting Andrićgrad.",
+          "Green Spaces and Landscapes": "Drina River, surrounding landscapes.",
+          "Famous Local Dishes": "Drina river fish, meat dishes."
+        },
+        {
+          "Main City": "Bihać",
+          "Prominent Historical and Architectural Landmarks": "Kapetanova Tower, Fethija Mosque.",
+          "Most Important Tourist Activities and Experiences": "Rafting on the Una River, visiting the nearby Štrbački Buk waterfalls.",
+          "Green Spaces and Landscapes": "Una River, Una National Park, Štrbački Buk waterfalls.",
+          "Famous Local Dishes": "Mokapi dish (stuffed banana leaves), mashed bananas."
+        }
+      ]
+    },
+    {
+      "Country": "Portugal",
+      "Cities": [
+        {
+          "Main City": "Lisbon",
+          "Prominent Historical and Architectural Landmarks": "Belém Tower, Jerónimos Monastery, Praça do Comércio.",
+          "Most Important Tourist Activities and Experiences": "Riding Tram 28, visiting Belém Tower, listening to Fado music in the Alfama district.",
+          "Green Spaces and Landscapes": "Edward VII Park, Tagus River, panoramic views from the hills.",
+          "Famous Local Dishes": "Pastel de nata (custard tart), Bacalhau (salted cod) in various preparations."
+        },
+        {
+          "Main City": "Porto",
+          "Prominent Historical and Architectural Landmarks": "Dom Luís I Bridge, Livraria Lello, São Bento Station (azulejo tiles).",
+          "Most Important Tourist Activities and Experiences": "Tasting Port wine in Vila Nova de Gaia, walking across the Dom Luís I Bridge, visiting Livraria Lello.",
+          "Green Spaces and Landscapes": "Douro River, Crystal Palace Gardens.",
+          "Famous Local Dishes": "Francesinha (sandwich covered in cheese and sauce), Tripas (traditional dish)."
+        },
+        {
+          "Main City": "Sintra",
+          "Prominent Historical and Architectural Landmarks": "Pena National Palace, Quinta da Regaleira, the Castle of the Moors.",
+          "Most Important Tourist Activities and Experiences": "Visiting the colorful Pena Palace, exploring the mysterious Quinta da Regaleira, the ancient Castle of the Moors.",
+          "Green Spaces and Landscapes": "Sintra Mountains, Quinta da Regaleira gardens.",
+          "Famous Local Dishes": "Travesseiros (almond pastries), Queijadas (cheese cakes)."
+        },
+        {
+          "Main City": "Faro",
+          "Prominent Historical and Architectural Landmarks": "Igreja do Carmo (Bone Chapel), the old gate of Faro.",
+          "Most Important Tourist Activities and Experiences": "Exploring the fortified old town, taking a boat tour in the Ria Formosa Natural Park.",
+          "Green Spaces and Landscapes": "Ria Formosa Natural Park, Faro beach.",
+          "Famous Local Dishes": "Cataplana (seafood stew), grilled sardines."
+        },
+        {
+          "Main City": "Lagos",
+          "Prominent Historical and Architectural Landmarks": "Ponta da Bandeira Fortress, the old slave market.",
+          "Most Important Tourist Activities and Experiences": "Boat tours to explore the caves of Ponta da Piedade, relaxing on Dona Ana beach.",
+          "Green Spaces and Landscapes": "Ponta da Piedade cliffs, Dona Ana beach.",
+          "Famous Local Dishes": "Dom Rodrigo (sweet egg yolk sweets), seafood."
+        },
+        {
+          "Main City": "Coimbra",
+          "Prominent Historical and Architectural Landmarks": "Old University of Coimbra and its Joanina Library, Santa Cruz Monastery.",
+          "Most Important Tourist Activities and Experiences": "Touring the Old University of Coimbra and its Joanina Library, listening to Coimbra Fado.",
+          "Green Spaces and Landscapes": "Mondego River, the Botanical Garden.",
+          "Famous Local Dishes": "Chicken in sauce, Pudim Abade de Priscos."
+        },
+        {
+          "Main City": "Évora",
+          "Prominent Historical and Architectural Landmarks": "Roman Temple of Diana, Chapel of Bones (Capela dos Ossos).",
+          "Most Important Tourist Activities and Experiences": "Visiting the Roman Temple of Diana, exploring the Chapel of Bones.",
+          "Green Spaces and Landscapes": "Surrounding Alentejo plains, vineyards.",
+          "Famous Local Dishes": "Açorda (bread soup), black Iberian pork."
+        },
+        {
+          "Main City": "Aveiro",
+          "Prominent Historical and Architectural Landmarks": "Aveiro Museum.",
+          "Most Important Tourist Activities and Experiences": "Riding colorful Moliceiro boats (the Venice of Portugal), visiting the striped beach (Costa Nova).",
+          "Green Spaces and Landscapes": "The city's canals, Costa Nova beach.",
+          "Famous Local Dishes": "Ovos Moles (soft egg sweets), seafood."
+        },
+        {
+          "Main City": "Braga",
+          "Prominent Historical and Architectural Landmarks": "Bom Jesus do Monte sanctuary, Braga Cathedral (Sé).",
+          "Most Important Tourist Activities and Experiences": "Climbing the stairs of Bom Jesus sanctuary, visiting Braga Cathedral.",
+          "Green Spaces and Landscapes": "Santa Barbara Gardens, the hills of Braga.",
+          "Famous Local Dishes": "Chicken in sauce, Pudim Abade de Priscos."
+        },
+        {
+          "Main City": "Cascais",
+          "Prominent Historical and Architectural Landmarks": "Cascais Citadel, Museu Conde de Castro.",
+          "Most Important Tourist Activities and Experiences": "Strolling in the marina, seeing Boca do Inferno cliffs, tasting handmade chocolates.",
+          "Green Spaces and Landscapes": "Boca do Inferno, Guincho beach.",
+          "Famous Local Dishes": "Barbecues, seafood."
+        }
+      ]
+    },
+    {
+      "Country": "Paraguay",
+      "Cities": [
+        {
+          "Main City": "Asunción",
+          "Prominent Historical and Architectural Landmarks": "Palacio de los López (Presidential Palace), Panteón de los Héroes, National Museum.",
+          "Most Important Tourist Activities and Experiences": "Visiting Palacio de los López, strolling through the Panteón de los Héroes, walking along the bayfront.",
+          "Green Spaces and Landscapes": "Asunción's bayfront on the Paraguay River, the Botanical Garden and Zoo.",
+          "Famous Local Dishes": "Sopa Paraguaya (salty cornbread), Chipa (cassava and cheese bread)."
+        },
+        {
+          "Main City": "Ciudad del Este",
+          "Prominent Historical and Architectural Landmarks": "Itaipu Dam (a massive engineering project).",
+          "Most Important Tourist Activities and Experiences": "Shopping (border trade), visiting the Itaipu Dam hydroelectric plant, seeing the Monday Falls.",
+          "Green Spaces and Landscapes": "Monday Falls, Paraná River.",
+          "Famous Local Dishes": "Pica-pau (chopped and fried meat), Tereré (cold mate tea)."
+        },
+        {
+          "Main City": "Encarnación",
+          "Prominent Historical and Architectural Landmarks": "Jesuit ruins of Trinidad (near Encarnación).",
+          "Most Important Tourist Activities and Experiences": "Strolling along the Paraná River bayfront, enjoying the river beaches, visiting the nearby Jesuit ruins.",
+          "Green Spaces and Landscapes": "Paraná River bayfront, river beaches.",
+          "Famous Local Dishes": "Mbeju (starch and cheese pancake), filled crepes."
+        },
+        {
+          "Main City": "Villarrica",
+          "Prominent Historical and Architectural Landmarks": "The Cathedral, Manuel Ortiz Museum.",
+          "Most Important Tourist Activities and Experiences": "Exploring the countryside and yerba mate plantations, riding old rural carriages.",
+          "Green Spaces and Landscapes": "The area's hills, agricultural fields.",
+          "Famous Local Dishes": "Vorái (local chicken dish), Butifarra (beef)."
+        },
+        {
+          "Main City": "Concepción",
+          "Prominent Historical and Architectural Landmarks": "The main church, the old port.",
+          "Most Important Tourist Activities and Experiences": "Touring the old port, boat trips on the Paraguay River, exploring colonial buildings.",
+          "Green Spaces and Landscapes": "Paraguay River, riverside parks.",
+          "Famous Local Dishes": "Grilled river fish, fish soup."
+        },
+        {
+          "Main City": "Areguá",
+          "Prominent Historical and Architectural Landmarks": "San Lorenzo Church.",
+          "Most Important Tourist Activities and Experiences": "Visiting Lake Ypacaraí (panoramic views), the pottery and handicrafts market.",
+          "Green Spaces and Landscapes": "Lake Ypacaraí, Cerro Kõi park.",
+          "Famous Local Dishes": "Strawberries and cream (seasonal), Chipa dish."
+        },
+        {
+          "Main City": "Caacupé",
+          "Prominent Historical and Architectural Landmarks": "Basilica of Our Lady of Miracles.",
+          "Most Important Tourist Activities and Experiences": "Climbing the surrounding hills, visiting the cathedral (a pilgrimage site).",
+          "Green Spaces and Landscapes": "Cerro Caacupé hills, countryside farms.",
+          "Famous Local Dishes": "Traditional sweets, corn cakes."
+        },
+        {
+          "Main City": "San Bernardino",
+          "Prominent Historical and Architectural Landmarks": "Old summer villas.",
+          "Most Important Tourist Activities and Experiences": "Enjoying water sports on Lake Ypacaraí, spending time in the summer resort.",
+          "Green Spaces and Landscapes": "Lake Ypacaraí.",
+          "Famous Local Dishes": "Barbecues, international cuisine."
+        },
+        {
+          "Main City": "Filadelfia",
+          "Prominent Historical and Architectural Landmarks": "Mennonite colonies museum.",
+          "Most Important Tourist Activities and Experiences": "Visiting the Mennonite colonies museum, exploring the Chaco plains.",
+          "Green Spaces and Landscapes": "The dry Chaco region.",
+          "Famous Local Dishes": "Mennonite cheeses and dairy products, smoked meats."
+        },
+        {
+          "Main City": "Yaguarón",
+          "Prominent Historical and Architectural Landmarks": "Yaguarón Church (a wooden masterpiece).",
+          "Most Important Tourist Activities and Experiences": "Visiting the old Franciscan church, climbing Yaguarón hill.",
+          "Green Spaces and Landscapes": "Yaguarón hill.",
+          "Famous Local Dishes": "Caracú (snail) dish, rural dishes."
+        }
+      ]
+    },
+    {
+      "Country": "Belarus",
+      "Cities": [
+        {
+          "Main City": "Minsk",
+          "Prominent Historical and Architectural Landmarks": "National Library (diamond-shaped architecture), Victory Square, Cathedral of the Holy Spirit.",
+          "Most Important Tourist Activities and Experiences": "Visiting the Island of Tears and the Svislach River, exploring the long Independence Avenue, visiting the National Library.",
+          "Green Spaces and Landscapes": "Gorky Park, Svislach River, Island of Tears.",
+          "Famous Local Dishes": "Dranki (potato pancakes), Belarusian Borscht soup."
+        },
+        {
+          "Main City": "Brest",
+          "Prominent Historical and Architectural Landmarks": "Brest Fortress, pedestrian Sovetskaya Street.",
+          "Most Important Tourist Activities and Experiences": "Visiting Brest Fortress, walking down the lantern-lit street at night, visiting the Archaeological Museum.",
+          "Green Spaces and Landscapes": "Bug River, Brest National Park.",
+          "Famous Local Dishes": "Belarusian-style marinated chicken, the popular Kvass drink."
+        },
+        {
+          "Main City": "Grodno",
+          "Prominent Historical and Architectural Landmarks": "The Old and New Castles, Kalozha Church.",
+          "Most Important Tourist Activities and Experiences": "Visiting the Old and New Castles, exploring historical churches, strolling along the Neman River.",
+          "Green Spaces and Landscapes": "Neman River, Gilibert Park.",
+          "Famous Local Dishes": "Meat-filled dumplings (pelmeni), potatoes with meat."
+        },
+        {
+          "Main City": "Vitebsk",
+          "Prominent Historical and Architectural Landmarks": "Marc Chagall Museum (the famous painter), the Summer Amphitheatre.",
+          "Most Important Tourist Activities and Experiences": "Visiting the Marc Chagall Museum, attending the Slavianski Bazaar arts festival.",
+          "Green Spaces and Landscapes": "Dvina River, Vitebsk Park.",
+          "Famous Local Dishes": "Herring salad (Selyodka) with vegetables, rice and mushroom dish."
+        },
+        {
+          "Main City": "Gomel",
+          "Prominent Historical and Architectural Landmarks": "Rumyantsev-Paskevich Palace (museum and park), St. Peter and Paul Cathedral.",
+          "Most Important Tourist Activities and Experiences": "Visiting the Rumyantsev-Paskevich Palace, walking along the Sozh River.",
+          "Green Spaces and Landscapes": "Sozh River, the Palace Park.",
+          "Famous Local Dishes": "Filled pies (pirozhki), pickled pork."
+        },
+        {
+          "Main City": "Mogilev",
+          "Prominent Historical and Architectural Landmarks": "Mogilev City Hall.",
+          "Most Important Tourist Activities and Experiences": "Visiting the old City Hall, exploring Stars Square, walking in the zoo.",
+          "Green Spaces and Landscapes": "Dnieper River, Mogilev Park.",
+          "Famous Local Dishes": "Roasted pork with potatoes, simple dishes."
+        },
+        {
+          "Main City": "Nesvizh",
+          "Prominent Historical and Architectural Landmarks": "Nesvizh Castle (UNESCO site), Corpus Christi Church.",
+          "Most Important Tourist Activities and Experiences": "Visiting Nesvizh Castle, exploring the surrounding gardens and palace.",
+          "Green Spaces and Landscapes": "The vast palace gardens, Lake Nesvizh.",
+          "Famous Local Dishes": "Medieval noble dishes, mead drinks."
+        },
+        {
+          "Main City": "Mir",
+          "Prominent Historical and Architectural Landmarks": "Mir Castle Complex (UNESCO site).",
+          "Most Important Tourist Activities and Experiences": "Visiting the historical Mir Castle, exploring the surrounding traditional village.",
+          "Green Spaces and Landscapes": "Lake near Mir Castle.",
+          "Famous Local Dishes": "Shashlik (shish kebab), honey sweets."
+        },
+        {
+          "Main City": "Polotsk",
+          "Prominent Historical and Architectural Landmarks": "Saint Sophia Cathedral, Boris Stone.",
+          "Most Important Tourist Activities and Experiences": "Visiting Saint Sophia Cathedral, visiting the geographical center of Europe.",
+          "Green Spaces and Landscapes": "Dvina River, old gardens.",
+          "Famous Local Dishes": "Belarusian black bread, river fish dishes."
+        },
+        {
+          "Main City": "Pinsk",
+          "Prominent Historical and Architectural Landmarks": "Butrimovich Palace, St. Charles' Church.",
+          "Most Important Tourist Activities and Experiences": "River cruises, exploring Baroque architecture, visiting the Regional Museum.",
+          "Green Spaces and Landscapes": "Pripyat River, the wetland area.",
+          "Famous Local Dishes": "Fried river fish, mushroom soup."
+        }
+      ]
+    },
+    {
+      "Country": "Trinidad and Tobago",
+      "Cities": [
+        {
+          "Main City": "Port of Spain",
+          "Prominent Historical and Architectural Landmarks": "The Magnificent Seven (colonial buildings), the Red House (Parliament).",
+          "Most Important Tourist Activities and Experiences": "Visiting the Queen's Park Savannah, exploring the National Museum, attending the Carnival festival (seasonal).",
+          "Green Spaces and Landscapes": "Queen's Park Savannah, Royal Botanic Gardens.",
+          "Famous Local Dishes": "Doubles (curried chickpeas in bread), Roti (Indian stuffed bread)."
+        },
+        {
+          "Main City": "Scarborough",
+          "Prominent Historical and Architectural Landmarks": "King George's Fort, Tobago's Conference Centre.",
+          "Most Important Tourist Activities and Experiences": "Visiting King George's Fort, strolling through the Botanical Gardens, walking on the bayfront.",
+          "Green Spaces and Landscapes": "Scarborough beaches, the Botanical Gardens.",
+          "Famous Local Dishes": "Crab and dumplings, seafood."
+        },
+        {
+          "Main City": "San Fernando",
+          "Prominent Historical and Architectural Landmarks": "San Fernando Hill.",
+          "Most Important Tourist Activities and Experiences": "Climbing San Fernando Hill for a panoramic view, exploring the central market.",
+          "Green Spaces and Landscapes": "San Fernando Hill.",
+          "Famous Local Dishes": "Pelau (vegetable soup), curry."
+        },
+        {
+          "Main City": "Arima",
+          "Prominent Historical and Architectural Landmarks": "Santa Rosa Church.",
+          "Most Important Tourist Activities and Experiences": "Visiting the Asa Wright Nature Centre, attending the Santa Rosa Festival in August.",
+          "Green Spaces and Landscapes": "Asa Wright Nature Centre.",
+          "Famous Local Dishes": "Smoked meats, rabbit dishes."
+        },
+        {
+          "Main City": "Chaguanas",
+          "Prominent Historical and Architectural Landmarks": "The Waterloo Hindu Temple.",
+          "Most Important Tourist Activities and Experiences": "Visiting the Waterloo Temple, shopping in the busy Chaguanas market.",
+          "Green Spaces and Landscapes": "Waterloo beaches.",
+          "Famous Local Dishes": "Various Creole Indian dishes, chicken curry."
+        },
+        {
+          "Main City": "Maracas",
+          "Prominent Historical and Architectural Landmarks": "Viewpoints along the coastal road.",
+          "Most Important Tourist Activities and Experiences": "Relaxing on the famous Maracas Beach, trying the 'Shark and Bake' sandwich.",
+          "Green Spaces and Landscapes": "Maracas Beach, surrounding forests.",
+          "Famous Local Dishes": "Bake and Shark, seafood."
+        },
+        {
+          "Main City": "Crown Point",
+          "Prominent Historical and Architectural Landmarks": "Crown Point Lighthouse.",
+          "Most Important Tourist Activities and Experiences": "Enjoying Pigeon Point Beach (famous), snorkeling in the Nylon Pool.",
+          "Green Spaces and Landscapes": "Pigeon Point Beach, the Nylon Pool.",
+          "Famous Local Dishes": "Seafood barbecues, curry dishes."
+        },
+        {
+          "Main City": "Charlotteville",
+          "Prominent Historical and Architectural Landmarks": "Old fishing village.",
+          "Most Important Tourist Activities and Experiences": "Enjoying the tranquility of Pirate's Bay, snorkeling tours.",
+          "Green Spaces and Landscapes": "Pirate's Bay.",
+          "Famous Local Dishes": "Freshly fried fish, tropical fruits."
+        },
+        {
+          "Main City": "Boco",
+          "Prominent Historical and Architectural Landmarks": "Old colonial plantations.",
+          "Most Important Tourist Activities and Experiences": "Visiting the Buccoo Reef, walking in the protected Buccoo forest.",
+          "Green Spaces and Landscapes": "Buccoo Reef, Buccoo Bay.",
+          "Famous Local Dishes": "Tropical drinks, grilled fish."
+        },
+        {
+          "Main City": "Toco",
+          "Prominent Historical and Architectural Landmarks": "Toco Lighthouse.",
+          "Most Important Tourist Activities and Experiences": "Visiting the old lighthouse, watching sea turtles on the beaches (seasonal).",
+          "Green Spaces and Landscapes": "Toco beaches.",
+          "Famous Local Dishes": "Breadfruit, chicken dishes."
+        }
+      ]
+    },
+    {
+      "Country": "Timor-Leste",
+      "Cities": [
+        {
+          "Main City": "Dili",
+          "Prominent Historical and Architectural Landmarks": "Cristo Rei statue, Resistance Museum, Government Palace.",
+          "Most Important Tourist Activities and Experiences": "Climbing the Cristo Rei statue, visiting the Resistance Museum, diving in the nearby coral reefs.",
+          "Green Spaces and Landscapes": "Areia Branca beach, the sea of Dili.",
+          "Famous Local Dishes": "Ikan Pepes (spiced fish in banana leaves), Batar Dan (corn dish)."
+        },
+        {
+          "Main City": "Baucau",
+          "Prominent Historical and Architectural Landmarks": "Old colonial buildings, Baucau Market.",
+          "Most Important Tourist Activities and Experiences": "Visiting old Portuguese buildings, swimming in the natural pool (Piscina Natural).",
+          "Green Spaces and Landscapes": "The natural pool, Baucau beach.",
+          "Famous Local Dishes": "Portuguese-Timorese dishes, grilled fish."
+        },
+        {
+          "Main City": "Maubisse",
+          "Prominent Historical and Architectural Landmarks": "Traditional houses (Lopo), Maubisse Shrine.",
+          "Most Important Tourist Activities and Experiences": "Enjoying mountain views, visiting flower gardens, seeing the traditional shrine.",
+          "Green Spaces and Landscapes": "Surrounding mountains and hills, area gardens.",
+          "Famous Local Dishes": "Local Timorese coffee, lamb."
+        },
+        {
+          "Main City": "Lospalos",
+          "Prominent Historical and Architectural Landmarks": "Traditional houses (Uma Lulik).",
+          "Most Important Tourist Activities and Experiences": "Visiting Lake Ira Lalaro, exploring the traditional houses (Lopo).",
+          "Green Spaces and Landscapes": "Lake Ira Lalaro, area forests.",
+          "Famous Local Dishes": "Cooked buffalo meat, fish from the lake."
+        },
+        {
+          "Main City": "Viqueque",
+          "Prominent Historical and Architectural Landmarks": "The central market.",
+          "Most Important Tourist Activities and Experiences": "Relaxing in the hot springs, exploring rural villages.",
+          "Green Spaces and Landscapes": "Hot springs, rural nature.",
+          "Famous Local Dishes": "Rice and vegetables, pork."
+        },
+        {
+          "Main City": "Maliana",
+          "Prominent Historical and Architectural Landmarks": "Border sites with Indonesia.",
+          "Most Important Tourist Activities and Experiences": "Wandering through traditional markets, exploring the border landscapes with Indonesia.",
+          "Green Spaces and Landscapes": "Maliana hills, agricultural land.",
+          "Famous Local Dishes": "Tapai (fermented cassava), cooked chicken."
+        },
+        {
+          "Main City": "Atauro (Island)",
+          "Prominent Historical and Architectural Landmarks": "Traditional island villages.",
+          "Most Important Tourist Activities and Experiences": "Diving and snorkeling in the high-biodiversity waters, visiting villages for doll-making.",
+          "Green Spaces and Landscapes": "Coral reefs, island beaches.",
+          "Famous Local Dishes": "Fresh grilled fish, seafood."
+        },
+        {
+          "Main City": "Jaco (Island)",
+          "Prominent Historical and Architectural Landmarks": "A sacred island for visits only.",
+          "Most Important Tourist Activities and Experiences": "Diving and snorkeling in the high-biodiversity waters, birdwatching.",
+          "Green Spaces and Landscapes": "White sandy beaches, clear waters.",
+          "Famous Local Dishes": "Food must be brought (uninhabited island)."
+        },
+        {
+          "Main City": "Balibo",
+          "Prominent Historical and Architectural Landmarks": "Balibo Fort, the Journalists Memorial.",
+          "Most Important Tourist Activities and Experiences": "Visiting the historic fort, visiting the Journalists Memorial, overlooking the coast.",
+          "Green Spaces and Landscapes": "Balibo beach.",
+          "Famous Local Dishes": "Coffee and fried bananas."
+        },
+        {
+          "Main City": "Liquiçá",
+          "Prominent Historical and Architectural Landmarks": "Colonial houses, city center.",
+          "Most Important Tourist Activities and Experiences": "Relaxing on black sand beaches, exploring old colonial buildings.",
+          "Green Spaces and Landscapes": "Black sand beaches, the ocean.",
+          "Famous Local Dishes": "Coffee and fried bananas."
+        }
+      ]
+    },
+    {
+      "Country": "Tuvalu",
+      "Cities": [
+        {
+          "Main City": "Funafuti",
+          "Prominent Historical and Architectural Landmarks": "Government Building (Vai Fenua), Funafuti International Airport.",
+          "Most Important Tourist Activities and Experiences": "Visiting the Funafuti Conservation Area, playing football on the airstrip at dusk, visiting the government building.",
+          "Green Spaces and Landscapes": "Funafuti Conservation Area, the lagoon.",
+          "Famous Local Dishes": "Pulu Sami (taro paste with coconut), fresh tuna fish."
+        },
+        {
+          "Main City": "Vaitupu",
+          "Prominent Historical and Architectural Landmarks": "Vaitupu Church.",
+          "Most Important Tourist Activities and Experiences": "Relaxing on quiet beaches, visiting local schools, experiencing village life.",
+          "Green Spaces and Landscapes": "Island beaches, small forests.",
+          "Famous Local Dishes": "Fried breadfruit, coconut soup."
+        },
+        {
+          "Main City": "Nanumanga",
+          "Prominent Historical and Architectural Landmarks": "Nanumanga's large church, historical buildings.",
+          "Most Important Tourist Activities and Experiences": "Seeing WWII plane wrecks, visiting the large church.",
+          "Green Spaces and Landscapes": "Nanumanga beach, WWII remains.",
+          "Famous Local Dishes": "Coconut crab, cooked fish."
+        },
+        {
+          "Main City": "Niutao",
+          "Prominent Historical and Architectural Landmarks": "Village center.",
+          "Most Important Tourist Activities and Experiences": "Exploring the local culture, learning traditional crafts.",
+          "Green Spaces and Landscapes": "The lagoon, trees.",
+          "Famous Local Dishes": "Tuvalu pudding, taro dishes."
+        },
+        {
+          "Main City": "Nui",
+          "Prominent Historical and Architectural Landmarks": "Village center.",
+          "Most Important Tourist Activities and Experiences": "Snorkeling around the coral reefs, enjoying complete tranquility.",
+          "Green Spaces and Landscapes": "Coral reefs, the sea.",
+          "Famous Local Dishes": "Salted and dried fish, coconut dishes."
+        },
+        {
+          "Main City": "Nukufetau",
+          "Prominent Historical and Architectural Landmarks": "Small historical traces.",
+          "Most Important Tourist Activities and Experiences": "Relaxing on the large lagoon, snorkeling.",
+          "Green Spaces and Landscapes": "The lagoon.",
+          "Famous Local Dishes": "Fresh coconut milk, fish."
+        },
+        {
+          "Main City": "Nukulaelae",
+          "Prominent Historical and Architectural Landmarks": "Tefala (ancient religious site).",
+          "Most Important Tourist Activities and Experiences": "Visiting the ancient site (Tefala), enjoying nature.",
+          "Green Spaces and Landscapes": "Beaches, nature.",
+          "Famous Local Dishes": "Traditional seafood dishes, fruits."
+        },
+        {
+          "Main City": "Niulakita",
+          "Prominent Historical and Architectural Landmarks": "No major architectural landmarks.",
+          "Most Important Tourist Activities and Experiences": "Enjoying complete isolation, exploring the island.",
+          "Green Spaces and Landscapes": "Pristine beaches.",
+          "Famous Local Dishes": "Traditional seabird dishes, fruits."
+        },
+        {
+          "Main City": "Amatuku (Islet)",
+          "Prominent Historical and Architectural Landmarks": "The Maritime Training Institute.",
+          "Most Important Tourist Activities and Experiences": "Visiting the Maritime Institute, relaxing on small beaches.",
+          "Green Spaces and Landscapes": "Islet beaches.",
+          "Famous Local Dishes": "Local dishes of taro and fish."
+        },
+        {
+          "Main City": "Tepuka (Islet)",
+          "Prominent Historical and Architectural Landmarks": "No major architectural landmarks.",
+          "Most Important Tourist Activities and Experiences": "Excursions to uninhabited islets, birdwatching.",
+          "Green Spaces and Landscapes": "Beaches, the sea.",
+          "Famous Local Dishes": "Beach barbecue."
+        }
+      ]
+    },
+    {
+      "Country": "San Marino",
+      "Cities": [
+        {
+          "Main City": "City of San Marino (Capital)",
+          "Prominent Historical and Architectural Landmarks": "The Three Towers (Guaita, Cesta, Montale), Palazzo Pubblico (Government Palace), Church of San Antonio.",
+          "Most Important Tourist Activities and Experiences": "Exploring the three fortresses, visiting museums, walking through the old city streets, buying commemorative postage stamps, enjoying cafes and restaurants.",
+          "Green Spaces and Landscapes": "Parco Guido, city parks, Piazza San Marco, panoramic views of the Alps.",
+          "Famous Local Dishes": "Neapolitan Pizza, Spaghetti, Pasta, Lasagna, Escargot, Nudzli (local noodles with meat), Torta Tre Monti (Cake of the Three Towers)."
+        },
+        {
+          "Main City": "Borgo Maggiore",
+          "Prominent Historical and Architectural Landmarks": "Church of San Francesco, Church of Santa Chiara, Teatro San Carlo.",
+          "Most Important Tourist Activities and Experiences": "Visiting historical churches, walking through the old city, shopping in commercial streets, enjoying the landscapes.",
+          "Green Spaces and Landscapes": "City parks, views of the surrounding mountains.",
+          "Famous Local Dishes": "Spaghetti, Lasagna, local pasta, local pies."
+        },
+        {
+          "Main City": "Serravalle",
+          "Prominent Historical and Architectural Landmarks": "Church of Santa Maria Assunta, Serravalle Museum.",
+          "Most Important Tourist Activities and Experiences": "Visiting the museum, walking through the city, enjoying the nearby beaches in Rimini, Italy.",
+          "Green Spaces and Landscapes": "City parks, coastal views.",
+          "Famous Local Dishes": "Fresh seafood, local pasta, meat dishes."
+        }
+      ]
+    },
+    {
+      "Country": "Liechtenstein",
+      "Cities": [
+        {
+          "Main City": "Vaduz (Capital)",
+          "Prominent Historical and Architectural Landmarks": "Vaduz Castle (residence of the Prince), St. Florin Cathedral, Kunstmuseum (Art Museum).",
+          "Most Important Tourist Activities and Experiences": "Visiting the Castle (from outside), walking through the old city, visiting the Art Museum, buying commemorative postage stamps, hiking in the Alps.",
+          "Green Spaces and Landscapes": "City parks, Alpine views, the Rhine Valley.",
+          "Famous Local Dishes": "Cheese Fondue, Swiss chocolate, Rösti (dish of grated potatoes and cheese), Käsknöpfle (layers of potatoes, meat, and cheese), Knödel (dumplings)."
+        }
+      ]
+    },
+    {
+      "Country": "North Macedonia",
+      "Cities": [
+        {
+          "Main City": "Skopje (Capital)",
+          "Prominent Historical and Architectural Landmarks": "Kale Fortress, Marshal Tito Square, St. Clement Church, Stone Bridge, National Museum.",
+          "Most Important Tourist Activities and Experiences": "Visiting the Fortress, walking through the old city (the Old Bazaar), visiting the Old Bazaar market, enjoying the vibrant nightlife.",
+          "Green Spaces and Landscapes": "City parks, views of Šar Mountains, Vardar River.",
+          "Famous Local Dishes": "Ajvar (roasted red pepper spread), Pastrmajlija (local pie), Kavapi (minced meat dish), Turšija (pickled vegetables)."
+        },
+        {
+          "Main City": "Ohrid",
+          "Prominent Historical and Architectural Landmarks": "Lake Ohrid, Church of St. George, Samuel's Fortress, Church of St. Sophia (UNESCO site).",
+          "Most Important Tourist Activities and Experiences": "Relaxing by the lake, visiting old churches and monasteries, exploring nature, walking in the old city.",
+          "Green Spaces and Landscapes": "Lake Ohrid, city parks, surrounding mountains.",
+          "Famous Local Dishes": "Fresh fish dishes (especially trout), lamb soup, Ohrid Turšija (local pickle)."
+        },
+        {
+          "Main City": "Bitola",
+          "Prominent Historical and Architectural Landmarks": "St. Nicholas Cemetery, Church of St. John.",
+          "Most Important Tourist Activities and Experiences": "Visiting the cemetery, walking through the city, enjoying the mountain nature.",
+          "Green Spaces and Landscapes": "City parks, views of the surrounding mountains.",
+          "Famous Local Dishes": "Grilled meat dishes, local bread, dairy products."
+        }
+      ]
+    },
+    {
+      "Country": "Albania",
+      "Cities": [
+        {
+          "Main City": "Tirana (Capital)",
+          "Prominent Historical and Architectural Landmarks": "Et'hem Bey Mosque, Opera House, National History Museum, Pyramid of Tirana, Skanderbeg Square.",
+          "Most Important Tourist Activities and Experiences": "Visiting the Mosque and Palace, walking through the old city, exploring the Block area (former communist party), enjoying the nightlife.",
+          "Green Spaces and Landscapes": "Grand Park, the artificial Lake of Tirana.",
+          "Famous Local Dishes": "Tavë Kosi (national stew with eggplant and minced meat), Byrek (savory pies with various fillings), Pita (flatbread), Raki (grilled meat)."
+        },
+        {
+          "Main City": "Durres",
+          "Prominent Historical and Architectural Landmarks": "St. Paul's Cathedral, Rozafa Castle.",
+          "Most Important Tourist Activities and Experiences": "Visiting the Cathedral, walking through the city, enjoying the beaches, visiting Rozafa Castle.",
+          "Green Spaces and Landscapes": "Durres beaches, city parks.",
+          "Famous Local Dishes": "Grilled fish dishes, seafood, Durres Pita (local pita)."
+        },
+        {
+          "Main City": "Vlore",
+          "Prominent Historical and Architectural Landmarks": "Vlore Mosque, Vlore Museum.",
+          "Most Important Tourist Activities and Experiences": "Visiting the Mosque, walking through the city, enjoying nature.",
+          "Green Spaces and Landscapes": "City parks, mountain views.",
+          "Famous Local Dishes": "Grilled meat dishes, local bread, local cheese."
+        }
+      ]
+    },
+    {
+      "Country": "Croatia",
+      "Cities": [
+        {
+          "Main City": "Zagreb (Capital)",
+          "Prominent Historical and Architectural Landmarks": "Gornji Grad (Upper Town), St. Stephen's Cathedral, Stone Gate, Dolac Market.",
+          "Most Important Tourist Activities and Experiences": "Visiting the old city, walking through the streets, riding the funicular, enjoying the nightlife.",
+          "Green Spaces and Landscapes": "City parks, Medvednica Mountain.",
+          "Famous Local Dishes": "Pašticada (marinated beef stew), Pžolice (fried mussels), Ražnjići (grilled meat), Šopska Salata (Croatian version)."
+        },
+        {
+          "Main City": "Split",
+          "Prominent Historical and Architectural Landmarks": "Diocletian's Palace (UNESCO site), Cathedral of Saint Domnius, Diocletian's Mausoleum.",
+          "Most Important Tourist Activities and Experiences": "Visiting the Palace, walking through the city, enjoying the beaches.",
+          "Green Spaces and Landscapes": "Split beaches, city parks, Marjan Hill.",
+          "Famous Local Dishes": "Pašticada, Pžolice, Ražnjići, Pečenica (charcoal-grilled meat)."
+        },
+        {
+          "Main City": "Dubrovnik",
+          "Prominent Historical and Architectural Landmarks": "Dubrovnik Walls, St. Tryphon Cathedral, Stradun street.",
+          "Most Important Tourist Activities and Experiences": "Walking on the walls, exploring the old city, enjoying nature.",
+          "Green Spaces and Landscapes": "City parks, Lokrum Island.",
+          "Famous Local Dishes": "Pašticada, Pžolice, Ražnjići, fresh seafood."
+        }
+      ]
+    },
+    {
+      "Country": "Serbia",
+      "Cities": [
+        {
+          "Main City": "Belgrade (Capital)",
+          "Prominent Historical and Architectural Landmarks": "Belgrade Fortress, St. Michael's Cathedral, Nikola Tesla Museum, Temple of Saint Sava.",
+          "Most Important Tourist Activities and Experiences": "Visiting the Fortress, walking through the city, enjoying the nightlife.",
+          "Green Spaces and Landscapes": "City parks, views of the Sava and Danube rivers.",
+          "Famous Local Dishes": "Karađorđeva (steak), Šopska Salata, Sarma (cabbage rolls), Gibanica (pie with cheese and spinach)."
+        },
+        {
+          "Main City": "Novi Sad",
+          "Prominent Historical and Architectural Landmarks": "Petrovaradin Fortress, St. George's Church.",
+          "Most Important Tourist Activities and Experiences": "Visiting the Fortress, walking through the city, enjoying nature.",
+          "Green Spaces and Landscapes": "City parks, mountain views.",
+          "Famous Local Dishes": "Karađorđeva, Šopska Salata, Sarma."
+        },
+        {
+          "Main City": "Niš",
+          "Prominent Historical and Architectural Landmarks": "Niš Fortress, St. Tryphon Cathedral.",
+          "Most Important Tourist Activities and Experiences": "Visiting the Fortress, walking through the city, enjoying nature.",
+          "Green Spaces and Landscapes": "City parks, mountain views.",
+          "Famous Local Dishes": "Karađorđeva, Šopska Salata, Sarma."
+        }
+      ]
+    },
+    {
+      "Country": "Montenegro",
+      "Cities": [
+        {
+          "Main City": "Podgorica (Capital)",
+          "Prominent Historical and Architectural Landmarks": "Millennium Bridge, Podgorica Palace, St. Andrew's Church.",
+          "Most Important Tourist Activities and Experiences": "Visiting the Palace, walking through the city, enjoying the nightlife.",
+          "Green Spaces and Landscapes": "City parks, mountain views.",
+          "Famous Local Dishes": "Karađorđeva, Šopska Salata, Sarma."
+        },
+        {
+          "Main City": "Kotor",
+          "Prominent Historical and Architectural Landmarks": "St. Nicholas Church, Kotor Museum.",
+          "Most Important Tourist Activities and Experiences": "Visiting the Church, walking through the city, enjoying nature.",
+          "Green Spaces and Landscapes": "City parks, mountain views.",
+          "Famous Local Dishes": "Karađorđeva, Šopska Salata, Sarma."
+        },
+        {
+          "Main City": "Nikšić",
+          "Prominent Historical and Architectural Landmarks": "Nikšić Museum, St. Stephen's Church.",
+          "Most Important Tourist Activities and Experiences": "Visiting the Museum, walking through the city, enjoying nature.",
+          "Green Spaces and Landscapes": "City parks, mountain views.",
+          "Famous Local Dishes": "Karađorđeva, Šopska Salata, Sarma."
+        }
+      ]
+    },
+    {
+      "Country": "Kosovo",
+      "Cities": [
+        {
+          "Main City": "Pristina (Capital)",
+          "Prominent Historical and Architectural Landmarks": "Mother Teresa Cathedral, Kosovo Museum.",
+          "Most Important Tourist Activities and Experiences": "Visiting the Cathedral, walking through the city, enjoying the nightlife.",
+          "Green Spaces and Landscapes": "City parks, mountain views.",
+          "Famous Local Dishes": "Karađorđeva, Šopska Salata, Sarma."
+        },
+        {
+          "Main City": "Prizren",
+          "Prominent Historical and Architectural Landmarks": "St. Nicholas Church, Prizren Museum.",
+          "Most Important Tourist Activities and Experiences": "Visiting the Church, walking through the city, enjoying nature.",
+          "Green Spaces and Landscapes": "City parks, mountain views.",
+          "Famous Local Dishes": "Karađorđeva, Šopska Salata, Sarma."
+        },
+        {
+          "Main City": "Pristina",
+          "Prominent Historical and Architectural Landmarks": "Mother Teresa Cathedral, Kosovo Museum.",
+          "Most Important Tourist Activities and Experiences": "Visiting the Cathedral, walking through the city, enjoying the nightlife.",
+          "Green Spaces and Landscapes": "City parks, mountain views.",
+          "Famous Local Dishes": "Karađorđeva, Šopska Salata, Sarma."
+        }
+      ]
+    }
+  ]
+}

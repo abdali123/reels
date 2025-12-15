@@ -1,0 +1,66 @@
+[
+  {
+    "Country": "Azerbaijan",
+    "City": "Baku",
+    "Attractions": "Old City (Icherisheher), Maiden Tower, Shirvanshahs' Palace, Flame Towers, Heydar Aliyev Center, Fountain Square, Little Venice, Carpet Museum.",
+    "Activities": "Exploring architectural contrasts, historical tours in the Old City, strolling in Fountain Square.",
+    "Cuisine": "Plov (rice dish with meat), Azerbaijani kebab, Dushbara (dumpling soup).",
+    "Green Spaces": "Highland Park, Baku Boulevard, Central Park."
+  },
+  {
+    "Country": "Azerbaijan",
+    "City": "Ganja",
+    "Attractions": "Nizami Ganjavi district, historical mosques, shrines, beautiful gardens.",
+    "Activities": "Visiting cultural and historical sites, exploring architectural landmarks.",
+    "Cuisine": "Plov, kebab, dushbara.",
+    "Green Spaces": "Khan Baghi (Khan's Garden), Heydar Aliyev Park."
+  },
+  {
+    "Country": "Azerbaijan",
+    "City": "Sheki",
+    "Attractions": "Sheki Khans' Palace, local handicraft market, theater (for traditional music and dance).",
+    "Activities": "Immersing in rural life, visiting Sheki market to buy carpets.",
+    "Cuisine": "Distinctive Sheki cuisine, Plov.",
+    "Green Spaces": "Palace of the Khan's gardens, Sheki National Forests."
+  },
+  {
+    "Country": "Uzbekistan",
+    "City": "Bukhara",
+    "Attractions": "Kalyan Minaret, Ark Fortress, Samanid Mausoleum, Covered Bazaars (for crafts and carpets), ancient madrasas, Samanid Mausoleum, Bolo Hauz Mosque.",
+    "Activities": "Discovering ancient Islamic architecture, strolling through taki bazaars.",
+    "Cuisine": "Plov, shashlik, manti, samsa.",
+    "Green Spaces": "Samanid Park, Lyab-i Hauz."
+  },
+  {
+    "Country": "Uzbekistan",
+    "City": "Tashkent",
+    "Attractions": "Independence Square, Tashkent Metro (decorated with mosaic panels), Chorsu traditional market, National Museum of History of Uzbekistan, 'Alisher Navoi' Park.",
+    "Activities": "Visiting museums and spacious parks, shopping at Chorsu Market.",
+    "Cuisine": "Plov, shashlik, manti, laghman.",
+    "Green Spaces": "Alisher Navoi National Park, Japanese Garden, Tashkent Botanical Garden."
+  },
+  {
+    "Country": "Uzbekistan",
+    "City": "Khorezm (Khiva)",
+    "Attractions": "Old city walls, palaces and fortresses, towers (for observation), ancient markets.",
+    "Activities": "Exploring palaces and fortresses, viewing oases, visiting ancient markets.",
+    "Cuisine": "Plov, shashlik, laghman.",
+    "Green Spaces": "Ichan-Qala inner park, Khiva Culture and Recreation Park."
+  },
+  {
+    "Country": "Uzbekistan",
+    "City": "Shakhrisabz",
+    "Attractions": "Ak-Saray Palace (birthplace of Timur), historical gardens, beautiful mosaics.",
+    "Activities": "Visiting historical gardens, viewing Timurid architecture.",
+    "Cuisine": "Plov, shashlik, samsa.",
+    "Green Spaces": "Timur Square gardens, Kitab Geological Reserve."
+  },
+  {
+    "Country": "Uzbekistan",
+    "City": "Namangan",
+    "Attractions": "(A major city with historical monuments and landmarks).",
+    "Activities": "Exploring minarets and madrasas, visiting the flower garden.",
+    "Cuisine": "Namangan Plov, shashlik, Fergana Valley fruits.",
+    "Green Spaces": "Zahiriddin Babur Park, Afsana Park."
+  }
+]

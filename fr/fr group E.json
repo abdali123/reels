@@ -1,0 +1,2612 @@
+[
+  {
+    "Pays": "Slovaquie",
+    "Région": "Europe centrale",
+    "Ville": "Bratislava",
+    "Attractions": "Château de Bratislava, Porte Michael (Moyen Âge), Palais présidentiel (Grassalkovich), Église bleue (Élisabeth), Vieille ville.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Jardin Sad Janka Kráľa (plus ancien jardin public), Parc forestier de Bratislava, Rives du Danube."
+  },
+  {
+    "Pays": "Slovaquie",
+    "Région": "Europe centrale",
+    "Ville": "Košice",
+    "Attractions": "Cathédrale Sainte-Élisabeth (plus grande église de Slovaquie), Tour d'Urban, Rue historique Hlavná.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Jardin botanique de l'Université Pavol Jozef Šafárik, Parc municipal (Mestský Park)."
+  },
+  {
+    "Pays": "Slovaquie",
+    "Région": "Europe centrale",
+    "Ville": "Banská Štiavnica",
+    "Attractions": "Vieux château et Nouveau château (patrimoine de l'UNESCO), Place de la Sainte-Trinité, Musée en plein air de l'exploitation minière.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Lacs miniers artificiels (Tajchy) entourés de forêts, Jardin de Kalvária."
+  },
+  {
+    "Pays": "Slovaquie",
+    "Région": "Europe centrale",
+    "Ville": "Piešťany",
+    "Attractions": "Pont Kolonáda (architecture fonctionnaliste), Bâtiment de bain Napoléon, Musée néologique.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Île thermale (Spa Island) avec ses jardins luxuriants, Parc municipal."
+  },
+  {
+    "Pays": "Slovaquie",
+    "Région": "Europe centrale",
+    "Ville": "Trenčín",
+    "Attractions": "Château de Trenčín imposant sur la colline, Inscription romaine sur les rochers (datant de 179 après J.-C.), Ancienne synagogue.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Parc forestier de Brezina (Lesopark Brezina) entourant le château."
+  },
+  {
+    "Pays": "Slovaquie",
+    "Région": "Europe centrale",
+    "Ville": "Levoča",
+    "Attractions": "Église Saint-Jacques (abritant le plus grand retable en bois du monde), Ancien hôtel de ville, Cage d'infamie.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Collines environnantes de Spiš avec leurs paysages verdoyants."
+  },
+  {
+    "Pays": "Slovaquie",
+    "Région": "Europe centrale",
+    "Ville": "Žilina",
+    "Attractions": "Place carrée Mariánske, Château de Budatín (au confluent des rivières), Église de la Sainte-Trinité.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Jardin Sad SNP, Barrage de Žilina."
+  },
+  {
+    "Pays": "Slovaquie",
+    "Région": "Europe centrale",
+    "Ville": "Poprad",
+    "Attractions": "Quartier historique de Spišská Sobota (maisons gothiques et Renaissance), Église Saint-Égide.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Porte des Hautes Tatras, Parc aquatique Aquacity (eaux souterraines)."
+  },
+  {
+    "Pays": "Slovaquie",
+    "Région": "Europe centrale",
+    "Ville": "Nitra",
+    "Attractions": "Château de Nitra, Cathédrale Saint-Emmeram, Abbaye de Zobor (ruines).",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Parc de Sihôt (sur la rivière), Mont Zobor et sentiers de randonnée."
+  },
+  {
+    "Pays": "Slovaquie",
+    "Région": "Europe centrale",
+    "Ville": "Bardejov",
+    "Attractions": "Place Radničné (Hôtel de ville, UNESCO), Église Saint-Égide, Fortifications défensives préservées.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Station thermale de Bardejovské Kúpele au milieu des forêts."
+  },
+  {
+    "Pays": "Singapour",
+    "Région": "Asie du Sud-Est",
+    "Ville": "Marina Bay",
+    "Attractions": "Hôtel Fullerton (anciennement bureau de poste), Parc Merlion.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Gardens by the Bay (Jardins au bord de la baie) et Supertrees, Dôme des fleurs."
+  },
+  {
+    "Pays": "Singapour",
+    "Région": "Asie du Sud-Est",
+    "Ville": "Chinatown",
+    "Attractions": "Temple de Buddha Tooth Relic, Temple Sri Mariamman (hindou), Maisons de magasin traditionnelles.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Jardin de Hong Lim (Speaker's Corner)."
+  },
+  {
+    "Pays": "Singapour",
+    "Région": "Asie du Sud-Est",
+    "Ville": "Sentosa",
+    "Attractions": "Fort Siloso de la Seconde Guerre mondiale.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Plages de Siloso, Palawan et Tanjong, Sentiers naturels."
+  },
+  {
+    "Pays": "Singapour",
+    "Région": "Asie du Sud-Est",
+    "Ville": "Civic District",
+    "Attractions": "Galerie nationale (anciennement Cour suprême), Ancien bâtiment du Parlement, Cathédrale Saint-Andrew.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Parc historique de Fort Canning."
+  },
+  {
+    "Pays": "Singapour",
+    "Région": "Asie du Sud-Est",
+    "Ville": "Jardins botaniques",
+    "Attractions": "Maison Burkill, Théâtre Shoreline.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Jardin national des orchidées, Forêt tropicale primaire (site de l'UNESCO)."
+  },
+  {
+    "Pays": "Singapour",
+    "Région": "Asie du Sud-Est",
+    "Ville": "Little India",
+    "Attractions": "Temple Sri Veeramakaliamman, Masjid Abdul Gaffoor, Centre Mustafa.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Petits espaces verts et jardins communautaires."
+  },
+  {
+    "Pays": "Singapour",
+    "Région": "Asie du Sud-Est",
+    "Ville": "Kampong Glam",
+    "Attractions": "Mosquée du Sultan avec son dôme doré, Centre du patrimoine malais (anciennement palais du Sultan).",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Pas de grands parcs mais célèbre pour ses palmiers dans les rues."
+  },
+  {
+    "Pays": "Singapour",
+    "Région": "Asie du Sud-Est",
+    "Ville": "Katong",
+    "Attractions": "Maisons colorées des Péranakans, Architecture coloniale.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Parc de la côte Est (East Coast Park) longeant la mer."
+  },
+  {
+    "Pays": "Singapour",
+    "Région": "Asie du Sud-Est",
+    "Ville": "Punggol",
+    "Attractions": "Ancienne maison Matilda.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Île de Coney, Promenade aquatique de Punggol."
+  },
+  {
+    "Pays": "Singapour",
+    "Région": "Asie du Sud-Est",
+    "Ville": "Île de Pulau Ubin",
+    "Attractions": "Villages traditionnels (Kampongs) restants, Anciennes carrières de granit.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Terres humides de Chek Jawa, Forêts de mangrove."
+  },
+  {
+    "Pays": "Suisse",
+    "Région": "Europe de l'Ouest",
+    "Ville": "Berne",
+    "Attractions": "Vieille ville (UNESCO), Tour de l'horloge (Zytglogge), Palais fédéral.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Parc des ours (BärenPark), Jardin des roses (Rosengarten) avec vue sur la ville."
+  },
+  {
+    "Pays": "Suisse",
+    "Région": "Europe de l'Ouest",
+    "Ville": "Zurich",
+    "Attractions": "Église Grossmünster, Église Fraumünster (fenêtres de Chagall), Quartier de Lindenhof.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Lac de Zurich, Mont Uetliberg pour la randonnée."
+  },
+  {
+    "Pays": "Suisse",
+    "Région": "Europe de l'Ouest",
+    "Ville": "Genève",
+    "Attractions": "Cathédrale Saint-Pierre, Palais des Nations (ONU), Monument de la Réforme.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Jardin anglais, Parc de la Perle du Lac, Lac de Genève et son jet d'eau."
+  },
+  {
+    "Pays": "Suisse",
+    "Région": "Europe de l'Ouest",
+    "Ville": "Lucerne",
+    "Attractions": "Pont de la Chapelle en bois (Kapellbrücke), Mur de Musegg (Museggmauer), Monument du Lion.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Lac de Lucerne, Mont Pilatus (à proximité)."
+  },
+  {
+    "Pays": "Suisse",
+    "Région": "Europe de l'Ouest",
+    "Ville": "Bâle",
+    "Attractions": "Cathédrale rouge (Münster), Porte Spalentor, Hôtel de ville coloré.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Jardin botanique de l'Université de Bâle, Rives du Rhin."
+  },
+  {
+    "Pays": "Suisse",
+    "Région": "Europe de l'Ouest",
+    "Ville": "Lausanne",
+    "Attractions": "Cathédrale Notre-Dame, Palais de Rumine, Quartier de Flon.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Parcs du Musée olympique, Parc de Montbenon, Lavaux (à proximité)."
+  },
+  {
+    "Pays": "Suisse",
+    "Région": "Europe de l'Ouest",
+    "Ville": "Lugano",
+    "Attractions": "Cathédrale San Lorenzo, Piazza della Riforma, Église Santa Maria degli Angeli.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Parco Ciani, Lac de Lugano, Mont Brè."
+  },
+  {
+    "Pays": "Suisse",
+    "Région": "Europe de l'Ouest",
+    "Ville": "Saint-Gall",
+    "Attractions": "Bibliothèque de l'abbaye (Stiftsbibliothek) classée au patrimoine, Cathédrale baroque.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Parc zoologique Peter et Paul, Zone Drei Weieren."
+  },
+  {
+    "Pays": "Suisse",
+    "Région": "Europe de l'Ouest",
+    "Ville": "Montreux",
+    "Attractions": "Château de Chillon historique sur l'eau.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Promenade des fleurs au bord du lac, Rochers de Naye."
+  },
+  {
+    "Pays": "Suisse",
+    "Région": "Europe de l'Ouest",
+    "Ville": "Zermatt",
+    "Attractions": "Vieux village de Valais (maisons en bois traditionnelles), Musée du Matterhorn.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Célèbre montagne du Matterhorn, Lac de Riffelsee, Gorge de Gorner."
+  },
+  {
+    "Pays": "France",
+    "Région": "Europe de l'Ouest",
+    "Ville": "Paris",
+    "Attractions": "Tour Eiffel, Arc de Triomphe, Musée du Louvre, Cathédrale Notre-Dame.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Jardin du Luxembourg, Jardin des Tuileries, Bois de Boulogne."
+  },
+  {
+    "Pays": "France",
+    "Région": "Europe de l'Ouest",
+    "Ville": "Lyon",
+    "Attractions": "Théâtre romain, Basilique Notre-Dame de Fourvière, Traboules.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Immense parc de la Tête d'Or."
+  },
+  {
+    "Pays": "France",
+    "Région": "Europe de l'Ouest",
+    "Ville": "Marseille",
+    "Attractions": "Basilique Notre-Dame de la Garde, Fort Saint-Jean, Vieux-Port.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Parc national des Calanques (criques rocheuses)."
+  },
+  {
+    "Pays": "France",
+    "Région": "Europe de l'Ouest",
+    "Ville": "Bordeaux",
+    "Attractions": "Place de la Bourse, Cathédrale Saint-André, Grand Théâtre.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Jardin Public, Rives de la Garonne."
+  },
+  {
+    "Pays": "France",
+    "Région": "Europe de l'Ouest",
+    "Ville": "Nice",
+    "Attractions": "Vieux Nice, Cathédrale orthodoxe russe Saint-Nicolas.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Colline du Château, Promenade des Anglais."
+  },
+  {
+    "Pays": "France",
+    "Région": "Europe de l'Ouest",
+    "Ville": "Strasbourg",
+    "Attractions": "Cathédrale astronomique de Strasbourg, Quartier de la Petite France, Ponts couverts.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Parc de l'Orangerie."
+  },
+  {
+    "Pays": "France",
+    "Région": "Europe de l'Ouest",
+    "Ville": "Toulouse",
+    "Attractions": "Basilique Saint-Sernin, Place du Capitole, Couvent des Jacobins.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Jardin japonais, Rives de la Garonne et du Canal du Midi."
+  },
+  {
+    "Pays": "France",
+    "Région": "Europe de l'Ouest",
+    "Ville": "Nantes",
+    "Attractions": "Château des ducs de Bretagne, Passage Pommeraye, Cathédrale de Nantes.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Jardin des Plantes, Île de Versailles."
+  },
+  {
+    "Pays": "France",
+    "Région": "Europe de l'Ouest",
+    "Ville": "Aix-en-Provence",
+    "Attractions": "Cours Mirabeau, Cathédrale Saint-Sauveur, Atelier Cézanne.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Terrain des Peintres, Montagne Sainte-Victoire."
+  },
+  {
+    "Pays": "France",
+    "Région": "Europe de l'Ouest",
+    "Ville": "Annecy",
+    "Attractions": "Palais de l'Isle, Vieille ville.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Lac d'Annecy, Jardins de l'Europe."
+  },
+  {
+    "Pays": "Syrie",
+    "Région": "Moyen-Orient",
+    "Ville": "Damas",
+    "Attractions": "Mosquée des Omeyyades, Souk al-Hamidiyya, Palais Azem, Porte Thomas, Église de la Sainte-Vierge.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Ghouta de Damas (historiquement), Mont Qassioun, Jardin de Tishreen."
+  },
+  {
+    "Pays": "Syrie",
+    "Région": "Moyen-Orient",
+    "Ville": "Alep",
+    "Attractions": "Citadelle d'Alep, Souks couverts (vieille ville), Grande Mosquée, Quartier al-Jdeideh.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Jardin public."
+  },
+  {
+    "Pays": "Syrie",
+    "Région": "Moyen-Orient",
+    "Ville": "Tadmur (Palmire)",
+    "Attractions": "Temple de Bel, Arc de triomphe, Théâtre romain, Vallée des tombeaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Oasis de Palmyre (palmiers et oliviers), Source d'Afqa."
+  },
+  {
+    "Pays": "Syrie",
+    "Région": "Moyen-Orient",
+    "Ville": "Homs",
+    "Attractions": "Église Notre-Dame de la Ceinture, Mosquée Khalid ibn al-Walid, Citadelle de Homs.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Rives de l'Oronte, Lac Qattinah."
+  },
+  {
+    "Pays": "Syrie",
+    "Région": "Moyen-Orient",
+    "Ville": "Lattaquié",
+    "Attractions": "Arc de triomphe romain, Colonnes de Bacchus, Musée national.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Plage bleue, Forêts de Burg al-Faraq à proximité."
+  },
+  {
+    "Pays": "Syrie",
+    "Région": "Moyen-Orient",
+    "Ville": "Hama",
+    "Attractions": "Norias antiques, Palais al-Azem (Musée des traditions), Grande Mosquée.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Jardins des norias sur l'Oronte."
+  },
+  {
+    "Pays": "Syrie",
+    "Région": "Moyen-Orient",
+    "Ville": "Bosra",
+    "Attractions": "Théâtre romain (l'un des mieux conservés au monde), Vieille ville basaltique.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Plaines environnantes du Hauran."
+  },
+  {
+    "Pays": "Syrie",
+    "Région": "Moyen-Orient",
+    "Ville": "Tartous",
+    "Attractions": "Cathédrale de Tartous (musée), Vieille ville, Château de Margat (à proximité).",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Île d'Arouad, Corniche de la mer."
+  },
+  {
+    "Pays": "Syrie",
+    "Région": "Moyen-Orient",
+    "Ville": "Maaloula",
+    "Attractions": "Monastère Sainte-Thècle, Monastère Saint-Serge, Fente rocheuse.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Montagnes rocheuses environnantes et grottes."
+  },
+  {
+    "Pays": "Syrie",
+    "Région": "Moyen-Orient",
+    "Ville": "Raqqa",
+    "Attractions": "Porte de Bagdad, Palais des Filles (abbasside), Remparts de la vieille ville.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Rives de l'Euphrate."
+  },
+  {
+    "Pays": "Eswatini (Swaziland)",
+    "Région": "Afrique australe",
+    "Ville": "Mbabane",
+    "Attractions": "Marché artisanal de Mbabane (culturel).",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Roche Sibebe - deuxième plus grand monolithe granitique du monde."
+  },
+  {
+    "Pays": "Eswatini (Swaziland)",
+    "Région": "Afrique australe",
+    "Ville": "Lobamba",
+    "Attractions": "Parlement, Musée national, Village commémoratif du roi Sobhuza II.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Réserve faunique de Mlilwane."
+  },
+  {
+    "Pays": "Eswatini (Swaziland)",
+    "Région": "Afrique australe",
+    "Ville": "Manzini",
+    "Attractions": "Cathédrale de Manzini, Ancien marché.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "À proximité du parc royal de Hlane."
+  },
+  {
+    "Pays": "Eswatini (Swaziland)",
+    "Région": "Afrique australe",
+    "Ville": "Ezulwini",
+    "Attractions": "Vallée des Rois, Village culturel (Mantenga).",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Chutes de Mantenga, Réserve de Shewula."
+  },
+  {
+    "Pays": "Eswatini (Swaziland)",
+    "Région": "Afrique australe",
+    "Ville": "Big Bend",
+    "Attractions": "Écoles et usines de sucre historiques.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Rivière Usutu (observation des crocodiles), Montagnes de Lubombo."
+  },
+  {
+    "Pays": "Eswatini (Swaziland)",
+    "Région": "Afrique australe",
+    "Ville": "Piggs Peak",
+    "Attractions": "Anciennes mines d'or.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Chutes de Phophonyane, Barrage de Maguga."
+  },
+  {
+    "Pays": "Eswatini (Swaziland)",
+    "Région": "Afrique australe",
+    "Ville": "Simunye",
+    "Attractions": "Musée du sucre.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Parc national royal de Hlane - foyer des lions."
+  },
+  {
+    "Pays": "Eswatini (Swaziland)",
+    "Région": "Afrique australe",
+    "Ville": "Nhlangano",
+    "Attractions": "Lieu de rencontre entre le roi George VI et le roi Sobhuza.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Forêt de Mahamba."
+  },
+  {
+    "Pays": "Eswatini (Swaziland)",
+    "Région": "Afrique australe",
+    "Ville": "Siteki",
+    "Attractions": "Anciennes écoles missionnaires.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Réserve de Mkhaya pour les espèces en voie de disparition."
+  },
+  {
+    "Pays": "Eswatini (Swaziland)",
+    "Région": "Afrique australe",
+    "Ville": "Malkerns",
+    "Attractions": "Centre des bougies swazies (Swazi Candles).",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Terres agricoles verdoyantes et vallées."
+  },
+  {
+    "Pays": "Suriname",
+    "Région": "Amérique du Sud",
+    "Ville": "Paramaribo",
+    "Attractions": "Centre historique (UNESCO), Fort Zeelandia, Cathédrale en bois (Saint-Pierre-et-Saint-Paul).",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Jardin des palmiers (Palmentuin), Rives du fleuve Suriname."
+  },
+  {
+    "Pays": "Suriname",
+    "Région": "Amérique du Sud",
+    "Ville": "Nieuw Nickerie",
+    "Attractions": "Marché de la ville, Monuments commémoratifs de l'immigration.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Réserve de Bigi Pan - oiseaux et marais."
+  },
+  {
+    "Pays": "Suriname",
+    "Région": "Amérique du Sud",
+    "Ville": "Moengo",
+    "Attractions": "Histoire de l'extraction de la bauxite, Œuvres d'art contemporaines.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Forêts environnantes et rivières."
+  },
+  {
+    "Pays": "Suriname",
+    "Région": "Amérique du Sud",
+    "Ville": "Albina",
+    "Attractions": "Ancienne prison française (dont il reste des ruines), Bâtiments coloniaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Réserve de Galibi pour les tortues marines."
+  },
+  {
+    "Pays": "Suriname",
+    "Région": "Amérique du Sud",
+    "Ville": "Groningen",
+    "Attractions": "Monument de l'immigration néerlandaise, Place principale.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Rivière Saramacca."
+  },
+  {
+    "Pays": "Suriname",
+    "Région": "Amérique du Sud",
+    "Ville": "Jodensavanne",
+    "Attractions": "Ruines de l'ancienne synagogue juive (la plus ancienne des Amériques), Cimetière historique.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Fleuve Suriname et forêts denses environnantes."
+  },
+  {
+    "Pays": "Suriname",
+    "Région": "Amérique du Sud",
+    "Ville": "Domburg",
+    "Attractions": "Anciennes plantations.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Plage blanche (White Beach) artificielle sur la rivière."
+  },
+  {
+    "Pays": "Suriname",
+    "Région": "Amérique du Sud",
+    "Ville": "Brokopondo",
+    "Attractions": "Monument du barrage.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Lac de Brokopondo (immense réservoir), Île Tonka."
+  },
+  {
+    "Pays": "Suriname",
+    "Région": "Amérique du Sud",
+    "Ville": "Wageningen",
+    "Attractions": "Centre historique de culture du riz.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Rizières étendues."
+  },
+  {
+    "Pays": "Suriname",
+    "Région": "Amérique du Sud",
+    "Ville": "Totness",
+    "Attractions": "Ancien bâtiment du commissaire.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Canaux d'eau et cocotiers (Coronie)."
+  },
+  {
+    "Pays": "Vietnam",
+    "Région": "Asie du Sud-Est",
+    "Ville": "Hanoï",
+    "Attractions": "Mausolée de Hô Chi Minh, Temple de la Littérature, Citadelle impériale.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Lac Hoan Kiem, Lac de l'Ouest."
+  },
+  {
+    "Pays": "Vietnam",
+    "Région": "Asie du Sud-Est",
+    "Ville": "Hoi An",
+    "Attractions": "Vieille ville (UNESCO), Pont japonais, Maisons de réunion chinoises.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Plage d'An Bang, Rizières de Tra Que."
+  },
+  {
+    "Pays": "Vietnam",
+    "Région": "Asie du Sud-Est",
+    "Ville": "Hô Chi Minh-Ville",
+    "Attractions": "Palais de la Réunification, Cathédrale Notre-Dame, Bureau de poste central.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Parc Tao Dan, Rives de la rivière Saïgon."
+  },
+  {
+    "Pays": "Vietnam",
+    "Région": "Asie du Sud-Est",
+    "Ville": "Hué",
+    "Attractions": "Cité interdite (Citadelle), Tombeaux des empereurs, Temple Thien Mu.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Rivière des Parfums, Colline Vong Canh."
+  },
+  {
+    "Pays": "Vietnam",
+    "Région": "Asie du Sud-Est",
+    "Ville": "Ha Long",
+    "Attractions": "Pont Bai Chay.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Baie d'Ha Long (UNESCO) - îles calcaires et grottes."
+  },
+  {
+    "Pays": "Vietnam",
+    "Région": "Asie du Sud-Est",
+    "Ville": "Sapa",
+    "Attractions": "Ancienne église en pierre, Villages tribaux (Cat Cat).",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Mont Fansipan, Vallée de Muong Hoa, Chutes d'argent."
+  },
+  {
+    "Pays": "Vietnam",
+    "Région": "Asie du Sud-Est",
+    "Ville": "Nha Trang",
+    "Attractions": "Tours de Po Nagar (Cham), Cathédrale de Nha Trang.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Plage de Nha Trang, Île des singes."
+  },
+  {
+    "Pays": "Vietnam",
+    "Région": "Asie du Sud-Est",
+    "Ville": "Da Nang",
+    "Attractions": "Pont du Dragon, Musée de la sculpture Cham.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Montagnes de Marbre, Plage de My Khe, Péninsule de Son Tra."
+  },
+  {
+    "Pays": "Vietnam",
+    "Région": "Asie du Sud-Est",
+    "Ville": "Da Lat",
+    "Attractions": "Palais d'été de l'empereur Bảo Đại, Ancienne gare ferroviaire, Maison de l'Insensé.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Lac Xuan Huong, Chutes de Datanla, Vallée de l'Amour."
+  },
+  {
+    "Pays": "Vietnam",
+    "Région": "Asie du Sud-Est",
+    "Ville": "Ninh Binh",
+    "Attractions": "Temple Bai Dinh, Ancienne capitale Hoa Lu.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Tam Coc (Baie d'Ha Long terrestre), Réserve naturelle de Van Long."
+  },
+  {
+    "Pays": "Ghana",
+    "Région": "Afrique de l'Ouest",
+    "Ville": "Accra",
+    "Attractions": "Fort Osu (Christiansborg), Place de l'Indépendance, Phare de Jamestown.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Plage de Labadi, Jardins botaniques de Legon."
+  },
+  {
+    "Pays": "Ghana",
+    "Région": "Afrique de l'Ouest",
+    "Ville": "Cape Coast",
+    "Attractions": "Fort de Cape Coast (histoire de l'esclavage), Maisons coloniales.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Plages de Cape Coast."
+  },
+  {
+    "Pays": "Ghana",
+    "Région": "Afrique de l'Ouest",
+    "Ville": "Elmina",
+    "Attractions": "Fort Saint-Georges (plus ancien bâtiment européen en Afrique), Fort Coenraadsburg.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Lac Benya."
+  },
+  {
+    "Pays": "Ghana",
+    "Région": "Afrique de l'Ouest",
+    "Ville": "Kumasi",
+    "Attractions": "Palais Manhyia (royaume Ashanti), Site du couteau sacré (Okomfo Anokye).",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Lac Bosumtwi (cratère de météorite), Jardins de Kumasi."
+  },
+  {
+    "Pays": "Ghana",
+    "Région": "Afrique de l'Ouest",
+    "Ville": "Tamale",
+    "Attractions": "Anciennes mosquées en terre (Larabanga à proximité), Marché de Tamale.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Parc national de Mole (safari)."
+  },
+  {
+    "Pays": "Ghana",
+    "Région": "Afrique de l'Ouest",
+    "Ville": "Ho",
+    "Attractions": "Musée régional, Ancienne église allemande.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Mont Adaklu, Chutes de Wli."
+  },
+  {
+    "Pays": "Ghana",
+    "Région": "Afrique de l'Ouest",
+    "Ville": "Takoradi",
+    "Attractions": "Port historique, Cercle du marché (Market Circle).",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Plages de Busua."
+  },
+  {
+    "Pays": "Ghana",
+    "Région": "Afrique de l'Ouest",
+    "Ville": "Akosombo",
+    "Attractions": "Immense barrage d'Akosombo.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Lac Volta, Île Dodi."
+  },
+  {
+    "Pays": "Ghana",
+    "Région": "Afrique de l'Ouest",
+    "Ville": "Koforidua",
+    "Attractions": "Marché traditionnel de perles.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Chutes de Boti, Roche de l'ombrelle (Umbrella Rock)."
+  },
+  {
+    "Pays": "Ghana",
+    "Région": "Afrique de l'Ouest",
+    "Ville": "Bolgatanga",
+    "Attractions": "Village des arts et de l'artisanat, Cathédrale du Sacré-Cœur.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Rochers de Tongo."
+  },
+  {
+    "Pays": "Sierra Leone",
+    "Région": "Afrique de l'Ouest",
+    "Ville": "Freetown",
+    "Attractions": "Arbre à coton (symbole de la liberté), Porte du Roi, Musée du chemin de fer.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Plage de Lumley, Réserve de chimpanzés de Tacugama."
+  },
+  {
+    "Pays": "Sierra Leone",
+    "Région": "Afrique de l'Ouest",
+    "Ville": "Île de Bunce",
+    "Attractions": "Ruines du fort des esclaves (site historique poignant).",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "L'île entourée par la rivière Sierra Leone et les forêts."
+  },
+  {
+    "Pays": "Sierra Leone",
+    "Région": "Afrique de l'Ouest",
+    "Ville": "Bo",
+    "Attractions": "Porte de Bo, École secondaire gouvernementale.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Jardins environnants."
+  },
+  {
+    "Pays": "Sierra Leone",
+    "Région": "Afrique de l'Ouest",
+    "Ville": "Kenema",
+    "Attractions": "Centre de commerce du diamant.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "À proximité de la forêt tropicale de Gola."
+  },
+  {
+    "Pays": "Sierra Leone",
+    "Région": "Afrique de l'Ouest",
+    "Ville": "Makeni",
+    "Attractions": "Mosquée centrale.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Collines de Wamba."
+  },
+  {
+    "Pays": "Sierra Leone",
+    "Région": "Afrique de l'Ouest",
+    "Ville": "Kabala",
+    "Attractions": "Anciens bâtiments coloniaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Mont Bintimani, Paysages montagneux."
+  },
+  {
+    "Pays": "Sierra Leone",
+    "Région": "Afrique de l'Ouest",
+    "Ville": "Waterloo",
+    "Attractions": "Cimetière des colons libérés.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "À proximité des plages de la péninsule."
+  },
+  {
+    "Pays": "Sierra Leone",
+    "Région": "Afrique de l'Ouest",
+    "Ville": "Kissy",
+    "Attractions": "Restes de forts anciens.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Îles des Tortues (Turtle Islands)."
+  },
+  {
+    "Pays": "Sierra Leone",
+    "Région": "Afrique de l'Ouest",
+    "Ville": "Bonthe",
+    "Attractions": "Ancienne architecture créole.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Île de Sherbro, Palétuviers."
+  },
+  {
+    "Pays": "Sierra Leone",
+    "Région": "Afrique de l'Ouest",
+    "Ville": "Rokupr",
+    "Attractions": "Histoire du commerce fluvial.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Grande rivière Kaba."
+  },
+  {
+    "Pays": "Seychelles",
+    "Région": "Afrique de l'Est (îles)",
+    "Ville": "Victoria",
+    "Attractions": "Horloge (Lorloz), Temple Arul Mihu, Musée d'histoire naturelle.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Jardins botaniques nationaux, Parc national du Morne Seychellois."
+  },
+  {
+    "Pays": "Seychelles",
+    "Région": "Afrique de l'Est (îles)",
+    "Ville": "Beau Vallon",
+    "Attractions": "Ancienne zone résidentielle.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Célèbre plage de Beau Vallon, Sentier Mare aux Cochons."
+  },
+  {
+    "Pays": "Seychelles",
+    "Région": "Afrique de l'Est (îles)",
+    "Ville": "Anse Royale",
+    "Attractions": "Jardin des épices (Jardin du Roi).",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Plage d'Anse Royale, Eaux cristallines."
+  },
+  {
+    "Pays": "Seychelles",
+    "Région": "Afrique de l'Est (îles)",
+    "Ville": "La Passe (île de La Digue)",
+    "Attractions": "Plantation Union Estate, La Maison de la plantation (The Plantation House).",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Plage d'Anse Source d'Argent (rochers de granit), Réserve de la Veuve Noire."
+  },
+  {
+    "Pays": "Seychelles",
+    "Région": "Afrique de l'Est (îles)",
+    "Ville": "Grande Anse (Praslin)",
+    "Attractions": "Monuments commémoratifs locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Vallée de Mai - foyer du coco de mer (UNESCO)."
+  },
+  {
+    "Pays": "Seychelles",
+    "Région": "Afrique de l'Est (îles)",
+    "Ville": "Takamaka",
+    "Attractions": "Églises locales.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Plage d'Anse Intendance."
+  },
+  {
+    "Pays": "Seychelles",
+    "Région": "Afrique de l'Est (îles)",
+    "Ville": "Bel Ombre",
+    "Attractions": "Site du trésor du pirate La Buse (légende).",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Sentier Anse Major."
+  },
+  {
+    "Pays": "Seychelles",
+    "Région": "Afrique de l'Est (îles)",
+    "Ville": "Baie Sainte Anne",
+    "Attractions": "Terminal des ferries.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Réserve de Fond Ferdinand."
+  },
+  {
+    "Pays": "Seychelles",
+    "Région": "Afrique de l'Est (îles)",
+    "Ville": "Île de Silhouette",
+    "Attractions": "Cimetière de la famille Dauban, Ancien village.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Forêt tropicale dense et réserve marine."
+  },
+  {
+    "Pays": "Seychelles",
+    "Région": "Afrique de l'Est (îles)",
+    "Ville": "Anse Boileau",
+    "Attractions": "Village de pêche traditionnel.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Baie calme et palétuviers."
+  },
+  {
+    "Pays": "Tadjikistan",
+    "Région": "Asie centrale",
+    "Ville": "Douchanbé",
+    "Attractions": "Statue d'Ismaïl Samani, Fort de Hissar (à proximité), Musée national.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Parc Rudaki, Lac Komsomol, Parc de la Victoire."
+  },
+  {
+    "Pays": "Tadjikistan",
+    "Région": "Asie centrale",
+    "Ville": "Khodjent",
+    "Attractions": "Forteresse de Khodjent, Marché Panjshanbe, Mausolée de Sheikh Muslihiddin.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Rives du Syr-Daria, Parc Kamol Khujandi."
+  },
+  {
+    "Pays": "Tadjikistan",
+    "Région": "Asie centrale",
+    "Ville": "Penjikent",
+    "Attractions": "Ruines de l'ancienne Penjikent (Pompéi d'Asie centrale), Lieu de naissance de Rudaki.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Les sept lacs (Haft Kul) dans les montagnes de Fann."
+  },
+  {
+    "Pays": "Tadjikistan",
+    "Région": "Asie centrale",
+    "Ville": "Istaravshan",
+    "Attractions": "Forteresse ancienne (Mug Teppe), École Kok Gumbaz.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Vergers et collines environnantes."
+  },
+  {
+    "Pays": "Tadjikistan",
+    "Région": "Asie centrale",
+    "Ville": "Khorog",
+    "Attractions": "Musée régional d'histoire.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Jardin botanique (deuxième plus haut jardin du monde), Montagnes du Pamir."
+  },
+  {
+    "Pays": "Tadjikistan",
+    "Région": "Asie centrale",
+    "Ville": "Kulob",
+    "Attractions": "Mausolée de Mir Said Ali Hamadoni.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Vallée de Yakhsu."
+  },
+  {
+    "Pays": "Tadjikistan",
+    "Région": "Asie centrale",
+    "Ville": "Mourghab",
+    "Attractions": "Statue de Lénine, Marché local.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Haut plateau du Pamir, Lac Karakul."
+  },
+  {
+    "Pays": "Tadjikistan",
+    "Région": "Asie centrale",
+    "Ville": "Hissar",
+    "Attractions": "Forteresse de Hissar, Ancienne école.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Vallée fertile environnante."
+  },
+  {
+    "Pays": "Tadjikistan",
+    "Région": "Asie centrale",
+    "Ville": "Nurek",
+    "Attractions": "Barrage de Nurek (plus haut barrage en remblai).",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Réservoir de Nurek (le lac bleu)."
+  },
+  {
+    "Pays": "Tadjikistan",
+    "Région": "Asie centrale",
+    "Ville": "Isfara",
+    "Attractions": "Anciens mausolées islamiques.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Vergers d'abricots, Montagnes rocheuses."
+  },
+  {
+    "Pays": "Gambie",
+    "Région": "Afrique de l'Ouest",
+    "Ville": "Banjul",
+    "Attractions": "Arch 22, Musée national, Marché Albert.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Embouchure du fleuve Gambie."
+  },
+  {
+    "Pays": "Gambie",
+    "Région": "Afrique de l'Ouest",
+    "Ville": "Serrekunda",
+    "Attractions": "Marché animé de Serrekunda, Arène de lutte traditionnelle.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Réserve naturelle d'Abuko."
+  },
+  {
+    "Pays": "Gambie",
+    "Région": "Afrique de l'Ouest",
+    "Ville": "Bakau",
+    "Attractions": "Musée des crocodiles de Kachikaly (site sacré).",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Jardins botaniques, Étang des crocodiles."
+  },
+  {
+    "Pays": "Gambie",
+    "Région": "Afrique de l'Ouest",
+    "Ville": "Juffureh",
+    "Attractions": "Musée de l'esclavage, Village de Kunta Kinte.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Rives du fleuve."
+  },
+  {
+    "Pays": "Gambie",
+    "Région": "Afrique de l'Ouest",
+    "Ville": "Île de Kunta Kinte",
+    "Attractions": "Fort James (UNESCO) - ruines historiques.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Île fluviale."
+  },
+  {
+    "Pays": "Gambie",
+    "Région": "Afrique de l'Ouest",
+    "Ville": "Janjanbureh",
+    "Attractions": "Cercles de pierre de Wassu, Bâtiments coloniaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Camps riverains, Observation des hippopotames."
+  },
+  {
+    "Pays": "Gambie",
+    "Région": "Afrique de l'Ouest",
+    "Ville": "Tendaba",
+    "Attractions": "Musée du village de Tendaba.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Réserve d'oiseaux de Tendaba, Plage."
+  },
+  {
+    "Pays": "Gambie",
+    "Région": "Afrique de l'Ouest",
+    "Ville": "Gunjur",
+    "Attractions": "Mosquées locales.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Centre de protection de l'environnement, Plages de sable."
+  },
+  {
+    "Pays": "Gambie",
+    "Région": "Afrique de l'Ouest",
+    "Ville": "Brikama",
+    "Attractions": "Marché d'artisanat en bois.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Forêt culturelle de Makasutu (forêts de palmiers)."
+  },
+  {
+    "Pays": "Gambie",
+    "Région": "Afrique de l'Ouest",
+    "Ville": "Kartong",
+    "Attractions": "Plus ancienne colonie de Gambie.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Rivière Hallen, Réserve de reptiles."
+  },
+  {
+    "Pays": "Grenade",
+    "Région": "Caraïbes",
+    "Ville": "Saint-Georges",
+    "Attractions": "Fort George, Fort Frederick, Tunnel de Sendall, Musée national.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Chutes d'Anandale, Plage de Grand Anse."
+  },
+  {
+    "Pays": "Grenade",
+    "Région": "Caraïbes",
+    "Ville": "Gouyave",
+    "Attractions": "Station de transformation de la noix de muscade (Nutmeg Processing Station).",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Chutes de Concord."
+  },
+  {
+    "Pays": "Grenade",
+    "Région": "Caraïbes",
+    "Ville": "Grenville",
+    "Attractions": "Bâtiments coloniaux, Fabrique de chocolat.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Lac Antoine, Chutes du mont Carmel."
+  },
+  {
+    "Pays": "Grenade",
+    "Région": "Caraïbes",
+    "Ville": "Victoria",
+    "Attractions": "Village de pêche traditionnel.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Baie du coucher du soleil."
+  },
+  {
+    "Pays": "Grenade",
+    "Région": "Caraïbes",
+    "Ville": "Sauteurs",
+    "Attractions": "Colline des Sauts (Leapers' Hill) historique.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Baie de Levera, Île du Sucre."
+  },
+  {
+    "Pays": "Grenade",
+    "Région": "Caraïbes",
+    "Ville": "Hillsborough (Carriacou)",
+    "Attractions": "Musée local.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Jardins de corail, Plage du Paradis."
+  },
+  {
+    "Pays": "Grenade",
+    "Région": "Caraïbes",
+    "Ville": "Saint David",
+    "Attractions": "Jardin d'herbes et d'épices de Laura.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Plage de La Sagesse."
+  },
+  {
+    "Pays": "Grenade",
+    "Région": "Caraïbes",
+    "Ville": "Tivoli",
+    "Attractions": "Ferme de Belmont (historique et agricole).",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Jardins biologiques."
+  },
+  {
+    "Pays": "Grenade",
+    "Région": "Caraïbes",
+    "Ville": "Grand Étang",
+    "Attractions": "Centre forestier.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Lac du Grand Étang (cratère volcanique), Forêt tropicale."
+  },
+  {
+    "Pays": "Grenade",
+    "Région": "Caraïbes",
+    "Ville": "Morne Rouge",
+    "Attractions": "Hôtels historiques.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Plage BBC."
+  },
+  {
+    "Pays": "Malte",
+    "Région": "Europe du Sud",
+    "Ville": "La Valette",
+    "Attractions": "Co-cathédrale Saint-Jean, Palais du Grand Maître, Musée de la guerre, Fort Saint-Elme.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Jardins supérieurs et inférieurs de Barakka (vues panoramiques)."
+  },
+  {
+    "Pays": "Malte",
+    "Région": "Europe du Sud",
+    "Ville": "Mdina",
+    "Attractions": "Vieille ville fortifiée, Co-cathédrale Saint-Paul, Palais des nobles.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Fossé de Mdina (transformé en jardins)."
+  },
+  {
+    "Pays": "Malte",
+    "Région": "Europe du Sud",
+    "Ville": "Rabat",
+    "Attractions": "Catacombes, Villa romaine.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Jardins de Buskett - la seule forêt."
+  },
+  {
+    "Pays": "Malte",
+    "Région": "Europe du Sud",
+    "Ville": "Victoria (Gozo)",
+    "Attractions": "Citadelle (Cittadella), Ancienne prison.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Jardins de Villa Rundle."
+  },
+  {
+    "Pays": "Malte",
+    "Région": "Europe du Sud",
+    "Ville": "Les Trois Villes (Birgu)",
+    "Attractions": "Fort Saint-Ange, Palais de l'Inquisiteur, Musée maritime.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Port de plaisance."
+  },
+  {
+    "Pays": "Malte",
+    "Région": "Europe du Sud",
+    "Ville": "Marsaxlokk",
+    "Attractions": "Fort Delimara.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Bassin de Saint-Pierre (St. Peter's Pool), Côte de Delimara."
+  },
+  {
+    "Pays": "Malte",
+    "Région": "Europe du Sud",
+    "Ville": "Mellieħa",
+    "Attractions": "Tour Sainte-Agathe (Tour Rouge), Abris de guerre.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Réserve d'oiseaux de Għadira, Plages de sable."
+  },
+  {
+    "Pays": "Malte",
+    "Région": "Europe du Sud",
+    "Ville": "Tarxien",
+    "Attractions": "Temples mégalithiques de Tarxien (préhistoire).",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Petits jardins modernes."
+  },
+  {
+    "Pays": "Malte",
+    "Région": "Europe du Sud",
+    "Ville": "Qrendi",
+    "Attractions": "Temples de Ħaġar Qim et Mnajdra.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Grotte bleue (Blue Grotto), Falaises rocheuses."
+  },
+  {
+    "Pays": "Malte",
+    "Région": "Europe du Sud",
+    "Ville": "Mosta",
+    "Attractions": "Dôme de Mosta (rotonde) - troisième plus grand dôme non soutenu.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Vallée de Wied il-Għasel."
+  },
+  {
+    "Pays": "Cuba",
+    "Région": "Caraïbes",
+    "Ville": "La Havane",
+    "Attractions": "Vieille Havane, Capitole, Fort Morro, Place de la Révolution.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Forêt de La Havane (Bosque de La Habana)."
+  },
+  {
+    "Pays": "Cuba",
+    "Région": "Caraïbes",
+    "Ville": "Trinidad",
+    "Attractions": "Ville coloniale (UNESCO), Tour de l'horloge, Musées du sucre.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Chutes de Topes de Collantes, Vallée du sucre."
+  },
+  {
+    "Pays": "Cuba",
+    "Région": "Caraïbes",
+    "Ville": "Varadero",
+    "Attractions": "Palais de Xanadu.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Péninsule de Hicacos, Grottes d'Ambrosio."
+  },
+  {
+    "Pays": "Cuba",
+    "Région": "Caraïbes",
+    "Ville": "Cienfuegos",
+    "Attractions": "Palais de Valle (style mauresque), Théâtre Terry, Arc de triomphe.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Jardin botanique, Chutes d'El Nicho."
+  },
+  {
+    "Pays": "Cuba",
+    "Région": "Caraïbes",
+    "Ville": "Viñales",
+    "Attractions": "Fresque murale préhistorique.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Vallée de Viñales (montagnes karstiques), Grotte de l'Indien."
+  },
+  {
+    "Pays": "Cuba",
+    "Région": "Caraïbes",
+    "Ville": "Santiago de Cuba",
+    "Attractions": "Fort San Pedro de la Roca, Cimetière Santa Ifigenia.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Parc Baconao, Montagnes environnantes."
+  },
+  {
+    "Pays": "Cuba",
+    "Région": "Caraïbes",
+    "Ville": "Camagüey",
+    "Attractions": "Place del Carmen, Anciennes églises, Jarres en terre cuite.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Parc Casino Campestre (parc urbain)."
+  },
+  {
+    "Pays": "Cuba",
+    "Région": "Caraïbes",
+    "Ville": "Santa Clara",
+    "Attractions": "Mausolée de Che Guevara, Train blindé.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Colline de Capiro."
+  },
+  {
+    "Pays": "Cuba",
+    "Région": "Caraïbes",
+    "Ville": "Baracoa",
+    "Attractions": "Cathédrale Nuestra Señora, Fortaleza de Matachín.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Mont El Yunque, Rivière Toa."
+  },
+  {
+    "Pays": "Cuba",
+    "Région": "Caraïbes",
+    "Ville": "Holguín",
+    "Attractions": "Colline de la Croix (Loma de la Cruz).",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Baie de Naranjo, Plage de Guardalavaca."
+  },
+  {
+    "Pays": "Guatemala",
+    "Région": "Amérique centrale",
+    "Ville": "Antigua",
+    "Attractions": "Arche de Santa Catalina, Église La Merced, Couvent des Capucins.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Volcan d'Aqua, Parc central."
+  },
+  {
+    "Pays": "Guatemala",
+    "Région": "Amérique centrale",
+    "Ville": "Tikal (parc)",
+    "Attractions": "Grands temples mayas, Temple I et Temple II.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Forêt tropicale environnante, Vie sauvage."
+  },
+  {
+    "Pays": "Guatemala",
+    "Région": "Amérique centrale",
+    "Ville": "Lac Atitlán (Panajachel)",
+    "Attractions": "Villages traditionnels mayas, Églises coloniales.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Lac volcanique, Réserve d'Atitlán."
+  },
+  {
+    "Pays": "Guatemala",
+    "Région": "Amérique centrale",
+    "Ville": "Chichicastenango",
+    "Attractions": "Église Santo Tomás (rituels mayas et catholiques), Cimetière coloré.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Collines sacrées (Pascual Abaj)."
+  },
+  {
+    "Pays": "Guatemala",
+    "Région": "Amérique centrale",
+    "Ville": "Quetzaltenango (Xela)",
+    "Attractions": "Centre historique, Théâtre municipal.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Volcan Santa María, Sources chaudes de Fuentes Georginas."
+  },
+  {
+    "Pays": "Guatemala",
+    "Région": "Amérique centrale",
+    "Ville": "Flores",
+    "Attractions": "Vieille ville sur l'île.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Lac Petén Itzá."
+  },
+  {
+    "Pays": "Guatemala",
+    "Région": "Amérique centrale",
+    "Ville": "Cobán",
+    "Attractions": "Église du Calvaire.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Réserve d'orchidées, Semuc Champey (piscines naturelles)."
+  },
+  {
+    "Pays": "Guatemala",
+    "Région": "Amérique centrale",
+    "Ville": "Livingston",
+    "Attractions": "Culture Garifuna.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Río Dulce, Les sept chutes."
+  },
+  {
+    "Pays": "Guatemala",
+    "Région": "Amérique centrale",
+    "Ville": "Guatemala Ciudad",
+    "Attractions": "Palais national de la culture, Cathédrale, Carte en relief.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Zoo La Aurora."
+  },
+  {
+    "Pays": "Guatemala",
+    "Région": "Amérique centrale",
+    "Ville": "Río Hondo",
+    "Attractions": "Musée des fossiles.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Sierra de las Minas (forêt nuageuse)."
+  },
+  {
+    "Pays": "Luxembourg",
+    "Région": "Europe de l'Ouest",
+    "Ville": "Luxembourg",
+    "Attractions": "Casemates (tunnels défensifs), Palais du Grand-Duc, Pont Adolphe.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Vallée de la Pétrusse, Parc de Merl."
+  },
+  {
+    "Pays": "Luxembourg",
+    "Région": "Europe de l'Ouest",
+    "Ville": "Vianden",
+    "Attractions": "Château de Vianden (l'un des plus beaux châteaux d'Europe), Maison de Victor Hugo.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Rivière Our, Forêts environnantes (téléphérique)."
+  },
+  {
+    "Pays": "Luxembourg",
+    "Région": "Europe de l'Ouest",
+    "Ville": "Echternach",
+    "Attractions": "Abbaye bénédictine, Basilique romane.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Lac d'Echternach, Formations rocheuses de Müllerthal."
+  },
+  {
+    "Pays": "Luxembourg",
+    "Région": "Europe de l'Ouest",
+    "Ville": "Clervaux",
+    "Attractions": "Château de Clervaux (exposition de la famille de l'homme), Abbaye.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Parcs naturels des Ardennes."
+  },
+  {
+    "Pays": "Luxembourg",
+    "Région": "Europe de l'Ouest",
+    "Ville": "Larochette",
+    "Attractions": "Ruines du château de Larochette.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Forêts de Müllerthal (Petite Suisse)."
+  },
+  {
+    "Pays": "Luxembourg",
+    "Région": "Europe de l'Ouest",
+    "Ville": "Beaufort",
+    "Attractions": "Château de Beaufort (Moyen Âge et Renaissance).",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Sentiers de randonnée rocheux."
+  },
+  {
+    "Pays": "Luxembourg",
+    "Région": "Europe de l'Ouest",
+    "Ville": "Mondorf-les-Bains",
+    "Attractions": "Musée de l'aviation.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Parc thermal (Parc Thermal)."
+  },
+  {
+    "Pays": "Luxembourg",
+    "Région": "Europe de l'Ouest",
+    "Ville": "Esch-sur-Alzette",
+    "Attractions": "Hauts fourneaux (Belval - histoire industrielle).",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Parc Gaalgebierg."
+  },
+  {
+    "Pays": "Luxembourg",
+    "Région": "Europe de l'Ouest",
+    "Ville": "Remich",
+    "Attractions": "Porte des Vignes.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Réserve Haff Remich, Rivière Moselle."
+  },
+  {
+    "Pays": "Luxembourg",
+    "Région": "Europe de l'Ouest",
+    "Ville": "Wiltz",
+    "Attractions": "Château de Wiltz, Monument de la grève nationale.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Jardins de Wiltz."
+  },
+  {
+    "Pays": "Costa Rica",
+    "Région": "Amérique centrale",
+    "Ville": "San José",
+    "Attractions": "Théâtre national, Musée de l'or, Musée national.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Parque La Sabana, Jardin des papillons Spirogyra."
+  },
+  {
+    "Pays": "Costa Rica",
+    "Région": "Amérique centrale",
+    "Ville": "La Fortuna",
+    "Attractions": "Église locale.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Volcan Arenal, Chutes de La Fortuna, Sources chaudes."
+  },
+  {
+    "Pays": "Costa Rica",
+    "Région": "Amérique centrale",
+    "Ville": "Monteverde",
+    "Attractions": "Fromageries (Quakers).",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Forêt nuageuse (ponts suspendus), Réserve Curicancha."
+  },
+  {
+    "Pays": "Costa Rica",
+    "Région": "Amérique centrale",
+    "Ville": "Manuel Antonio",
+    "Attractions": "Pas d'architecture urbaine notable.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Parc national (plages, singes et paresseux)."
+  },
+  {
+    "Pays": "Costa Rica",
+    "Région": "Amérique centrale",
+    "Ville": "Tortuguero",
+    "Attractions": "Village des canaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Parc national de Tortuguero (nidification des tortues)."
+  },
+  {
+    "Pays": "Costa Rica",
+    "Région": "Amérique centrale",
+    "Ville": "Liberia",
+    "Attractions": "Ville blanche (maisons coloniales).",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Parc national volcanique de Rincón de la Vieja."
+  },
+  {
+    "Pays": "Costa Rica",
+    "Région": "Amérique centrale",
+    "Ville": "Puerto Viejo",
+    "Attractions": "Culture caribéenne.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Plage de Cocles, Centre de secours des jaguars."
+  },
+  {
+    "Pays": "Costa Rica",
+    "Région": "Amérique centrale",
+    "Ville": "Tamarindo",
+    "Attractions": "Ancien village de pêche.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Réserve marine Las Baulas (tortues luth)."
+  },
+  {
+    "Pays": "Costa Rica",
+    "Région": "Amérique centrale",
+    "Ville": "Cartago",
+    "Attractions": "Basilique de Los Ángeles, Ruines de l'église.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Volcan Irazú (lac de cratère)."
+  },
+  {
+    "Pays": "Costa Rica",
+    "Région": "Amérique centrale",
+    "Ville": "Uvita",
+    "Attractions": "Formations rocheuses de la queue de baleine.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Parc national Marino Ballena."
+  },
+  {
+    "Pays": "Serbie",
+    "Région": "Europe",
+    "Ville": "Belgrade",
+    "Attractions": "Forteresse de Kalemegdan, Temple de Saint-Sava.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Île d'Ada Ciganlija."
+  },
+  {
+    "Pays": "Serbie",
+    "Région": "Europe",
+    "Ville": "Novi Sad",
+    "Attractions": "Forteresse de Petrovaradin, Place de la Liberté.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Parc du Danube."
+  },
+  {
+    "Pays": "Serbie",
+    "Région": "Europe",
+    "Ville": "Niš",
+    "Attractions": "Tour des Crânes, Forteresse de Niš.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Station thermale de Niška Banja."
+  },
+  {
+    "Pays": "Serbie",
+    "Région": "Europe",
+    "Ville": "Subotica",
+    "Attractions": "Hôtel de ville (Art Nouveau), Synagogue.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Lac de Palić."
+  },
+  {
+    "Pays": "Serbie",
+    "Région": "Europe",
+    "Ville": "Kragujevac",
+    "Attractions": "Parc commémoratif de Šumarice.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Lac de Gruža."
+  },
+  {
+    "Pays": "Serbie",
+    "Région": "Europe",
+    "Ville": "Novi Pazar",
+    "Attractions": "Mosquée Altun-alem, Monastère de Sopoćani.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Montagne Golija."
+  },
+  {
+    "Pays": "Serbie",
+    "Région": "Europe",
+    "Ville": "Zrenjanin",
+    "Attractions": "Palais de l'hôtel de ville.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Réserve de Stari Begej."
+  },
+  {
+    "Pays": "Serbie",
+    "Région": "Europe",
+    "Ville": "Smederevo",
+    "Attractions": "Forteresse de Smederevo (plus grande forteresse de plaine).",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Rivière Danube."
+  },
+  {
+    "Pays": "Serbie",
+    "Région": "Europe",
+    "Ville": "Sombor",
+    "Attractions": "Bâtiment du gouvernorat.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Réserve de Gornje Podunavlje."
+  },
+  {
+    "Pays": "Serbie",
+    "Région": "Europe",
+    "Ville": "Golubac",
+    "Attractions": "Forteresse de Golubac.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Parc national de Đerdap (Portes de Fer)."
+  },
+  {
+    "Pays": "Kiribati",
+    "Région": "Océanie",
+    "Ville": "Tarawa-Sud",
+    "Attractions": "Sites de la bataille de Tarawa (Seconde Guerre mondiale), Canons japonais.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Plages et lagunes côtières."
+  },
+  {
+    "Pays": "Kiribati",
+    "Région": "Océanie",
+    "Ville": "Betio",
+    "Attractions": "Cimetière de guerre, Abris militaires.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Réserves marines."
+  },
+  {
+    "Pays": "Kiribati",
+    "Région": "Océanie",
+    "Ville": "Ambo",
+    "Attractions": "Bâtiment du Parlement (Maneaba).",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Front de mer."
+  },
+  {
+    "Pays": "Kiribati",
+    "Région": "Océanie",
+    "Ville": "Bairiki",
+    "Attractions": "Aéroport international.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Réservoirs d'eau naturels."
+  },
+  {
+    "Pays": "Kiribati",
+    "Région": "Océanie",
+    "Ville": "London (Kiritimati)",
+    "Attractions": "Anciens sites d'essais nucléaires.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Réserves d'oiseaux."
+  },
+  {
+    "Pays": "Kiribati",
+    "Région": "Océanie",
+    "Ville": "Banana",
+    "Attractions": "Villages traditionnels.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Forêts et cocotiers."
+  },
+  {
+    "Pays": "Kiribati",
+    "Région": "Océanie",
+    "Ville": "Tabukin",
+    "Attractions": "Églises locales.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Vues sur l'océan."
+  },
+  {
+    "Pays": "Kiribati",
+    "Région": "Océanie",
+    "Ville": "Abaiang",
+    "Attractions": "Sites culturels.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Vues sur l'océan."
+  },
+  {
+    "Pays": "Kiribati",
+    "Région": "Océanie",
+    "Ville": "Butaritari",
+    "Attractions": "Ponts traditionnels.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Palétuviers."
+  },
+  {
+    "Pays": "Kiribati",
+    "Région": "Océanie",
+    "Ville": "Bairiki",
+    "Attractions": "Bureaux gouvernementaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Place publique."
+  },
+  {
+    "Pays": "Malawi",
+    "Région": "Afrique",
+    "Ville": "Lilongwe",
+    "Attractions": "Mémorial de la Première Guerre mondiale, Vieux marché.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Centre de la vie sauvage, Jardin botanique."
+  },
+  {
+    "Pays": "Malawi",
+    "Région": "Afrique",
+    "Ville": "Blantyre",
+    "Attractions": "Église Saint-Michel, Musée Mandala (plus ancien bâtiment).",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Mont Michiru."
+  },
+  {
+    "Pays": "Malawi",
+    "Région": "Afrique",
+    "Ville": "Zomba",
+    "Attractions": "Anciens bâtiments du Parlement, Monument commémoratif.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Plateau de Zomba, Chutes de Williams."
+  },
+  {
+    "Pays": "Malawi",
+    "Région": "Afrique",
+    "Ville": "Mangochi",
+    "Attractions": "Musée du lac Malawi, Tour de l'horloge.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Lac Malawi, Parc de Liwonde."
+  },
+  {
+    "Pays": "Malawi",
+    "Région": "Afrique",
+    "Ville": "Nkhata Bay",
+    "Attractions": "Histoire de la traite des esclaves.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Plage de Chikalea, Forêts."
+  },
+  {
+    "Pays": "Malawi",
+    "Région": "Afrique",
+    "Ville": "Mzuzu",
+    "Attractions": "Musée de Mzuzu.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Forêt de Viphya."
+  },
+  {
+    "Pays": "Malawi",
+    "Région": "Afrique",
+    "Ville": "Karonga",
+    "Attractions": "Centre culturel et musée (dinosaures).",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Plage du lac."
+  },
+  {
+    "Pays": "Malawi",
+    "Région": "Afrique",
+    "Ville": "Salima",
+    "Attractions": "Sites historiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Baie de Senga."
+  },
+  {
+    "Pays": "Malawi",
+    "Région": "Afrique",
+    "Ville": "Monkey Bay",
+    "Attractions": "Port de pêche.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Parc national du lac Malawi."
+  },
+  {
+    "Pays": "Malawi",
+    "Région": "Afrique",
+    "Ville": "Dedza",
+    "Attractions": "Peintures rupestres (Chongoni - UNESCO).",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Mont Dedza."
+  },
+  {
+    "Pays": "Curaçao",
+    "Région": "Caraïbes",
+    "Ville": "Willemstad",
+    "Attractions": "Pont flottant de la Reine Emma, Quartier de Punda (UNESCO), Synagogue Mikvé Israël.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Plage de Mambo."
+  },
+  {
+    "Pays": "Curaçao",
+    "Région": "Caraïbes",
+    "Ville": "Westpunt",
+    "Attractions": "Église Saint-Pierre.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Plage de Playa Forti, Parc national de Shete Boka."
+  },
+  {
+    "Pays": "Curaçao",
+    "Région": "Caraïbes",
+    "Ville": "Sint Michiel",
+    "Attractions": "Fort Saint-Michel.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Baie Bleue (Blue Bay)."
+  },
+  {
+    "Pays": "Curaçao",
+    "Région": "Caraïbes",
+    "Ville": "Lagun",
+    "Attractions": "Anciennes maisons de plantation (Landhuis).",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Plage de Playa Lagun (tortues)."
+  },
+  {
+    "Pays": "Curaçao",
+    "Région": "Caraïbes",
+    "Ville": "Barber",
+    "Attractions": "Plus vieil arbre Kapok, Marché.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Parc Hof Pastor."
+  },
+  {
+    "Pays": "Curaçao",
+    "Région": "Caraïbes",
+    "Ville": "Sabana Westpunt",
+    "Attractions": "Villages de pêcheurs.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Plage de Grote Knip."
+  },
+  {
+    "Pays": "Curaçao",
+    "Région": "Caraïbes",
+    "Ville": "Tera Cora",
+    "Attractions": "Moulins à vent.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Plaines de Hato."
+  },
+  {
+    "Pays": "Curaçao",
+    "Région": "Caraïbes",
+    "Ville": "Soto",
+    "Attractions": "Anciens salins.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Plage de Santa Cruz."
+  },
+  {
+    "Pays": "Curaçao",
+    "Région": "Caraïbes",
+    "Ville": "Jan Thiel",
+    "Attractions": "Anciennes maisons de coquillages d'huile.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Jardins privés."
+  },
+  {
+    "Pays": "Curaçao",
+    "Région": "Caraïbes",
+    "Ville": "Jan Thiel",
+    "Attractions": "Restes de forts côtiers.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Réserve de sel (flamants roses)."
+  },
+  {
+    "Pays": "Guinée",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 1 en Guinée",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Guinée",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 2 en Guinée",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Guinée",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 3 en Guinée",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Guinée",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 4 en Guinée",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Guinée",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 5 en Guinée",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Guinée",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 6 en Guinée",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Guinée",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 7 en Guinée",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Guinée",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 8 en Guinée",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Guinée",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 9 en Guinée",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Guinée",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 10 en Guinée",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Guinée-Bissau",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 1 en Guinée-Bissau",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Guinée-Bissau",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 2 en Guinée-Bissau",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Guinée-Bissau",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 3 en Guinée-Bissau",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Guinée-Bissau",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 4 en Guinée-Bissau",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Guinée-Bissau",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 5 en Guinée-Bissau",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Guinée-Bissau",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 6 en Guinée-Bissau",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Guinée-Bissau",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 7 en Guinée-Bissau",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Guinée-Bissau",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 8 en Guinée-Bissau",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Guinée-Bissau",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 9 en Guinée-Bissau",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Guinée-Bissau",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 10 en Guinée-Bissau",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Guinée équatoriale",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 1 en Guinée équatoriale",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Guinée équatoriale",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 2 en Guinée équatoriale",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Guinée équatoriale",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 3 en Guinée équatoriale",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Guinée équatoriale",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 4 en Guinée équatoriale",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Guinée équatoriale",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 5 en Guinée équatoriale",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Guinée équatoriale",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 6 en Guinée équatoriale",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Guinée équatoriale",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 7 en Guinée équatoriale",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Guinée équatoriale",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 8 en Guinée équatoriale",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Guinée équatoriale",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 9 en Guinée équatoriale",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Guinée équatoriale",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 10 en Guinée équatoriale",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Cap-Vert",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 1 au Cap-Vert",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Cap-Vert",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 2 au Cap-Vert",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Cap-Vert",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 3 au Cap-Vert",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Cap-Vert",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 4 au Cap-Vert",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Cap-Vert",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 5 au Cap-Vert",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Cap-Vert",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 6 au Cap-Vert",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Cap-Vert",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 7 au Cap-Vert",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Cap-Vert",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 8 au Cap-Vert",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Cap-Vert",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 9 au Cap-Vert",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Cap-Vert",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 10 au Cap-Vert",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Kosovo",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 1 au Kosovo",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Kosovo",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 2 au Kosovo",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Kosovo",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 3 au Kosovo",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Kosovo",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 4 au Kosovo",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Kosovo",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 5 au Kosovo",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Kosovo",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 6 au Kosovo",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Kosovo",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 7 au Kosovo",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Kosovo",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 8 au Kosovo",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Kosovo",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 9 au Kosovo",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Kosovo",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 10 au Kosovo",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Guyana",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 1 au Guyana",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Guyana",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 2 au Guyana",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Guyana",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 3 au Guyana",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Guyana",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 4 au Guyana",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Guyana",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 5 au Guyana",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Guyana",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 6 au Guyana",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Guyana",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 7 au Guyana",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Guyana",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 8 au Guyana",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Guyana",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 9 au Guyana",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  },
+  {
+    "Pays": "Guyana",
+    "Région": "Mondial",
+    "Ville": "Ville/Région 10 au Guyana",
+    "Attractions": "Sites historiques et bâtiments archéologiques locaux.",
+    "Activités": "Rechercher des activités touristiques",
+    "Cuisine": "Rechercher des plats célèbres",
+    "Espaces verts": "Paysages naturels et parcs verts."
+  }
+]
