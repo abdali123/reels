@@ -1,12 +1,7 @@
-/* الألوان المستخدمة: 
-   الأزرق: #007BFF (أساسي)
-   البرتقالي: #FF8C00 (للتأكيد/الأزرار)
-   الأبيض: #FFFFFF 
-*/
-
 /* =======================================
-   ميزة تدوير الخلفية كل 20 ثانية (لم يتغير)
+   التنسيق العام والخلفية المتحركة
    ======================================= */
+/* لقطة شاشة توضيحية لعملية تغيير خلفية الموقع بين ثلاث صور مختلفة  */
 @keyframes background-slide {
     0%, 33.33% { 
         background-image: url('https://i.postimg.cc/wvw2fZKb/pexels-symeon-ekizoglou-1107605-2880801.jpg'); 
@@ -25,7 +20,6 @@ body {
     color: #333;
     margin: 0;
     padding: 0;
-    /* اتجاه النص يتم تحديده الآن بواسطة JavaScript */
     padding-bottom: 60px;
     
     background-size: cover;
@@ -34,14 +28,13 @@ body {
     animation: background-slide 60s infinite ease-in-out; 
 }
 
-/* 🆕 تم تعديل هذا الجزء لإزالة الخلفية الزرقاء الصلبة */
+/* الرأس (Header) - إزالة اللون الأزرق الداكن وجعله شبه شفاف */
 header {
-    /* خلفية بيضاء شفافة لتظهر الخلفية المتحركة من تحتها */
-    background-color: rgba(255, 255, 255, 0.9); 
-    color: #333; /* تغيير لون النص إلى الداكن */
+    background-color: rgba(255, 255, 255, 0.8); /* خلفية بيضاء شفافة */
+    color: #333; 
     padding: 20px;
     text-align: center;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
 }
 
 .logo-container {
@@ -51,13 +44,13 @@ header {
 .logo {
     width: 120px; 
     height: auto;
-    filter: drop-shadow(0 0 5px rgba(0, 0, 0, 0.1)); 
+    filter: drop-shadow(0 0 3px rgba(0, 0, 0, 0.1)); 
 }
 
 header h1 {
     margin: 0;
     font-size: 2em;
-    color: #007BFF; /* إبقاء اللون الأزرق لعنوان الموقع */
+    color: #007BFF; /* اللون الأزرق الأساسي */
 }
 
 header p {
@@ -72,6 +65,7 @@ main {
     margin: 30px auto;
 }
 
+/* صندوق التحكم ومخرجات الخطة (خلفية بيضاء شفافة) */
 .controls, .plan-output {
     margin-bottom: 20px;
     padding: 20px;
@@ -88,25 +82,26 @@ label {
     color: #007BFF; 
 }
 
-/* الشفافية المطبقة على حقول الاختيار */
+/* حقول الاختيار (Select) - جعلها شفافة تماماً */
 select {
-    background-color: rgba(255, 255, 255, 0.85); 
+    background-color: transparent; /* شفاف تماماً */
     width: 100%;
     padding: 12px;
     margin-bottom: 10px;
-    border: 1px solid #ccc;
+    border: 1px solid #aaa; 
     border-radius: 6px;
     box-sizing: border-box;
     font-size: 1em;
-    transition: background-color 0.3s;
+    color: #333; 
+    transition: border-color 0.3s;
 }
 
 select:focus {
-    background-color: rgba(255, 255, 255, 1); 
     border-color: #007BFF;
     outline: none;
 }
 
+/* زر الإنشاء (Button) - باللون البرتقالي */
 button {
     width: 100%;
     padding: 12px;
@@ -177,18 +172,9 @@ button:disabled {
 .city-details ul {
     list-style-type: none; 
     margin-top: 5px;
-}
-
-/* تنسيق الـ RTL/LTR للقائمة */
-.city-details[dir="ltr"] ul {
-    padding-right: 0;
-    padding-left: 0; /* يمكنك إضافة مسافة بادئة إذا لزم الأمر */
-}
-.city-details[dir="rtl"] ul {
     padding-right: 0;
     padding-left: 0;
 }
-
 
 .city-details ul li {
     margin-bottom: 5px;
@@ -204,7 +190,7 @@ button:disabled {
     border-left: 3px solid #007BFF;
 }
 
-
+/* تذييل الصفحة (Footer) */
 footer {
     text-align: center;
     padding: 10px;
@@ -216,9 +202,7 @@ footer {
     box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
 }
 
-/* =======================================
-   تصميم متجاوب (Responsive Design)
-   ======================================= */
+/* تصميم متجاوب (Responsive Design) */
 @media (max-width: 768px) {
     header h1 {
         font-size: 1.5em;
@@ -241,4 +225,4 @@ footer {
         padding: 10px;
         font-size: 0.9em;
     }
-}
+                               }
