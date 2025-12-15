@@ -72,8 +72,13 @@ button {
     transition: background-color 0.3s;
 }
 
-button:hover {
+button:hover:not(:disabled) {
     background-color: #218838;
+}
+
+button:disabled {
+    background-color: #a0a0a0;
+    cursor: not-allowed;
 }
 
 #travel-plan-content {
