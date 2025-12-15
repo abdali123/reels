@@ -44,37 +44,21 @@ populateGroups();
 destTypeSelect.addEventListener('change', populateGroups);
 
 // =================================================================
-// 🚨 الوظيفة المُحدَّثة لبناء مسار الملف (تستخدم مجلد اللغة كجذر)
+// وظيفة بناء مسار الملف (تستخدم الهيكل الجديد: [رمز اللغة]/[نوع الوجهة]/[اسم الملف])
 // =================================================================
 
 function buildFilePath(languageCode, destinationType, group) {
-    let langKey = languageMap[languageCode]; // ar, en, fr...
-
-    // نمط اسم الملف للدول: ar group A.json
-    let baseFileName = `${langKey} group ${group}.json`; 
+    let langKey = languageMap[languageCode]; 
     
-    // مسار ملفات الدول (Countries A & B)
-    if (destinationType === 'countriesA' || destinationType === 'countriesB') {
-        // المسار الجديد: ar/countriesA/ar group A.json
-        return `${langKey}/${destinationType}/${baseFileName}`;
-    } 
-    // مسار ملفات الجزر (Inlands)
-    else if (destinationType === 'inlands') {
-        // نمط اسم ملف الجزر: inlands A.json (بافتراض أن الاسم لا يحتوي على رمز اللغة)
-        let inlandsFileName = `inlands ${group}.json`; 
-        
-        // المسار الجديد: ar/inlands/inlands A.json
-        return `${langKey}/inlands/${inlandsFileName}`;
-        
-        // **إذا كان اسم ملف الجزر لديك يحتوي على رمز اللغة (مثل ar group A.json) استخدم هذا:**
-        // return `${langKey}/inlands/${baseFileName}`;
-    }
-
-    return null; 
+    // نمط اسم الملف الموحد: ar group A.json (بناءً على ملفاتك المرفقة)
+    let fileName = `${langKey} group ${group}.json`; 
+    
+    // المسار النهائي: ar/countriesA/ar group A.json
+    return `${langKey}/${destinationType}/${fileName}`;
 }
 
 // =================================================================
-// وظائف جلب البيانات ومعالجتها
+// وظائف جلب البيانات ومعالجتها (تم تعديل رسائل العرض)
 // =================================================================
 
 async function fetchAndDisplayPlan() {
@@ -88,14 +72,15 @@ async function fetchAndDisplayPlan() {
         return;
     }
 
-    planContent.innerHTML = `جاري تحميل الخطة من: <code>${filePath}</code> ...`;
+    // 🔴 التعديل: إزالة مسار الملف من رسالة التحميل المرئية
+    planContent.innerHTML = `جاري تحميل خطة السفر...`; 
     
     try {
         const response = await fetch(filePath);
 
         if (!response.ok) {
-            const langName = langSelect.options[langSelect.selectedIndex].text;
-            throw new Error(`تعذر العثور على الملف (404). يرجى التأكد من وجود ملف خطة السفر المترجم في المسار التالي: [${filePath}]`);
+            // 🔴 التعديل: إزالة تفاصيل المسار من رسالة الخطأ للمستخدم
+            throw new Error(`تعذر تحميل بيانات السفر المطلوبة (Error 404). يرجى مراجعة اختيارك وهيكل المجلدات لملفات المجموعة.`);
         }
 
         const data = await response.json(); 
@@ -103,14 +88,23 @@ async function fetchAndDisplayPlan() {
         displayPlan(data);
 
     } catch (error) {
-        planContent.innerHTML = `<div style="background-color: #ffcccc; padding: 15px; border-radius: 5px;"><p style="color: #cc0000; font-weight: bold;">خطأ في تحميل البيانات:</p><pre>${error.message}</pre></div>`;
+        // 🔴 التعديل: عرض رسالة خطأ عامة ومهنية
+        let displayMessage = error.message;
+
+        if (error.message.includes('404')) {
+             displayMessage = 'تعذر العثور على ملف البيانات. يرجى التأكد من أن الملف المترجم موجود في مكانه الصحيح على الخادم.';
+        } else if (error.message.includes('JSON')) {
+             displayMessage = 'حدث خطأ في قراءة ملف البيانات. قد يكون الملف غير صالح (JSON) أو تم تحميله بشكل غير صحيح.';
+        }
+       
+
+        planContent.innerHTML = `<div style="background-color: #ffcccc; padding: 15px; border-radius: 5px;"><p style="color: #cc0000; font-weight: bold;">خطأ في تحميل البيانات:</p><p>${displayMessage}</p></div>`;
     }
 }
 
 // =================================================================
 // وظائف تنسيق وعرض البيانات (متعدد الهياكل)
 // =================================================================
-// هذه الوظائف مصممة للتعامل مع جميع هياكل JSON التي قمت بمشاركتها.
 
 function displayPlan(data) {
     let htmlContent = '';
@@ -160,12 +154,10 @@ function formatCountryPlan(countryObj) {
     let html = `<div class="country-plan">`;
     html += `<h2><i class="fas fa-flag"></i> ${countryObj.الدولة}</h2>`;
     
-    // إضافة الوصف إذا كان موجودًا 
     if (countryObj.الوصف) {
         html += `<p class="description">${countryObj.الوصف}</p>`;
     }
     
-    // التكرار على المدن داخل الدولة
     (countryObj.المدن || []).forEach(cityObj => {
         html += formatCityDetails(cityObj);
     });
@@ -176,10 +168,9 @@ function formatCountryPlan(countryObj) {
 
 // دالة فرعية لتنسيق تفاصيل مدينة واحدة
 function formatCityDetails(cityObj) {
-    // محاولة الحصول على اسم المدينة من عدة مفاتيح محتملة
     const cityName = cityObj.المدينة الرئيسية || cityObj.المدينة || 'مدينة غير مسماة';
     
-    // محاولة الحصول على البيانات من عدة مفاتيح محتملة 
+    // استخدام مفاتيح بديلة متعددة
     const attractionsKey = cityObj['مناطق الجذب'] || cityObj['المعالم_التاريخية_والمعمارية'] || cityObj['المعالم التاريخية والمعمارية البارزة'];
     const activitiesKey = cityObj.الأنشطة || cityObj['أهم الأنشطة والتجارب السياحية'];
     const foodKey = cityObj.المأكولات || cityObj['المأكولات المحلية المشهورة'] || cityObj.المأكولات_المحلية;
@@ -188,11 +179,8 @@ function formatCityDetails(cityObj) {
     let html = `<div class="city-details">`;
     html += `<h3><i class="fas fa-city"></i> ${cityName}</h3>`;
     
-    // دالة مساعدة لتنسيق البيانات كقائمة
     const formatDetail = (title, content, iconClass) => {
-        // التحقق من وجود محتوى ومن عدم كونه عبارة "ابحث عن..." فارغة
         if (content && content.trim() !== 'ابحث عن أطباق' && content.trim() !== 'ابحث عن أنشطة سياحية' && content.trim() !== '' && content.trim() !== 'ابحث عن ساحات خضراء') {
-             // تقسيم المحتوى باستخدام فواصل مختلفة
             const listItems = content.split(/[،,؛;]/).map(item => item.trim()).filter(item => item.length > 0);
             return `<p><i class="${iconClass}"></i> <strong>${title}:</strong></p><ul>${listItems.map(item => `<li>${item}</li>`).join('')}</ul>`;
         }
@@ -212,5 +200,4 @@ function formatCityDetails(cityObj) {
 // ربط الأحداث
 // =================================================================
 
-// ربط زر "إنشاء خطة السفر" بالوظيفة
 generateBtn.addEventListener('click', fetchAndDisplayPlan);
