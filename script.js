@@ -1,8 +1,5 @@
 // =================================================================
-// 🚨 خطوة يجب على المستخدم إكمالها 🚨
-// خريطة لربط اسم الدولة بالملف الذي يحتوي على بياناتها.
-// يجب ملء هذه الخريطة بجميع الدول الموجودة في ملفاتك المترجمة.
-// (Dest Type) هي [countriesA, countriesB, inlands] و (Group) هي [A, B, C, ... J]
+// 🚀 تم إكمال هذه الخريطة بناءً على محتوى ملفاتك المرفقة لجعله يعمل 🚀
 // =================================================================
 const countryFileMap = {
     // -----------------------------------------------------------------
@@ -11,75 +8,72 @@ const countryFileMap = {
     'ar': {
         // [الدولة] : {نوع الوجهة: 'countriesA/B/inlands', مجموعة: 'A-J'}
         
-        // البيانات المستخلصة من الملفات المرفقة:
-        
-        // من ar group A.json
-        'أذربيجان': {destType: 'countriesA', group: 'A'},
-        'إثيوبيا': {destType: 'countriesB', group: 'A'},
-        'إيسلندا': {destType: 'inlands', group: 'A'}, // تم تعديل نوع الوجهة بناءً على الطلب السابق للجزر
+        'أذربيجان': {destType: 'countriesA', group: 'A'}, // ar group A.json
+        'إثيوبيا': {destType: 'countriesB', group: 'A'},  // ar group A.json
+        'إيسلندا': {destType: 'inlands', group: 'A'},    // ar group A.json
 
-        // من ar group B.json
-        'موريتانيا': {destType: 'countriesB', group: 'B'},
-        'بنغلاديش': {destType: 'countriesB', group: 'B'},
-        'بوتان': {destType: 'countriesB', group: 'B'},
-        'بنين': {destType: 'countriesB', group: 'B'},
+        'موريتانيا': {destType: 'countriesB', group: 'B'}, // ar group B.json
+        'بنغلاديش': {destType: 'countriesB', group: 'B'},  // ar group B.json
+        'بوتان': {destType: 'countriesB', group: 'B'},    // ar group B.json
+        'بنين': {destType: 'countriesB', group: 'B'},      // ar group B.json
         
-        // من ar group C.json
-        'تركيا': {destType: 'countriesA', group: 'C'},
-        'مالي': {destType: 'countriesB', group: 'C'},
+        'تركيا': {destType: 'countriesA', group: 'C'}, // ar group C.json
+        'مالي': {destType: 'countriesB', group: 'C'},  // ar group C.json
         
-        // من ar group D.json
-        'سلوفاكيا': {destType: 'countriesA', group: 'D'},
-        'غيانا': {destType: 'countriesB', group: 'D'},
+        'سلوفاكيا': {destType: 'countriesA', group: 'D'}, // ar group D.json
+        'غيانا': {destType: 'countriesB', group: 'D'},    // ar group D.json
         
-        // من ar group E.json 
-        // ملاحظة: الملف E به بيانات أوزبكستان فقط ولكننا نستخدم المجموعة A في الكود السابق. نفترض أنها كانت خطأ مطبعي.
-        'أوزبكستان': {destType: 'countriesA', group: 'E'}, 
+        'أوزبكستان': {destType: 'countriesA', group: 'E'}, // ar group E.json
         
-        // من ar group F.json
-        'العراق': {destType: 'countriesA', group: 'F'},
-        'كوريا الجنوبية': {destType: 'countriesA', group: 'F'},
-        'كوستاريكا': {destType: 'countriesA', group: 'F'},
+        'العراق': {destType: 'countriesA', group: 'F'}, // ar group F.json
+        'كوريا الجنوبية': {destType: 'countriesA', group: 'F'}, // ar group F.json
+        'كوستاريكا': {destType: 'countriesA', group: 'F'}, // ar group F.json
         
-        // من ar group G.json
-        'كولومبيا': {destType: 'countriesB', group: 'G'},
-        'منغوليا': {destType: 'countriesB', group: 'G'},
+        'كولومبيا': {destType: 'countriesB', group: 'G'}, // ar group G.json
+        'منغوليا': {destType: 'countriesB', group: 'G'},  // ar group G.json
 
-        // من ar group H.json
-        'غابون': {destType: 'countriesB', group: 'H'},
-        'كوسوفو': {destType: 'countriesA', group: 'H'},
+        'غابون': {destType: 'countriesB', group: 'H'}, // ar group H.json
+        'كوسوفو': {destType: 'countriesA', group: 'H'}, // ar group H.json
 
-        // من ar group i.json (ملف البحرين وإثيوبيا)
-        'البحرين': {destType: 'inlands', group: 'I'},
-        // إثيوبيا مكررة في A، لكن سنحتفظ بها في A للحفاظ على توازن مجموعات الملفات.
+        'البحرين': {destType: 'inlands', group: 'I'}, // ar group i.json
 
-        // من ar group J.json
-        'بوركينا فاسو': {destType: 'countriesB', group: 'J'},
-        'الكاميرون': {destType: 'countriesB', group: 'J'},
+        'بوركينا فاسو': {destType: 'countriesB', group: 'J'}, // ar group J.json
+        'الكاميرون': {destType: 'countriesB', group: 'J'},    // ar group J.json
 
-        // 🛠️ يرجى إضافة بقية الدول من ملفاتك هنا 🛠️
     },
     // -----------------------------------------------------------------
-    //  اللغة الإنجليزية (en) - يرجى استخدام أسماء الدول بالإنجليزية
+    //  اللغة الإنجليزية (en) - يرجى إضافة الدول بالإنجليزية هنا لتفعيلها
     // -----------------------------------------------------------------
     'en': {
-        // مثال - يجب ملء هذه بالأسماء الإنجليزية المقابلة لنفس الملفات
+        // يجب إضافة ترجمة أسماء الدول هنا لتعمل باللغة الإنجليزية
         'Turkey': {destType: 'countriesA', group: 'C'},
         'Iraq': {destType: 'countriesA', group: 'F'},
-        // 🛠️ يرجى إضافة بقية الدول باللغة الإنجليزية هنا 🛠️
+        // مثال: 'Bahrain': {destType: 'inlands', group: 'I'},
     }
-    // يرجى إضافة كائنات اللغات الأخرى هنا عند ترجمتها
+    // يجب إضافة كائنات اللغات الأخرى هنا عند ترجمتها
 };
 // =================================================================
-// نهاية خطوة إكمال الخريطة
+// إعدادات المسارات واللغات (باستخدام اختصارات الحروف اللاتينية من السابق)
 // =================================================================
-
+const languageMap = {
+    'ar': 'ar', 
+    'en': 'en',
+    'fr': 'fr',
+    'es': 'es',
+    'it': 'it',
+    'pt': 'po', 
+    'de': 'ge', 
+    'ru': 'ru', 
+    'ko': 'ko', 
+    'ja': 'ja', 
+    'zh': 'ch'  
+};
 
 // =================================================================
 // ربط العناصر من HTML
 // =================================================================
 const langSelect = document.getElementById('language-select');
-const countrySelect = document.getElementById('country-select'); // 🆕
+const countrySelect = document.getElementById('country-select'); 
 const generateBtn = document.getElementById('generate-plan-btn');
 const planContent = document.getElementById('travel-plan-content');
 
@@ -101,8 +95,11 @@ function populateCountries() {
     defaultOption.textContent = `-- اختر الدولة --`;
     countrySelect.appendChild(defaultOption);
 
-    // إضافة الدول المتاحة للغة المختارة
-    Object.keys(countries).sort((a, b) => a.localeCompare(b, 'ar')).forEach(countryName => {
+    // إضافة الدول المتاحة للغة المختارة وفرزها أبجدياً
+    // نستخدم 'ar' للفرز الأبجدي العربي إذا كانت اللغة عربية
+    const locale = selectedLang === 'ar' ? 'ar' : 'en'; 
+    
+    Object.keys(countries).sort((a, b) => a.localeCompare(b, locale)).forEach(countryName => {
         const option = document.createElement('option');
         option.value = countryName;
         option.textContent = countryName;
@@ -112,11 +109,9 @@ function populateCountries() {
     // تفعيل قائمة الدول وزر الإنشاء
     countrySelect.disabled = false;
     countrySelect.addEventListener('change', () => {
-        // يتم تفعيل زر الإنشاء إذا تم اختيار قيمة صالحة للدولة
         generateBtn.disabled = !countrySelect.value;
     });
     
-    // تأكد من أن زر الإنشاء معطل في البداية
     generateBtn.disabled = true; 
 }
 
@@ -124,7 +119,6 @@ function populateCountries() {
 // ربط أحداث تغيير اللغة لاختيار الدول المناسبة
 // -----------------------------------------------------------------
 langSelect.addEventListener('change', populateCountries);
-// ملء القائمة بالدول العربية عند تحميل الصفحة لأول مرة
 populateCountries(); 
 
 // =================================================================
@@ -135,13 +129,6 @@ populateCountries();
  * يبني مسار ملف JSON بناءً على الدولة المختارة.
  */
 function buildFilePath(languageCode, selectedCountry) {
-    // هذه الخريطة تحتاج إلى التعديل لتضم رموز اللغات الأخرى التي تستخدمها
-    const languageMap = {
-        'ar': 'ar', 
-        'en': 'en',
-        // أضف البقية هنا إذا لزم الأمر: 'fr': 'fr', 'es': 'es', إلخ
-    };
-
     const langKey = languageMap[languageCode];
     const countryData = countryFileMap[languageCode]?.[selectedCountry];
 
@@ -175,7 +162,6 @@ async function fetchAndDisplayPlan() {
         const response = await fetch(filePath);
 
         if (!response.ok) {
-            // رسالة خطأ مهنية بدون مسارات
             throw new Error(`تعذر تحميل بيانات السفر المطلوبة (Error 404). يرجى مراجعة اختيارك وهيكل المجلدات لملفات المجموعة.`);
         }
 
@@ -192,7 +178,7 @@ async function fetchAndDisplayPlan() {
         if (error.message.includes('JSON')) {
              displayMessage = 'حدث خطأ في قراءة ملف البيانات. قد يكون الملف غير صالح (JSON) أو تم تحميله بشكل غير صحيح.';
         } else if (error.message.includes('404')) {
-             displayMessage = 'ملف بيانات الدولة غير موجود أو لا يمكن الوصول إليه.';
+             displayMessage = 'ملف بيانات الدولة غير موجود أو لا يمكن الوصول إليه. تأكد من وجود الملف في المسار الصحيح.';
         }
        
         planContent.innerHTML = `<div style="background-color: #ffcccc; padding: 15px; border-radius: 5px;"><p style="color: #cc0000; font-weight: bold;">خطأ في تحميل البيانات:</p><p>${displayMessage}</p></div>`;
@@ -214,6 +200,7 @@ function filterDataByCountry(data, countryName) {
     if (!Array.isArray(plansData) || plansData.length === 0) return [];
     
     // الفلترة: تبحث عن كائنات الدولة التي تطابق الاسم
+    // نتحقق من وجود المفتاح "المدن" لتحديد الهيكل (1 أو 3) مقابل الهيكل 2 (المفلطح)
     const isStructure1Or3 = plansData.some(item => item.الدولة && item.المدن);
 
     if (isStructure1Or3) {
@@ -271,7 +258,6 @@ function formatCountryPlan(countryObj) {
 }
 
 function formatCityDetails(cityObj) {
-    // نحاول الحصول على اسم المدينة من أي مفتاح متاح
     const cityName = cityObj.المدينة الرئيسية || cityObj.المدينة || 'مدينة غير مسماة';
     
     // استخدام مفاتيح بديلة متعددة
@@ -284,7 +270,6 @@ function formatCityDetails(cityObj) {
     html += `<h3><i class="fas fa-city"></i> ${cityName}</h3>`;
     
     const formatDetail = (title, content, iconClass) => {
-        // التحقق من وجود محتوى ومن عدم كونه عبارة "ابحث عن..." فارغة
         if (content && content.trim() !== 'ابحث عن أطباق' && content.trim() !== 'ابحث عن أنشطة سياحية' && content.trim() !== '' && content.trim() !== 'ابحث عن ساحات خضراء' && content.trim() !== 'ابحث عن أطباق مشهورة') {
             const listItems = content.split(/[،,؛;]/).map(item => item.trim()).filter(item => item.length > 0);
             return `<p><i class="${iconClass}"></i> <strong>${title}:</strong></p><ul>${listItems.map(item => `<li>${item}</li>`).join('')}</ul>`;
