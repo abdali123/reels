@@ -20,35 +20,20 @@
             <select id="language-select">
                 <option value="ar" selected>العربية</option>
                 <option value="en">الإنجليزية</option>
-                <option value="fr">الفرنسية</option>
-                <option value="es">الإسبانية</option>
-                <option value="it">الإيطالية</option>
-                <option value="pt">البرتغالية</option>
-                <option value="de">الألمانية</option>
-                <option value="ru">الروسية</option>
-                <option value="ko">الكورية</option>
-                <option value="ja">اليابانية</option>
-                <option value="zh">الصينية</option>
-            </select>
-
-            <label for="destination-type-select"><i class="fas fa-globe-africa"></i> اختر نوع الوجهة:</label>
-            <select id="destination-type-select">
-                <option value="countriesA" selected>مجموعة الدول A</option>
-                <option value="countriesB">مجموعة الدول B</option>
-                <option value="inlands">الجزر والمناطق الخاصة</option>
-            </select>
-
-            <label for="group-select"><i class="fas fa-layer-group"></i> اختر مجموعة البيانات:</label>
-            <select id="group-select">
                 </select>
 
-            <button id="generate-plan-btn"><i class="fas fa-route"></i> إنشاء خطة السفر</button>
+            <label for="country-select"><i class="fas fa-city"></i> اختر الدولة أو المنطقة:</label>
+            <select id="country-select" disabled>
+                <option value="">-- يرجى اختيار اللغة أولاً --</option>
+            </select>
+            
+            <button id="generate-plan-btn" disabled><i class="fas fa-route"></i> إنشاء خطة السفر</button>
         </section>
 
         <section class="plan-output">
             <h2><i class="fas fa-map-marked-alt"></i> خطة السفر المقترحة</h2>
             <div id="travel-plan-content">
-                <p>الخطة ستظهر هنا بعد اختيار الخيارات والضغط على زر "إنشاء خطة السفر".</p>
+                <p>الخطة ستظهر هنا بعد اختيار اللغة والدولة والضغط على زر "إنشاء خطة السفر".</p>
             </div>
         </section>
     </main>
