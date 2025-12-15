@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Planno - مُخطط الرحلات</title>
+    <title data-translate-key="title">Planno - مُخطط الرحلات</title> 
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
@@ -13,13 +13,13 @@
         <div class="logo-container">
             <img src="https://i.postimg.cc/JhktdB9P/Whats-App-Image-2025-12-15-at-16-17-15-removebg-preview.png" alt="شعار Planno" class="logo">
         </div>
-        <h1>Planno - مُنشئ خطط السفر الذكي</h1>
-        <p>اختر وجهتك ولغتك لإنشاء خطة سفر مخصصة وعالمية.</p>
+        <h1 data-translate-key="header_h1">Planno - مُنشئ خطط السفر الذكي</h1>
+        <p data-translate-key="header_p">اختر وجهتك ولغتك لإنشاء خطة سفر مخصصة وعالمية.</p>
     </header>
 
     <main>
         <section class="controls">
-            <label for="language-select"><i class="fas fa-language"></i> اختر اللغة:</label>
+            <label for="language-select" data-translate-key="label_lang"><i class="fas fa-language"></i> اختر اللغة:</label>
             <select id="language-select">
                 <option value="ar" selected>العربية</option>
                 <option value="en">الإنجليزية</option>
@@ -34,24 +34,24 @@
                 <option value="zh">الصينية</option>
             </select>
 
-            <label for="country-select"><i class="fas fa-city"></i> اختر الدولة أو المنطقة:</label>
+            <label for="country-select" data-translate-key="label_country"><i class="fas fa-city"></i> اختر الدولة أو المنطقة:</label>
             <select id="country-select" disabled>
                 <option value="">-- يرجى اختيار اللغة أولاً --</option>
             </select>
             
-            <button id="generate-plan-btn" disabled><i class="fas fa-route"></i> إنشاء خطة السفر</button>
+            <button id="generate-plan-btn" disabled data-translate-key="button_generate"><i class="fas fa-route"></i> إنشاء خطة السفر</button>
         </section>
 
         <section class="plan-output">
-            <h2><i class="fas fa-map-marked-alt"></i> خطة السفر المقترحة</h2>
+            <h2 data-translate-key="output_h2"><i class="fas fa-map-marked-alt"></i> خطة السفر المقترحة</h2>
             <div id="travel-plan-content">
-                <p>الخطة ستظهر هنا بعد اختيار اللغة والدولة والضغط على زر "إنشاء خطة السفر".</p>
+                <p data-translate-key="output_default_p">الخطة ستظهر هنا بعد اختيار اللغة والدولة والضغط على زر "إنشاء خطة السفر".</p>
             </div>
         </section>
     </main>
 
     <footer>
-        <p>&copy; 2025 Planno. تم الإنشاء بواسطة خبير/ة البرمجة.</p>
+        <p data-translate-key="footer">&copy; 2025 Planno. تم الإنشاء بواسطة خبير/ة البرمجة.</p>
     </footer>
 
     <script src="script.js"></script>
