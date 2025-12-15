@@ -1,0 +1,377 @@
+[
+  {
+    "Nome": "Ilha do Havaí - Mauna Kea",
+    "País": "Estados Unidos da América (Havaí)",
+    "Atividades": [
+      "Esqui aquático",
+      "Mergulho",
+      "Caminhada",
+      "Visitar vulcões"
+    ],
+    "Comidas Famosas": [
+      "Poke",
+      "Poke boy",
+      "Atum"
+    ]
+  },
+  {
+    "Nome": "Ilha de Tenerife",
+    "País": "Espanha (Ilhas Canárias)",
+    "Atividades": [
+      "Visitar vulcões",
+      "Natação",
+      "Passeios na natureza",
+      "Caminhada na montanha"
+    ],
+    "Comidas Famosas": [
+      "Paella",
+      "Torta",
+      "Frutos do mar"
+    ]
+  },
+  {
+    "Nome": "Ilha Lance",
+    "País": "Austrália",
+    "Atividades": [
+      "Caminhada na natureza",
+      "Mergulho",
+      "Passeios de barco",
+      "Visitar aldeias"
+    ],
+    "Comidas Famosas": [
+      "Peixe local",
+      "Camarão",
+      "Frutos do mar"
+    ]
+  },
+  {
+    "Nome": "Ilha Rottnest",
+    "País": "Austrália",
+    "Atividades": [
+      "Natação",
+      "Mergulho",
+      "Ciclismo",
+      "Passeios de barco"
+    ],
+    "Comidas Famosas": [
+      "Peixe local",
+      "Camarão",
+      "Sobremesas australianas"
+    ]
+  },
+  {
+    "Nome": "Ilha Pembroke",
+    "País": "Austrália",
+    "Atividades": [
+      "Passeios na floresta",
+      "Mergulho",
+      "Natação",
+      "Caminhada"
+    ],
+    "Comidas Famosas": [
+      "Peixe Houta",
+      "Camarão",
+      "Frutos do mar"
+    ]
+  },
+  {
+    "Nome": "Ilha Galápagos - Isabela",
+    "País": "Equador",
+    "Atividades": [
+      "Passeios na floresta",
+      "Mergulho",
+      "Observação de animais",
+      "Natação"
+    ],
+    "Comidas Famosas": [
+      "Camarão",
+      "Peixe local",
+      "Sobremesas locais"
+    ]
+  },
+  {
+    "Nome": "Ilha Galápagos - Santa Cruz",
+    "País": "Equador",
+    "Atividades": [
+      "Visitas na natureza",
+      "Mergulho",
+      "Natação",
+      "Observação de animais"
+    ],
+    "Comidas Famosas": [
+      "Peixe local",
+      "Camarão",
+      "Frutos do mar"
+    ]
+  },
+  {
+    "Nome": "Ilha Santa Helena",
+    "País": "Reino Unido",
+    "Atividades": [
+      "Caminhada na natureza",
+      "Visitar marcos históricos",
+      "Mergulho",
+      "Passeios de barco"
+    ],
+    "Comidas Famosas": [
+      "Peixe grelhado",
+      "Vegetais locais",
+      "Sobremesas tradicionais"
+    ]
+  },
+  {
+    "Nome": "Ilha Niagara",
+    "País": "Canadá",
+    "Atividades": [
+      "Visitar cachoeiras",
+      "Natação",
+      "Mergulho",
+      "Passeios de barco"
+    ],
+    "Comidas Famosas": [
+      "Salmão",
+      "Camarão",
+      "Sobremesas locais"
+    ]
+  },
+  {
+    "Nome": "Ilha Monterey",
+    "País": "Estados Unidos da América",
+    "Atividades": [
+      "Mergulho",
+      "Natação",
+      "Visitar aquários",
+      "Passeios de barco"
+    ],
+    "Comidas Famosas": [
+      "Peixe local",
+      "Camarão",
+      "Frutos do mar"
+    ]
+  },
+  {
+    "Nome": "Ilha Plymouth",
+    "País": "Reino Unido",
+    "Atividades": [
+      "Visitar marcos históricos",
+      "Natação",
+      "Mergulho",
+      "Passeios de barco"
+    ],
+    "Comidas Famosas": [
+      "Peixe frito",
+      "Carne local",
+      "Sobremesas britânicas"
+    ]
+  },
+  {
+    "Nome": "Ilha Cornwall",
+    "País": "Reino Unido",
+    "Atividades": [
+      "Natação",
+      "Mergulho",
+      "Caminhada na natureza",
+      "Visitar aldeias"
+    ],
+    "Comidas Famosas": [
+      "Peixe frito",
+      "Vegetais locais",
+      "Sobremesas tradicionais"
+    ]
+  },
+  {
+    "Nome": "Ilha Hortica",
+    "País": "Itália",
+    "Atividades": [
+      "Natação",
+      "Mergulho",
+      "Passeios de barco",
+      "Visitar aldeias"
+    ],
+    "Comidas Famosas": [
+      "Pizza",
+      "Massa",
+      "Mussarela"
+    ]
+  },
+  {
+    "Nome": "Ilha Capri",
+    "País": "Itália",
+    "Atividades": [
+      "Tours de barco",
+      "Visitar grutas",
+      "Caminhada",
+      "Compras de luxo"
+    ],
+    "Comidas Famosas": [
+      "Pizza Caprese",
+      "Cheesecake de limão",
+      "Mussarela"
+    ]
+  },
+  {
+    "Nome": "Ilha Elba",
+    "País": "Itália",
+    "Atividades": [
+      "Natação",
+      "Mergulho",
+      "Passeios de barco",
+      "Caminhada"
+    ],
+    "Comidas Famosas": [
+      "Peixe local",
+      "Camarão",
+      "Pizza"
+    ]
+  },
+  {
+    "Nome": "Ilha Havana",
+    "País": "Cuba",
+    "Atividades": [
+      "Visitar cidades históricas",
+      "Natação",
+      "Mergulho",
+      "Passeios de barco"
+    ],
+    "Comidas Famosas": [
+      "Ropa vieja",
+      "Peixe do mar",
+      "Curry de frango"
+    ]
+  },
+  {
+    "Nome": "Ilha Key West",
+    "País": "Estados Unidos da América",
+    "Atividades": [
+      "Natação",
+      "Mergulho",
+      "Passeios de barco",
+      "Visitar aldeias"
+    ],
+    "Comidas Famosas": [
+      "Atum",
+      "Camarão",
+      "Frutos do mar"
+    ]
+  },
+  {
+    "Nome": "Ilha Andros",
+    "País": "Bahamas",
+    "Atividades": [
+      "Mergulho",
+      "Natação",
+      "Passeios de barco",
+      "Caminhada"
+    ],
+    "Comidas Famosas": [
+      "Peixe local",
+      "Camarão",
+      "Sobremesas de frutos do mar"
+    ]
+  },
+  {
+    "Nome": "Ilha Naxos",
+    "País": "Grécia",
+    "Atividades": [
+      "Visitar aldeias",
+      "Natação",
+      "Mergulho",
+      "Passeios na natureza"
+    ],
+    "Comidas Famosas": [
+      "Souvlaki",
+      "Torta",
+      "Queijo local"
+    ]
+  },
+  {
+    "Nome": "Ilha Míconos",
+    "País": "Grécia",
+    "Atividades": [
+      "Festas na praia",
+      "Mergulho",
+      "Natação",
+      "Visitar aldeias"
+    ],
+    "Comidas Famosas": [
+      "Souvlaki",
+      "Paella",
+      "Sobremesas locais"
+    ]
+  },
+  {
+    "Nome": "Ilha Rodes",
+    "País": "Grécia",
+    "Atividades": [
+      "Visitar marcos históricos",
+      "Natação",
+      "Mergulho",
+      "Passeios de barco"
+    ],
+    "Comidas Famosas": [
+      "Moussaka",
+      "Souvlaki",
+      "Sobremesas gregas"
+    ]
+  },
+  {
+    "Nome": "Ilha de Creta",
+    "País": "Grécia",
+    "Atividades": [
+      "Visitar templos",
+      "Caminhada na natureza",
+      "Mergulho",
+      "Tours de vinho"
+    ],
+    "Comidas Famosas": [
+      "Moussaka",
+      "Souvlaki",
+      "Dometo"
+    ]
+  },
+  {
+    "Nome": "Ilha de Zante",
+    "País": "Grécia",
+    "Atividades": [
+      "Natação",
+      "Mergulho",
+      "Passeios de barco",
+      "Visitar praias"
+    ],
+    "Comidas Famosas": [
+      "Torta",
+      "Sobremesas locais",
+      "Peixe grelhado"
+    ]
+  },
+  {
+    "Nome": "Ilha de Corfu",
+    "País": "Grécia",
+    "Atividades": [
+      "Visitar aldeias",
+      "Natação",
+      "Mergulho",
+      "Tours de barco"
+    ],
+    "Comidas Famosas": [
+      "Souvlaki",
+      "Tzatziki",
+      "Jabania"
+    ]
+  },
+  {
+    "Nome": "Ilha de Santorini",
+    "País": "Grécia",
+    "Atividades": [
+      "Observação do pôr do sol",
+      "Visitar aldeias brancas",
+      "Tours de vinho",
+      "Nascer do sol nas praias"
+    ],
+    "Comidas Famosas": [
+      "Creme de tomate",
+      "Feta",
+      "Iogurte com sabor"
+    ]
+  }
+]

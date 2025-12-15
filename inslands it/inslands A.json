@@ -1,0 +1,152 @@
+[
+  {
+    "Nome": "Bali",
+    "Paese": "Indonesia",
+    "Attività": ["Immersioni subacquee", "Surf", "Visita ai templi", "Escursioni nella natura"],
+    "Piatti_Famosi": ["Nasi Goreng", "Satay", "Babi Guling"]
+  },
+  {
+    "Nome": "Maui",
+    "Paese": "Stati Uniti d'America (Hawaii)",
+    "Attività": ["Snorkeling", "Osservazione delle balene", "Escursionismo alle cascate", "Surf"],
+    "Piatti_Famosi": ["Poke Bowl", "Cioccolato Pokémon", "Gamberi Oka"]
+  },
+  {
+    "Nome": "Santorini",
+    "Paese": "Grecia",
+    "Attività": ["Ammirare il tramonto", "Visita ai villaggi bianchi", "Tour enologici", "Nuoto in spiaggia"],
+    "Piatti_Famosi": ["Tomato Keftedes", "Feta", "Fava"]
+  },
+  {
+    "Nome": "Seychelles",
+    "Paese": "Seychelles",
+    "Attività": ["Immersioni subacquee", "Nuoto", "Escursionismo nella natura", "Osservazione degli uccelli"],
+    "Piatti_Famosi": ["Curry di pesce", "Aragosta", "Panier Seychellois"]
+  },
+  {
+    "Nome": "Boracay",
+    "Paese": "Filippine",
+    "Attività": ["Snorkeling", "Kayak", "Ammirare il tramonto", "Feste in spiaggia"],
+    "Piatti_Famosi": ["Adobo", "Lechon", "Pansit"]
+  },
+  {
+    "Nome": "Koh Hai",
+    "Paese": "Thailandia",
+    "Attività": ["Arrampicata su roccia", "Nuoto", "Giro in barca", "Immersioni subacquee"],
+    "Piatti_Famosi": ["Pad Thai", "Tom Yum", "Curry verde"]
+  },
+  {
+    "Nome": "Capri",
+    "Paese": "Italia",
+    "Attività": ["Gite in barca", "Visita alle grotte", "Escursionismo", "Shopping di lusso"],
+    "Piatti_Famosi": ["Pizza Capri", "Mozzarella", "Torta al formaggio al limone"]
+  },
+  {
+    "Nome": "Mauritius",
+    "Paese": "Mauritius",
+    "Attività": ["Immersioni subacquee", "Surf", "Visita ai giardini botanici", "Crociere in mare"],
+    "Piatti_Famosi": ["Dal Puri", "Roti", "Curry di gamberi"]
+  },
+  {
+    "Nome": "Corsica",
+    "Paese": "Francia",
+    "Attività": ["Escursionismo in montagna", "Nuoto", "Sport acquatici", "Visita a città storiche"],
+    "Piatti_Famosi": ["Cazzili", "Canistrelli", "Stufatu"]
+  },
+  {
+    "Nome": "Tasmania",
+    "Paese": "Australia",
+    "Attività": ["Escursionismo nella natura", "Visita ai parchi nazionali", "Sci nautico", "Osservazione della fauna selvatica"],
+    "Piatti_Famosi": ["Carne di canguro", "Salmone della Tasmania", "Frutti di mare"]
+  },
+  {
+    "Nome": "Honshu",
+    "Paese": "Giappone",
+    "Attività": ["Visita ai templi", "Shopping", "Passeggiate nella natura", "Sci"],
+    "Piatti_Famosi": ["Sushi", "Ramen", "Udon"]
+  },
+  {
+    "Nome": "Nuova Zelanda - Isola del Nord",
+    "Paese": "Nuova Zelanda",
+    "Attività": ["Escursioni di trekking", "Snorkeling", "Kayak", "Visita ai vulcani"],
+    "Piatti_Famosi": ["Hāngi", "Torta Goat Bank", "Hokey Pokey"]
+  },
+  {
+    "Nome": "Nuova Zelanda - Isola del Sud",
+    "Paese": "Nuova Zelanda",
+    "Attività": ["Sci", "Escursioni di trekking lunghe", "Kayak", "Visita ai parchi nazionali"],
+    "Piatti_Famosi": ["Pavlova", "Carne d'agnello", "Hokey Pokey"]
+  },
+  {
+    "Nome": "Kauai",
+    "Paese": "Stati Uniti d'America (Hawaii)",
+    "Attività": ["Ammirare le cascate", "Snorkeling", "Escursionismo nella natura", "Surf"],
+    "Piatti_Famosi": ["Poke Bowl", "Pina Colada", "Cioccolato hawaiano"]
+  },
+  {
+    "Nome": "Maldive",
+    "Paese": "Maldive",
+    "Attività": ["Snorkeling", "Nuoto", "Crociere in mare", "Rilassarsi nei resort"],
+    "Piatti_Famosi": ["Tonno", "Riso al curry", "Dolci locali"]
+  },
+  {
+    "Nome": "Borneo",
+    "Paese": "Indonesia/Malesia/Brunei",
+    "Attività": ["Escursioni nella foresta", "Osservazione della fauna selvatica", "Immersioni subacquee", "Gite in barca"],
+    "Piatti_Famosi": ["Satay", "Nasi Kerabu", "Ramen del Borneo"]
+  },
+  {
+    "Nome": "Sumatra",
+    "Paese": "Indonesia",
+    "Attività": ["Escursionismo nella natura", "Visita ai vulcani", "Immersioni subacquee", "Osservazione degli elefanti"],
+    "Piatti_Famosi": ["Rendang", "Gado-Gado", "Tempoyak"]
+  },
+  {
+    "Nome": "Seychelles La Digue",
+    "Paese": "Seychelles",
+    "Attività": ["Snorkeling", "Nuoto", "Escursionismo nella natura", "Fotografia"],
+    "Piatti_Famosi": ["Curry di pesce", "Aragosta", "Riso al curry"]
+  },
+  {
+    "Nome": "Phuket",
+    "Paese": "Thailandia",
+    "Attività": ["Immersioni subacquee", "Giro in barca", "Visita ai templi", "Nuoto"],
+    "Piatti_Famosi": ["Pad Thai", "Tom Yum", "Curry verde"]
+  },
+  {
+    "Nome": "Giava",
+    "Paese": "Indonesia",
+    "Attività": ["Visita ai templi", "Shopping", "Passeggiate nella natura", "Esplorazione culturale"],
+    "Piatti_Famosi": ["Nasi Goreng", "Satay", "Ramen giavanese"]
+  },
+  {
+    "Nome": "Sardegna",
+    "Paese": "Italia",
+    "Attività": ["Nuoto", "Snorkeling", "Tour dei villaggi", "Visite alle spiagge"],
+    "Piatti_Famosi": ["Grigliata", "Cannoli", "Mozzarella"]
+  },
+  {
+    "Nome": "Nizza",
+    "Paese": "Francia",
+    "Attività": ["Shopping", "Visite alle spiagge", "Passeggiate in città", "Sport acquatici"],
+    "Piatti_Famosi": ["Insalata Nizzarda", "Bouillabaisse", "Pissaladière"]
+  },
+  {
+    "Nome": "Koh Samui",
+    "Paese": "Thailandia",
+    "Attività": ["Nuoto", "Snorkeling", "Gite in barca", "Spa"],
+    "Piatti_Famosi": ["Pad Thai", "Tom Yum", "Massaman Curry"]
+  },
+  {
+    "Nome": "Malta",
+    "Paese": "Malta",
+    "Attività": ["Visita a monumenti storici", "Snorkeling", "Nuoto", "Gite in barca"],
+    "Piatti_Famosi": ["Stufato di coniglio", "Pastizzi", "Biskuttini"]
+  },
+  {
+    "Nome": "Capo Verde",
+    "Paese": "Capo Verde",
+    "Attività": ["Nuoto", "Snorkeling", "Musica e danza", "Escursioni in montagna"],
+    "Piatti_Famosi": ["Cachupa", "Stufato capoverdiano", "Cuscus"]
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "nome": "Isole Cook",
+    "paese": "Isole Cook",
+    "attività": ["nuoto", "snorkeling", "gite in barca", "visite ai villaggi"],
+    "cibi_famosi": ["tonno", "curry di pollo", "frutti tropicali"]
+  },
+  {
+    "nome": "Tahiti",
+    "paese": "Polinesia Francese",
+    "attività": ["snorkeling", "nuoto", "gite in barca", "visite ai villaggi"],
+    "cibi_famosi": ["poisson cru", "curry di pesce", "frutti tropicali"]
+  },
+  {
+    "nome": "Punta Cana",
+    "paese": "Bahamas",
+    "attività": ["immersioni subacquee", "nuoto", "gite in barca", "sport acquatici"],
+    "cibi_famosi": ["pesce locale", "gamberetti", "aragosta alla griglia"]
+  },
+  {
+    "nome": "Nuova Caledonia - Grande Terre",
+    "paese": "Francia",
+    "attività": ["snorkeling", "gite in barca", "nuoto", "escursioni nella natura"],
+    "cibi_famosi": ["curry di gamberetti", "pesce locale", "frutti tropicali"]
+  },
+  {
+    "nome": "Nuova Caledonia - Le Yat",
+    "paese": "Francia",
+    "attività": ["snorkeling", "gite in barca", "visite ai villaggi", "nuoto"],
+    "cibi_famosi": ["curry di pesce", "gamberetti", "dolci locali"]
+  },
+  {
+    "nome": "Huahine",
+    "paese": "Polinesia Francese",
+    "attività": ["snorkeling", "gite in barca", "nuoto", "escursionismo"],
+    "cibi_famosi": ["tonno", "curry di pollo", "frutti tropicali"]
+  },
+  {
+    "nome": "Sant'Elena",
+    "paese": "Regno Unito",
+    "attività": ["passeggiate nella natura", "visite a siti storici", "snorkeling", "gite in barca"],
+    "cibi_famosi": ["pesce alla griglia", "verdure locali", "dolci tradizionali"]
+  },
+  {
+    "nome": "Vecchio Biancospino",
+    "paese": "Australia",
+    "attività": ["gite nella foresta", "nuoto", "snorkeling", "visite ai villaggi"],
+    "cibi_famosi": ["gamberetti", "pesce hota", "frutti di mare"]
+  },
+  {
+    "nome": "Isola del Principe Edoardo",
+    "paese": "Canada",
+    "attività": ["passeggiate nella natura", "visite ai villaggi", "nuoto", "snorkeling"],
+    "cibi_famosi": ["orzo con patate", "carne locale", "dolci canadesi"]
+  },
+  {
+    "nome": "Isola di Vancouver",
+    "paese": "Canada",
+    "attività": ["escursioni nella natura", "nuoto", "snorkeling", "sci"],
+    "cibi_famosi": ["salmone", "gamberetti", "frutti di mare"]
+  },
+  {
+    "nome": "Isola di Saint Thomas",
+    "paese": "Stati Uniti d'America",
+    "attività": ["nuoto", "snorkeling", "gite in barca", "shopping"],
+    "cibi_famosi": ["gamberetti", "tonno", "piatti di frutti di mare"]
+  },
+  {
+    "nome": "Isola di Saint John",
+    "paese": "Stati Uniti d'America",
+    "attività": ["immersioni subacquee", "nuoto", "gite in barca", "escursionismo"],
+    "cibi_famosi": ["pesce alla griglia", "gamberetti", "dolci locali"]
+  },
+  {
+    "nome": "Isola di Tobelo",
+    "paese": "Panama",
+    "attività": ["snorkeling", "nuoto", "escursioni nella natura", "gite in barca"],
+    "cibi_famosi": ["pesce locale", "curry di gamberetti", "frutti tropicali"]
+  },
+  {
+    "nome": "Isola di Acapulco",
+    "paese": "Messico",
+    "attività": ["nuoto", "snorkeling", "gite in barca", "escursionismo"],
+    "cibi_famosi": ["taco", "pesce locale", "dolci messicani"]
+  },
+  {
+    "nome": "Isola di Hispaniola",
+    "paese": "Repubblica Dominicana/Haiti",
+    "attività": ["nuoto", "immersioni subacquee", "gite in barca", "visite ai villaggi"],
+    "cibi_famosi": ["riso con pollo", "gamberetti", "frutti tropicali"]
+  },
+  {
+    "nome": "Isola di Giamaica",
+    "paese": "Giamaica",
+    "attività": ["nuoto", "snorkeling", "visite alle cascate", "passeggiate nella natura"],
+    "cibi_famosi": ["pollo jerk", "pesce alla griglia", "cibi locali"]
+  },
+  {
+    "nome": "Isola di Cuba",
+    "paese": "Cuba",
+    "attività": ["visite a città storiche", "nuoto", "immersioni subacquee", "gite in barca"],
+    "cibi_famosi": ["ropa vieja", "frutti di mare", "curry di pollo"]
+  },
+  {
+    "nome": "Isola di Aruba",
+    "paese": "Aruba",
+    "attività": ["nuoto", "snorkeling", "gite in barca", "shopping"],
+    "cibi_famosi": ["gamberetti", "tonno", "dolci locali"]
+  },
+  {
+    "nome": "Isola di Curaçao",
+    "paese": "Curaçao",
+    "attività": ["snorkeling", "nuoto", "visite ai villaggi", "gite in barca"],
+    "cibi_famosi": ["pesce locale", "gamberetti", "frutti di mare"]
+  },
+  {
+    "nome": "Isola di Bonaire",
+    "paese": "Bonaire",
+    "attività": ["snorkeling", "nuoto", "gite in barca", "escursionismo"],
+    "cibi_famosi": ["pesce locale", "gamberetti", "dolci tradizionali"]
+  },
+  {
+    "nome": "Isola di Saba",
+    "paese": "Saba",
+    "attività": ["escursioni", "snorkeling", "nuoto", "visite ai villaggi"],
+    "cibi_famosi": ["curry di pesce", "gamberetti", "frutti di mare"]
+  },
+  {
+    "nome": "Isola di Saint Kitts",
+    "paese": "Saint Kitts e Nevis",
+    "attività": ["nuoto", "snorkeling", "gite in barca", "visite ai villaggi"],
+    "cibi_famosi": ["gamberetti", "pesce locale", "dolci locali"]
+  },
+  {
+    "nome": "Isola di Terranova",
+    "paese": "Canada",
+    "attività": ["escursioni nella natura", "snorkeling", "nuoto", "osservazione degli uccelli"],
+    "cibi_famosi": ["merluzzo", "gamberetti", "frutti di mare"]
+  },
+  {
+    "nome": "Isola di Bermuda",
+    "paese": "Gran Bretagna",
+    "attività": ["nuoto", "snorkeling", "gite in barca", "escursionismo"],
+    "cibi_famosi": ["pesce locale", "gamberetti", "frutti di mare"]
+  },
+  {
+    "nome": "Isola di Guadalupa",
+    "paese": "Francia",
+    "attività": ["snorkeling", "nuoto", "gite nella natura", "visite ai villaggi"],
+    "cibi_famosi": ["curry di pollo", "gamberetti", "dolci locali"]
+  }
+]

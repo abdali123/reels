@@ -1,0 +1,377 @@
+[
+  {
+    "Nome": "Isola delle Hawaii - Mauna Kea",
+    "Paese": "Stati Uniti d'America (Hawaii)",
+    "Attività": [
+      "Sci nautico",
+      "Immersioni",
+      "Escursionismo",
+      "Visita di vulcani"
+    ],
+    "Cibi Famosi": [
+      "Poke",
+      "Poke boy",
+      "Tonno"
+    ]
+  },
+  {
+    "Nome": "Isola di Tenerife",
+    "Paese": "Spagna (Isole Canarie)",
+    "Attività": [
+      "Visita di vulcani",
+      "Nuoto",
+      "Escursioni nella natura",
+      "Camminate in montagna"
+    ],
+    "Cibi Famosi": [
+      "Paella",
+      "Torta",
+      "Frutti di mare"
+    ]
+  },
+  {
+    "Nome": "Isola Lance",
+    "Paese": "Australia",
+    "Attività": [
+      "Passeggiate nella natura",
+      "Immersioni",
+      "Gite in barca",
+      "Visita di villaggi"
+    ],
+    "Cibi Famosi": [
+      "Pesce locale",
+      "Gamberetti",
+      "Frutti di mare"
+    ]
+  },
+  {
+    "Nome": "Isola di Rottnest",
+    "Paese": "Australia",
+    "Attività": [
+      "Nuoto",
+      "Immersioni",
+      "Ciclismo",
+      "Gite in barca"
+    ],
+    "Cibi Famosi": [
+      "Pesce locale",
+      "Gamberetti",
+      "Dolci australiani"
+    ]
+  },
+  {
+    "Nome": "Isola Pembroke",
+    "Paese": "Australia",
+    "Attività": [
+      "Escursioni nella foresta",
+      "Immersioni",
+      "Nuoto",
+      "Escursionismo"
+    ],
+    "Cibi Famosi": [
+      "Pesce Houta",
+      "Gamberetti",
+      "Frutti di mare"
+    ]
+  },
+  {
+    "Nome": "Isole Galapagos - Isabella",
+    "Paese": "Ecuador",
+    "Attività": [
+      "Escursioni nella foresta",
+      "Immersioni",
+      "Osservazione di animali",
+      "Nuoto"
+    ],
+    "Cibi Famosi": [
+      "Gamberetti",
+      "Pesce locale",
+      "Dolci locali"
+    ]
+  },
+  {
+    "Nome": "Isole Galapagos - Santa Cruz",
+    "Paese": "Ecuador",
+    "Attività": [
+      "Visite nella natura",
+      "Immersioni",
+      "Nuoto",
+      "Osservazione di animali"
+    ],
+    "Cibi Famosi": [
+      "Pesce locale",
+      "Gamberetti",
+      "Frutti di mare"
+    ]
+  },
+  {
+    "Nome": "Isola di Sant'Elena",
+    "Paese": "Regno Unito",
+    "Attività": [
+      "Passeggiate nella natura",
+      "Visita di luoghi storici",
+      "Immersioni",
+      "Gite in barca"
+    ],
+    "Cibi Famosi": [
+      "Pesce alla griglia",
+      "Verdure locali",
+      "Dolci tradizionali"
+    ]
+  },
+  {
+    "Nome": "Isola Niagara",
+    "Paese": "Canada",
+    "Attività": [
+      "Visita di cascate",
+      "Nuoto",
+      "Immersioni",
+      "Gite in barca"
+    ],
+    "Cibi Famosi": [
+      "Salmone",
+      "Gamberetti",
+      "Dolci locali"
+    ]
+  },
+  {
+    "Nome": "Isola di Monterey",
+    "Paese": "Stati Uniti d'America",
+    "Attività": [
+      "Immersioni",
+      "Nuoto",
+      "Visita di acquari",
+      "Gite in barca"
+    ],
+    "Cibi Famosi": [
+      "Pesce locale",
+      "Gamberetti",
+      "Frutti di mare"
+    ]
+  },
+  {
+    "Nome": "Isola di Plymouth",
+    "Paese": "Regno Unito",
+    "Attività": [
+      "Visita di luoghi storici",
+      "Nuoto",
+      "Immersioni",
+      "Gite in barca"
+    ],
+    "Cibi Famosi": [
+      "Pesce fritto",
+      "Carne locale",
+      "Dolci britannici"
+    ]
+  },
+  {
+    "Nome": "Isola di Cornwall",
+    "Paese": "Regno Unito",
+    "Attività": [
+      "Nuoto",
+      "Immersioni",
+      "Passeggiate nella natura",
+      "Visita di villaggi"
+    ],
+    "Cibi Famosi": [
+      "Pesce fritto",
+      "Verdure locali",
+      "Dolci tradizionali"
+    ]
+  },
+  {
+    "Nome": "Isola di Hortica",
+    "Paese": "Italia",
+    "Attività": [
+      "Nuoto",
+      "Immersioni",
+      "Gite in barca",
+      "Visita di villaggi"
+    ],
+    "Cibi Famosi": [
+      "Pizza",
+      "Pasta",
+      "Mozzarella"
+    ]
+  },
+  {
+    "Nome": "Isola di Capri",
+    "Paese": "Italia",
+    "Attività": [
+      "Gite in barca",
+      "Visita di grotte",
+      "Escursionismo",
+      "Shopping di lusso"
+    ],
+    "Cibi Famosi": [
+      "Pizza Capri",
+      "Cheesecake al limone",
+      "Mozzarella"
+    ]
+  },
+  {
+    "Nome": "Isola d'Elba",
+    "Paese": "Italia",
+    "Attività": [
+      "Nuoto",
+      "Immersioni",
+      "Gite in barca",
+      "Escursionismo"
+    ],
+    "Cibi Famosi": [
+      "Pesce locale",
+      "Gamberetti",
+      "Pizza"
+    ]
+  },
+  {
+    "Nome": "Isola de L'Avana",
+    "Paese": "Cuba",
+    "Attività": [
+      "Visita di città storiche",
+      "Nuoto",
+      "Immersioni",
+      "Gite in barca"
+    ],
+    "Cibi Famosi": [
+      "Ropa vieja",
+      "Pesce di mare",
+      "Curry di pollo"
+    ]
+  },
+  {
+    "Nome": "Isola di Key West",
+    "Paese": "Stati Uniti d'America",
+    "Attività": [
+      "Nuoto",
+      "Immersioni",
+      "Gite in barca",
+      "Visita di villaggi"
+    ],
+    "Cibi Famosi": [
+      "Tonno",
+      "Gamberetti",
+      "Frutti di mare"
+    ]
+  },
+  {
+    "Nome": "Isola di Andros",
+    "Paese": "Bahamas",
+    "Attività": [
+      "Immersioni",
+      "Nuoto",
+      "Gite in barca",
+      "Escursionismo"
+    ],
+    "Cibi Famosi": [
+      "Pesce locale",
+      "Gamberetti",
+      "Dolci a base di frutti di mare"
+    ]
+  },
+  {
+    "Nome": "Isola di Naxos",
+    "Paese": "Grecia",
+    "Attività": [
+      "Visita di villaggi",
+      "Nuoto",
+      "Immersioni",
+      "Escursioni nella natura"
+    ],
+    "Cibi Famosi": [
+      "Souvlaki",
+      "Torta",
+      "Formaggio locale"
+    ]
+  },
+  {
+    "Nome": "Isola di Mykonos",
+    "Paese": "Grecia",
+    "Attività": [
+      "Feste in spiaggia",
+      "Immersioni",
+      "Nuoto",
+      "Visita di villaggi"
+    ],
+    "Cibi Famosi": [
+      "Souvlaki",
+      "Paella",
+      "Dolci locali"
+    ]
+  },
+  {
+    "Nome": "Isola di Rodi",
+    "Paese": "Grecia",
+    "Attività": [
+      "Visita di luoghi storici",
+      "Nuoto",
+      "Immersioni",
+      "Gite in barca"
+    ],
+    "Cibi Famosi": [
+      "Moussaka",
+      "Souvlaki",
+      "Dolci greci"
+    ]
+  },
+  {
+    "Nome": "Isola di Creta",
+    "Paese": "Grecia",
+    "Attività": [
+      "Visita di templi",
+      "Passeggiate nella natura",
+      "Immersioni",
+      "Tour enologici"
+    ],
+    "Cibi Famosi": [
+      "Moussaka",
+      "Souvlaki",
+      "Dometo"
+    ]
+  },
+  {
+    "Nome": "Isola di Zante",
+    "Paese": "Grecia",
+    "Attività": [
+      "Nuoto",
+      "Immersioni",
+      "Gite in barca",
+      "Visita di spiagge"
+    ],
+    "Cibi Famosi": [
+      "Torta",
+      "Dolci locali",
+      "Pesce alla griglia"
+    ]
+  },
+  {
+    "Nome": "Isola di Corfù",
+    "Paese": "Grecia",
+    "Attività": [
+      "Visita di villaggi",
+      "Nuoto",
+      "Immersioni",
+      "Gite in barca"
+    ],
+    "Cibi Famosi": [
+      "Souvlaki",
+      "Tzatziki",
+      "Jabania"
+    ]
+  },
+  {
+    "Nome": "Isola di Santorini",
+    "Paese": "Grecia",
+    "Attività": [
+      "Osservazione del tramonto",
+      "Visita di villaggi bianchi",
+      "Tour enologici",
+      "Nuoto in spiaggia"
+    ],
+    "Cibi Famosi": [
+      "Crema di pomodoro",
+      "Feta",
+      "Yogurt aromatizzato"
+    ]
+  }
+]

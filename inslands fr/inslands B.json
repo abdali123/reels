@@ -1,0 +1,377 @@
+[
+  {
+    "Nom": "Corfou",
+    "Pays": "Grèce",
+    "Activités": [
+      "Visite de villages",
+      "Natation",
+      "Plongée sous-marine",
+      "Excursions en bateau"
+    ],
+    "Plats Célèbres": [
+      "Souvlaki",
+      "Tzatzíki",
+      "Gyros"
+    ]
+  },
+  {
+    "Nom": "Crète",
+    "Pays": "Grèce",
+    "Activités": [
+      "Visite de temples",
+      "Randonnées nature",
+      "Plongée avec tuba",
+      "Visites de vignobles"
+    ],
+    "Plats Célèbres": [
+      "Moussaka",
+      "Souvlaki",
+      "Dakos"
+    ]
+  },
+  {
+    "Nom": "Bora-Bora",
+    "Pays": "Polynésie française",
+    "Activités": [
+      "Plongée avec tuba",
+      "Natation",
+      "Croisières",
+      "Détente dans les resorts"
+    ],
+    "Plats Célèbres": [
+      "Poisson cru",
+      "Taro",
+      "Thon"
+    ]
+  },
+  {
+    "Nom": "Madère",
+    "Pays": "Portugal",
+    "Activités": [
+      "Randonnée",
+      "Visite de cascades",
+      "Plongée avec tuba",
+      "Observation des dauphins"
+    ],
+    "Plats Célèbres": [
+      "Espetada",
+      "Massepain",
+      "Bolo de mel"
+    ]
+  },
+  {
+    "Nom": "Sainte-Lucie",
+    "Pays": "Sainte-Lucie",
+    "Activités": [
+      "Plongée avec tuba",
+      "Natation",
+      "Randonnées nature",
+      "Escalade"
+    ],
+    "Plats Célèbres": [
+      "Crevettes au curry",
+      "Pain local",
+      "Fruits tropicaux"
+    ]
+  },
+  {
+    "Nom": "Barbade",
+    "Pays": "Barbade",
+    "Activités": [
+      "Natation",
+      "Plongée avec tuba",
+      "Visites de plages",
+      "Excursions en bateau"
+    ],
+    "Plats Célèbres": [
+      "Crevettes",
+      "Poisson grillé",
+      "Pudding local"
+    ]
+  },
+  {
+    "Nom": "Hawaï - Oahu",
+    "Pays": "États-Unis (Hawaï)",
+    "Activités": [
+      "Tourisme urbain",
+      "Surf",
+      "Randonnées nature",
+      "Plongée sous-marine"
+    ],
+    "Plats Célèbres": [
+      "Poke",
+      "Poi",
+      "Chocolat hawaïen"
+    ]
+  },
+  {
+    "Nom": "Îles Féroé",
+    "Pays": "Danemark",
+    "Activités": [
+      "Randonnées nature",
+      "Observation des oiseaux",
+      "Plongée avec tuba",
+      "Excursions en bateau"
+    ],
+    "Plats Célèbres": [
+      "Morue",
+      "Mélange de fruits de mer",
+      "Pain féroïen"
+    ]
+  },
+  {
+    "Nom": "Prawn Island",
+    "Pays": "Australie",
+    "Activités": [
+      "Plongée sous-marine",
+      "Natation",
+      "Randonnée",
+      "Excursions en bateau"
+    ],
+    "Plats Célèbres": [
+      "Crevettes",
+      "Dorade",
+      "Variété de fruits de mer"
+    ]
+  },
+  {
+    "Nom": "Capri",
+    "Pays": "Italie",
+    "Activités": [
+      "Natation",
+      "Visite de sites historiques",
+      "Marche",
+      "Excursions en bateau"
+    ],
+    "Plats Célèbres": [
+      "Pâtes",
+      "Pizza napolitaine",
+      "Mozzarella"
+    ]
+  },
+  {
+    "Nom": "Malapascua",
+    "Pays": "Philippines",
+    "Activités": [
+      "Plongée avec tuba",
+      "Natation",
+      "Randonnée",
+      "Shopping local"
+    ],
+    "Plats Célèbres": [
+      "Adobo",
+      "Pancit",
+      "Lechon"
+    ]
+  },
+  {
+    "Nom": "Île de Wight",
+    "Pays": "Royaume-Uni",
+    "Activités": [
+      "Promenades sur la plage",
+      "Visite de villages",
+      "Natation",
+      "Photographie"
+    ],
+    "Plats Célèbres": [
+      "Fish and chips",
+      "Pain traditionnel",
+      "Sucreries locales"
+    ]
+  },
+  {
+    "Nom": "La Réunion",
+    "Pays": "France",
+    "Activités": [
+      "Randonnée en montagne",
+      "Visite de cascades",
+      "Natation",
+      "Excursions de plongée"
+    ],
+    "Plats Célèbres": [
+      "Curry de poulet",
+      "Thon",
+      "Fruits tropicaux"
+    ]
+  },
+  {
+    "Nom": "Majorque",
+    "Pays": "Espagne",
+    "Activités": [
+      "Visite de villages",
+      "Natation",
+      "Plongée sous-marine",
+      "Excursions en bateau"
+    ],
+    "Plats Célèbres": [
+      "Paella",
+      "Ensaimada",
+      "Sucreries locales"
+    ]
+  },
+  {
+    "Nom": "Ibiza",
+    "Pays": "Espagne",
+    "Activités": [
+      "Fêtes sur la plage",
+      "Plongée sous-marine",
+      "Visite de villages",
+      "Natation"
+    ],
+    "Plats Célèbres": [
+      "Paella",
+      "Flan",
+      "Poisson grillé"
+    ]
+  },
+  {
+    "Nom": "Îles Canaries - Ténérife",
+    "Pays": "Espagne",
+    "Activités": [
+      "Ski nautique",
+      "Natation",
+      "Visites nature",
+      "Observation des volcans"
+    ],
+    "Plats Célèbres": [
+      "Pommes de terre canariennes",
+      "Paella",
+      "Fruits de mer"
+    ]
+  },
+  {
+    "Nom": "Madagascar",
+    "Pays": "Madagascar",
+    "Activités": [
+      "Safari",
+      "Visite de parcs nationaux",
+      "Plongée avec tuba",
+      "Randonnée"
+    ],
+    "Plats Célèbres": [
+      "Romazava",
+      "Plats à l'huile de palme",
+      "Fruits tropicaux"
+    ]
+  },
+  {
+    "Nom": "Fidji - Viti Levu",
+    "Pays": "Fidji",
+    "Activités": [
+      "Plongée sous-marine",
+      "Natation",
+      "Kayak",
+      "Randonnée"
+    ],
+    "Plats Célèbres": [
+      "Kokoda",
+      "Poisson grillé",
+      "Fruits tropicaux"
+    ]
+  },
+  {
+    "Nom": "Fidji - Vanua Levu",
+    "Pays": "Fidji",
+    "Activités": [
+      "Visites forestières",
+      "Plongée avec tuba",
+      "Visite de villages",
+      "Randonnée"
+    ],
+    "Plats Célèbres": [
+      "Roti",
+      "Curry de poisson",
+      "Fruits tropicaux"
+    ]
+  },
+  {
+    "Nom": "Samoa - Upolu",
+    "Pays": "Samoa",
+    "Activités": [
+      "Plongée avec tuba",
+      "Natation",
+      "Visites nature",
+      "Visite de villages"
+    ],
+    "Plats Célèbres": [
+      "Palusami",
+      "Porc",
+      "Fruits tropicaux"
+    ]
+  },
+  {
+    "Nom": "Samoa - Savai'i",
+    "Pays": "Samoa",
+    "Activités": [
+      "Randonnée nature",
+      "Plongée sous-marine",
+      "Visite de cascades",
+      "Excursions en bateau"
+    ],
+    "Plats Célèbres": [
+      "Curry de poisson",
+      "Porc",
+      "Fruits tropicaux"
+    ]
+  },
+  {
+    "Nom": "Antilles françaises - Guadeloupe",
+    "Pays": "France",
+    "Activités": [
+      "Plongée sous-marine",
+      "Natation",
+      "Visites nature",
+      "Visite de villages"
+    ],
+    "Plats Célèbres": [
+      "Bouillon",
+      "Curry de poulet",
+      "Sucreries locales"
+    ]
+  },
+  {
+    "Nom": "Antilles françaises - Martinique",
+    "Pays": "France",
+    "Activités": [
+      "Visites forestières",
+      "Plongée avec tuba",
+      "Randonnée",
+      "Visite de villages"
+    ],
+    "Plats Célèbres": [
+      "Crevettes au curry",
+      "Poisson local",
+      "Sucreries traditionnelles"
+    ]
+  },
+  {
+    "Nom": "Saint-Barthélemy",
+    "Pays": "France",
+    "Activités": [
+      "Natation",
+      "Plongée sous-marine",
+      "Excursions en bateau",
+      "Shopping"
+    ],
+    "Plats Célèbres": [
+      "Poisson grillé",
+      "Crevettes",
+      "Sucreries locales"
+    ]
+  },
+  {
+    "Nom": "Saint-Martin",
+    "Pays": "France/Pays-Bas",
+    "Activités": [
+      "Plongée avec tuba",
+      "Natation",
+      "Excursions en bateau",
+      "Shopping"
+    ],
+    "Plats Célèbres": [
+      "Thon",
+      "Crevettes",
+      "Sucreries locales"
+    ]
+  }
+]

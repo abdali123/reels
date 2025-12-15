@@ -1,0 +1,377 @@
+[
+  {
+    "Name": "Hawaii Island - Mauna Kea",
+    "Country": "United States of America (Hawaii)",
+    "Activities": [
+      "Water skiing",
+      "Diving",
+      "Hiking",
+      "Visiting volcanoes"
+    ],
+    "Famous Foods": [
+      "Poke",
+      "Poke boy",
+      "Tuna fish"
+    ]
+  },
+  {
+    "Name": "Tenerife Island",
+    "Country": "Spain (Canary Islands)",
+    "Activities": [
+      "Visiting volcanoes",
+      "Swimming",
+      "Nature trips",
+      "Mountain walking"
+    ],
+    "Famous Foods": [
+      "Paella",
+      "Torta",
+      "Seafood"
+    ]
+  },
+  {
+    "Name": "Lance Island",
+    "Country": "Australia",
+    "Activities": [
+      "Nature walking",
+      "Diving",
+      "Boat trips",
+      "Visiting villages"
+    ],
+    "Famous Foods": [
+      "Local fish",
+      "Shrimp",
+      "Seafood"
+    ]
+  },
+  {
+    "Name": "Rottnest Island",
+    "Country": "Australia",
+    "Activities": [
+      "Swimming",
+      "Diving",
+      "Cycling",
+      "Boat trips"
+    ],
+    "Famous Foods": [
+      "Local fish",
+      "Shrimp",
+      "Australian desserts"
+    ]
+  },
+  {
+    "Name": "Pembroke Island",
+    "Country": "Australia",
+    "Activities": [
+      "Forest trips",
+      "Diving",
+      "Swimming",
+      "Hiking"
+    ],
+    "Famous Foods": [
+      "Houta fish",
+      "Shrimp",
+      "Seafood"
+    ]
+  },
+  {
+    "Name": "Galapagos Island - Isabella",
+    "Country": "Ecuador",
+    "Activities": [
+      "Forest trips",
+      "Diving",
+      "Animal watching",
+      "Swimming"
+    ],
+    "Famous Foods": [
+      "Shrimp",
+      "Local fish",
+      "Local desserts"
+    ]
+  },
+  {
+    "Name": "Galapagos Island - Santa Cruz",
+    "Country": "Ecuador",
+    "Activities": [
+      "Nature visits",
+      "Diving",
+      "Swimming",
+      "Animal watching"
+    ],
+    "Famous Foods": [
+      "Local fish",
+      "Shrimp",
+      "Seafood"
+    ]
+  },
+  {
+    "Name": "Saint Helena Island",
+    "Country": "United Kingdom",
+    "Activities": [
+      "Nature walking",
+      "Visiting historical landmarks",
+      "Diving",
+      "Boat trips"
+    ],
+    "Famous Foods": [
+      "Grilled fish",
+      "Local vegetables",
+      "Traditional desserts"
+    ]
+  },
+  {
+    "Name": "Niagara Island",
+    "Country": "Canada",
+    "Activities": [
+      "Visiting waterfalls",
+      "Swimming",
+      "Diving",
+      "Boat trips"
+    ],
+    "Famous Foods": [
+      "Salmon fish",
+      "Shrimp",
+      "Local desserts"
+    ]
+  },
+  {
+    "Name": "Monterey Island",
+    "Country": "United States of America",
+    "Activities": [
+      "Diving",
+      "Swimming",
+      "Visiting aquariums",
+      "Boat trips"
+    ],
+    "Famous Foods": [
+      "Local fish",
+      "Shrimp",
+      "Seafood"
+    ]
+  },
+  {
+    "Name": "Plymouth Island",
+    "Country": "United Kingdom",
+    "Activities": [
+      "Visiting historical landmarks",
+      "Swimming",
+      "Diving",
+      "Boat trips"
+    ],
+    "Famous Foods": [
+      "Fried fish",
+      "Local meat",
+      "British desserts"
+    ]
+  },
+  {
+    "Name": "Cornwall Island",
+    "Country": "United Kingdom",
+    "Activities": [
+      "Swimming",
+      "Diving",
+      "Nature walking",
+      "Visiting villages"
+    ],
+    "Famous Foods": [
+      "Fried fish",
+      "Local vegetables",
+      "Traditional desserts"
+    ]
+  },
+  {
+    "Name": "Hortica Island",
+    "Country": "Italy",
+    "Activities": [
+      "Swimming",
+      "Diving",
+      "Boat trips",
+      "Visiting villages"
+    ],
+    "Famous Foods": [
+      "Pizza",
+      "Pasta",
+      "Mozzarella"
+    ]
+  },
+  {
+    "Name": "Capri Island",
+    "Country": "Italy",
+    "Activities": [
+      "Boat tours",
+      "Visiting caves",
+      "Hiking",
+      "Luxury shopping"
+    ],
+    "Famous Foods": [
+      "Capri pizza",
+      "Lemon cheesecake",
+      "Mozzarella"
+    ]
+  },
+  {
+    "Name": "Elba Island",
+    "Country": "Italy",
+    "Activities": [
+      "Swimming",
+      "Diving",
+      "Boat trips",
+      "Hiking"
+    ],
+    "Famous Foods": [
+      "Local fish",
+      "Shrimp",
+      "Pizza"
+    ]
+  },
+  {
+    "Name": "Havana Island",
+    "Country": "Cuba",
+    "Activities": [
+      "Visiting historical cities",
+      "Swimming",
+      "Diving",
+      "Boat trips"
+    ],
+    "Famous Foods": [
+      "Ropa vieja",
+      "Sea fish",
+      "Chicken curry"
+    ]
+  },
+  {
+    "Name": "Key West Island",
+    "Country": "United States of America",
+    "Activities": [
+      "Swimming",
+      "Diving",
+      "Boat trips",
+      "Visiting villages"
+    ],
+    "Famous Foods": [
+      "Tuna fish",
+      "Shrimp",
+      "Seafood"
+    ]
+  },
+  {
+    "Name": "Andros Island",
+    "Country": "Bahamas",
+    "Activities": [
+      "Diving",
+      "Swimming",
+      "Boat trips",
+      "Hiking"
+    ],
+    "Famous Foods": [
+      "Local fish",
+      "Shrimp",
+      "Seafood desserts"
+    ]
+  },
+  {
+    "Name": "Naxos Island",
+    "Country": "Greece",
+    "Activities": [
+      "Visiting villages",
+      "Swimming",
+      "Diving",
+      "Nature trips"
+    ],
+    "Famous Foods": [
+      "Souvlaki",
+      "Torta",
+      "Local cheese"
+    ]
+  },
+  {
+    "Name": "Mykonos Island",
+    "Country": "Greece",
+    "Activities": [
+      "Beach parties",
+      "Diving",
+      "Swimming",
+      "Visiting villages"
+    ],
+    "Famous Foods": [
+      "Souvlaki",
+      "Paella",
+      "Local desserts"
+    ]
+  },
+  {
+    "Name": "Rhodes Island",
+    "Country": "Greece",
+    "Activities": [
+      "Visiting historical landmarks",
+      "Swimming",
+      "Diving",
+      "Boat trips"
+    ],
+    "Famous Foods": [
+      "Moussaka",
+      "Souvlaki",
+      "Greek desserts"
+    ]
+  },
+  {
+    "Name": "Crete Island",
+    "Country": "Greece",
+    "Activities": [
+      "Visiting temples",
+      "Nature walking",
+      "Diving",
+      "Wine tours"
+    ],
+    "Famous Foods": [
+      "Moussaka",
+      "Souvlaki",
+      "Dometo"
+    ]
+  },
+  {
+    "Name": "Zakynthos Island",
+    "Country": "Greece",
+    "Activities": [
+      "Swimming",
+      "Diving",
+      "Boat trips",
+      "Visiting beaches"
+    ],
+    "Famous Foods": [
+      "Torta",
+      "Local desserts",
+      "Grilled fish"
+    ]
+  },
+  {
+    "Name": "Corfu Island",
+    "Country": "Greece",
+    "Activities": [
+      "Visiting villages",
+      "Swimming",
+      "Diving",
+      "Boat tours"
+    ],
+    "Famous Foods": [
+      "Souvlaki",
+      "Tzatziki",
+      "Jabania"
+    ]
+  },
+  {
+    "Name": "Santorini Island",
+    "Country": "Greece",
+    "Activities": [
+      "Sunset watching",
+      "Visiting white villages",
+      "Wine tours",
+      "Swimming at beaches"
+    ],
+    "Famous Foods": [
+      "Tomato cream",
+      "Feta",
+      "Flavor yogurt"
+    ]
+  }
+]

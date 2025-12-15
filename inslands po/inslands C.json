@@ -1,0 +1,152 @@
+[
+  {
+    "nome": "Ilhas Cook",
+    "país": "Ilhas Cook",
+    "atividades": ["natação", "snorkeling", "passeios de barco", "visitas a aldeias"],
+    "comidas_famosas": ["atum", "curry de frango", "frutas tropicais"]
+  },
+  {
+    "nome": "Taiti",
+    "país": "Polinésia Francesa",
+    "atividades": ["snorkeling", "natação", "passeios de barco", "visitas a aldeias"],
+    "comidas_famosas": ["poisson cru", "curry de peixe", "frutas tropicais"]
+  },
+  {
+    "nome": "Punta Cana",
+    "país": "Bahamas",
+    "atividades": ["mergulho", "natação", "passeios de barco", "esportes aquáticos"],
+    "comidas_famosas": ["peixe local", "camarão", "lagosta grelhada"]
+  },
+  {
+    "nome": "Nova Caledônia - Grande Terre",
+    "país": "França",
+    "atividades": ["snorkeling", "passeios de barco", "natação", "caminhadas na natureza"],
+    "comidas_famosas": ["curry de camarão", "peixe local", "frutas tropicais"]
+  },
+  {
+    "nome": "Nova Caledônia - Le Yat",
+    "país": "França",
+    "atividades": ["snorkeling", "passeios de barco", "visitas a aldeias", "natação"],
+    "comidas_famosas": ["curry de peixe", "camarão", "doces locais"]
+  },
+  {
+    "nome": "Huahine",
+    "país": "Polinésia Francesa",
+    "atividades": ["snorkeling", "passeios de barco", "natação", "caminhada"],
+    "comidas_famosas": ["atum", "curry de frango", "frutas tropicais"]
+  },
+  {
+    "nome": "Santa Helena",
+    "país": "Reino Unido",
+    "atividades": ["passeios na natureza", "visitas a locais históricos", "snorkeling", "passeios de barco"],
+    "comidas_famosas": ["peixe grelhado", "vegetais locais", "doces tradicionais"]
+  },
+  {
+    "nome": "Velho Hawthorn",
+    "país": "Austrália",
+    "atividades": ["passeios na floresta", "natação", "snorkeling", "visitas a aldeias"],
+    "comidas_famosas": ["camarão", "peixe hota", "frutos do mar"]
+  },
+  {
+    "nome": "Ilha do Príncipe Eduardo",
+    "país": "Canadá",
+    "atividades": ["passeios na natureza", "visitas a aldeias", "natação", "snorkeling"],
+    "comidas_famosas": ["cevada de batata", "carne local", "doces canadenses"]
+  },
+  {
+    "nome": "Ilha de Vancouver",
+    "país": "Canadá",
+    "atividades": ["caminhadas na natureza", "natação", "snorkeling", "esqui"],
+    "comidas_famosas": ["salmão", "camarão", "frutos do mar"]
+  },
+  {
+    "nome": "Ilha de São Tomás",
+    "país": "Estados Unidos da América",
+    "atividades": ["natação", "snorkeling", "passeios de barco", "compras"],
+    "comidas_famosas": ["camarão", "atum", "pratos de frutos do mar"]
+  },
+  {
+    "nome": "Ilha de São João",
+    "país": "Estados Unidos da América",
+    "atividades": ["mergulho", "natação", "passeios de barco", "caminhada"],
+    "comidas_famosas": ["peixe grelhado", "camarão", "doces locais"]
+  },
+  {
+    "nome": "Ilha de Tobelo",
+    "país": "Panamá",
+    "atividades": ["snorkeling", "natação", "caminhadas na natureza", "passeios de barco"],
+    "comidas_famosas": ["peixe local", "curry de camarão", "frutas tropicais"]
+  },
+  {
+    "nome": "Ilha de Acapulco",
+    "país": "México",
+    "atividades": ["natação", "snorkeling", "passeios de barco", "caminhada"],
+    "comidas_famosas": ["taco", "peixe local", "doces mexicanos"]
+  },
+  {
+    "nome": "Ilha Hispaniola",
+    "país": "República Dominicana/Haiti",
+    "atividades": ["natação", "mergulho", "passeios de barco", "visitas a aldeias"],
+    "comidas_famosas": ["arroz com frango", "camarão", "frutas tropicais"]
+  },
+  {
+    "nome": "Ilha da Jamaica",
+    "país": "Jamaica",
+    "atividades": ["natação", "snorkeling", "visitas a cachoeiras", "passeios na natureza"],
+    "comidas_famosas": ["frango jerk", "peixe grelhado", "comidas locais"]
+  },
+  {
+    "nome": "Ilha de Cuba",
+    "país": "Cuba",
+    "atividades": ["visitas a cidades históricas", "natação", "mergulho", "passeios de barco"],
+    "comidas_famosas": ["ropa vieja", "frutos do mar", "curry de frango"]
+  },
+  {
+    "nome": "Ilha de Aruba",
+    "país": "Aruba",
+    "atividades": ["natação", "snorkeling", "passeios de barco", "compras"],
+    "comidas_famosas": ["camarão", "atum", "doces locais"]
+  },
+  {
+    "nome": "Ilha de Curaçao",
+    "país": "Curaçao",
+    "atividades": ["snorkeling", "natação", "visitas a aldeias", "passeios de barco"],
+    "comidas_famosas": ["peixe local", "camarão", "frutos do mar"]
+  },
+  {
+    "nome": "Ilha de Bonaire",
+    "país": "Bonaire",
+    "atividades": ["snorkeling", "natação", "passeios de barco", "caminhada"],
+    "comidas_famosas": ["peixe local", "camarão", "doces tradicionais"]
+  },
+  {
+    "nome": "Ilha de Saba",
+    "país": "Saba",
+    "atividades": ["caminhadas", "snorkeling", "natação", "visitas a aldeias"],
+    "comidas_famosas": ["curry de peixe", "camarão", "frutos do mar"]
+  },
+  {
+    "nome": "Ilha de São Cristóvão",
+    "país": "São Cristóvão e Neves",
+    "atividades": ["natação", "snorkeling", "passeios de barco", "visitas a aldeias"],
+    "comidas_famosas": ["camarão", "peixe local", "doces locais"]
+  },
+  {
+    "nome": "Ilha de Terra Nova",
+    "país": "Canadá",
+    "atividades": ["caminhadas na natureza", "snorkeling", "natação", "observação de aves"],
+    "comidas_famosas": ["bacalhau", "camarão", "frutos do mar"]
+  },
+  {
+    "nome": "Ilha das Bermudas",
+    "país": "Grã-Bretanha",
+    "atividades": ["natação", "snorkeling", "passeios de barco", "caminhada"],
+    "comidas_famosas": ["peixe local", "camarão", "frutos do mar"]
+  },
+  {
+    "nome": "Ilha de Guadalupe",
+    "país": "França",
+    "atividades": ["snorkeling", "natação", "passeios na natureza", "visitas a aldeias"],
+    "comidas_famosas": ["curry de frango", "camarão", "doces locais"]
+  }
+]

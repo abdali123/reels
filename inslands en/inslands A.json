@@ -1,0 +1,152 @@
+[
+  {
+    "Name": "Bali",
+    "Country": "Indonesia",
+    "Activities": ["Diving", "Surfing", "Visiting Temples", "Nature Trips"],
+    "Famous_Dishes": ["Nasi Goreng", "Satay", "Babi Guling"]
+  },
+  {
+    "Name": "Maui",
+    "Country": "United States of America (Hawaii)",
+    "Activities": ["Snorkeling", "Whale Watching", "Waterfall Hiking", "Surfing"],
+    "Famous_Dishes": ["Poke Bowl", "Pokemon Chocolate", "Oka Shrimp"]
+  },
+  {
+    "Name": "Santorini",
+    "Country": "Greece",
+    "Activities": ["Sunset Viewing", "Visiting White Villages", "Wine Tours", "Beach Swimming"],
+    "Famous_Dishes": ["Tomato Keftedes", "Feta", "Fava"]
+  },
+  {
+    "Name": "Seychelles",
+    "Country": "Seychelles",
+    "Activities": ["Diving", "Swimming", "Nature Hiking", "Bird Watching"],
+    "Famous_Dishes": ["Fish Curry", "Lobster", "Seychellois Panier"]
+  },
+  {
+    "Name": "Boracay",
+    "Country": "Philippines",
+    "Activities": ["Snorkeling", "Kayaking", "Sunset Viewing", "Beach Parties"],
+    "Famous_Dishes": ["Adobo", "Lechon", "Pansit"]
+  },
+  {
+    "Name": "Koh Hai",
+    "Country": "Thailand",
+    "Activities": ["Rock Climbing", "Swimming", "Boat Riding", "Diving"],
+    "Famous_Dishes": ["Pad Thai", "Tom Yum", "Green Curry"]
+  },
+  {
+    "Name": "Capri",
+    "Country": "Italy",
+    "Activities": ["Boat Tours", "Visiting Caves", "Hiking", "Luxury Shopping"],
+    "Famous_Dishes": ["Capri Pizza", "Mozzarella", "Lemon Cheesecake"]
+  },
+  {
+    "Name": "Mauritius",
+    "Country": "Mauritius",
+    "Activities": ["Diving", "Surfing", "Visiting Botanical Gardens", "Sea Cruises"],
+    "Famous_Dishes": ["Dal Puri", "Roti", "Shrimp Curry"]
+  },
+  {
+    "Name": "Corsica",
+    "Country": "France",
+    "Activities": ["Mountain Hiking", "Swimming", "Water Sports", "Visiting Historic Cities"],
+    "Famous_Dishes": ["Cazzili", "Canistrelli", "Stufatu"]
+  },
+  {
+    "Name": "Tasmania",
+    "Country": "Australia",
+    "Activities": ["Nature Hiking", "Visiting National Parks", "Water Skiing", "Wildlife Watching"],
+    "Famous_Dishes": ["Kangaroo Meat", "Tasmanian Salmon", "Seafood"]
+  },
+  {
+    "Name": "Honshu",
+    "Country": "Japan",
+    "Activities": ["Visiting Temples", "Shopping", "Nature Walks", "Skiing"],
+    "Famous_Dishes": ["Sushi", "Ramen", "Udon"]
+  },
+  {
+    "Name": "New Zealand - North Island",
+    "Country": "New Zealand",
+    "Activities": ["Hiking Trips", "Snorkeling", "Kayaking", "Visiting Volcanoes"],
+    "Famous_Dishes": ["Hāngi", "Goat Bank Cake", "Hokey Pokey"]
+  },
+  {
+    "Name": "New Zealand - South Island",
+    "Country": "New Zealand",
+    "Activities": ["Skiing", "Long Hiking Trips", "Kayaking", "Visiting National Parks"],
+    "Famous_Dishes": ["Pavlova", "Lamb Meat", "Hokey Pokey"]
+  },
+  {
+    "Name": "Kauai",
+    "Country": "United States of America (Hawaii)",
+    "Activities": ["Waterfall Viewing", "Snorkeling", "Nature Hiking", "Surfing"],
+    "Famous_Dishes": ["Poke Bowl", "Pina Colada", "Hawaiian Chocolate"]
+  },
+  {
+    "Name": "Maldives",
+    "Country": "Maldives",
+    "Activities": ["Snorkeling", "Swimming", "Sea Cruises", "Relaxing at Resorts"],
+    "Famous_Dishes": ["Tuna Fish", "Curry Rice", "Local Sweets"]
+  },
+  {
+    "Name": "Borneo",
+    "Country": "Indonesia/Malaysia/Brunei",
+    "Activities": ["Forest Trips", "Wildlife Watching", "Diving", "Boat Trips"],
+    "Famous_Dishes": ["Satay", "Nasi Kerabu", "Borneo Ramen"]
+  },
+  {
+    "Name": "Sumatra",
+    "Country": "Indonesia",
+    "Activities": ["Nature Hiking", "Visiting Volcanoes", "Diving", "Elephant Watching"],
+    "Famous_Dishes": ["Rendang", "Gado-Gado", "Tempoyak"]
+  },
+  {
+    "Name": "Seychelles La Digue",
+    "Country": "Seychelles",
+    "Activities": ["Snorkeling", "Swimming", "Nature Hiking", "Photography"],
+    "Famous_Dishes": ["Fish Curry", "Lobster", "Curry Rice"]
+  },
+  {
+    "Name": "Phuket",
+    "Country": "Thailand",
+    "Activities": ["Diving", "Boat Riding", "Visiting Temples", "Swimming"],
+    "Famous_Dishes": ["Pad Thai", "Tom Yum", "Green Curry"]
+  },
+  {
+    "Name": "Java",
+    "Country": "Indonesia",
+    "Activities": ["Visiting Temples", "Shopping", "Nature Walks", "Cultural Exploration"],
+    "Famous_Dishes": ["Nasi Goreng", "Satay", "Javanese Ramen"]
+  },
+  {
+    "Name": "Sardinia",
+    "Country": "Italy",
+    "Activities": ["Swimming", "Snorkeling", "Village Tours", "Beach Visits"],
+    "Famous_Dishes": ["Grigliata", "Cannoli", "Mozzarella"]
+  },
+  {
+    "Name": "Nice",
+    "Country": "France",
+    "Activities": ["Shopping", "Beach Visits", "City Walks", "Water Sports"],
+    "Famous_Dishes": ["Salade Niçoise", "Bouillabaisse", "Pissaladière"]
+  },
+  {
+    "Name": "Koh Samui",
+    "Country": "Thailand",
+    "Activities": ["Swimming", "Snorkeling", "Boat Trips", "Spa"],
+    "Famous_Dishes": ["Pad Thai", "Tom Yum", "Massaman Curry"]
+  },
+  {
+    "Name": "Malta",
+    "Country": "Malta",
+    "Activities": ["Visiting Historical Landmarks", "Snorkeling", "Swimming", "Boat Trips"],
+    "Famous_Dishes": ["Rabbit Stew", "Pastizzi", "Biskuttini"]
+  },
+  {
+    "Name": "Cape Verde",
+    "Country": "Cape Verde",
+    "Activities": ["Swimming", "Snorkeling", "Music and Dance", "Mountain Trips"],
+    "Famous_Dishes": ["Cachupa", "Cape Verdean Stew", "Cuscus"]
+  }
+]

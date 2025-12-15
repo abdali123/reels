@@ -1,0 +1,377 @@
+[
+  {
+    "Name": "Corfu",
+    "Country": "Greece",
+    "Activities": [
+      "Visiting Villages",
+      "Swimming",
+      "Scuba Diving",
+      "Boat Tours"
+    ],
+    "Famous Dishes": [
+      "Souvlaki",
+      "Tzatziki",
+      "Gyros"
+    ]
+  },
+  {
+    "Name": "Crete",
+    "Country": "Greece",
+    "Activities": [
+      "Visiting Temples",
+      "Nature Walks",
+      "Snorkeling",
+      "Wine Tours"
+    ],
+    "Famous Dishes": [
+      "Moussaka",
+      "Souvlaki",
+      "Dakos"
+    ]
+  },
+  {
+    "Name": "Bora Bora",
+    "Country": "French Polynesia",
+    "Activities": [
+      "Snorkeling",
+      "Swimming",
+      "Cruises",
+      "Relaxing at Resorts"
+    ],
+    "Famous Dishes": [
+      "Poisson Cru",
+      "Taro",
+      "Tuna"
+    ]
+  },
+  {
+    "Name": "Madeira",
+    "Country": "Portugal",
+    "Activities": [
+      "Hiking",
+      "Visiting Waterfalls",
+      "Snorkeling",
+      "Dolphin Watching"
+    ],
+    "Famous Dishes": [
+      "Espetada",
+      "Marzipan",
+      "Bolo de Mel"
+    ]
+  },
+  {
+    "Name": "Saint Lucia",
+    "Country": "Saint Lucia",
+    "Activities": [
+      "Snorkeling",
+      "Swimming",
+      "Nature Walks",
+      "Climbing"
+    ],
+    "Famous Dishes": [
+      "Curried Shrimp",
+      "Local Bread",
+      "Tropical Fruits"
+    ]
+  },
+  {
+    "Name": "Barbados",
+    "Country": "Barbados",
+    "Activities": [
+      "Swimming",
+      "Snorkeling",
+      "Beach Visits",
+      "Boat Trips"
+    ],
+    "Famous Dishes": [
+      "Shrimp",
+      "Grilled Fish",
+      "Local Pudding"
+    ]
+  },
+  {
+    "Name": "Hawaii - Oahu",
+    "Country": "United States (Hawaii)",
+    "Activities": [
+      "City Sightseeing",
+      "Surfing",
+      "Nature Walks",
+      "Scuba Diving"
+    ],
+    "Famous Dishes": [
+      "Poke",
+      "Poi",
+      "Hawaiian Chocolate"
+    ]
+  },
+  {
+    "Name": "Faroe Islands",
+    "Country": "Denmark",
+    "Activities": [
+      "Nature Walks",
+      "Bird Watching",
+      "Snorkeling",
+      "Boat Tours"
+    ],
+    "Famous Dishes": [
+      "Cod",
+      "Seafood Mix",
+      "Faroese Bread"
+    ]
+  },
+  {
+    "Name": "Prawn Island",
+    "Country": "Australia",
+    "Activities": [
+      "Scuba Diving",
+      "Swimming",
+      "Hiking",
+      "Boat Tours"
+    ],
+    "Famous Dishes": [
+      "Prawns",
+      "Snapper",
+      "Variety of Seafood"
+    ]
+  },
+  {
+    "Name": "Capri",
+    "Country": "Italy",
+    "Activities": [
+      "Swimming",
+      "Visiting Historical Sites",
+      "Walking",
+      "Boat Tours"
+    ],
+    "Famous Dishes": [
+      "Pasta",
+      "Neapolitan Pizza",
+      "Mozzarella"
+    ]
+  },
+  {
+    "Name": "Malapascua",
+    "Country": "Philippines",
+    "Activities": [
+      "Snorkeling",
+      "Swimming",
+      "Hiking",
+      "Local Shopping"
+    ],
+    "Famous Dishes": [
+      "Adobo",
+      "Pancit",
+      "Lechon"
+    ]
+  },
+  {
+    "Name": "Isle of Wight",
+    "Country": "United Kingdom",
+    "Activities": [
+      "Beach Walks",
+      "Visiting Villages",
+      "Swimming",
+      "Photography"
+    ],
+    "Famous Dishes": [
+      "Fish and Chips",
+      "Traditional Bread",
+      "Local Sweets"
+    ]
+  },
+  {
+    "Name": "Réunion",
+    "Country": "France",
+    "Activities": [
+      "Mountain Hiking",
+      "Visiting Waterfalls",
+      "Swimming",
+      "Diving Trips"
+    ],
+    "Famous Dishes": [
+      "Chicken Curry",
+      "Tuna",
+      "Tropical Fruits"
+    ]
+  },
+  {
+    "Name": "Mallorca",
+    "Country": "Spain",
+    "Activities": [
+      "Visiting Villages",
+      "Swimming",
+      "Scuba Diving",
+      "Boat Tours"
+    ],
+    "Famous Dishes": [
+      "Paella",
+      "Ensaimada",
+      "Local Sweets"
+    ]
+  },
+  {
+    "Name": "Ibiza",
+    "Country": "Spain",
+    "Activities": [
+      "Beach Parties",
+      "Scuba Diving",
+      "Visiting Villages",
+      "Swimming"
+    ],
+    "Famous Dishes": [
+      "Paella",
+      "Flan",
+      "Grilled Fish"
+    ]
+  },
+  {
+    "Name": "Canary Islands - Tenerife",
+    "Country": "Spain",
+    "Activities": [
+      "Water Skiing",
+      "Swimming",
+      "Nature Tours",
+      "Volcano Watching"
+    ],
+    "Famous Dishes": [
+      "Canarian Potatoes",
+      "Paella",
+      "Seafood"
+    ]
+  },
+  {
+    "Name": "Madagascar",
+    "Country": "Madagascar",
+    "Activities": [
+      "Safari",
+      "Visiting National Parks",
+      "Snorkeling",
+      "Hiking"
+    ],
+    "Famous Dishes": [
+      "Romazava",
+      "Palm Oil Dishes",
+      "Tropical Fruits"
+    ]
+  },
+  {
+    "Name": "Fiji - Viti Levu",
+    "Country": "Fiji",
+    "Activities": [
+      "Scuba Diving",
+      "Swimming",
+      "Kayaking",
+      "Hiking"
+    ],
+    "Famous Dishes": [
+      "Kokoda",
+      "Grilled Fish",
+      "Tropical Fruits"
+    ]
+  },
+  {
+    "Name": "Fiji - Vanua Levu",
+    "Country": "Fiji",
+    "Activities": [
+      "Forest Tours",
+      "Snorkeling",
+      "Visiting Villages",
+      "Hiking"
+    ],
+    "Famous Dishes": [
+      "Roti",
+      "Fish Curry",
+      "Tropical Fruits"
+    ]
+  },
+  {
+    "Name": "Samoa - Upolu",
+    "Country": "Samoa",
+    "Activities": [
+      "Snorkeling",
+      "Swimming",
+      "Nature Tours",
+      "Visiting Villages"
+    ],
+    "Famous Dishes": [
+      "Palusami",
+      "Pork",
+      "Tropical Fruits"
+    ]
+  },
+  {
+    "Name": "Samoa - Savai'i",
+    "Country": "Samoa",
+    "Activities": [
+      "Nature Hiking",
+      "Scuba Diving",
+      "Visiting Waterfalls",
+      "Boat Tours"
+    ],
+    "Famous Dishes": [
+      "Fish Curry",
+      "Pork",
+      "Tropical Fruits"
+    ]
+  },
+  {
+    "Name": "French Antilles - Guadeloupe",
+    "Country": "France",
+    "Activities": [
+      "Scuba Diving",
+      "Swimming",
+      "Nature Tours",
+      "Visiting Villages"
+    ],
+    "Famous Dishes": [
+      "Bouillon",
+      "Chicken Curry",
+      "Local Sweets"
+    ]
+  },
+  {
+    "Name": "French Antilles - Martinique",
+    "Country": "France",
+    "Activities": [
+      "Forest Tours",
+      "Snorkeling",
+      "Hiking",
+      "Visiting Villages"
+    ],
+    "Famous Dishes": [
+      "Curried Shrimp",
+      "Local Fish",
+      "Traditional Sweets"
+    ]
+  },
+  {
+    "Name": "Saint Barthélemy",
+    "Country": "France",
+    "Activities": [
+      "Swimming",
+      "Scuba Diving",
+      "Boat Tours",
+      "Shopping"
+    ],
+    "Famous Dishes": [
+      "Grilled Fish",
+      "Shrimp",
+      "Local Sweets"
+    ]
+  },
+  {
+    "Name": "Saint Martin",
+    "Country": "France/Netherlands",
+    "Activities": [
+      "Snorkeling",
+      "Swimming",
+      "Boat Tours",
+      "Shopping"
+    ],
+    "Famous Dishes": [
+      "Tuna",
+      "Shrimp",
+      "Local Sweets"
+    ]
+  }
+]

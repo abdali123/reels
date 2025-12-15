@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Cook Islands",
+    "country": "Cook Islands",
+    "activities": ["swimming", "snorkeling", "boat trips", "village visits"],
+    "famous_foods": ["tuna", "chicken curry", "tropical fruits"]
+  },
+  {
+    "name": "Tahiti",
+    "country": "French Polynesia",
+    "activities": ["snorkeling", "swimming", "boat trips", "village visits"],
+    "famous_foods": ["poisson cru", "fish curry", "tropical fruits"]
+  },
+  {
+    "name": "Punta Cana",
+    "country": "Bahamas",
+    "activities": ["diving", "swimming", "boat trips", "water sports"],
+    "famous_foods": ["local fish", "shrimp", "grilled lobster"]
+  },
+  {
+    "name": "New Caledonia - Grande Terre",
+    "country": "France",
+    "activities": ["snorkeling", "boat trips", "swimming", "nature hikes"],
+    "famous_foods": ["shrimp curry", "local fish", "tropical fruits"]
+  },
+  {
+    "name": "New Caledonia - Le Yat",
+    "country": "France",
+    "activities": ["snorkeling", "boat trips", "village visits", "swimming"],
+    "famous_foods": ["fish curry", "shrimp", "local sweets"]
+  },
+  {
+    "name": "Huahine",
+    "country": "French Polynesia",
+    "activities": ["snorkeling", "boat trips", "swimming", "hiking"],
+    "famous_foods": ["tuna", "chicken curry", "tropical fruits"]
+  },
+  {
+    "name": "Saint Helena",
+    "country": "United Kingdom",
+    "activities": ["nature walks", "historical site visits", "snorkeling", "boat trips"],
+    "famous_foods": ["grilled fish", "local vegetables", "traditional sweets"]
+  },
+  {
+    "name": "Old Hawthorn",
+    "country": "Australia",
+    "activities": ["forest trips", "swimming", "snorkeling", "village visits"],
+    "famous_foods": ["shrimp", "hota fish", "seafood"]
+  },
+  {
+    "name": "Prince Edward Island",
+    "country": "Canada",
+    "activities": ["nature walks", "village visits", "swimming", "snorkeling"],
+    "famous_foods": ["potato barley", "local meat", "Canadian sweets"]
+  },
+  {
+    "name": "Vancouver Island",
+    "country": "Canada",
+    "activities": ["nature hikes", "swimming", "snorkeling", "skiing"],
+    "famous_foods": ["salmon", "shrimp", "seafood"]
+  },
+  {
+    "name": "Saint Thomas Island",
+    "country": "United States of America",
+    "activities": ["swimming", "snorkeling", "boat trips", "shopping"],
+    "famous_foods": ["shrimp", "tuna", "seafood dishes"]
+  },
+  {
+    "name": "Saint John Island",
+    "country": "United States of America",
+    "activities": ["diving", "swimming", "boat trips", "hiking"],
+    "famous_foods": ["grilled fish", "shrimp", "local sweets"]
+  },
+  {
+    "name": "Tobelo Island",
+    "country": "Panama",
+    "activities": ["snorkeling", "swimming", "nature hikes", "boat trips"],
+    "famous_foods": ["local fish", "shrimp curry", "tropical fruits"]
+  },
+  {
+    "name": "Acapulco Island",
+    "country": "Mexico",
+    "activities": ["swimming", "snorkeling", "boat trips", "hiking"],
+    "famous_foods": ["taco", "local fish", "Mexican sweets"]
+  },
+  {
+    "name": "Hispaniola Island",
+    "country": "Dominican Republic/Haiti",
+    "activities": ["swimming", "diving", "boat trips", "village visits"],
+    "famous_foods": ["chicken rice", "shrimp", "tropical fruits"]
+  },
+  {
+    "name": "Jamaica Island",
+    "country": "Jamaica",
+    "activities": ["swimming", "snorkeling", "waterfall visits", "nature walks"],
+    "famous_foods": ["jerk chicken", "grilled fish", "local foods"]
+  },
+  {
+    "name": "Cuba Island",
+    "country": "Cuba",
+    "activities": ["historical city visits", "swimming", "diving", "boat trips"],
+    "famous_foods": ["ropa vieja", "seafood", "chicken curry"]
+  },
+  {
+    "name": "Aruba Island",
+    "country": "Aruba",
+    "activities": ["swimming", "snorkeling", "boat trips", "shopping"],
+    "famous_foods": ["shrimp", "tuna", "local sweets"]
+  },
+  {
+    "name": "Curaçao Island",
+    "country": "Curaçao",
+    "activities": ["snorkeling", "swimming", "village visits", "boat trips"],
+    "famous_foods": ["local fish", "shrimp", "seafood"]
+  },
+  {
+    "name": "Bonaire Island",
+    "country": "Bonaire",
+    "activities": ["snorkeling", "swimming", "boat trips", "hiking"],
+    "famous_foods": ["local fish", "shrimp", "traditional sweets"]
+  },
+  {
+    "name": "Saba Island",
+    "country": "Saba",
+    "activities": ["hiking trips", "snorkeling", "swimming", "village visits"],
+    "famous_foods": ["fish curry", "shrimp", "seafood"]
+  },
+  {
+    "name": "Saint Kitts Island",
+    "country": "Saint Kitts and Nevis",
+    "activities": ["swimming", "snorkeling", "boat trips", "village visits"],
+    "famous_foods": ["shrimp", "local fish", "local sweets"]
+  },
+  {
+    "name": "Newfoundland Island",
+    "country": "Canada",
+    "activities": ["nature hikes", "snorkeling", "swimming", "bird watching"],
+    "famous_foods": ["cod", "shrimp", "seafood"]
+  },
+  {
+    "name": "Bermuda Island",
+    "country": "Britain",
+    "activities": ["swimming", "snorkeling", "boat trips", "hiking"],
+    "famous_foods": ["local fish", "shrimp", "seafood"]
+  },
+  {
+    "name": "Guadeloupe Island",
+    "country": "France",
+    "activities": ["snorkeling", "swimming", "nature trips", "village visits"],
+    "famous_foods": ["chicken curry", "shrimp", "local sweets"]
+  }
+]

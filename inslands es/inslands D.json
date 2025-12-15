@@ -1,0 +1,377 @@
+[
+  {
+    "Nombre": "Isla de Hawái - Mauna Kea",
+    "País": "Estados Unidos de América (Hawái)",
+    "Actividades": [
+      "Esquí acuático",
+      "Buceo",
+      "Senderismo",
+      "Visita a volcanes"
+    ],
+    "Comidas Famosas": [
+      "Poke",
+      "Poke boy",
+      "Atún"
+    ]
+  },
+  {
+    "Nombre": "Isla de Tenerife",
+    "País": "España (Islas Canarias)",
+    "Actividades": [
+      "Visita a volcanes",
+      "Natación",
+      "Excursiones en la naturaleza",
+      "Caminatas por la montaña"
+    ],
+    "Comidas Famosas": [
+      "Paella",
+      "Torta",
+      "Mariscos"
+    ]
+  },
+  {
+    "Nombre": "Isla Lance",
+    "País": "Australia",
+    "Actividades": [
+      "Caminatas en la naturaleza",
+      "Buceo",
+      "Paseos en barco",
+      "Visita a pueblos"
+    ],
+    "Comidas Famosas": [
+      "Pescado local",
+      "Camarones",
+      "Mariscos"
+    ]
+  },
+  {
+    "Nombre": "Isla Rottnest",
+    "País": "Australia",
+    "Actividades": [
+      "Natación",
+      "Buceo",
+      "Ciclismo",
+      "Paseos en barco"
+    ],
+    "Comidas Famosas": [
+      "Pescado local",
+      "Camarones",
+      "Postres australianos"
+    ]
+  },
+  {
+    "Nombre": "Isla Pembroke",
+    "País": "Australia",
+    "Actividades": [
+      "Excursiones por el bosque",
+      "Buceo",
+      "Natación",
+      "Senderismo"
+    ],
+    "Comidas Famosas": [
+      "Pescado Houta",
+      "Camarones",
+      "Mariscos"
+    ]
+  },
+  {
+    "Nombre": "Isla Galápagos - Isabela",
+    "País": "Ecuador",
+    "Actividades": [
+      "Excursiones por el bosque",
+      "Buceo",
+      "Observación de animales",
+      "Natación"
+    ],
+    "Comidas Famosas": [
+      "Camarones",
+      "Pescado local",
+      "Postres locales"
+    ]
+  },
+  {
+    "Nombre": "Isla Galápagos - Santa Cruz",
+    "País": "Ecuador",
+    "Actividades": [
+      "Visitas a la naturaleza",
+      "Buceo",
+      "Natación",
+      "Observación de animales"
+    ],
+    "Comidas Famosas": [
+      "Pescado local",
+      "Camarones",
+      "Mariscos"
+    ]
+  },
+  {
+    "Nombre": "Isla Santa Elena",
+    "País": "Reino Unido",
+    "Actividades": [
+      "Caminatas en la naturaleza",
+      "Visita a monumentos históricos",
+      "Buceo",
+      "Paseos en barco"
+    ],
+    "Comidas Famosas": [
+      "Pescado a la parrilla",
+      "Verduras locales",
+      "Postres tradicionales"
+    ]
+  },
+  {
+    "Nombre": "Isla Niágara",
+    "País": "Canadá",
+    "Actividades": [
+      "Visita a cascadas",
+      "Natación",
+      "Buceo",
+      "Paseos en barco"
+    ],
+    "Comidas Famosas": [
+      "Salmón",
+      "Camarones",
+      "Postres locales"
+    ]
+  },
+  {
+    "Nombre": "Isla Monterey",
+    "País": "Estados Unidos de América",
+    "Actividades": [
+      "Buceo",
+      "Natación",
+      "Visita a acuarios",
+      "Paseos en barco"
+    ],
+    "Comidas Famosas": [
+      "Pescado local",
+      "Camarones",
+      "Mariscos"
+    ]
+  },
+  {
+    "Nombre": "Isla Plymouth",
+    "País": "Reino Unido",
+    "Actividades": [
+      "Visita a monumentos históricos",
+      "Natación",
+      "Buceo",
+      "Paseos en barco"
+    ],
+    "Comidas Famosas": [
+      "Pescado frito",
+      "Carne local",
+      "Postres británicos"
+    ]
+  },
+  {
+    "Nombre": "Isla Cornwall",
+    "País": "Reino Unido",
+    "Actividades": [
+      "Natación",
+      "Buceo",
+      "Caminatas en la naturaleza",
+      "Visita a pueblos"
+    ],
+    "Comidas Famosas": [
+      "Pescado frito",
+      "Verduras locales",
+      "Postres tradicionales"
+    ]
+  },
+  {
+    "Nombre": "Isla Hortica",
+    "País": "Italia",
+    "Actividades": [
+      "Natación",
+      "Buceo",
+      "Paseos en barco",
+      "Visita a pueblos"
+    ],
+    "Comidas Famosas": [
+      "Pizza",
+      "Pasta",
+      "Mozzarella"
+    ]
+  },
+  {
+    "Nombre": "Isla Capri",
+    "País": "Italia",
+    "Actividades": [
+      "Recorridos en barco",
+      "Visita a cuevas",
+      "Senderismo",
+      "Compras de lujo"
+    ],
+    "Comidas Famosas": [
+      "Pizza Capri",
+      "Tarta de limón",
+      "Mozzarella"
+    ]
+  },
+  {
+    "Nombre": "Isla Elba",
+    "País": "Italia",
+    "Actividades": [
+      "Natación",
+      "Buceo",
+      "Paseos en barco",
+      "Senderismo"
+    ],
+    "Comidas Famosas": [
+      "Pescado local",
+      "Camarones",
+      "Pizza"
+    ]
+  },
+  {
+    "Nombre": "Isla La Habana",
+    "País": "Cuba",
+    "Actividades": [
+      "Visita a ciudades históricas",
+      "Natación",
+      "Buceo",
+      "Paseos en barco"
+    ],
+    "Comidas Famosas": [
+      "Ropa vieja",
+      "Pescado de mar",
+      "Curry de pollo"
+    ]
+  },
+  {
+    "Nombre": "Isla Cayo Hueso",
+    "País": "Estados Unidos de América",
+    "Actividades": [
+      "Natación",
+      "Buceo",
+      "Paseos en barco",
+      "Visita a pueblos"
+    ],
+    "Comidas Famosas": [
+      "Atún",
+      "Camarones",
+      "Mariscos"
+    ]
+  },
+  {
+    "Nombre": "Isla Andros",
+    "País": "Bahamas",
+    "Actividades": [
+      "Buceo",
+      "Natación",
+      "Paseos en barco",
+      "Senderismo"
+    ],
+    "Comidas Famosas": [
+      "Pescado local",
+      "Camarones",
+      "Postres de mariscos"
+    ]
+  },
+  {
+    "Nombre": "Isla Naxos",
+    "País": "Grecia",
+    "Actividades": [
+      "Visita a pueblos",
+      "Natación",
+      "Buceo",
+      "Excursiones en la naturaleza"
+    ],
+    "Comidas Famosas": [
+      "Souvlaki",
+      "Torta",
+      "Queso local"
+    ]
+  },
+  {
+    "Nombre": "Isla Mykonos",
+    "País": "Grecia",
+    "Actividades": [
+      "Fiestas en la playa",
+      "Buceo",
+      "Natación",
+      "Visita a pueblos"
+    ],
+    "Comidas Famosas": [
+      "Souvlaki",
+      "Paella",
+      "Postres locales"
+    ]
+  },
+  {
+    "Nombre": "Isla Rodas",
+    "País": "Grecia",
+    "Actividades": [
+      "Visita a monumentos históricos",
+      "Natación",
+      "Buceo",
+      "Paseos en barco"
+    ],
+    "Comidas Famosas": [
+      "Moussaka",
+      "Souvlaki",
+      "Postres griegos"
+    ]
+  },
+  {
+    "Nombre": "Isla Creta",
+    "País": "Grecia",
+    "Actividades": [
+      "Visita a templos",
+      "Caminatas en la naturaleza",
+      "Buceo",
+      "Recorridos por viñedos"
+    ],
+    "Comidas Famosas": [
+      "Moussaka",
+      "Souvlaki",
+      "Dometo"
+    ]
+  },
+  {
+    "Nombre": "Isla Zakynthos",
+    "País": "Grecia",
+    "Actividades": [
+      "Natación",
+      "Buceo",
+      "Paseos en barco",
+      "Visita a playas"
+    ],
+    "Comidas Famosas": [
+      "Torta",
+      "Postres locales",
+      "Pescado a la parrilla"
+    ]
+  },
+  {
+    "Nombre": "Isla Corfú",
+    "País": "Grecia",
+    "Actividades": [
+      "Visita a pueblos",
+      "Natación",
+      "Buceo",
+      "Recorridos en barco"
+    ],
+    "Comidas Famosas": [
+      "Souvlaki",
+      "Tzatziki",
+      "Jabania"
+    ]
+  },
+  {
+    "Nombre": "Isla Santorini",
+    "País": "Grecia",
+    "Actividades": [
+      "Observación del atardecer",
+      "Visita a pueblos blancos",
+      "Recorridos por viñedos",
+      "Natación en playas"
+    ],
+    "Comidas Famosas": [
+      "Crema de tomate",
+      "Feta",
+      "Yogur saborizado"
+    ]
+  }
+]

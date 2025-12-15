@@ -1,0 +1,377 @@
+[
+  {
+    "Name": "Hawaii-Insel - Mauna Kea",
+    "Land": "Vereinigte Staaten von Amerika (Hawaii)",
+    "Aktivitäten": [
+      "Wasserski",
+      "Tauchen",
+      "Wandern",
+      "Vulkane besuchen"
+    ],
+    "Berühmte Gerichte": [
+      "Poke",
+      "Poke Bowl",
+      "Thunfisch"
+    ]
+  },
+  {
+    "Name": "Teneriffa",
+    "Land": "Spanien (Kanarische Inseln)",
+    "Aktivitäten": [
+      "Vulkane besuchen",
+      "Schwimmen",
+      "Naturausflüge",
+      "Bergwanderungen"
+    ],
+    "Berühmte Gerichte": [
+      "Paella",
+      "Torta",
+      "Meeresfrüchte"
+    ]
+  },
+  {
+    "Name": "Kangaroo Island",
+    "Land": "Australien",
+    "Aktivitäten": [
+      "Naturwanderungen",
+      "Tauchen",
+      "Bootstouren",
+      "Dörfer besuchen"
+    ],
+    "Berühmte Gerichte": [
+      "Lokaler Fisch",
+      "Garnelen",
+      "Meeresfrüchte"
+    ]
+  },
+  {
+    "Name": "Rottnest Island",
+    "Land": "Australien",
+    "Aktivitäten": [
+      "Schwimmen",
+      "Tauchen",
+      "Fahrradfahren",
+      "Bootstouren"
+    ],
+    "Berühmte Gerichte": [
+      "Lokaler Fisch",
+      "Garnelen",
+      "Australische Desserts"
+    ]
+  },
+  {
+    "Name": "Houtman Abrolhos Islands",
+    "Land": "Australien",
+    "Aktivitäten": [
+      "Waldausflüge",
+      "Tauchen",
+      "Schwimmen",
+      "Wandern"
+    ],
+    "Berühmte Gerichte": [
+      "Lokaler Fisch",
+      "Garnelen",
+      "Meeresfrüchte"
+    ]
+  },
+  {
+    "Name": "Galapagos-Inseln - Isabela",
+    "Land": "Ecuador",
+    "Aktivitäten": [
+      "Waldausflüge",
+      "Tauchen",
+      "Tierbeobachtung",
+      "Schwimmen"
+    ],
+    "Berühmte Gerichte": [
+      "Garnelen",
+      "Lokaler Fisch",
+      "Lokale Desserts"
+    ]
+  },
+  {
+    "Name": "Galapagos-Inseln - Santa Cruz",
+    "Land": "Ecuador",
+    "Aktivitäten": [
+      "Naturbesichtigungen",
+      "Tauchen",
+      "Schwimmen",
+      "Tierbeobachtung"
+    ],
+    "Berühmte Gerichte": [
+      "Lokaler Fisch",
+      "Garnelen",
+      "Meeresfrüchte"
+    ]
+  },
+  {
+    "Name": "St. Helena",
+    "Land": "Vereinigtes Königreich",
+    "Aktivitäten": [
+      "Naturwanderungen",
+      "Historische Wahrzeichen besuchen",
+      "Tauchen",
+      "Bootstouren"
+    ],
+    "Berühmte Gerichte": [
+      "Gegrillter Fisch",
+      "Lokales Gemüse",
+      "Traditionelle Desserts"
+    ]
+  },
+  {
+    "Name": "Niagara Falls",
+    "Land": "Kanada/USA",
+    "Aktivitäten": [
+      "Wasserfälle besuchen",
+      "Schwimmen",
+      "Tauchen",
+      "Bootstouren"
+    ],
+    "Berühmte Gerichte": [
+      "Lachs",
+      "Garnelen",
+      "Lokale Desserts"
+    ]
+  },
+  {
+    "Name": "Monterey",
+    "Land": "Vereinigte Staaten von Amerika",
+    "Aktivitäten": [
+      "Tauchen",
+      "Schwimmen",
+      "Aquarien besuchen",
+      "Bootstouren"
+    ],
+    "Berühmte Gerichte": [
+      "Lokaler Fisch",
+      "Garnelen",
+      "Meeresfrüchte"
+    ]
+  },
+  {
+    "Name": "Isle of Portland",
+    "Land": "Vereinigtes Königreich",
+    "Aktivitäten": [
+      "Historische Wahrzeichen besuchen",
+      "Schwimmen",
+      "Tauchen",
+      "Bootstouren"
+    ],
+    "Berühmte Gerichte": [
+      "Fish and Chips",
+      "Lokales Fleisch",
+      "Britische Desserts"
+    ]
+  },
+  {
+    "Name": "Cornwall",
+    "Land": "Vereinigtes Königreich",
+    "Aktivitäten": [
+      "Schwimmen",
+      "Tauchen",
+      "Naturwanderungen",
+      "Dörfer besuchen"
+    ],
+    "Berühmte Gerichte": [
+      "Fish and Chips",
+      "Lokales Gemüse",
+      "Traditionelle Desserts"
+    ]
+  },
+  {
+    "Name": "Ischia",
+    "Land": "Italien",
+    "Aktivitäten": [
+      "Schwimmen",
+      "Tauchen",
+      "Bootstouren",
+      "Dörfer besuchen"
+    ],
+    "Berühmte Gerichte": [
+      "Pizza",
+      "Pasta",
+      "Mozzarella"
+    ]
+  },
+  {
+    "Name": "Capri",
+    "Land": "Italien",
+    "Aktivitäten": [
+      "Bootstouren",
+      "Höhlen besuchen",
+      "Wandern",
+      "Luxus-Einkaufen"
+    ],
+    "Berühmte Gerichte": [
+      "Capri-Pizza",
+      "Zitronenkäsekuchen",
+      "Mozzarella"
+    ]
+  },
+  {
+    "Name": "Elba",
+    "Land": "Italien",
+    "Aktivitäten": [
+      "Schwimmen",
+      "Tauchen",
+      "Bootstouren",
+      "Wandern"
+    ],
+    "Berühmte Gerichte": [
+      "Lokaler Fisch",
+      "Garnelen",
+      "Pizza"
+    ]
+  },
+  {
+    "Name": "Kuba",
+    "Land": "Kuba",
+    "Aktivitäten": [
+      "Historische Städte besuchen",
+      "Schwimmen",
+      "Tauchen",
+      "Bootstouren"
+    ],
+    "Berühmte Gerichte": [
+      "Ropa Vieja",
+      "Meeresfisch",
+      "Hühner-Curry"
+    ]
+  },
+  {
+    "Name": "Key West",
+    "Land": "Vereinigte Staaten von Amerika",
+    "Aktivitäten": [
+      "Schwimmen",
+      "Tauchen",
+      "Bootstouren",
+      "Dörfer besuchen"
+    ],
+    "Berühmte Gerichte": [
+      "Thunfisch",
+      "Garnelen",
+      "Meeresfrüchte"
+    ]
+  },
+  {
+    "Name": "Andros",
+    "Land": "Bahamas",
+    "Aktivitäten": [
+      "Tauchen",
+      "Schwimmen",
+      "Bootstouren",
+      "Wandern"
+    ],
+    "Berühmte Gerichte": [
+      "Lokaler Fisch",
+      "Garnelen",
+      "Meeresfrüchte-Desserts"
+    ]
+  },
+  {
+    "Name": "Naxos",
+    "Land": "Griechenland",
+    "Aktivitäten": [
+      "Dörfer besuchen",
+      "Schwimmen",
+      "Tauchen",
+      "Naturausflüge"
+    ],
+    "Berühmte Gerichte": [
+      "Souvlaki",
+      "Torta",
+      "Lokaler Käse"
+    ]
+  },
+  {
+    "Name": "Mykonos",
+    "Land": "Griechenland",
+    "Aktivitäten": [
+      "Strandpartys",
+      "Tauchen",
+      "Schwimmen",
+      "Dörfer besuchen"
+    ],
+    "Berühmte Gerichte": [
+      "Souvlaki",
+      "Paella",
+      "Lokale Desserts"
+    ]
+  },
+  {
+    "Name": "Rhodos",
+    "Land": "Griechenland",
+    "Aktivitäten": [
+      "Historische Wahrzeichen besuchen",
+      "Schwimmen",
+      "Tauchen",
+      "Bootstouren"
+    ],
+    "Berühmte Gerichte": [
+      "Moussaka",
+      "Souvlaki",
+      "Griechische Desserts"
+    ]
+  },
+  {
+    "Name": "Kreta",
+    "Land": "Griechenland",
+    "Aktivitäten": [
+      "Tempelbesuche",
+      "Naturwanderungen",
+      "Tauchen",
+      "Weintouren"
+    ],
+    "Berühmte Gerichte": [
+      "Moussaka",
+      "Souvlaki",
+      "Dakos"
+    ]
+  },
+  {
+    "Name": "Zakynthos",
+    "Land": "Griechenland",
+    "Aktivitäten": [
+      "Schwimmen",
+      "Tauchen",
+      "Bootstouren",
+      "Strände besuchen"
+    ],
+    "Berühmte Gerichte": [
+      "Torta",
+      "Lokale Desserts",
+      "Gegrillter Fisch"
+    ]
+  },
+  {
+    "Name": "Korfu",
+    "Land": "Griechenland",
+    "Aktivitäten": [
+      "Dörfer besuchen",
+      "Schwimmen",
+      "Tauchen",
+      "Bootstouren"
+    ],
+    "Berühmte Gerichte": [
+      "Souvlaki",
+      "Tzatziki",
+      "Pastitsada"
+    ]
+  },
+  {
+    "Name": "Santorin",
+    "Land": "Griechenland",
+    "Aktivitäten": [
+      "Sonnenuntergang beobachten",
+      "Weiße Dörfer besuchen",
+      "Weintouren",
+      "An den Stränden schwimmen"
+    ],
+    "Berühmte Gerichte": [
+      "Tomatenkeftedes",
+      "Feta",
+      "Joghurt mit Honig"
+    ]
+  }
+]

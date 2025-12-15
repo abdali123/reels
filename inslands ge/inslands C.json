@@ -1,0 +1,152 @@
+[
+  {
+    "Name": "Cookinseln",
+    "Land": "Cookinseln",
+    "Aktivitäten": ["Schwimmen", "Schnorcheln", "Bootstouren", "Dörfer besuchen"],
+    "Berühmte Gerichte": ["Thunfisch", "Hühner-Curry", "Tropische Früchte"]
+  },
+  {
+    "Name": "Tahiti",
+    "Land": "Französisch-Polynesien",
+    "Aktivitäten": ["Schnorcheln", "Schwimmen", "Bootstouren", "Dörfer besuchen"],
+    "Berühmte Gerichte": ["Poisson Cru", "Fischcurry", "Tropische Früchte"]
+  },
+  {
+    "Name": "Punta Cana",
+    "Land": "Dominikanische Republik",
+    "Aktivitäten": ["Tauchen", "Schwimmen", "Bootstouren", "Wassersport"],
+    "Berühmte Gerichte": ["Lokaler Fisch", "Garnelen", "Gegrillter Hummer"]
+  },
+  {
+    "Name": "Neukaledonien - Grande Terre",
+    "Land": "Frankreich",
+    "Aktivitäten": ["Schnorcheln", "Bootstouren", "Schwimmen", "Naturwanderungen"],
+    "Berühmte Gerichte": ["Garnelen-Curry", "Lokaler Fisch", "Tropische Früchte"]
+  },
+  {
+    "Name": "Neukaledonien - Lifou",
+    "Land": "Frankreich",
+    "Aktivitäten": ["Schnorcheln", "Bootstouren", "Dörfer besuchen", "Schwimmen"],
+    "Berühmte Gerichte": ["Fischcurry", "Garnelen", "Lokale Süßigkeiten"]
+  },
+  {
+    "Name": "Huahine",
+    "Land": "Französisch-Polynesien",
+    "Aktivitäten": ["Schnorcheln", "Bootstouren", "Schwimmen", "Wandern"],
+    "Berühmte Gerichte": ["Thunfisch", "Hühner-Curry", "Tropische Früchte"]
+  },
+  {
+    "Name": "St. Helena",
+    "Land": "Vereinigtes Königreich",
+    "Aktivitäten": ["Naturwanderungen", "Historische Stätten besuchen", "Schnorcheln", "Bootstouren"],
+    "Berühmte Gerichte": ["Gegrillter Fisch", "Lokales Gemüse", "Traditionelle Süßigkeiten"]
+  },
+  {
+    "Name": "Kangaroo Island",
+    "Land": "Australien",
+    "Aktivitäten": ["Waldausflüge", "Schwimmen", "Schnorcheln", "Dörfer besuchen"],
+    "Berühmte Gerichte": ["Garnelen", "Lokaler Fisch", "Meeresfrüchte"]
+  },
+  {
+    "Name": "Prince Edward Island",
+    "Land": "Kanada",
+    "Aktivitäten": ["Naturwanderungen", "Dörfer besuchen", "Schwimmen", "Schnorcheln"],
+    "Berühmte Gerichte": ["Kartoffelbrei", "Lokales Fleisch", "Kanadische Süßigkeiten"]
+  },
+  {
+    "Name": "Vancouver Island",
+    "Land": "Kanada",
+    "Aktivitäten": ["Naturwanderungen", "Schwimmen", "Schnorcheln", "Skifahren"],
+    "Berühmte Gerichte": ["Lachs", "Garnelen", "Meeresfrüchte"]
+  },
+  {
+    "Name": "St. Thomas",
+    "Land": "Amerikanische Jungferninseln",
+    "Aktivitäten": ["Schwimmen", "Schnorcheln", "Bootstouren", "Einkaufen"],
+    "Berühmte Gerichte": ["Garnelen", "Thunfisch", "Meeresfrüchte-Gerichte"]
+  },
+  {
+    "Name": "St. John",
+    "Land": "Amerikanische Jungferninseln",
+    "Aktivitäten": ["Tauchen", "Schwimmen", "Bootstouren", "Wandern"],
+    "Berühmte Gerichte": ["Gegrillter Fisch", "Garnelen", "Lokale Süßigkeiten"]
+  },
+  {
+    "Name": "Isla Grande",
+    "Land": "Panama",
+    "Aktivitäten": ["Schnorcheln", "Schwimmen", "Naturwanderungen", "Bootstouren"],
+    "Berühmte Gerichte": ["Lokaler Fisch", "Garnelen-Curry", "Tropische Früchte"]
+  },
+  {
+    "Name": "Isla Mujeres",
+    "Land": "Mexiko",
+    "Aktivitäten": ["Schwimmen", "Schnorcheln", "Bootstouren", "Wandern"],
+    "Berühmte Gerichte": ["Tacos", "Lokaler Fisch", "Mexikanische Süßigkeiten"]
+  },
+  {
+    "Name": "Hispaniola",
+    "Land": "Dominikanische Republik/Haiti",
+    "Aktivitäten": ["Schwimmen", "Tauchen", "Bootstouren", "Dörfer besuchen"],
+    "Berühmte Gerichte": ["Hühner-Reis", "Garnelen", "Tropische Früchte"]
+  },
+  {
+    "Name": "Jamaika",
+    "Land": "Jamaika",
+    "Aktivitäten": ["Schwimmen", "Schnorcheln", "Wasserfälle besuchen", "Naturwanderungen"],
+    "Berühmte Gerichte": ["Jerk Chicken", "Gegrillter Fisch", "Lokale Gerichte"]
+  },
+  {
+    "Name": "Kuba",
+    "Land": "Kuba",
+    "Aktivitäten": ["Historische Städte besuchen", "Schwimmen", "Tauchen", "Bootstouren"],
+    "Berühmte Gerichte": ["Ropa Vieja", "Meeresfrüchte", "Hühner-Curry"]
+  },
+  {
+    "Name": "Aruba",
+    "Land": "Aruba",
+    "Aktivitäten": ["Schwimmen", "Schnorcheln", "Bootstouren", "Einkaufen"],
+    "Berühmte Gerichte": ["Garnelen", "Thunfisch", "Lokale Süßigkeiten"]
+  },
+  {
+    "Name": "Curaçao",
+    "Land": "Curaçao",
+    "Aktivitäten": ["Schnorcheln", "Schwimmen", "Dörfer besuchen", "Bootstouren"],
+    "Berühmte Gerichte": ["Lokaler Fisch", "Garnelen", "Meeresfrüchte"]
+  },
+  {
+    "Name": "Bonaire",
+    "Land": "Bonaire",
+    "Aktivitäten": ["Schnorcheln", "Schwimmen", "Bootstouren", "Wandern"],
+    "Berühmte Gerichte": ["Lokaler Fisch", "Garnelen", "Traditionelle Süßigkeiten"]
+  },
+  {
+    "Name": "Saba",
+    "Land": "Saba",
+    "Aktivitäten": ["Wanderungen", "Schnorcheln", "Schwimmen", "Dörfer besuchen"],
+    "Berühmte Gerichte": ["Fischcurry", "Garnelen", "Meeresfrüchte"]
+  },
+  {
+    "Name": "St. Kitts",
+    "Land": "St. Kitts und Nevis",
+    "Aktivitäten": ["Schwimmen", "Schnorcheln", "Bootstouren", "Dörfer besuchen"],
+    "Berühmte Gerichte": ["Garnelen", "Lokaler Fisch", "Lokale Süßigkeiten"]
+  },
+  {
+    "Name": "Neufundland",
+    "Land": "Kanada",
+    "Aktivitäten": ["Naturwanderungen", "Schnorcheln", "Schwimmen", "Vogelbeobachtung"],
+    "Berühmte Gerichte": ["Kabeljau", "Garnelen", "Meeresfrüchte"]
+  },
+  {
+    "Name": "Bermuda",
+    "Land": "Vereinigtes Königreich",
+    "Aktivitäten": ["Schwimmen", "Schnorcheln", "Bootstouren", "Wandern"],
+    "Berühmte Gerichte": ["Lokaler Fisch", "Garnelen", "Meeresfrüchte"]
+  },
+  {
+    "Name": "Guadeloupe",
+    "Land": "Frankreich",
+    "Aktivitäten": ["Schnorcheln", "Schwimmen", "Naturausflüge", "Dörfer besuchen"],
+    "Berühmte Gerichte": ["Hühner-Curry", "Garnelen", "Lokale Süßigkeiten"]
+  }
+]

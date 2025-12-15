@@ -1,0 +1,152 @@
+[
+  {
+    "Name": "Bali",
+    "Land": "Indonesien",
+    "Aktivitäten": ["Tauchen", "Surfen", "Tempelbesuche", "Naturausflüge"],
+    "Berühmte Gerichte": ["Nasi Goreng", "Satay", "Babi Guling"]
+  },
+  {
+    "Name": "Maui",
+    "Land": "Vereinigte Staaten von Amerika (Hawaii)",
+    "Aktivitäten": ["Schnorcheln", "Walbeobachtung", "Wasserfallwanderungen", "Surfen"],
+    "Berühmte Gerichte": ["Poke Bowl", "Hawaiianischer Schokoladenkuchen", "Oka-Garnelen"]
+  },
+  {
+    "Name": "Santorin",
+    "Land": "Griechenland",
+    "Aktivitäten": ["Sonnenuntergang ansehen", "Weiße Dörfer besuchen", "Weintouren", "Am Strand schwimmen"],
+    "Berühmte Gerichte": ["Tomatenkeftedes", "Feta", "Fava"]
+  },
+  {
+    "Name": "Seychellen",
+    "Land": "Seychellen",
+    "Aktivitäten": ["Tauchen", "Schwimmen", "Naturwanderungen", "Vogelbeobachtung"],
+    "Berühmte Gerichte": ["Fischcurry", "Hummer", "Seychellischer Korb"]
+  },
+  {
+    "Name": "Boracay",
+    "Land": "Philippinen",
+    "Aktivitäten": ["Schnorcheln", "Kajakfahren", "Sonnenuntergang ansehen", "Strandpartys"],
+    "Berühmte Gerichte": ["Adobo", "Lechon", "Pansit"]
+  },
+  {
+    "Name": "Koh Hai",
+    "Land": "Thailand",
+    "Aktivitäten": ["Felsklettern", "Schwimmen", "Bootsfahrten", "Tauchen"],
+    "Berühmte Gerichte": ["Pad Thai", "Tom Yum", "Grüner Curry"]
+  },
+  {
+    "Name": "Capri",
+    "Land": "Italien",
+    "Aktivitäten": ["Bootstouren", "Höhlenbesuche", "Wanderungen", "Luxus-Einkaufen"],
+    "Berühmte Gerichte": ["Capri-Pizza", "Mozzarella", "Zitronenkäsekuchen"]
+  },
+  {
+    "Name": "Mauritius",
+    "Land": "Mauritius",
+    "Aktivitäten": ["Tauchen", "Surfen", "Botanische Gärten besuchen", "Seereisen"],
+    "Berühmte Gerichte": ["Dal Puri", "Roti", "Garnelen-Curry"]
+  },
+  {
+    "Name": "Korsika",
+    "Land": "Frankreich",
+    "Aktivitäten": ["Bergwanderungen", "Schwimmen", "Wassersport", "Historische Städte besuchen"],
+    "Berühmte Gerichte": ["Cazzili", "Canistrelli", "Stufatu"]
+  },
+  {
+    "Name": "Tasmanien",
+    "Land": "Australien",
+    "Aktivitäten": ["Naturwanderungen", "Nationalparks besuchen", "Wasserski", "Wildtierbeobachtung"],
+    "Berühmte Gerichte": ["Kängurufleisch", "Tasmanischer Lachs", "Meeresfrüchte"]
+  },
+  {
+    "Name": "Honshu",
+    "Land": "Japan",
+    "Aktivitäten": ["Tempelbesuche", "Einkaufen", "Naturspaziergänge", "Skifahren"],
+    "Berühmte Gerichte": ["Sushi", "Ramen", "Udon"]
+  },
+  {
+    "Name": "Neuseeland - Nordinsel",
+    "Land": "Neuseeland",
+    "Aktivitäten": ["Wanderungen", "Schnorcheln", "Kajakfahren", "Vulkane besuchen"],
+    "Berühmte Gerichte": ["Hāngi", "Lammkuchen", "Hokey Pokey Eis"]
+  },
+  {
+    "Name": "Neuseeland - Südinsel",
+    "Land": "Neuseeland",
+    "Aktivitäten": ["Skifahren", "Lange Wanderungen", "Kajakfahren", "Nationalparks besuchen"],
+    "Berühmte Gerichte": ["Pavlova", "Lammfleisch", "Hokey Pokey Eis"]
+  },
+  {
+    "Name": "Kauai",
+    "Land": "Vereinigte Staaten von Amerika (Hawaii)",
+    "Aktivitäten": ["Wasserfälle ansehen", "Schnorcheln", "Naturwanderungen", "Surfen"],
+    "Berühmte Gerichte": ["Poke Bowl", "Piña Colada", "Hawaiianischer Schokoladenkuchen"]
+  },
+  {
+    "Name": "Malediven",
+    "Land": "Malediven",
+    "Aktivitäten": ["Schnorcheln", "Schwimmen", "Seereisen", "In Resorts entspannen"],
+    "Berühmte Gerichte": ["Thunfisch", "Curry-Reis", "Lokale Süßigkeiten"]
+  },
+  {
+    "Name": "Borneo",
+    "Land": "Indonesien/Malaysia/Brunei",
+    "Aktivitäten": ["Waldausflüge", "Wildtierbeobachtung", "Tauchen", "Bootstouren"],
+    "Berühmte Gerichte": ["Satay", "Nasi Kerabu", "Borneo-Ramen"]
+  },
+  {
+    "Name": "Sumatra",
+    "Land": "Indonesien",
+    "Aktivitäten": ["Naturwanderungen", "Vulkane besuchen", "Tauchen", "Elefantenbeobachtung"],
+    "Berühmte Gerichte": ["Rendang", "Gado-Gado", "Tempoyak"]
+  },
+  {
+    "Name": "Seychellen - La Digue",
+    "Land": "Seychellen",
+    "Aktivitäten": ["Schnorcheln", "Schwimmen", "Naturwanderungen", "Fotografie"],
+    "Berühmte Gerichte": ["Fischcurry", "Hummer", "Curry-Reis"]
+  },
+  {
+    "Name": "Phuket",
+    "Land": "Thailand",
+    "Aktivitäten": ["Tauchen", "Bootsfahrten", "Tempelbesuche", "Schwimmen"],
+    "Berühmte Gerichte": ["Pad Thai", "Tom Yum", "Grüner Curry"]
+  },
+  {
+    "Name": "Java",
+    "Land": "Indonesien",
+    "Aktivitäten": ["Tempelbesuche", "Einkaufen", "Naturspaziergänge", "Kulturelle Erkundung"],
+    "Berühmte Gerichte": ["Nasi Goreng", "Satay", "Javanischer Ramen"]
+  },
+  {
+    "Name": "Sardinien",
+    "Land": "Italien",
+    "Aktivitäten": ["Schwimmen", "Schnorcheln", "Dörfer-Touren", "Strandbesuche"],
+    "Berühmte Gerichte": ["Grigliata Mista", "Cannoli", "Mozzarella"]
+  },
+  {
+    "Name": "Nizza",
+    "Land": "Frankreich",
+    "Aktivitäten": ["Einkaufen", "Strandbesuche", "Stadtspaziergänge", "Wassersport"],
+    "Berühmte Gerichte": ["Salade Niçoise", "Bouillabaisse", "Pissaladière"]
+  },
+  {
+    "Name": "Koh Samui",
+    "Land": "Thailand",
+    "Aktivitäten": ["Schwimmen", "Schnorcheln", "Bootstouren", "Wellness"],
+    "Berühmte Gerichte": ["Pad Thai", "Tom Yum", "Massaman-Curry"]
+  },
+  {
+    "Name": "Malta",
+    "Land": "Malta",
+    "Aktivitäten": ["Historische Sehenswürdigkeiten besuchen", "Schnorcheln", "Schwimmen", "Bootstouren"],
+    "Berühmte Gerichte": ["Kaninchen-Eintopf", "Pastizzi", "Biskuttini"]
+  },
+  {
+    "Name": "Kap Verde",
+    "Land": "Kap Verde",
+    "Aktivitäten": ["Schwimmen", "Schnorcheln", "Musik und Tanz", "Bergausflüge"],
+    "Berühmte Gerichte": ["Cachupa", "Kapverdischer Eintopf", "Couscous"]
+  }
+]

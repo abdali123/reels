@@ -1,0 +1,152 @@
+[
+  {
+    "Nome": "Bali",
+    "País": "Indonésia",
+    "Atividades": ["Mergulho", "Surf", "Visitar Templos", "Passeios na Natureza"],
+    "Pratos Famosos": ["Nasi Goreng", "Satay", "Babi Guling"]
+  },
+  {
+    "Nome": "Maui",
+    "País": "Estados Unidos da América (Havaí)",
+    "Atividades": ["Snorkeling", "Observação de Baleias", "Caminhada em Cachoeiras", "Surf"],
+    "Pratos Famosos": ["Poke Bowl", "Chocolate Pokémon", "Camarão Oka"]
+  },
+  {
+    "Nome": "Santorini",
+    "País": "Grécia",
+    "Atividades": ["Observação do Pôr do Sol", "Visitar Aldeias Brancas", "Tours de Vinho", "Nadar nas Praias"],
+    "Pratos Famosos": ["Tomate Keftedes", "Feta", "Fava"]
+  },
+  {
+    "Nome": "Seicheles",
+    "País": "Seicheles",
+    "Atividades": ["Mergulho", "Natação", "Caminhada na Natureza", "Observação de Aves"],
+    "Pratos Famosos": ["Curry de Peixe", "Lagosta", "Panier Seichelense"]
+  },
+  {
+    "Nome": "Boracay",
+    "País": "Filipinas",
+    "Atividades": ["Snorkeling", "Caique", "Observação do Pôr do Sol", "Festas na Praia"],
+    "Pratos Famosos": ["Adobo", "Lechon", "Pansit"]
+  },
+  {
+    "Nome": "Koh Hai",
+    "País": "Tailândia",
+    "Atividades": ["Escalada", "Natação", "Passeio de Barco", "Mergulho"],
+    "Pratos Famosos": ["Pad Thai", "Tom Yum", "Curry Verde"]
+  },
+  {
+    "Nome": "Capri",
+    "País": "Itália",
+    "Atividades": ["Tours de Barco", "Visitar Grutas", "Caminhada", "Compras de Luxo"],
+    "Pratos Famosos": ["Pizza Caprese", "Mussarela", "Cheesecake de Limão"]
+  },
+  {
+    "Nome": "Maurício",
+    "País": "Maurício",
+    "Atividades": ["Mergulho", "Surf", "Visitar Jardins Botânicos", "Cruzeiros Marítimos"],
+    "Pratos Famosos": ["Dal Puri", "Roti", "Curry de Camarão"]
+  },
+  {
+    "Nome": "Córsega",
+    "País": "França",
+    "Atividades": ["Caminhada na Montanha", "Natação", "Esportes Aquáticos", "Visitar Cidades Históricas"],
+    "Pratos Famosos": ["Cazzili", "Canistrelli", "Stufatu"]
+  },
+  {
+    "Nome": "Tasmânia",
+    "País": "Austrália",
+    "Atividades": ["Caminhada na Natureza", "Visitar Parques Nacionais", "Esqui Aquático", "Observação da Vida Selvagem"],
+    "Pratos Famosos": ["Carne de Canguru", "Salmão Tasmânio", "Frutos do Mar"]
+  },
+  {
+    "Nome": "Honshu",
+    "País": "Japão",
+    "Atividades": ["Visitar Templos", "Compras", "Passeios na Natureza", "Esqui"],
+    "Pratos Famosos": ["Sushi", "Ramen", "Udon"]
+  },
+  {
+    "Nome": "Nova Zelândia - Ilha do Norte",
+    "País": "Nova Zelândia",
+    "Atividades": ["Caminhadas", "Snorkeling", "Caique", "Visitar Vulcões"],
+    "Pratos Famosos": ["Hāngi", "Bolo de Cabra", "Hokey Pokey"]
+  },
+  {
+    "Nome": "Nova Zelândia - Ilha do Sul",
+    "País": "Nova Zelândia",
+    "Atividades": ["Esqui", "Caminhadas Longas", "Caique", "Visitar Parques Nacionais"],
+    "Pratos Famosos": ["Pavlova", "Carne de Cordeiro", "Hokey Pokey"]
+  },
+  {
+    "Nome": "Kauai",
+    "País": "Estados Unidos da América (Havaí)",
+    "Atividades": ["Observação de Cachoeiras", "Snorkeling", "Caminhada na Natureza", "Surf"],
+    "Pratos Famosos": ["Poke Bowl", "Pina Colada", "Chocolate Havaiano"]
+  },
+  {
+    "Nome": "Maldivas",
+    "País": "Maldivas",
+    "Atividades": ["Snorkeling", "Natação", "Cruzeiros Marítimos", "Relaxar em Resorts"],
+    "Pratos Famosos": ["Atum", "Arroz com Curry", "Doces Locais"]
+  },
+  {
+    "Nome": "Bornéu",
+    "País": "Indonésia/Malásia/Brunei",
+    "Atividades": ["Passeios na Floresta", "Observação da Vida Selvagem", "Mergulho", "Passeios de Barco"],
+    "Pratos Famosos": ["Satay", "Nasi Kerabu", "Ramen de Bornéu"]
+  },
+  {
+    "Nome": "Sumatra",
+    "País": "Indonésia",
+    "Atividades": ["Caminhada na Natureza", "Visitar Vulcões", "Mergulho", "Observação de Elefantes"],
+    "Pratos Famosos": ["Rendang", "Gado-Gado", "Tempoyak"]
+  },
+  {
+    "Nome": "Seicheles La Digue",
+    "País": "Seicheles",
+    "Atividades": ["Snorkeling", "Natação", "Caminhada na Natureza", "Fotografia"],
+    "Pratos Famosos": ["Curry de Peixe", "Lagosta", "Arroz com Curry"]
+  },
+  {
+    "Nome": "Phuket",
+    "País": "Tailândia",
+    "Atividades": ["Mergulho", "Passeio de Barco", "Visitar Templos", "Natação"],
+    "Pratos Famosos": ["Pad Thai", "Tom Yum", "Curry Verde"]
+  },
+  {
+    "Nome": "Java",
+    "País": "Indonésia",
+    "Atividades": ["Visitar Templos", "Compras", "Passeios na Natureza", "Exploração Cultural"],
+    "Pratos Famosos": ["Nasi Goreng", "Satay", "Ramen Javanês"]
+  },
+  {
+    "Nome": "Sardenha",
+    "País": "Itália",
+    "Atividades": ["Natação", "Snorkeling", "Tours de Aldeias", "Visitas a Praias"],
+    "Pratos Famosos": ["Grigliata", "Cannoli", "Mussarela"]
+  },
+  {
+    "Nome": "Nice",
+    "País": "França",
+    "Atividades": ["Compras", "Visitas a Praias", "Passeios pela Cidade", "Esportes Aquáticos"],
+    "Pratos Famosos": ["Salada Niçoise", "Bouillabaisse", "Pissaladière"]
+  },
+  {
+    "Nome": "Koh Samui",
+    "País": "Tailândia",
+    "Atividades": ["Natação", "Snorkeling", "Passeios de Barco", "Spa"],
+    "Pratos Famosos": ["Pad Thai", "Tom Yum", "Curry Massaman"]
+  },
+  {
+    "Nome": "Malta",
+    "País": "Malta",
+    "Atividades": ["Visitar Marcos Históricos", "Snorkeling", "Natação", "Passeios de Barco"],
+    "Pratos Famosos": ["Ensopado de Coelho", "Pastizzi", "Biskuttini"]
+  },
+  {
+    "Nome": "Cabo Verde",
+    "País": "Cabo Verde",
+    "Atividades": ["Natação", "Snorkeling", "Música e Dança", "Passeios na Montanha"],
+    "Pratos Famosos": ["Cachupa", "Ensopado Cabo-verdiano", "Cuscus"]
+  }
+]

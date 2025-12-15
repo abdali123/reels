@@ -1,0 +1,152 @@
+[
+  {
+    "nom": "Îles Cook",
+    "pays": "Îles Cook",
+    "activités": ["natation", "plongée avec tuba", "excursions en bateau", "visites de villages"],
+    "plats_célèbres": ["thon", "curry de poulet", "fruits tropicaux"]
+  },
+  {
+    "nom": "Tahiti",
+    "pays": "Polynésie française",
+    "activités": ["plongée avec tuba", "natation", "excursions en bateau", "visites de villages"],
+    "plats_célèbres": ["poisson cru", "curry de poisson", "fruits tropicaux"]
+  },
+  {
+    "nom": "Punta Cana",
+    "pays": "Bahamas",
+    "activités": ["plongée sous-marine", "natation", "excursions en bateau", "sports nautiques"],
+    "plats_célèbres": ["poisson local", "crevettes", "homard grillé"]
+  },
+  {
+    "nom": "Nouvelle-Calédonie - Grande Terre",
+    "pays": "France",
+    "activités": ["plongée avec tuba", "excursions en bateau", "natation", "randonnées nature"],
+    "plats_célèbres": ["curry de crevettes", "poisson local", "fruits tropicaux"]
+  },
+  {
+    "nom": "Nouvelle-Calédonie - Le Yat",
+    "pays": "France",
+    "activités": ["plongée avec tuba", "excursions en bateau", "visites de villages", "natation"],
+    "plats_célèbres": ["curry de poisson", "crevettes", "douceurs locales"]
+  },
+  {
+    "nom": "Huahine",
+    "pays": "Polynésie française",
+    "activités": ["plongée avec tuba", "excursions en bateau", "natation", "randonnée"],
+    "plats_célèbres": ["thon", "curry de poulet", "fruits tropicaux"]
+  },
+  {
+    "nom": "Sainte-Hélène",
+    "pays": "Royaume-Uni",
+    "activités": ["promenades nature", "visites de sites historiques", "plongée avec tuba", "excursions en bateau"],
+    "plats_célèbres": ["poisson grillé", "légumes locaux", "douceurs traditionnelles"]
+  },
+  {
+    "nom": "Old Hawthorn",
+    "pays": "Australie",
+    "activités": ["excursions en forêt", "natation", "plongée avec tuba", "visites de villages"],
+    "plats_célèbres": ["crevettes", "poisson hota", "fruits de mer"]
+  },
+  {
+    "nom": "Île-du-Prince-Édouard",
+    "pays": "Canada",
+    "activités": ["promenades nature", "visites de villages", "natation", "plongée avec tuba"],
+    "plats_célèbres": ["orge aux pommes de terre", "viande locale", "douceurs canadiennes"]
+  },
+  {
+    "nom": "Île de Vancouver",
+    "pays": "Canada",
+    "activités": ["randonnées nature", "natation", "plongée avec tuba", "ski"],
+    "plats_célèbres": ["saumon", "crevettes", "fruits de mer"]
+  },
+  {
+    "nom": "Île Saint-Thomas",
+    "pays": "États-Unis d'Amérique",
+    "activités": ["natation", "plongée avec tuba", "excursions en bateau", "shopping"],
+    "plats_célèbres": ["crevettes", "thon", "plats de fruits de mer"]
+  },
+  {
+    "nom": "Île Saint-John",
+    "pays": "États-Unis d'Amérique",
+    "activités": ["plongée sous-marine", "natation", "excursions en bateau", "randonnée"],
+    "plats_célèbres": ["poisson grillé", "crevettes", "douceurs locales"]
+  },
+  {
+    "nom": "Île Tobelo",
+    "pays": "Panama",
+    "activités": ["plongée avec tuba", "natation", "randonnées nature", "excursions en bateau"],
+    "plats_célèbres": ["poisson local", "curry de crevettes", "fruits tropicaux"]
+  },
+  {
+    "nom": "Île Acapulco",
+    "pays": "Mexique",
+    "activités": ["natation", "plongée avec tuba", "excursions en bateau", "randonnée"],
+    "plats_célèbres": ["taco", "poisson local", "douceurs mexicaines"]
+  },
+  {
+    "nom": "Île Hispaniola",
+    "pays": "République dominicaine/Haïti",
+    "activités": ["natation", "plongée sous-marine", "excursions en bateau", "visites de villages"],
+    "plats_célèbres": ["riz au poulet", "crevettes", "fruits tropicaux"]
+  },
+  {
+    "nom": "Île de la Jamaïque",
+    "pays": "Jamaïque",
+    "activités": ["natation", "plongée avec tuba", "visites de cascades", "promenades nature"],
+    "plats_célèbres": ["poulet jerk", "poisson grillé", "plats locaux"]
+  },
+  {
+    "nom": "Île de Cuba",
+    "pays": "Cuba",
+    "activités": ["visites de villes historiques", "natation", "plongée sous-marine", "excursions en bateau"],
+    "plats_célèbres": ["ropa vieja", "fruits de mer", "curry de poulet"]
+  },
+  {
+    "nom": "Île d'Aruba",
+    "pays": "Aruba",
+    "activités": ["natation", "plongée avec tuba", "excursions en bateau", "shopping"],
+    "plats_célèbres": ["crevettes", "thon", "douceurs locales"]
+  },
+  {
+    "nom": "Île de Curaçao",
+    "pays": "Curaçao",
+    "activités": ["plongée avec tuba", "natation", "visites de villages", "excursions en bateau"],
+    "plats_célèbres": ["poisson local", "crevettes", "fruits de mer"]
+  },
+  {
+    "nom": "Île de Bonaire",
+    "pays": "Bonaire",
+    "activités": ["plongée avec tuba", "natation", "excursions en bateau", "randonnée"],
+    "plats_célèbres": ["poisson local", "crevettes", "douceurs traditionnelles"]
+  },
+  {
+    "nom": "Île de Saba",
+    "pays": "Saba",
+    "activités": ["excursions de randonnée", "plongée avec tuba", "natation", "visites de villages"],
+    "plats_célèbres": ["curry de poisson", "crevettes", "fruits de mer"]
+  },
+  {
+    "nom": "Île Saint-Kitts",
+    "pays": "Saint-Christophe-et-Niévès",
+    "activités": ["natation", "plongée avec tuba", "excursions en bateau", "visites de villages"],
+    "plats_célèbres": ["crevettes", "poisson local", "douceurs locales"]
+  },
+  {
+    "nom": "Île de Terre-Neuve",
+    "pays": "Canada",
+    "activités": ["randonnées nature", "plongée avec tuba", "natation", "observation des oiseaux"],
+    "plats_célèbres": ["morue", "crevettes", "fruits de mer"]
+  },
+  {
+    "nom": "Île des Bermudes",
+    "pays": "Grande-Bretagne",
+    "activités": ["natation", "plongée avec tuba", "excursions en bateau", "randonnée"],
+    "plats_célèbres": ["poisson local", "crevettes", "fruits de mer"]
+  },
+  {
+    "nom": "Île de la Guadeloupe",
+    "pays": "France",
+    "activités": ["plongée avec tuba", "natation", "excursions nature", "visites de villages"],
+    "plats_célèbres": ["curry de poulet", "crevettes", "douceurs locales"]
+  }
+]

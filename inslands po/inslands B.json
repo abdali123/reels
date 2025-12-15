@@ -1,0 +1,377 @@
+[
+  {
+    "Nome": "Corfu",
+    "País": "Grécia",
+    "Atividades": [
+      "Visitar Aldeias",
+      "Natação",
+      "Mergulho Autônomo",
+      "Tours de Barco"
+    ],
+    "Pratos Famosos": [
+      "Souvlaki",
+      "Tzatziki",
+      "Gyros"
+    ]
+  },
+  {
+    "Nome": "Creta",
+    "País": "Grécia",
+    "Atividades": [
+      "Visitar Templos",
+      "Passeios na Natureza",
+      "Snorkeling",
+      "Tours de Vinho"
+    ],
+    "Pratos Famosos": [
+      "Moussaka",
+      "Souvlaki",
+      "Dakos"
+    ]
+  },
+  {
+    "Nome": "Bora Bora",
+    "País": "Polinésia Francesa",
+    "Atividades": [
+      "Snorkeling",
+      "Natação",
+      "Cruzeiros",
+      "Relaxar em Resorts"
+    ],
+    "Pratos Famosos": [
+      "Poisson Cru",
+      "Taro",
+      "Atum"
+    ]
+  },
+  {
+    "Nome": "Madeira",
+    "País": "Portugal",
+    "Atividades": [
+      "Caminhada",
+      "Visitar Cachoeiras",
+      "Snorkeling",
+      "Observação de Golfinhos"
+    ],
+    "Pratos Famosos": [
+      "Espetada",
+      "Marzipã",
+      "Bolo de Mel"
+    ]
+  },
+  {
+    "Nome": "Santa Lúcia",
+    "País": "Santa Lúcia",
+    "Atividades": [
+      "Snorkeling",
+      "Natação",
+      "Passeios na Natureza",
+      "Escalada"
+    ],
+    "Pratos Famosos": [
+      "Camarão ao Curry",
+      "Pão Local",
+      "Frutas Tropicais"
+    ]
+  },
+  {
+    "Nome": "Barbados",
+    "País": "Barbados",
+    "Atividades": [
+      "Natação",
+      "Snorkeling",
+      "Visitas a Praias",
+      "Passeios de Barco"
+    ],
+    "Pratos Famosos": [
+      "Camarão",
+      "Peixe Grelhado",
+      "Pudim Local"
+    ]
+  },
+  {
+    "Nome": "Havaí - Oahu",
+    "País": "Estados Unidos (Havaí)",
+    "Atividades": [
+      "Passeio pela Cidade",
+      "Surf",
+      "Passeios na Natureza",
+      "Mergulho Autônomo"
+    ],
+    "Pratos Famosos": [
+      "Poke",
+      "Poi",
+      "Chocolate Havaiano"
+    ]
+  },
+  {
+    "Nome": "Ilhas Faroé",
+    "País": "Dinamarca",
+    "Atividades": [
+      "Passeios na Natureza",
+      "Observação de Aves",
+      "Snorkeling",
+      "Tours de Barco"
+    ],
+    "Pratos Famosos": [
+      "Bacalhau",
+      "Mistura de Frutos do Mar",
+      "Pão Faroês"
+    ]
+  },
+  {
+    "Nome": "Ilha do Camarão",
+    "País": "Austrália",
+    "Atividades": [
+      "Mergulho Autônomo",
+      "Natação",
+      "Caminhada",
+      "Tours de Barco"
+    ],
+    "Pratos Famosos": [
+      "Camarões",
+      "Pargo",
+      "Variedade de Frutos do Mar"
+    ]
+  },
+  {
+    "Nome": "Capri",
+    "País": "Itália",
+    "Atividades": [
+      "Natação",
+      "Visitar Sítios Históricos",
+      "Caminhada",
+      "Tours de Barco"
+    ],
+    "Pratos Famosos": [
+      "Massa",
+      "Pizza Napolitana",
+      "Mussarela"
+    ]
+  },
+  {
+    "Nome": "Malapascua",
+    "País": "Filipinas",
+    "Atividades": [
+      "Snorkeling",
+      "Natação",
+      "Caminhada",
+      "Compras Locais"
+    ],
+    "Pratos Famosos": [
+      "Adobo",
+      "Pancit",
+      "Lechon"
+    ]
+  },
+  {
+    "Nome": "Ilha de Wight",
+    "País": "Reino Unido",
+    "Atividades": [
+      "Caminhadas na Praia",
+      "Visitar Aldeias",
+      "Natação",
+      "Fotografia"
+    ],
+    "Pratos Famosos": [
+      "Peixe com Batatas",
+      "Pão Tradicional",
+      "Doces Locais"
+    ]
+  },
+  {
+    "Nome": "Reunião",
+    "País": "França",
+    "Atividades": [
+      "Caminhada na Montanha",
+      "Visitar Cachoeiras",
+      "Natação",
+      "Passeios de Mergulho"
+    ],
+    "Pratos Famosos": [
+      "Frango ao Curry",
+      "Atum",
+      "Frutas Tropicais"
+    ]
+  },
+  {
+    "Nome": "Maiorca",
+    "País": "Espanha",
+    "Atividades": [
+      "Visitar Aldeias",
+      "Natação",
+      "Mergulho Autônomo",
+      "Tours de Barco"
+    ],
+    "Pratos Famosos": [
+      "Paella",
+      "Ensaimada",
+      "Doces Locais"
+    ]
+  },
+  {
+    "Nome": "Ibiza",
+    "País": "Espanha",
+    "Atividades": [
+      "Festas na Praia",
+      "Mergulho Autônomo",
+      "Visitar Aldeias",
+      "Natação"
+    ],
+    "Pratos Famosos": [
+      "Paella",
+      "Flan",
+      "Peixe Grelhado"
+    ]
+  },
+  {
+    "Nome": "Ilhas Canárias - Tenerife",
+    "País": "Espanha",
+    "Atividades": [
+      "Esqui Aquático",
+      "Natação",
+      "Tours na Natureza",
+      "Observação de Vulcões"
+    ],
+    "Pratos Famosos": [
+      "Batatas Canárias",
+      "Paella",
+      "Frutos do Mar"
+    ]
+  },
+  {
+    "Nome": "Madagáscar",
+    "País": "Madagáscar",
+    "Atividades": [
+      "Safari",
+      "Visitar Parques Nacionais",
+      "Snorkeling",
+      "Caminhada"
+    ],
+    "Pratos Famosos": [
+      "Romazava",
+      "Pratos com Óleo de Palma",
+      "Frutas Tropicais"
+    ]
+  },
+  {
+    "Nome": "Fiji - Viti Levu",
+    "País": "Fiji",
+    "Atividades": [
+      "Mergulho Autônomo",
+      "Natação",
+      "Caique",
+      "Caminhada"
+    ],
+    "Pratos Famosos": [
+      "Kokoda",
+      "Peixe Grelhado",
+      "Frutas Tropicais"
+    ]
+  },
+  {
+    "Nome": "Fiji - Vanua Levu",
+    "País": "Fiji",
+    "Atividades": [
+      "Tours na Floresta",
+      "Snorkeling",
+      "Visitar Aldeias",
+      "Caminhada"
+    ],
+    "Pratos Famosos": [
+      "Roti",
+      "Curry de Peixe",
+      "Frutas Tropicais"
+    ]
+  },
+  {
+    "Nome": "Samoa - Upolu",
+    "País": "Samoa",
+    "Atividades": [
+      "Snorkeling",
+      "Natação",
+      "Tours na Natureza",
+      "Visitar Aldeias"
+    ],
+    "Pratos Famosos": [
+      "Palusami",
+      "Porco",
+      "Frutas Tropicais"
+    ]
+  },
+  {
+    "Nome": "Samoa - Savai'i",
+    "País": "Samoa",
+    "Atividades": [
+      "Caminhada na Natureza",
+      "Mergulho Autônomo",
+      "Visitar Cachoeiras",
+      "Tours de Barco"
+    ],
+    "Pratos Famosos": [
+      "Curry de Peixe",
+      "Porco",
+      "Frutas Tropicais"
+    ]
+  },
+  {
+    "Nome": "Antilhas Francesas - Guadalupe",
+    "País": "França",
+    "Atividades": [
+      "Mergulho Autônomo",
+      "Natação",
+      "Tours na Natureza",
+      "Visitar Aldeias"
+    ],
+    "Pratos Famosos": [
+      "Caldo",
+      "Frango ao Curry",
+      "Doces Locais"
+    ]
+  },
+  {
+    "Nome": "Antilhas Francesas - Martinica",
+    "País": "França",
+    "Atividades": [
+      "Tours na Floresta",
+      "Snorkeling",
+      "Caminhada",
+      "Visitar Aldeias"
+    ],
+    "Pratos Famosos": [
+      "Camarão ao Curry",
+      "Peixe Local",
+      "Doces Tradicionais"
+    ]
+  },
+  {
+    "Nome": "São Bartolomeu",
+    "País": "França",
+    "Atividades": [
+      "Natação",
+      "Mergulho Autônomo",
+      "Tours de Barco",
+      "Compras"
+    ],
+    "Pratos Famosos": [
+      "Peixe Grelhado",
+      "Camarão",
+      "Doces Locais"
+    ]
+  },
+  {
+    "Nome": "São Martinho",
+    "País": "França/Países Baixos",
+    "Atividades": [
+      "Snorkeling",
+      "Natação",
+      "Tours de Barco",
+      "Compras"
+    ],
+    "Pratos Famosos": [
+      "Atum",
+      "Camarão",
+      "Doces Locais"
+    ]
+  }
+]

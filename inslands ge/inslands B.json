@@ -1,0 +1,377 @@
+[
+  {
+    "Name": "Korfu",
+    "Land": "Griechenland",
+    "Aktivitäten": [
+      "Dörfer besuchen",
+      "Schwimmen",
+      "Tauchen",
+      "Bootstouren"
+    ],
+    "Berühmte Gerichte": [
+      "Souvlaki",
+      "Tzatziki",
+      "Gyros"
+    ]
+  },
+  {
+    "Name": "Kreta",
+    "Land": "Griechenland",
+    "Aktivitäten": [
+      "Tempelbesuche",
+      "Naturwanderungen",
+      "Schnorcheln",
+      "Weintouren"
+    ],
+    "Berühmte Gerichte": [
+      "Moussaka",
+      "Souvlaki",
+      "Dakos"
+    ]
+  },
+  {
+    "Name": "Bora Bora",
+    "Land": "Französisch-Polynesien",
+    "Aktivitäten": [
+      "Schnorcheln",
+      "Schwimmen",
+      "Kreuzfahrten",
+      "In Resorts entspannen"
+    ],
+    "Berühmte Gerichte": [
+      "Poisson Cru",
+      "Taro",
+      "Thunfisch"
+    ]
+  },
+  {
+    "Name": "Madeira",
+    "Land": "Portugal",
+    "Aktivitäten": [
+      "Wandern",
+      "Wasserfälle besuchen",
+      "Schnorcheln",
+      "Delfinbeobachtung"
+    ],
+    "Berühmte Gerichte": [
+      "Espetada",
+      "Marzipan",
+      "Bolo de Mel (Honigkuchen)"
+    ]
+  },
+  {
+    "Name": "St. Lucia",
+    "Land": "St. Lucia",
+    "Aktivitäten": [
+      "Schnorcheln",
+      "Schwimmen",
+      "Naturwanderungen",
+      "Klettern"
+    ],
+    "Berühmte Gerichte": [
+      "Curry-Garnelen",
+      "Lokales Brot",
+      "Tropische Früchte"
+    ]
+  },
+  {
+    "Name": "Barbados",
+    "Land": "Barbados",
+    "Aktivitäten": [
+      "Schwimmen",
+      "Schnorcheln",
+      "Strandbesuche",
+      "Bootstouren"
+    ],
+    "Berühmte Gerichte": [
+      "Garnelen",
+      "Gegrillter Fisch",
+      "Lokaler Pudding"
+    ]
+  },
+  {
+    "Name": "Hawaii - Oahu",
+    "Land": "Vereinigte Staaten (Hawaii)",
+    "Aktivitäten": [
+      "Stadtrundfahrt",
+      "Surfen",
+      "Naturwanderungen",
+      "Tauchen"
+    ],
+    "Berühmte Gerichte": [
+      "Poke",
+      "Poi",
+      "Hawaiianischer Schokoladenkuchen"
+    ]
+  },
+  {
+    "Name": "Färöer-Inseln",
+    "Land": "Dänemark",
+    "Aktivitäten": [
+      "Naturwanderungen",
+      "Vogelbeobachtung",
+      "Schnorcheln",
+      "Bootstouren"
+    ],
+    "Berühmte Gerichte": [
+      "Kabeljau",
+      "Meeresfrüchte-Mix",
+      "Färöisches Brot"
+    ]
+  },
+  {
+    "Name": "Moreton Island",
+    "Land": "Australien",
+    "Aktivitäten": [
+      "Tauchen",
+      "Schwimmen",
+      "Wandern",
+      "Bootstouren"
+    ],
+    "Berühmte Gerichte": [
+      "Garnelen",
+      "Schnapper",
+      "Verschiedene Meeresfrüchte"
+    ]
+  },
+  {
+    "Name": "Capri",
+    "Land": "Italien",
+    "Aktivitäten": [
+      "Schwimmen",
+      "Historische Stätten besuchen",
+      "Spaziergänge",
+      "Bootstouren"
+    ],
+    "Berühmte Gerichte": [
+      "Pasta",
+      "Neapolitanische Pizza",
+      "Mozzarella"
+    ]
+  },
+  {
+    "Name": "Malapascua",
+    "Land": "Philippinen",
+    "Aktivitäten": [
+      "Schnorcheln",
+      "Schwimmen",
+      "Wandern",
+      "Lokales Einkaufen"
+    ],
+    "Berühmte Gerichte": [
+      "Adobo",
+      "Pancit",
+      "Lechon"
+    ]
+  },
+  {
+    "Name": "Isle of Wight",
+    "Land": "Vereinigtes Königreich",
+    "Aktivitäten": [
+      "Spaziergänge am Strand",
+      "Dörfer besuchen",
+      "Schwimmen",
+      "Fotografie"
+    ],
+    "Berühmte Gerichte": [
+      "Fish and Chips",
+      "Traditionelles Brot",
+      "Lokale Süßigkeiten"
+    ]
+  },
+  {
+    "Name": "Réunion",
+    "Land": "Frankreich",
+    "Aktivitäten": [
+      "Bergwanderungen",
+      "Wasserfälle besuchen",
+      "Schwimmen",
+      "Tauchgänge"
+    ],
+    "Berühmte Gerichte": [
+      "Hühner-Curry",
+      "Thunfisch",
+      "Tropische Früchte"
+    ]
+  },
+  {
+    "Name": "Mallorca",
+    "Land": "Spanien",
+    "Aktivitäten": [
+      "Dörfer besuchen",
+      "Schwimmen",
+      "Tauchen",
+      "Bootstouren"
+    ],
+    "Berühmte Gerichte": [
+      "Paella",
+      "Ensaimada",
+      "Lokale Süßigkeiten"
+    ]
+  },
+  {
+    "Name": "Ibiza",
+    "Land": "Spanien",
+    "Aktivitäten": [
+      "Strandpartys",
+      "Tauchen",
+      "Dörfer besuchen",
+      "Schwimmen"
+    ],
+    "Berühmte Gerichte": [
+      "Paella",
+      "Flan",
+      "Gegrillter Fisch"
+    ]
+  },
+  {
+    "Name": "Kanarische Inseln - Teneriffa",
+    "Land": "Spanien",
+    "Aktivitäten": [
+      "Wasserski",
+      "Schwimmen",
+      "Naturtouren",
+      "Vulkanbeobachtung"
+    ],
+    "Berühmte Gerichte": [
+      "Kanarische Kartoffeln (Papas Arrugadas)",
+      "Paella",
+      "Meeresfrüchte"
+    ]
+  },
+  {
+    "Name": "Madagaskar",
+    "Land": "Madagaskar",
+    "Aktivitäten": [
+      "Safari",
+      "Nationalparks besuchen",
+      "Schnorcheln",
+      "Wandern"
+    ],
+    "Berühmte Gerichte": [
+      "Romazava",
+      "Palmöl-Gerichte",
+      "Tropische Früchte"
+    ]
+  },
+  {
+    "Name": "Fidschi - Viti Levu",
+    "Land": "Fidschi",
+    "Aktivitäten": [
+      "Tauchen",
+      "Schwimmen",
+      "Kajakfahren",
+      "Wandern"
+    ],
+    "Berühmte Gerichte": [
+      "Kokoda",
+      "Gegrillter Fisch",
+      "Tropische Früchte"
+    ]
+  },
+  {
+    "Name": "Fidschi - Vanua Levu",
+    "Land": "Fidschi",
+    "Aktivitäten": [
+      "Waldtouren",
+      "Schnorcheln",
+      "Dörfer besuchen",
+      "Wandern"
+    ],
+    "Berühmte Gerichte": [
+      "Roti",
+      "Fischcurry",
+      "Tropische Früchte"
+    ]
+  },
+  {
+    "Name": "Samoa - Upolu",
+    "Land": "Samoa",
+    "Aktivitäten": [
+      "Schnorcheln",
+      "Schwimmen",
+      "Naturtouren",
+      "Dörfer besuchen"
+    ],
+    "Berühmte Gerichte": [
+      "Palusami",
+      "Schweinefleisch",
+      "Tropische Früchte"
+    ]
+  },
+  {
+    "Name": "Samoa - Savai'i",
+    "Land": "Samoa",
+    "Aktivitäten": [
+      "Naturwanderungen",
+      "Tauchen",
+      "Wasserfälle besuchen",
+      "Bootstouren"
+    ],
+    "Berühmte Gerichte": [
+      "Fischcurry",
+      "Schweinefleisch",
+      "Tropische Früchte"
+    ]
+  },
+  {
+    "Name": "Französische Antillen - Guadeloupe",
+    "Land": "Frankreich",
+    "Aktivitäten": [
+      "Tauchen",
+      "Schwimmen",
+      "Naturtouren",
+      "Dörfer besuchen"
+    ],
+    "Berühmte Gerichte": [
+      "Bouillon d'awara",
+      "Hühner-Curry",
+      "Lokale Süßigkeiten"
+    ]
+  },
+  {
+    "Name": "Französische Antillen - Martinique",
+    "Land": "Frankreich",
+    "Aktivitäten": [
+      "Waldtouren",
+      "Schnorcheln",
+      "Wandern",
+      "Dörfer besuchen"
+    ],
+    "Berühmte Gerichte": [
+      "Curry-Garnelen",
+      "Lokaler Fisch",
+      "Traditionelle Süßigkeiten"
+    ]
+  },
+  {
+    "Name": "St. Barthélemy",
+    "Land": "Frankreich",
+    "Aktivitäten": [
+      "Schwimmen",
+      "Tauchen",
+      "Bootstouren",
+      "Einkaufen"
+    ],
+    "Berühmte Gerichte": [
+      "Gegrillter Fisch",
+      "Garnelen",
+      "Lokale Süßigkeiten"
+    ]
+  },
+  {
+    "Name": "St. Martin",
+    "Land": "Frankreich/Niederlande",
+    "Aktivitäten": [
+      "Schnorcheln",
+      "Schwimmen",
+      "Bootstouren",
+      "Einkaufen"
+    ],
+    "Berühmte Gerichte": [
+      "Thunfisch",
+      "Garnelen",
+      "Lokale Süßigkeiten"
+    ]
+  }
+]

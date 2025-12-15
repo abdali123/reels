@@ -1,0 +1,377 @@
+[
+  {
+    "Nome": "Corfù",
+    "Paese": "Grecia",
+    "Attività": [
+      "Visita di Villaggi",
+      "Nuoto",
+      "Immersioni Subacquee",
+      "Gite in Barca"
+    ],
+    "Piatti Famosi": [
+      "Souvlaki",
+      "Tzatziki",
+      "Gyros"
+    ]
+  },
+  {
+    "Nome": "Creta",
+    "Paese": "Grecia",
+    "Attività": [
+      "Visita di Templi",
+      "Passeggiate nella Natura",
+      "Snorkeling",
+      "Tour Enologici"
+    ],
+    "Piatti Famosi": [
+      "Moussaka",
+      "Souvlaki",
+      "Dakos"
+    ]
+  },
+  {
+    "Nome": "Bora Bora",
+    "Paese": "Polinesia Francese",
+    "Attività": [
+      "Snorkeling",
+      "Nuoto",
+      "Crociere",
+      "Rilassarsi nei Resort"
+    ],
+    "Piatti Famosi": [
+      "Poisson Cru",
+      "Taro",
+      "Tonno"
+    ]
+  },
+  {
+    "Nome": "Madeira",
+    "Paese": "Portogallo",
+    "Attività": [
+      "Escursionismo",
+      "Visita di Cascate",
+      "Snorkeling",
+      "Avvistamento Delfini"
+    ],
+    "Piatti Famosi": [
+      "Espetada",
+      "Marzapane",
+      "Bolo de Mel"
+    ]
+  },
+  {
+    "Nome": "Santa Lucia",
+    "Paese": "Santa Lucia",
+    "Attività": [
+      "Snorkeling",
+      "Nuoto",
+      "Passeggiate nella Natura",
+      "Arrampicata"
+    ],
+    "Piatti Famosi": [
+      "Gamberi al Curry",
+      "Pane Locale",
+      "Frutta Tropicale"
+    ]
+  },
+  {
+    "Nome": "Barbados",
+    "Paese": "Barbados",
+    "Attività": [
+      "Nuoto",
+      "Snorkeling",
+      "Visite alla Spiaggia",
+      "Gite in Barca"
+    ],
+    "Piatti Famosi": [
+      "Gamberi",
+      "Pesce alla Griglia",
+      "Pudding Locale"
+    ]
+  },
+  {
+    "Nome": "Hawaii - Oahu",
+    "Paese": "Stati Uniti (Hawaii)",
+    "Attività": [
+      "Visita della Città",
+      "Surf",
+      "Passeggiate nella Natura",
+      "Immersioni Subacquee"
+    ],
+    "Piatti Famosi": [
+      "Poke",
+      "Poi",
+      "Cioccolato Hawaiano"
+    ]
+  },
+  {
+    "Nome": "Isole Fær Øer",
+    "Paese": "Danimarca",
+    "Attività": [
+      "Passeggiate nella Natura",
+      "Birdwatching",
+      "Snorkeling",
+      "Gite in Barca"
+    ],
+    "Piatti Famosi": [
+      "Merluzzo",
+      "Misto di Frutti di Mare",
+      "Pane delle Fær Øer"
+    ]
+  },
+  {
+    "Nome": "Prawn Island",
+    "Paese": "Australia",
+    "Attività": [
+      "Immersioni Subacquee",
+      "Nuoto",
+      "Escursionismo",
+      "Gite in Barca"
+    ],
+    "Piatti Famosi": [
+      "Gamberi",
+      "Snapper",
+      "Varietà di Frutti di Mare"
+    ]
+  },
+  {
+    "Nome": "Capri",
+    "Paese": "Italia",
+    "Attività": [
+      "Nuoto",
+      "Visita di Siti Storici",
+      "Passeggiate",
+      "Gite in Barca"
+    ],
+    "Piatti Famosi": [
+      "Pasta",
+      "Pizza Napoletana",
+      "Mozzarella"
+    ]
+  },
+  {
+    "Nome": "Malapascua",
+    "Paese": "Filippine",
+    "Attività": [
+      "Snorkeling",
+      "Nuoto",
+      "Escursionismo",
+      "Shopping Locale"
+    ],
+    "Piatti Famosi": [
+      "Adobo",
+      "Pancit",
+      "Lechon"
+    ]
+  },
+  {
+    "Nome": "Isola di Wight",
+    "Paese": "Regno Unito",
+    "Attività": [
+      "Passeggiate in Spiaggia",
+      "Visita di Villaggi",
+      "Nuoto",
+      "Fotografia"
+    ],
+    "Piatti Famosi": [
+      "Fish and Chips",
+      "Pane Tradizionale",
+      "Dolci Locali"
+    ]
+  },
+  {
+    "Nome": "Riunione",
+    "Paese": "Francia",
+    "Attività": [
+      "Escursionismo in Montagna",
+      "Visita di Cascate",
+      "Nuoto",
+      "Gite Subacquee"
+    ],
+    "Piatti Famosi": [
+      "Pollo al Curry",
+      "Tonno",
+      "Frutta Tropicale"
+    ]
+  },
+  {
+    "Nome": "Maiorca",
+    "Paese": "Spagna",
+    "Attività": [
+      "Visita di Villaggi",
+      "Nuoto",
+      "Immersioni Subacquee",
+      "Gite in Barca"
+    ],
+    "Piatti Famosi": [
+      "Paella",
+      "Ensaimada",
+      "Dolci Locali"
+    ]
+  },
+  {
+    "Nome": "Ibiza",
+    "Paese": "Spagna",
+    "Attività": [
+      "Feste in Spiaggia",
+      "Immersioni Subacquee",
+      "Visita di Villaggi",
+      "Nuoto"
+    ],
+    "Piatti Famosi": [
+      "Paella",
+      "Flan",
+      "Pesce alla Griglia"
+    ]
+  },
+  {
+    "Nome": "Isole Canarie - Tenerife",
+    "Paese": "Spagna",
+    "Attività": [
+      "Sci Nautico",
+      "Nuoto",
+      "Tour nella Natura",
+      "Osservazione Vulcani"
+    ],
+    "Piatti Famosi": [
+      "Patate Canarie",
+      "Paella",
+      "Frutti di Mare"
+    ]
+  },
+  {
+    "Nome": "Madagascar",
+    "Paese": "Madagascar",
+    "Attività": [
+      "Safari",
+      "Visita di Parchi Nazionali",
+      "Snorkeling",
+      "Escursionismo"
+    ],
+    "Piatti Famosi": [
+      "Romazava",
+      "Piatti a Base di Olio di Palma",
+      "Frutta Tropicale"
+    ]
+  },
+  {
+    "Nome": "Figi - Viti Levu",
+    "Paese": "Figi",
+    "Attività": [
+      "Immersioni Subacquee",
+      "Nuoto",
+      "Kayak",
+      "Escursionismo"
+    ],
+    "Piatti Famosi": [
+      "Kokoda",
+      "Pesce alla Griglia",
+      "Frutta Tropicale"
+    ]
+  },
+  {
+    "Nome": "Figi - Vanua Levu",
+    "Paese": "Figi",
+    "Attività": [
+      "Tour nella Foresta",
+      "Snorkeling",
+      "Visita di Villaggi",
+      "Escursionismo"
+    ],
+    "Piatti Famosi": [
+      "Roti",
+      "Pesce al Curry",
+      "Frutta Tropicale"
+    ]
+  },
+  {
+    "Nome": "Samoa - Upolu",
+    "Paese": "Samoa",
+    "Attività": [
+      "Snorkeling",
+      "Nuoto",
+      "Tour nella Natura",
+      "Visita di Villaggi"
+    ],
+    "Piatti Famosi": [
+      "Palusami",
+      "Maiale",
+      "Frutta Tropicale"
+    ]
+  },
+  {
+    "Nome": "Samoa - Savai'i",
+    "Paese": "Samoa",
+    "Attività": [
+      "Escursionismo nella Natura",
+      "Immersioni Subacquee",
+      "Visita di Cascate",
+      "Gite in Barca"
+    ],
+    "Piatti Famosi": [
+      "Pesce al Curry",
+      "Maiale",
+      "Frutta Tropicale"
+    ]
+  },
+  {
+    "Nome": "Antille Francesi - Guadalupa",
+    "Paese": "Francia",
+    "Attività": [
+      "Immersioni Subacquee",
+      "Nuoto",
+      "Tour nella Natura",
+      "Visita di Villaggi"
+    ],
+    "Piatti Famosi": [
+      "Bouillon",
+      "Pollo al Curry",
+      "Dolci Locali"
+    ]
+  },
+  {
+    "Nome": "Antille Francesi - Martinica",
+    "Paese": "Francia",
+    "Attività": [
+      "Tour nella Foresta",
+      "Snorkeling",
+      "Escursionismo",
+      "Visita di Villaggi"
+    ],
+    "Piatti Famosi": [
+      "Gamberi al Curry",
+      "Pesce Locale",
+      "Dolci Tradizionali"
+    ]
+  },
+  {
+    "Nome": "Saint-Barthélemy",
+    "Paese": "Francia",
+    "Attività": [
+      "Nuoto",
+      "Immersioni Subacquee",
+      "Gite in Barca",
+      "Shopping"
+    ],
+    "Piatti Famosi": [
+      "Pesce alla Griglia",
+      "Gamberi",
+      "Dolci Locali"
+    ]
+  },
+  {
+    "Nome": "Saint Martin",
+    "Paese": "Francia/Paesi Bassi",
+    "Attività": [
+      "Snorkeling",
+      "Nuoto",
+      "Gite in Barca",
+      "Shopping"
+    ],
+    "Piatti Famosi": [
+      "Tonno",
+      "Gamberi",
+      "Dolci Locali"
+    ]
+  }
+]

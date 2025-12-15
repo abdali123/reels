@@ -1,0 +1,152 @@
+[
+  {
+    "Nom": "Bali",
+    "Pays": "Indonésie",
+    "Activités": ["Plongée sous-marine", "Surf", "Visite de temples", "Excursions nature"],
+    "Plats_Célèbres": ["Nasi Goreng", "Satay", "Babi Guling"]
+  },
+  {
+    "Nom": "Maui",
+    "Pays": "États-Unis d'Amérique (Hawaï)",
+    "Activités": ["Plongée avec tuba", "Observation des baleines", "Randonnée aux cascades", "Surf"],
+    "Plats_Célèbres": ["Poke Bowl", "Chocolat Pokémon", "Crevettes Oka"]
+  },
+  {
+    "Nom": "Santorini",
+    "Pays": "Grèce",
+    "Activités": ["Observation du coucher de soleil", "Visite des villages blancs", "Visites de vignobles", "Baignade en mer"],
+    "Plats_Célèbres": ["Tomato Keftedes", "Féta", "Fava"]
+  },
+  {
+    "Nom": "Seychelles",
+    "Pays": "Seychelles",
+    "Activités": ["Plongée sous-marine", "Natation", "Randonnée nature", "Observation des oiseaux"],
+    "Plats_Célèbres": ["Curry de poisson", "Homard", "Panier Seychellois"]
+  },
+  {
+    "Nom": "Boracay",
+    "Pays": "Philippines",
+    "Activités": ["Plongée avec tuba", "Kayak", "Observation du coucher de soleil", "Fêtes sur la plage"],
+    "Plats_Célèbres": ["Adobo", "Lechon", "Pansit"]
+  },
+  {
+    "Nom": "Koh Hai",
+    "Pays": "Thaïlande",
+    "Activités": ["Escalade", "Natation", "Promenade en bateau", "Plongée sous-marine"],
+    "Plats_Célèbres": ["Pad Thaï", "Tom Yum", "Curry vert"]
+  },
+  {
+    "Nom": "Capri",
+    "Pays": "Italie",
+    "Activités": ["Excursions en bateau", "Visite des grottes", "Randonnée", "Shopping de luxe"],
+    "Plats_Célèbres": ["Pizza Capri", "Mozzarella", "Cheesecake au citron"]
+  },
+  {
+    "Nom": "Maurice",
+    "Pays": "Maurice",
+    "Activités": ["Plongée sous-marine", "Surf", "Visite des jardins botaniques", "Croisières en mer"],
+    "Plats_Célèbres": ["Dal Puri", "Roti", "Curry de crevettes"]
+  },
+  {
+    "Nom": "Corse",
+    "Pays": "France",
+    "Activités": ["Randonnée en montagne", "Natation", "Sports nautiques", "Visite des villes historiques"],
+    "Plats_Célèbres": ["Cazzili", "Canistrelli", "Stufatu"]
+  },
+  {
+    "Nom": "Tasmanie",
+    "Pays": "Australie",
+    "Activités": ["Randonnée nature", "Visite des parcs nationaux", "Ski nautique", "Observation de la faune"],
+    "Plats_Célèbres": ["Viande de kangourou", "Saumon de Tasmanie", "Fruits de mer"]
+  },
+  {
+    "Nom": "Honshu",
+    "Pays": "Japon",
+    "Activités": ["Visite de temples", "Shopping", "Promenades nature", "Ski"],
+    "Plats_Célèbres": ["Sushi", "Ramen", "Udon"]
+  },
+  {
+    "Nom": "Nouvelle-Zélande - Île du Nord",
+    "Pays": "Nouvelle-Zélande",
+    "Activités": ["Randonnées", "Plongée avec tuba", "Kayak", "Visite des volcans"],
+    "Plats_Célèbres": ["Hāngi", "Gâteau Goat Bank", "Hokey Pokey"]
+  },
+  {
+    "Nom": "Nouvelle-Zélande - Île du Sud",
+    "Pays": "Nouvelle-Zélande",
+    "Activités": ["Ski", "Longues randonnées", "Kayak", "Visite des parcs nationaux"],
+    "Plats_Célèbres": ["Pavlova", "Viande d'agneau", "Hokey Pokey"]
+  },
+  {
+    "Nom": "Kauai",
+    "Pays": "États-Unis d'Amérique (Hawaï)",
+    "Activités": ["Observation des cascades", "Plongée avec tuba", "Randonnée nature", "Surf"],
+    "Plats_Célèbres": ["Poke Bowl", "Piña Colada", "Chocolat hawaïen"]
+  },
+  {
+    "Nom": "Maldives",
+    "Pays": "Maldives",
+    "Activités": ["Plongée avec tuba", "Natation", "Croisières en mer", "Détente dans les resorts"],
+    "Plats_Célèbres": ["Poisson thon", "Riz au curry", "Sucreries locales"]
+  },
+  {
+    "Nom": "Bornéo",
+    "Pays": "Indonésie/Malaisie/Brunei",
+    "Activités": ["Excursions en forêt", "Observation de la faune", "Plongée sous-marine", "Promenades en bateau"],
+    "Plats_Célèbres": ["Satay", "Nasi Kerabu", "Ramen de Bornéo"]
+  },
+  {
+    "Nom": "Sumatra",
+    "Pays": "Indonésie",
+    "Activités": ["Randonnée nature", "Visite des volcans", "Plongée sous-marine", "Observation des éléphants"],
+    "Plats_Célèbres": ["Rendang", "Gado-Gado", "Tempoyak"]
+  },
+  {
+    "Nom": "Seychelles La Digue",
+    "Pays": "Seychelles",
+    "Activités": ["Plongée avec tuba", "Natation", "Randonnée nature", "Photographie"],
+    "Plats_Célèbres": ["Curry de poisson", "Homard", "Riz au curry"]
+  },
+  {
+    "Nom": "Phuket",
+    "Pays": "Thaïlande",
+    "Activités": ["Plongée sous-marine", "Promenade en bateau", "Visite de temples", "Natation"],
+    "Plats_Célèbres": ["Pad Thaï", "Tom Yum", "Curry vert"]
+  },
+  {
+    "Nom": "Java",
+    "Pays": "Indonésie",
+    "Activités": ["Visite de temples", "Shopping", "Promenades nature", "Exploration culturelle"],
+    "Plats_Célèbres": ["Nasi Goreng", "Satay", "Ramen javanais"]
+  },
+  {
+    "Nom": "Sardaigne",
+    "Pays": "Italie",
+    "Activités": ["Natation", "Plongée avec tuba", "Visites de villages", "Visites de plages"],
+    "Plats_Célèbres": ["Grigliata", "Cannoli", "Mozzarella"]
+  },
+  {
+    "Nom": "Nice",
+    "Pays": "France",
+    "Activités": ["Shopping", "Visites de plages", "Promenades en ville", "Sports nautiques"],
+    "Plats_Célèbres": ["Salade Niçoise", "Bouillabaisse", "Pissaladière"]
+  },
+  {
+    "Nom": "Koh Samui",
+    "Pays": "Thaïlande",
+    "Activités": ["Natation", "Plongée avec tuba", "Excursions en bateau", "Spa"],
+    "Plats_Célèbres": ["Pad Thaï", "Tom Yum", "Massaman Curry"]
+  },
+  {
+    "Nom": "Malte",
+    "Pays": "Malte",
+    "Activités": ["Visite des sites historiques", "Plongée avec tuba", "Natation", "Excursions en bateau"],
+    "Plats_Célèbres": ["Ragoût de lapin", "Pastizzi", "Biskuttini"]
+  },
+  {
+    "Nom": "Cap-Vert",
+    "Pays": "Cap-Vert",
+    "Activités": ["Natation", "Plongée avec tuba", "Musique et danse", "Excursions en montagne"],
+    "Plats_Célèbres": ["Cachupa", "Ragoût cap-verdien", "Couscous"]
+  }
+]

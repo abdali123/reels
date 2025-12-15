@@ -1,0 +1,152 @@
+[
+  {
+    "nombre": "Islas Cook",
+    "país": "Islas Cook",
+    "actividades": ["natación", "buceo de superficie", "viajes en barco", "visitas a pueblos"],
+    "comidas_famosas": ["atún", "curry de pollo", "frutas tropicales"]
+  },
+  {
+    "nombre": "Tahití",
+    "país": "Polinesia Francesa",
+    "actividades": ["buceo de superficie", "natación", "viajes en barco", "visitas a pueblos"],
+    "comidas_famosas": ["poisson cru", "curry de pescado", "frutas tropicales"]
+  },
+  {
+    "nombre": "Punta Cana",
+    "país": "Bahamas",
+    "actividades": ["buceo", "natación", "viajes en barco", "deportes acuáticos"],
+    "comidas_famosas": ["pescado local", "camarones", "langosta a la parrilla"]
+  },
+  {
+    "nombre": "Nueva Caledonia - Grande Terre",
+    "país": "Francia",
+    "actividades": ["buceo de superficie", "viajes en barco", "natación", "senderismo en la naturaleza"],
+    "comidas_famosas": ["curry de camarones", "pescado local", "frutas tropicales"]
+  },
+  {
+    "nombre": "Nueva Caledonia - Le Yat",
+    "país": "Francia",
+    "actividades": ["buceo de superficie", "viajes en barco", "visitas a pueblos", "natación"],
+    "comidas_famosas": ["curry de pescado", "camarones", "dulces locales"]
+  },
+  {
+    "nombre": "Huahine",
+    "país": "Polinesia Francesa",
+    "actividades": ["buceo de superficie", "viajes en barco", "natación", "senderismo"],
+    "comidas_famosas": ["atún", "curry de pollo", "frutas tropicales"]
+  },
+  {
+    "nombre": "Santa Elena",
+    "país": "Reino Unido",
+    "actividades": ["paseos por la naturaleza", "visitas a sitios históricos", "buceo de superficie", "viajes en barco"],
+    "comidas_famosas": ["pescado a la parrilla", "verduras locales", "dulces tradicionales"]
+  },
+  {
+    "nombre": "Old Hawthorn",
+    "país": "Australia",
+    "actividades": ["excursiones al bosque", "natación", "buceo de superficie", "visitas a pueblos"],
+    "comidas_famosas": ["camarones", "pescado hota", "mariscos"]
+  },
+  {
+    "nombre": "Isla del Príncipe Eduardo",
+    "país": "Canadá",
+    "actividades": ["paseos por la naturaleza", "visitas a pueblos", "natación", "buceo de superficie"],
+    "comidas_famosas": ["cebada con patatas", "carne local", "dulces canadienses"]
+  },
+  {
+    "nombre": "Isla de Vancouver",
+    "país": "Canadá",
+    "actividades": ["senderismo en la naturaleza", "natación", "buceo de superficie", "esquí"],
+    "comidas_famosas": ["salmón", "camarones", "mariscos"]
+  },
+  {
+    "nombre": "Isla de Saint Thomas",
+    "país": "Estados Unidos de América",
+    "actividades": ["natación", "buceo de superficie", "viajes en barco", "compras"],
+    "comidas_famosas": ["camarones", "atún", "platos de mariscos"]
+  },
+  {
+    "nombre": "Isla de Saint John",
+    "país": "Estados Unidos de América",
+    "actividades": ["buceo", "natación", "viajes en barco", "senderismo"],
+    "comidas_famosas": ["pescado a la parrilla", "camarones", "dulces locales"]
+  },
+  {
+    "nombre": "Isla Tobelo",
+    "país": "Panamá",
+    "actividades": ["buceo de superficie", "natación", "senderismo en la naturaleza", "viajes en barco"],
+    "comidas_famosas": ["pescado local", "curry de camarones", "frutas tropicales"]
+  },
+  {
+    "nombre": "Isla de Acapulco",
+    "país": "México",
+    "actividades": ["natación", "buceo de superficie", "viajes en barco", "senderismo"],
+    "comidas_famosas": ["taco", "pescado local", "dulces mexicanos"]
+  },
+  {
+    "nombre": "Isla de La Española",
+    "país": "República Dominicana/Haití",
+    "actividades": ["natación", "buceo", "viajes en barco", "visitas a pueblos"],
+    "comidas_famosas": ["arroz con pollo", "camarones", "frutas tropicales"]
+  },
+  {
+    "nombre": "Isla de Jamaica",
+    "país": "Jamaica",
+    "actividades": ["natación", "buceo de superficie", "visitas a cascadas", "paseos por la naturaleza"],
+    "comidas_famosas": ["pollo jerk", "pescado a la parrilla", "comidas locales"]
+  },
+  {
+    "nombre": "Isla de Cuba",
+    "país": "Cuba",
+    "actividades": ["visitas a ciudades históricas", "natación", "buceo", "viajes en barco"],
+    "comidas_famosas": ["ropa vieja", "mariscos", "curry de pollo"]
+  },
+  {
+    "nombre": "Isla de Aruba",
+    "país": "Aruba",
+    "actividades": ["natación", "buceo de superficie", "viajes en barco", "compras"],
+    "comidas_famosas": ["camarones", "atún", "dulces locales"]
+  },
+  {
+    "nombre": "Isla de Curazao",
+    "país": "Curazao",
+    "actividades": ["buceo de superficie", "natación", "visitas a pueblos", "viajes en barco"],
+    "comidas_famosas": ["pescado local", "camarones", "mariscos"]
+  },
+  {
+    "nombre": "Isla de Bonaire",
+    "país": "Bonaire",
+    "actividades": ["buceo de superficie", "natación", "viajes en barco", "senderismo"],
+    "comidas_famosas": ["pescado local", "camarones", "dulces tradicionales"]
+  },
+  {
+    "nombre": "Isla de Saba",
+    "país": "Saba",
+    "actividades": ["excursiones de senderismo", "buceo de superficie", "natación", "visitas a pueblos"],
+    "comidas_famosas": ["curry de pescado", "camarones", "mariscos"]
+  },
+  {
+    "nombre": "Isla de San Cristóbal",
+    "país": "San Cristóbal y Nieves",
+    "actividades": ["natación", "buceo de superficie", "viajes en barco", "visitas a pueblos"],
+    "comidas_famosas": ["camarones", "pescado local", "dulces locales"]
+  },
+  {
+    "nombre": "Isla de Terranova",
+    "país": "Canadá",
+    "actividades": ["senderismo en la naturaleza", "buceo de superficie", "natación", "observación de aves"],
+    "comidas_famosas": ["bacalao", "camarones", "mariscos"]
+  },
+  {
+    "nombre": "Isla de Bermudas",
+    "país": "Gran Bretaña",
+    "actividades": ["natación", "buceo de superficie", "viajes en barco", "senderismo"],
+    "comidas_famosas": ["pescado local", "camarones", "mariscos"]
+  },
+  {
+    "nombre": "Isla de Guadalupe",
+    "país": "Francia",
+    "actividades": ["buceo de superficie", "natación", "excursiones por la naturaleza", "visitas a pueblos"],
+    "comidas_famosas": ["curry de pollo", "camarones", "dulces locales"]
+  }
+]

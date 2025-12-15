@@ -1,0 +1,377 @@
+[
+  {
+    "Nombre": "Corfú",
+    "País": "Grecia",
+    "Actividades": [
+      "Visita a pueblos",
+      "Natación",
+      "Buceo",
+      "Excursiones en barco"
+    ],
+    "Platos famosos": [
+      "Souvlaki",
+      "Tzatziki",
+      "Gyros"
+    ]
+  },
+  {
+    "Nombre": "Creta",
+    "País": "Grecia",
+    "Actividades": [
+      "Visita a templos",
+      "Caminatas por la naturaleza",
+      "Esnórquel",
+      "Tours de vino"
+    ],
+    "Platos famosos": [
+      "Moussaka",
+      "Souvlaki",
+      "Dakos"
+    ]
+  },
+  {
+    "Nombre": "Bora Bora",
+    "País": "Polinesia Francesa",
+    "Actividades": [
+      "Esnórquel",
+      "Natación",
+      "Cruceros",
+      "Relajación en resorts"
+    ],
+    "Platos famosos": [
+      "Poisson Cru",
+      "Taro",
+      "Atún"
+    ]
+  },
+  {
+    "Nombre": "Madeira",
+    "País": "Portugal",
+    "Actividades": [
+      "Senderismo",
+      "Visita a cascadas",
+      "Esnórquel",
+      "Avistamiento de delfines"
+    ],
+    "Platos famosos": [
+      "Espetada",
+      "Mazapán",
+      "Bolo de Mel"
+    ]
+  },
+  {
+    "Nombre": "Santa Lucía",
+    "País": "Santa Lucía",
+    "Actividades": [
+      "Esnórquel",
+      "Natación",
+      "Caminatas por la naturaleza",
+      "Escalada"
+    ],
+    "Platos famosos": [
+      "Camarones al curry",
+      "Pan local",
+      "Frutas tropicales"
+    ]
+  },
+  {
+    "Nombre": "Barbados",
+    "País": "Barbados",
+    "Actividades": [
+      "Natación",
+      "Esnórquel",
+      "Visitas a playas",
+      "Paseos en barco"
+    ],
+    "Platos famosos": [
+      "Camarones",
+      "Pescado a la parrilla",
+      "Pudín local"
+    ]
+  },
+  {
+    "Nombre": "Hawái - Oahu",
+    "País": "Estados Unidos (Hawái)",
+    "Actividades": [
+      "Visita turística a la ciudad",
+      "Surf",
+      "Caminatas por la naturaleza",
+      "Buceo"
+    ],
+    "Platos famosos": [
+      "Poke",
+      "Poi",
+      "Chocolate hawaiano"
+    ]
+  },
+  {
+    "Nombre": "Islas Feroe",
+    "País": "Dinamarca",
+    "Actividades": [
+      "Caminatas por la naturaleza",
+      "Avistamiento de aves",
+      "Esnórquel",
+      "Excursiones en barco"
+    ],
+    "Platos famosos": [
+      "Bacalao",
+      "Mezcla de mariscos",
+      "Pan feroés"
+    ]
+  },
+  {
+    "Nombre": "Isla de los Langostinos",
+    "País": "Australia",
+    "Actividades": [
+      "Buceo",
+      "Natación",
+      "Senderismo",
+      "Excursiones en barco"
+    ],
+    "Platos famosos": [
+      "Langostinos",
+      "Pargo",
+      "Variedad de mariscos"
+    ]
+  },
+  {
+    "Nombre": "Capri",
+    "País": "Italia",
+    "Actividades": [
+      "Natación",
+      "Visita a sitios históricos",
+      "Caminatas",
+      "Excursiones en barco"
+    ],
+    "Platos famosos": [
+      "Pasta",
+      "Pizza napolitana",
+      "Mozzarella"
+    ]
+  },
+  {
+    "Nombre": "Malapascua",
+    "País": "Filipinas",
+    "Actividades": [
+      "Esnórquel",
+      "Natación",
+      "Senderismo",
+      "Compras locales"
+    ],
+    "Platos famosos": [
+      "Adobo",
+      "Pancit",
+      "Lechón"
+    ]
+  },
+  {
+    "Nombre": "Isla de Wight",
+    "País": "Reino Unido",
+    "Actividades": [
+      "Paseos por la playa",
+      "Visita a pueblos",
+      "Natación",
+      "Fotografía"
+    ],
+    "Platos famosos": [
+      "Pescado y papas fritas",
+      "Pan tradicional",
+      "Dulces locales"
+    ]
+  },
+  {
+    "Nombre": "Reunión",
+    "País": "Francia",
+    "Actividades": [
+      "Senderismo en montañas",
+      "Visita a cascadas",
+      "Natación",
+      "Viajes de buceo"
+    ],
+    "Platos famosos": [
+      "Curry de pollo",
+      "Atún",
+      "Frutas tropicales"
+    ]
+  },
+  {
+    "Nombre": "Mallorca",
+    "País": "España",
+    "Actividades": [
+      "Visita a pueblos",
+      "Natación",
+      "Buceo",
+      "Excursiones en barco"
+    ],
+    "Platos famosos": [
+      "Paella",
+      "Ensaimada",
+      "Dulces locales"
+    ]
+  },
+  {
+    "Nombre": "Ibiza",
+    "País": "España",
+    "Actividades": [
+      "Fiestas en la playa",
+      "Buceo",
+      "Visita a pueblos",
+      "Natación"
+    ],
+    "Platos famosos": [
+      "Paella",
+      "Flan",
+      "Pescado a la parrilla"
+    ]
+  },
+  {
+    "Nombre": "Islas Canarias - Tenerife",
+    "País": "España",
+    "Actividades": [
+      "Esquí acuático",
+      "Natación",
+      "Tours por la naturaleza",
+      "Avistamiento de volcanes"
+    ],
+    "Platos famosos": [
+      "Papas arrugadas",
+      "Paella",
+      "Mariscos"
+    ]
+  },
+  {
+    "Nombre": "Madagascar",
+    "País": "Madagascar",
+    "Actividades": [
+      "Safari",
+      "Visita a parques nacionales",
+      "Esnórquel",
+      "Senderismo"
+    ],
+    "Platos famosos": [
+      "Romazava",
+      "Platos con aceite de palma",
+      "Frutas tropicales"
+    ]
+  },
+  {
+    "Nombre": "Fiyi - Viti Levu",
+    "País": "Fiyi",
+    "Actividades": [
+      "Buceo",
+      "Natación",
+      "Kayak",
+      "Senderismo"
+    ],
+    "Platos famosos": [
+      "Kokoda",
+      "Pescado a la parrilla",
+      "Frutas tropicales"
+    ]
+  },
+  {
+    "Nombre": "Fiyi - Vanua Levu",
+    "País": "Fiyi",
+    "Actividades": [
+      "Tours por el bosque",
+      "Esnórquel",
+      "Visita a pueblos",
+      "Senderismo"
+    ],
+    "Platos famosos": [
+      "Roti",
+      "Curry de pescado",
+      "Frutas tropicales"
+    ]
+  },
+  {
+    "Nombre": "Samoa - Upolu",
+    "País": "Samoa",
+    "Actividades": [
+      "Esnórquel",
+      "Natación",
+      "Tours por la naturaleza",
+      "Visita a pueblos"
+    ],
+    "Platos famosos": [
+      "Palusami",
+      "Cerdo",
+      "Frutas tropicales"
+    ]
+  },
+  {
+    "Nombre": "Samoa - Savai'i",
+    "País": "Samoa",
+    "Actividades": [
+      "Senderismo por la naturaleza",
+      "Buceo",
+      "Visita a cascadas",
+      "Excursiones en barco"
+    ],
+    "Platos famosos": [
+      "Curry de pescado",
+      "Cerdo",
+      "Frutas tropicales"
+    ]
+  },
+  {
+    "Nombre": "Antillas Francesas - Guadalupe",
+    "País": "Francia",
+    "Actividades": [
+      "Buceo",
+      "Natación",
+      "Tours por la naturaleza",
+      "Visita a pueblos"
+    ],
+    "Platos famosos": [
+      "Bouillon",
+      "Curry de pollo",
+      "Dulces locales"
+    ]
+  },
+  {
+    "Nombre": "Antillas Francesas - Martinica",
+    "País": "Francia",
+    "Actividades": [
+      "Tours por el bosque",
+      "Esnórquel",
+      "Senderismo",
+      "Visita a pueblos"
+    ],
+    "Platos famosos": [
+      "Camarones al curry",
+      "Pescado local",
+      "Dulces tradicionales"
+    ]
+  },
+  {
+    "Nombre": "San Bartolomé",
+    "País": "Francia",
+    "Actividades": [
+      "Natación",
+      "Buceo",
+      "Excursiones en barco",
+      "Compras"
+    ],
+    "Platos famosos": [
+      "Pescado a la parrilla",
+      "Camarones",
+      "Dulces locales"
+    ]
+  },
+  {
+    "Nombre": "San Martín",
+    "País": "Francia/Países Bajos",
+    "Actividades": [
+      "Esnórquel",
+      "Natación",
+      "Excursiones en barco",
+      "Compras"
+    ],
+    "Platos famosos": [
+      "Atún",
+      "Camarones",
+      "Dulces locales"
+    ]
+  }
+]
