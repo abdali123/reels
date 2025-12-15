@@ -5,18 +5,15 @@
 */
 
 /* =======================================
-   ميزة تدوير الخلفية كل 20 ثانية
+   ميزة تدوير الخلفية كل 20 ثانية (لم يتغير)
    ======================================= */
 @keyframes background-slide {
-    /* الصورة الأولى (0s - 20s) */
     0%, 33.33% { 
         background-image: url('https://i.postimg.cc/wvw2fZKb/pexels-symeon-ekizoglou-1107605-2880801.jpg'); 
     } 
-    /* انتقال إلى الصورة الثانية (20s - 40s) */
     33.34%, 66.66% { 
         background-image: url('https://i.postimg.cc/5NC5L601/pexels-rpnickson-2531237.jpg'); 
     } 
-    /* انتقال إلى الصورة الثالثة (40s - 60s) */
     66.67%, 100% { 
         background-image: url('https://i.postimg.cc/4NVLZ8pd/pexels-asadphoto-1320684.jpg'); 
     } 
@@ -28,21 +25,20 @@ body {
     color: #333;
     margin: 0;
     padding: 0;
-    direction: rtl; 
-    text-align: right;
+    /* اتجاه النص يتم تحديده الآن بواسطة JavaScript */
     padding-bottom: 60px;
     
-    /* تطبيق الخلفية المتحركة */
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
-    animation: background-slide 60s infinite ease-in-out; /* 3 صور * 20 ثانية = 60 ثانية للدورة الكاملة */
+    animation: background-slide 60s infinite ease-in-out; 
 }
 
+/* 🆕 تم تعديل هذا الجزء لإزالة الخلفية الزرقاء الصلبة */
 header {
-    /* تطبيق تدرج لوني أزرق مع شفافية */
-    background-color: rgba(0, 123, 255, 0.9); 
-    color: white;
+    /* خلفية بيضاء شفافة لتظهر الخلفية المتحركة من تحتها */
+    background-color: rgba(255, 255, 255, 0.9); 
+    color: #333; /* تغيير لون النص إلى الداكن */
     padding: 20px;
     text-align: center;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
@@ -55,12 +51,13 @@ header {
 .logo {
     width: 120px; 
     height: auto;
-    filter: drop-shadow(0 0 5px rgba(0, 0, 0, 0.5)); 
+    filter: drop-shadow(0 0 5px rgba(0, 0, 0, 0.1)); 
 }
 
 header h1 {
     margin: 0;
     font-size: 2em;
+    color: #007BFF; /* إبقاء اللون الأزرق لعنوان الموقع */
 }
 
 header p {
@@ -79,7 +76,6 @@ main {
     margin-bottom: 20px;
     padding: 20px;
     border-radius: 10px;
-    /* خلفية بيضاء مع بعض الشفافية لدمجها مع الخلفية الكبيرة */
     background-color: rgba(255, 255, 255, 0.95); 
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
 }
@@ -89,12 +85,11 @@ label {
     margin-top: 15px;
     margin-bottom: 8px;
     font-weight: bold;
-    color: #007BFF; /* أزرق */
+    color: #007BFF; 
 }
 
 /* الشفافية المطبقة على حقول الاختيار */
 select {
-    /* جعل الخلفية شفافة قليلاً (85% عتامة) */
     background-color: rgba(255, 255, 255, 0.85); 
     width: 100%;
     padding: 12px;
@@ -107,7 +102,6 @@ select {
 }
 
 select:focus {
-    /* عند التركيز، نجعل الخلفية بيضاء تمامًا للوضوح */
     background-color: rgba(255, 255, 255, 1); 
     border-color: #007BFF;
     outline: none;
@@ -122,7 +116,7 @@ button {
     box-sizing: border-box;
     font-size: 1em;
     
-    background-color: #FF8C00; /* برتقالي (بدون شفافية ليكون CTA واضح) */
+    background-color: #FF8C00; 
     color: white;
     cursor: pointer;
     font-weight: bold;
@@ -131,7 +125,7 @@ button {
 }
 
 button:hover:not(:disabled) {
-    background-color: #e57d00; /* برتقالي أغمق عند التحويم */
+    background-color: #e57d00; 
 }
 
 button:disabled {
@@ -139,7 +133,7 @@ button:disabled {
     cursor: not-allowed;
 }
 
-/* تنسيقات عرض الخطة (باقية كما هي) */
+/* تنسيقات عرض الخطة */
 .country-plan {
     border: 2px solid #007BFF;
     border-radius: 8px;
@@ -157,21 +151,19 @@ button:disabled {
     font-size: 1.8em;
 }
 
-.description {
-    font-style: italic;
-    color: #495057;
-    margin-bottom: 15px;
-    border-right: 3px solid #007BFF;
-    padding-right: 10px;
+/* تنسيق الـ RTL/LTR حسب الحاجة */
+.country-plan[dir="ltr"] .description {
+    border-right: none;
+    border-left: 3px solid #007BFF;
+    padding-right: 0;
+    padding-left: 10px;
 }
 
-.city-details {
-    margin-top: 20px;
-    padding: 15px;
-    background-color: white;
-    border: 1px solid #ddd;
-    border-radius: 6px;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+.country-plan[dir="rtl"] .description {
+    border-right: 3px solid #007BFF;
+    border-left: none;
+    padding-right: 10px;
+    padding-left: 0;
 }
 
 .city-details h3 {
@@ -184,9 +176,19 @@ button:disabled {
 
 .city-details ul {
     list-style-type: none; 
-    padding-right: 0;
     margin-top: 5px;
 }
+
+/* تنسيق الـ RTL/LTR للقائمة */
+.city-details[dir="ltr"] ul {
+    padding-right: 0;
+    padding-left: 0; /* يمكنك إضافة مسافة بادئة إذا لزم الأمر */
+}
+.city-details[dir="rtl"] ul {
+    padding-right: 0;
+    padding-left: 0;
+}
+
 
 .city-details ul li {
     margin-bottom: 5px;
@@ -196,6 +198,12 @@ button:disabled {
     border-radius: 3px;
     border-right: 3px solid #007BFF; 
 }
+
+.city-details[dir="ltr"] ul li {
+    border-right: none;
+    border-left: 3px solid #007BFF;
+}
+
 
 footer {
     text-align: center;
